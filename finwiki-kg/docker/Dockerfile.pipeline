@@ -1,0 +1,26 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc libpq-dev && rm -rf /var/lib/apt/lists/*
+
+COPY pipeline/ ./pipeline/
+COPY sql/ ./sql/
+
+RUN pip install --no-cache-dir \
+    google-genai \
+    psycopg2-binary \
+    qdrant-client \
+    neo4j \
+    python-dotenv \
+    numpy \
+    scipy \
+    aiohttp \
+    tenacity \
+    tqdm \
+    wikipedia-api
+
+RUN mkdir -p data/raw data/chunks data/assertions data/relations data/embeddings data/checkpoints
+
+CMD ["python", "-m", "pipeline.run_all"]

@@ -1,0 +1,30 @@
+FINWIKI EVALUATION HARNESS v4 — RESULTS SUMMARY
+==================================================
+Run timestamp: 2026-03-15T01:39:01.748183
+Harness version: v4 (undirected Toulmin neighbourhood fix)
+Queries completed: 120 / 120
+Queries failed: 0
+
+AC ELIGIBILITY (undirected fix):
+  Queries with non-zero Toulmin neighborhood: 65/120
+  Queries excluded (neighborhood_size=0): 55
+
+──────────────────────────────────────────────────
+CONDITION MEANS:
+  [A] VTP=0.457  AC=0.905  CWE=50.0  CSR=0.000
+  [B] VTP=0.468  AC=0.932  CWE=50.0  CSR=0.000
+  [C] VTP=0.858  AC=0.559  CWE=50.0  CSR=0.000
+  [D] VTP=0.873  AC=0.586  CWE=50.0  CSR=0.167
+  [E] VTP=0.858  AC=0.615  CWE=50.0  CSR=0.167
+
+──────────────────────────────────────────────────
+KEY COMPARISONS:
+  A_vs_D VTP: mean 0.457→0.873 p=1.9833885054262123e-10 d=0.776 [medium]
+  A_vs_D AC:  mean 0.905→0.586 p=2.5502350153883686e-06 d=-0.750 [medium]
+  C_vs_E AC:  mean 0.559→0.615 p=0.004948477274859319 d=0.375 [small]
+  D_vs_E AC:  mean 0.586→0.615 p=0.01755232593841686 d=0.303 [small]
+  A_vs_E VTP: mean 0.457→0.858 p=6.584712095949703e-10 d=0.749 [medium]
+
+  CSR D rate: 0.167
+  CSR E rate: 0.167
+  Normative subgroup A_vs_E VTP: d=4.791

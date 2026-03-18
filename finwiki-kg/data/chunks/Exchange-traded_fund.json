@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "af37b4a2-5df6-408a-862f-09a401e1419b",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 0,
+    "section_title": "Details",
+    "content": "An ETF divides ownership of itself into shares that are held by shareholders. Depending on the country, the legal structure of an ETF can be a corporation, trust, open-end management investment company, or unit investment trust. Shareholders indirectly own the assets of the fund and are entitled to a share of the profits, such as interest or dividends, and would be entitled to any residual value if the fund undergoes liquidation. Shareholders also receive annual reports. An ETF generally operates with an arbitrage mechanism designed to keep it trading close to its net asset value, although deviations can occur.\nThe largest ETFs, which passively track stock market indices, have annual expense ratios as low as 0.03% of the amount invested, although specialty ETFs can have annual fees of 1% or more of the amount invested. These fees are paid to the ETF issuer out of dividends received from the underlying holdings or from the sale of assets.\nIn the United States, there is $5.4 trillion invested in equity ETFs and $1.4 trillion invested in fixed-income ETFs. In Europe, there is $1.0 trillion invested in equity ETFs and $0.4 trillion invested in fixed-income ETFs. In Asia, there is $0.9 trillion invested in equity ETFs and $0.1 trillion invested in fixed-income ETFs. In the first quarter of 2023, trading in ETFs accounted for 32% of the total dollar volume of stock market trading in the US, 11% of trading volume in Europe, and 13% of trading volume in Asia.\nIn the US, the largest ETF issuers are BlackRock iShares with a 34% market share, Vanguard with a 29% market share, State Street Global Advisors with a 14% market share, Invesco with a 5% market share, and Charles Schwab with a 4% market share.\nETFs are regulated by governmental bodies (such as the SEC and the CFTC in the United States) and are subject to securities laws (such as the Investment Company Act of 1940 and the Securities Exchange Act of 1934 in the United States).\nClosed-end funds are not considered to be ETFs; even though they are funds and are traded on an exchange they do not change the number of shares they have issued, unlike an ETF. Exchange-traded notes are debt instruments that are not exchange-traded funds.",
+    "token_estimate": 376,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  },
+  {
+    "chunk_id": "6aee5a4f-d39b-4a17-bf4e-2d27aefb3095",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 1,
+    "section_title": "Taxation",
+    "content": "In the United States, ETFs can be more attractive tax-wise than mutual funds for transactions made in taxable accounts. However, there are no tax benefits to ETFs compared to mutual funds in the United Kingdom and Germany.\nIn the US, whenever a mutual fund realizes a capital gain that is not balanced by a realized loss (i.e. when the fund sells appreciated shares to meet investor redemptions), its shareholders who hold the fund in taxable accounts often pay capital gains taxes on their share of the gain. However, ETF investors generally only realize capital gains when they sell their own shares for a gain.\nETFs offered by Vanguard are actually a different share class of its mutual funds and do not stand on their own; however, they generally do not have any adverse tax issues.",
+    "token_estimate": 135,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  },
+  {
+    "chunk_id": "06e7a762-1f42-4826-b4a6-3452cb997580",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 2,
+    "section_title": "Trading",
+    "content": "ETFs can be bought and sold at current market prices at any time during the trading day, unlike mutual funds, which can only be traded at the end of the trading day. Also unlike mutual funds, investors can execute the same types of trades that they can with a stock, such as limit orders, which allow investors to specify the price points at which they are willing to trade, stop-loss orders, margin buying, hedging strategies, and there is no minimum investment requirement. ETFs can be traded frequently to hedge risk or implement market timing investment strategies, whereas many mutual funds have restrictions on frequent trading.\nOptions, including put options and call options, can be written or purchased on most ETFs \u2013 which is not possible with mutual funds, allowing investors to implement strategies such as covered calls on ETFs. There are also several ETFs that implement covered call strategies within the funds.\nMany mutual funds must be held in an account at the issuing firm, while ETFs can be traded via any stockbroker. Some stockbrokers do not allow for automatic recurring investments or trading fractional shares of ETFs, while these are allowed by all mutual fund issuers.\nThe most popular ETFs such as those tracking the S&P 500 trade tens of millions of shares per day and have strong market liquidity, while there are many ETFs that do not trade very often, and thus might be difficult to sell compared to more liquid ETFs. The most active ETFs are very liquid, with high regular trading volume and tight bid-ask spreads (the gap between buyer and seller's prices), and the price thus fluctuates throughout the day. This is in contrast with mutual funds, where all purchases or sales on a given day are executed at the same price at the end of the trading day.",
+    "token_estimate": 304,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  },
+  {
+    "chunk_id": "8628ad3a-034a-45f2-af13-a81e6531bfb8",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 3,
+    "section_title": "Arbitrage mechanism",
+    "content": "ETF shares are created and redeemed when large broker-dealers called authorized participants (APs) act as market makers and purchase and redeem ETF shares directly from the ETF issuer in large blocks, generally 50,000 shares, called creation units. Purchases and redemptions of the creation units are generally in kind, with the AP contributing or receiving securities of the same type and proportion held by the ETF; the lists of ETF holdings are published online.\nThe ability to purchase and redeem creation units gives ETFs an arbitrage mechanism intended to minimize the potential deviation between the market price and the net asset value of ETF shares. APs provide market liquidity for the ETF shares and help ensure that their intraday market price approximates the net asset value of the underlying assets. Other investors, such as individuals using a retail broker, trade ETF shares on the secondary market.\nIf there is strong investor demand for an ETF, its share price will temporarily rise above its net asset value per share, giving arbitrageurs an incentive to purchase additional creation units from the ETF issuer and sell the component ETF shares in the open market. The additional supply of ETF shares reduces the market price per share, generally eliminating the premium over net asset value. A similar process applies when there is weak demand for an ETF: its shares trade at a discount from their net asset value.\nWhen new shares of an ETF are created due to increased demand, this is referred to as ETF inflows. When ETF shares are converted into the component securities, this is referred to as ETF outflow.\nETFs are dependent on the efficacy of the arbitrage mechanism in order for their share price to track net asset value.",
+    "token_estimate": 289,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  },
+  {
+    "chunk_id": "7d15b0ed-8288-4766-8ab7-cdc389810064",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 4,
+    "section_title": "History",
+    "content": "ETFs had their genesis in 1989 with Index Participation Shares (IPS), an S&P 500 proxy that traded on the American Stock Exchange and the Philadelphia Stock Exchange. This product was short-lived after a lawsuit by the Chicago Mercantile Exchange was successful in stopping sales in the United States. The argument against the IPS approach was that it resembled a futures contract because the investments held an index, rather than holding the actual underlying stocks. In 1990, a similar product, Toronto Index Participation Units, which tracked the TSE 35 and later the TSE 100 indices, started trading on the Toronto Stock Exchange (TSE) in 1990. The popularity of these products led the American Stock Exchange to try to develop something that would satisfy regulations by the U.S. Securities and Exchange Commission. Nathan Most and Steven Bloom, under the direction of Ivers Riley, and with the assistance of Kathleen Moriarty, designed and developed Standard & Poor's Depositary Receipts (NYSE Arca: SPY), which were introduced in January 1993. Known as SPDRs or \"Spiders\", the fund became the largest ETF in the world. In May 1995, State Street Global Advisors introduced the S&P 400 MidCap SPDRs (NYSE Arca: MDY). It is a frequent topic in the financial press that ETFs have a quick growth. These popular funds, with assets more than doubling each year since 1995 (as of 2001), have been warmly embraced by most advocates of low\u2013cost index funds. Vanguard is the leading advocate of index funds. Barclays, in conjunction with MSCI and Funds Distributor Inc., entered the market in 1996 with World Equity Benchmark Shares (WEBS), which became iShares MSCI Index Fund Shares. WEBS originally tracked 17 MSCI country indices managed by the funds' index provider, Morgan Stanley. WEBS were particularly innovative because they gave casual investors easy access to foreign markets. While SPDRs were organized as unit investment trusts, WEBS were set up as a mutual fund, the first of their kind. In 1998, State Street Global Advisors introduced \"Sector Spiders\", separate ETFs for each of the sectors of the S&P 500. Also in 1998, the \"Dow Diamonds\" (NYSE Arca: DIA) were introduced, tracking the Dow Jones Industrial Average. In 1999, the influential \"cubes\" was launched, with the goal of replicating the price movement of the NASDAQ-100 \u2013 originally QQQQ but later Nasdaq: QQQ. The iShares line was launched in early 2000. By 2005, it had a 44% market share of",
+    "token_estimate": 400,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  },
+  {
+    "chunk_id": "808ea864-9765-47ec-a406-d1c26b7fde80",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 5,
+    "section_title": "History",
+    "content": "were introduced, tracking the Dow Jones Industrial Average. In 1999, the influential \"cubes\" was launched, with the goal of replicating the price movement of the NASDAQ-100 \u2013 originally QQQQ but later Nasdaq: QQQ. The iShares line was launched in early 2000. By 2005, it had a 44% market share of ETF assets under management. Barclays Global Investors was sold to BlackRock in 2009. In 2001, The Vanguard Group entered the market by launching the Vanguard Total Stock Market ETF (NYSE Arca: VTI), which owns every publicly traded stock in the United States. Some of Vanguard's ETFs are a share class of an existing mutual fund. iShares issued the first bond funds in July 2002: iShares IBoxx $ Invest Grade Corp Bond Fund (NYSE Arca: LQD), which owns corporate bonds, and a TIPS fund. In 2007, iShares introduced an ETF that owns high-yield debt and an ETF that owns municipal bonds and State Street Global Advisors and The Vanguard Group also issued bond ETFs. In December 2005, Rydex (now Invesco) launched the first currency ETF, the Euro Currency Trust (NYSE Arca: FXE), which tracked the value of the Euro. In 2007, Deutsche Bank's db x-trackers launched the EONIA Total Return Index ETF in Frankfurt tracking the Euro. In 2008, it launched the Sterling Money Market ETF (LSE: XGBP) and US Dollar Money Market ETF (LSE: XUSD) in London. In November 2009, ETF Securities launched the world's largest FX platform tracking the MSFXSM Index covering 18 long or short USD ETC vs. single G10 currencies. The first leveraged ETF was issued by ProShares in 2006. In 2008, the SEC authorized the creation of ETFs that use active management strategies. Bear Stearns launched the first actively managed ETF, the Current Yield ETF (NYSE Arca: YYY), which began trading on the American Stock Exchange on March 25, 2008. In December 2014, assets under management by U.S. ETFs reached $2 trillion. By November 2019, assets under management by U.S. ETFs reached $4 trillion. Assets under management by U.S. ETFs grew to $5.5 trillion by January 2021. In August 2023, a three-judge US court panel for the District of Columbia Court of Appeals in Washington overruled an SEC decision denying Grayscale Investments permission to launch a bitcoin-focused ETF. The court's decision set the path for the first bitcoin exchange-traded fund in the US. In October 2023, ProShares, VanEck and Bitwise Asset Management launched the first ETFs",
+    "token_estimate": 400,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  },
+  {
+    "chunk_id": "d3cd8de0-fbcb-400f-b354-e08d779d7930",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 6,
+    "section_title": "History",
+    "content": "the District of Columbia Court of Appeals in Washington overruled an SEC decision denying Grayscale Investments permission to launch a bitcoin-focused ETF. The court's decision set the path for the first bitcoin exchange-traded fund in the US. In October 2023, ProShares, VanEck and Bitwise Asset Management launched the first ETFs tied to the value of Ethereum. Earlier that year. in June, the asset management company BlackRock filed an application with the U.S. Securities and Exchange Commission (SEC) to launch the first spot bitcoin ETF, with Coinbase as a crypto custodian. In January 2024, the SEC approved the creation and trading of 11 spot bitcoin ETFs. By May 2024, BlackRock's ETF had amassed $10bn in assets. It also emerged that ETF issuers had come into ownership of NFTs and other tokens \u2013 known as \"dust\" \u2013 as part of their bitcoin holdings. BlackRock alone was said to have $20,000 worth of non-bitcoin tokens. However, the firms could not sell or pass on such dust because that could imperil an ETF's legal status and force investors to file complex tax paperwork. Blackrock's policy was to hold unexpected virtual assets in a separate wallet where they could stay in perpetuity or be donated to charity. In November 2023, BlackRock and Fidelity Investments filed applications with the SEC to launch the first spot Ethereum ETFs. These were allowed the following May, though the SEC set the condition that the funds were not allowed to claim rewards on their coins from the proof-of-stake process. However, not staking tokens meant that the funds would lose about 3% of potential returns a year. Buying 1,000 ether at the start of 2023 (costing $1.2 million) would have netted a gain of $217,000 from staking, according to the Financial Times, so a fund with ether worth $10 billion would lose out on rewards worth millions of dollars. That might result in fund issuers charging higher fees to customers to compensate.",
+    "token_estimate": 321,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  },
+  {
+    "chunk_id": "796a5668-434f-4be1-a14f-6bf3455a8025",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 7,
+    "section_title": "Effects on price stability",
+    "content": "Purchases and sales of commodities by ETFs can significantly affect the price of such commodities.\nPer the International Monetary Fund, \"some market participants believe the growing popularity of exchange-traded funds (ETFs) may have contributed to equity price appreciation in some emerging economies and warn that leverage embedded in ETFs could pose financial stability risks if equity prices were to decline for a protracted period.\"\nETFs can be and have been used to manipulate market prices, such as in conjunction with short selling that contributed to the United States bear market of 2007\u20132009.\nNew regulations to force ETFs to be able to manage systemic stresses were put in place following the 2010 flash crash, when prices of ETFs and other stocks and options became volatile, with trading markets spiking and bids falling as low as a penny a share  in what the Commodity Futures Trading Commission (CFTC) investigation described as one of the most turbulent periods in the history of financial markets.\nThese regulations proved inadequate to protect investors in the August 24, 2015, flash crash, \"when the price of many ETFs appeared to come unhinged from their underlying value\". \"ETFs were consequently put under even greater scrutiny by regulators and investors.\" Analysts at Morningstar, Inc. claimed in December 2015 that \"ETFs are a \"digital-age technology\" governed by \"Depression-era legislation\".",
+    "token_estimate": 219,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  },
+  {
+    "chunk_id": "0295b79e-a2b7-4c89-954e-734e5f938f8f",
+    "document_id": "Exchange-traded_fund",
+    "sequence": 8,
+    "section_title": "Notable issuers",
+    "content": "AdvisorShares: issues actively managed ETFs only, majority owned by Fund.com\nAmundi: second ETF provider in Europe \nARK Investment Management: issues actively managed ETFs that invest in companies involved in disruptive innovation\nBetaShares: issues ETFs in Australia\nBlackRock: issues iShares\nBNP Paribas: issues EasyETFs in Europe\nBoost ETP: issues short (inverse) and leveraged exchange-traded products including 3x equity and commodity products in Europe\nCharles Schwab Corporation: issues ETFs\nDeutsche Bank: issues Xtrackers ETFs, and manages PowerShares DB commodity- and currency-based ETFs\nDimensional Fund Advisors: factor-based ETFs\nETF Securities: issues ETFs primarily in Australia\nFranklin Templeton Investments: Issues LibertyShares ETFs\nGlobal X Funds: issues ETFs\nGuggenheim Partners: issues specialty Guggenheim Funds ETFs\nIndo Premier Investment Management: issues Premier ETFs in Indonesia Stock Exchange\nInvesco: issues Invesco ETFs, as well as BLDRS based on American depositary receipts\nInvesto: largest independent issuer of ETFs in Brazil, owned by VanEck\nLyxor Asset Management: issues Lyxor ETFs in France\nProShares: issues a variety of ETFs including leveraged and inverse ETFs for the NASDAQ and S&P 500, as well as a bitcoin futures ETF\nStandard Life Aberdeen: issues commodity ETFs\nState Street Global Advisors: issues SPDRs\nThe Vanguard Group: issues Vanguard ETFs, formerly known as VIPERs\nUnited States Commodity Funds: issues commodity ETFs such as the United States Oil Fund\nVanEck: issues ETFs\nWisdomTree Investments: issues specialty ETFs",
+    "token_estimate": 221,
+    "title": "Exchange-traded fund",
+    "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+    "domain": "securities"
+  }
+]

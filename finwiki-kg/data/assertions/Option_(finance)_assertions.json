@@ -1,0 +1,6186 @@
+[
+  {
+    "assertion_id": "f9d539dc-9db0-45da-b2d6-533749b46640",
+    "chunk_id": "49e22761-ca43-45d5-830e-b05c6c1344be",
+    "document_id": "Option_(finance)",
+    "claim_text": "The actual market price of the option may vary depending on a number of factors.",
+    "subject": "market price of the option",
+    "predicate_type": "relates_to",
+    "object_text": "a number of factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The actual market price of the option may vary depending on a number of factors.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options pricing"
+    ],
+    "entities": [
+      "option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3dbd5097-7629-4c23-a89e-8650ab7eb938",
+    "chunk_id": "49e22761-ca43-45d5-830e-b05c6c1344be",
+    "document_id": "Option_(finance)",
+    "claim_text": "The ownership of an option does not generally entitle the holder to any rights associated with the underlying asset, such as voting rights or any income from the underlying asset, such as a dividend.",
+    "subject": "ownership of an option",
+    "predicate_type": "prohibits",
+    "object_text": "entitlement to any rights associated with the underlying asset, such as voting rights or any income from the underlying asset, such as a dividend",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The ownership of an option does not generally entitle the holder to any rights associated with the underlying asset, such as voting rights or any income from the underlying asset, such as a dividend.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "shareholder rights"
+    ],
+    "entities": [
+      "option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce9f27fd-60ad-4c99-a23d-3299d77f9cfa",
+    "chunk_id": "434b3642-e29b-4d01-9c38-ed221531d85b",
+    "document_id": "Option_(finance)",
+    "claim_text": "The most common way to trade options is via standardized options contracts listed by various futures and options exchanges.",
+    "subject": "options",
+    "predicate_type": "relates_to",
+    "object_text": "standardized options contracts listed by various futures and options exchanges",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The most common way to trade options is via standardized options contracts listed by various futures and options exchanges.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "futures exchanges",
+      "options exchanges"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11842bef-0b05-4b31-8e75-56738f41d7a8",
+    "chunk_id": "434b3642-e29b-4d01-9c38-ed221531d85b",
+    "document_id": "Option_(finance)",
+    "claim_text": "Listings and prices are tracked and can be looked up by ticker symbol.",
+    "subject": "Listings and prices",
+    "predicate_type": "relates_to",
+    "object_text": "tracked and can be looked up by ticker symbol",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Listings and prices are tracked and can be looked up by ticker symbol.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8ab9ed39-d08b-467a-a383-5a4370e25dfa",
+    "chunk_id": "434b3642-e29b-4d01-9c38-ed221531d85b",
+    "document_id": "Option_(finance)",
+    "claim_text": "By publishing continuous, live markets for option prices, an exchange enables independent parties to engage in price discovery and execute transactions.",
+    "subject": "exchange",
+    "predicate_type": "causes",
+    "object_text": "independent parties to engage in price discovery and execute transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By publishing continuous, live markets for option prices, an exchange enables independent parties to engage in price discovery and execute transactions.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "price discovery"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "696f36c1-1e67-4218-8ecc-161b8e373770",
+    "chunk_id": "434b3642-e29b-4d01-9c38-ed221531d85b",
+    "document_id": "Option_(finance)",
+    "claim_text": "Fulfillment of the contract is backed by the credit of the exchange, which typically has the highest rating (AAA).",
+    "subject": "Fulfillment of the contract",
+    "predicate_type": "relates_to",
+    "object_text": "backed by the credit of the exchange, which typically has the highest rating (AAA)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Fulfillment of the contract is backed by the credit of the exchange, which typically has the highest rating (AAA).",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "contract fulfillment",
+      "credit rating"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7b663a1b-0585-4a84-9c3b-95a1c5b48734",
+    "chunk_id": "434b3642-e29b-4d01-9c38-ed221531d85b",
+    "document_id": "Option_(finance)",
+    "claim_text": "Counterparties remain anonymous.",
+    "subject": "Counterparties",
+    "predicate_type": "relates_to",
+    "object_text": "remain anonymous",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Counterparties remain anonymous.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "counterparty risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8a433d8e-2b1b-4e90-9cc8-731c4780cc69",
+    "chunk_id": "434b3642-e29b-4d01-9c38-ed221531d85b",
+    "document_id": "Option_(finance)",
+    "claim_text": "The exchange provides enforcement of market regulation to ensure fairness and transparency.",
+    "subject": "exchange",
+    "predicate_type": "implements",
+    "object_text": "enforcement of market regulation to ensure fairness and transparency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The exchange provides enforcement of market regulation to ensure fairness and transparency.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market regulation",
+      "fairness",
+      "transparency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c516089b-b9e3-4d89-888f-24d1cde35365",
+    "chunk_id": "434b3642-e29b-4d01-9c38-ed221531d85b",
+    "document_id": "Option_(finance)",
+    "claim_text": "The exchange provides maintenance of orderly markets, especially during fast trading conditions.",
+    "subject": "exchange",
+    "predicate_type": "implements",
+    "object_text": "maintenance of orderly markets, especially during fast trading conditions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The exchange provides maintenance of orderly markets, especially during fast trading conditions.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "219ec58a-4b95-4f09-9c04-f716c44a3bce",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "The value of the option is estimated using a variety of quantitative techniques, all based on the principle of risk-neutral pricing and using stochastic calculus in their solution.",
+    "subject": "value of the option",
+    "predicate_type": "implements",
+    "object_text": "variety of quantitative techniques, all based on the principle of risk-neutral pricing and using stochastic calculus in their solution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The value of the option is estimated using a variety of quantitative techniques, all based on the principle of risk-neutral pricing and using stochastic calculus in their solution.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation",
+      "risk management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f03e85a-bb92-438c-a784-2a566cbf2744",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "The most basic model is the Black\u2013Scholes model.",
+    "subject": "The most basic model",
+    "predicate_type": "defines",
+    "object_text": "the Black\u2013Scholes model",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The most basic model is the Black\u2013Scholes model.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation"
+    ],
+    "entities": [
+      "Black\u2013Scholes model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "63805520-bc2e-4296-8a3a-049ea6d4880c",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "More sophisticated models are used to model the volatility smile.",
+    "subject": "More sophisticated models",
+    "predicate_type": "implements",
+    "object_text": "model the volatility smile",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "More sophisticated models are used to model the volatility smile.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11d8c85a-c5e4-4502-94d6-8f0c47aaec0b",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "These models are implemented using a variety of numerical techniques.",
+    "subject": "These models",
+    "predicate_type": "implements",
+    "object_text": "a variety of numerical techniques",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These models are implemented using a variety of numerical techniques.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b88283c-4f11-4203-8aa1-62be186df2b8",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "Standard option valuation models depend on the current market price of the underlying security.",
+    "subject": "Standard option valuation models",
+    "predicate_type": "requires",
+    "object_text": "the current market price of the underlying security",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Standard option valuation models depend on the current market price of the underlying security.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d8fc5271-9ab2-4663-8765-aaa4e59868c8",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "Standard option valuation models depend on the strike price of the option, particularly in relation to the current market price of the underlying (in the money vs. out of the money).",
+    "subject": "Standard option valuation models",
+    "predicate_type": "requires",
+    "object_text": "the strike price of the option, particularly in relation to the current market price of the underlying (in the money vs. out of the money)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Standard option valuation models depend on the strike price of the option, particularly in relation to the current market price of the underlying (in the money vs. out of the money).",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "427a9807-f9ea-4f84-9698-38e4bbcd115c",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "Standard option valuation models depend on the cost of holding a position in the underlying security, including interest and dividends.",
+    "subject": "Standard option valuation models",
+    "predicate_type": "requires",
+    "object_text": "the cost of holding a position in the underlying security, including interest and dividends",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Standard option valuation models depend on the cost of holding a position in the underlying security, including interest and dividends.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "29f2f76e-6776-45b5-bd9d-3f0831c75641",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "Standard option valuation models depend on the time to expiration together with any restrictions on when exercise may occur.",
+    "subject": "Standard option valuation models",
+    "predicate_type": "requires",
+    "object_text": "the time to expiration together with any restrictions on when exercise may occur",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Standard option valuation models depend on the time to expiration together with any restrictions on when exercise may occur.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0476e8ce-2ba0-4a2d-9f50-7437fb39f884",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "Standard option valuation models depend on an estimate of the future volatility of the underlying security's price over the life of the option.",
+    "subject": "Standard option valuation models",
+    "predicate_type": "requires",
+    "object_text": "an estimate of the future volatility of the underlying security's price over the life of the option",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Standard option valuation models depend on an estimate of the future volatility of the underlying security's price over the life of the option.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0489f325-98ad-497d-934a-981a5644f3bd",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "More advanced models can require additional factors, such as an estimate of how volatility changes over time and for various underlying price levels, or the dynamics of stochastic interest rates.",
+    "subject": "More advanced models",
+    "predicate_type": "requires",
+    "object_text": "additional factors, such as an estimate of how volatility changes over time and for various underlying price levels, or the dynamics of stochastic interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "More advanced models can require additional factors, such as an estimate of how volatility changes over time and for various underlying price levels, or the dynamics of stochastic interest rates.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation",
+      "volatility",
+      "interest rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6c608afa-069c-4776-a32d-45bab19f4f3c",
+    "chunk_id": "3dd53797-f58a-44c6-a694-6c88ec0b4b18",
+    "document_id": "Option_(finance)",
+    "claim_text": "The following are some principal valuation techniques used in practice to evaluate option contracts.",
+    "subject": "principal valuation techniques",
+    "predicate_type": "implements",
+    "object_text": "used in practice to evaluate option contracts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The following are some principal valuation techniques used in practice to evaluate option contracts.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5767594f-5d2f-4b54-a636-e37e695c60c9",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "Options are classified into a number of styles.",
+    "subject": "options",
+    "predicate_type": "classifies",
+    "object_text": "a number of styles",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Options are classified into a number of styles.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6b29393e-8e2e-449d-a2b1-4f8109ed6a27",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "American option may be exercised on any trading day on or before expiration.",
+    "subject": "American option",
+    "predicate_type": "permits",
+    "object_text": "to be exercised on any trading day on or before expiration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "American option may be exercised on any trading day on or before expiration.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "American option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11a4ae42-5191-4a76-8c22-6a29056c7d19",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "European option may only be exercised on expiry.",
+    "subject": "European option",
+    "predicate_type": "permits",
+    "object_text": "to be exercised only on expiry",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "European option may only be exercised on expiry.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "European option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a5b4d09e-dfb3-413e-a19e-fffd3abf52b9",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "American and European options are often described as vanilla options.",
+    "subject": "American and European options",
+    "predicate_type": "classifies",
+    "object_text": "vanilla options",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "American and European options are often described as vanilla options.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "American option",
+      "European option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ef1b46f-069c-4d89-88fd-655899499d18",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "Bermudan option may be exercised only on specified dates on or before expiration.",
+    "subject": "Bermudan option",
+    "predicate_type": "permits",
+    "object_text": "to be exercised only on specified dates on or before expiration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bermudan option may be exercised only on specified dates on or before expiration.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "Bermudan option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3f45ddc0-05a0-4fbf-aa7a-04617bf98f0f",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "Asian option's payoff is determined by the average underlying price over some preset time period.",
+    "subject": "Asian option",
+    "predicate_type": "defines",
+    "object_text": "payoff is determined by the average underlying price over some preset time period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Asian option's payoff is determined by the average underlying price over some preset time period.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "Asian option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1320fd71-02e9-4886-9e35-1842c6a55e5e",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "Barrier option has the general characteristic that the underlying security's price must pass a certain level or \"barrier\" before it can be exercised.",
+    "subject": "Barrier option",
+    "predicate_type": "requires",
+    "object_text": "the underlying security's price must pass a certain level or \"barrier\" before it can be exercised",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Barrier option has the general characteristic that the underlying security's price must pass a certain level or \"barrier\" before it can be exercised.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "Barrier option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b24370a-40c0-400c-9e3d-20689fa676eb",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "Binary option pays the full amount if the underlying security meets the defined condition on expiration, otherwise, it expires.",
+    "subject": "Binary option",
+    "predicate_type": "defines",
+    "object_text": "pays the full amount if the underlying security meets the defined condition on expiration, otherwise, it expires",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Binary option pays the full amount if the underlying security meets the defined condition on expiration, otherwise, it expires.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "Binary option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b0ccd8e7-74a6-432b-a740-7a71e390642a",
+    "chunk_id": "e10c8f6b-6649-48a8-870d-00061c98f4ee",
+    "document_id": "Option_(finance)",
+    "claim_text": "Exotic option is any of a broad category of options that may include complex financial structures.",
+    "subject": "Exotic option",
+    "predicate_type": "defines",
+    "object_text": "any of a broad category of options that may include complex financial structures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Exotic option is any of a broad category of options that may include complex financial structures.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [
+      "Exotic option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "161f6f9d-4872-4210-a398-84398415f45b",
+    "chunk_id": "a633a386-c9e9-4d76-ae4f-860464595307",
+    "document_id": "Option_(finance)",
+    "claim_text": "A buy-write strategy is the CBOE S&P 500 BuyWrite Index (ticker symbol BXM).",
+    "subject": "buy-write strategy",
+    "predicate_type": "defines",
+    "object_text": "the CBOE S&P 500 BuyWrite Index (ticker symbol BXM)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A buy-write strategy is the CBOE S&P 500 BuyWrite Index (ticker symbol BXM).",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "CBOE S&P 500 BuyWrite Index"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3c5bb9cc-da4c-4d25-a1f4-a197907df8d2",
+    "chunk_id": "a633a386-c9e9-4d76-ae4f-860464595307",
+    "document_id": "Option_(finance)",
+    "claim_text": "Another very common strategy is the protective put, in which a trader buys a stock (or holds a previously-purchased long stock position), and buys a put.",
+    "subject": "protective put",
+    "predicate_type": "defines",
+    "object_text": "a strategy in which a trader buys a stock (or holds a previously-purchased long stock position), and buys a put",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another very common strategy is the protective put, in which a trader buys a stock (or holds a previously-purchased long stock position), and buys a put.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a71f7dd-e7a7-4c43-a076-88780467b4e2",
+    "chunk_id": "a633a386-c9e9-4d76-ae4f-860464595307",
+    "document_id": "Option_(finance)",
+    "claim_text": "This strategy acts as an insurance when investing long on the underlying stock, hedging the investor's potential losses, but also shrinking an otherwise larger profit, if just purchasing the stock without the put.",
+    "subject": "protective put",
+    "predicate_type": "relates_to",
+    "object_text": "acts as an insurance when investing long on the underlying stock, hedging the investor's potential losses, but also shrinking an otherwise larger profit, if just purchasing the stock without the put",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This strategy acts as an insurance when investing long on the underlying stock, hedging the investor's potential losses, but also shrinking an otherwise larger profit, if just purchasing the stock without the put.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5a5d47fb-1475-4d42-92b2-c3556da77955",
+    "chunk_id": "a633a386-c9e9-4d76-ae4f-860464595307",
+    "document_id": "Option_(finance)",
+    "claim_text": "The maximum profit of a protective put is theoretically unlimited as the strategy involves being long on the underlying stock.",
+    "subject": "protective put",
+    "predicate_type": "relates_to",
+    "object_text": "maximum profit is theoretically unlimited as the strategy involves being long on the underlying stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The maximum profit of a protective put is theoretically unlimited as the strategy involves being long on the underlying stock.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "104628d8-56a6-4c7c-9970-57d1c12d8857",
+    "chunk_id": "a633a386-c9e9-4d76-ae4f-860464595307",
+    "document_id": "Option_(finance)",
+    "claim_text": "The maximum loss is limited to the purchase price of the underlying stock less the strike price of the put option and the premium paid.",
+    "subject": "maximum loss of a protective put",
+    "predicate_type": "constrains",
+    "object_text": "the purchase price of the underlying stock less the strike price of the put option and the premium paid",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The maximum loss is limited to the purchase price of the underlying stock less the strike price of the put option and the premium paid.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7da2b5f9-ddb9-45b7-b3f0-32ec57678a3a",
+    "chunk_id": "a633a386-c9e9-4d76-ae4f-860464595307",
+    "document_id": "Option_(finance)",
+    "claim_text": "A protective put is also known as a married put.",
+    "subject": "protective put",
+    "predicate_type": "classifies",
+    "object_text": "married put",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A protective put is also known as a married put.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7dd53c8a-7d19-469c-9914-6e053f153aca",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "An option is a contract that allows the holder the right to buy or sell an underlying asset or financial instrument at a specified strike price on or before a specified date, depending on the form of the option.",
+    "subject": "option",
+    "predicate_type": "defines",
+    "object_text": "contract that allows the holder the right to buy or sell an underlying asset or financial instrument at a specified strike price on or before a specified date, depending on the form of the option",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An option is a contract that allows the holder the right to buy or sell an underlying asset or financial instrument at a specified strike price on or before a specified date, depending on the form of the option.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "financial instruments"
+    ],
+    "entities": [
+      "asset",
+      "financial instrument"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b34a91db-681e-4f8f-b1f5-9e62836e2425",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "Selling or exercising an option before expiry typically requires a buyer to pick the contract up at the agreed upon price.",
+    "subject": "selling or exercising an option before expiry",
+    "predicate_type": "requires",
+    "object_text": "a buyer to pick the contract up at the agreed upon price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Selling or exercising an option before expiry typically requires a buyer to pick the contract up at the agreed upon price.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "trading"
+    ],
+    "entities": [
+      "option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e0ca930a-fa77-4f34-9c6a-5e481ec06b22",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "The strike price may be set by reference to the spot price (market price) of the underlying security or commodity on the day an option is issued, or it may be fixed at a discount or at a premium.",
+    "subject": "strike price",
+    "predicate_type": "relates_to",
+    "object_text": "may be set by reference to the spot price (market price) of the underlying security or commodity on the day an option is issued, or it may be fixed at a discount or at a premium",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The strike price may be set by reference to the spot price (market price) of the underlying security or commodity on the day an option is issued, or it may be fixed at a discount or at a premium.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "pricing"
+    ],
+    "entities": [
+      "strike price",
+      "spot price",
+      "security",
+      "commodity"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "df2e45f9-8d0a-4cfd-a97e-5943a8156c3c",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "The issuer has the corresponding obligation to fulfill the transaction (to sell or buy) if the holder \"exercises\" the option.",
+    "subject": "issuer",
+    "predicate_type": "requires",
+    "object_text": "corresponding obligation to fulfill the transaction (to sell or buy) if the holder \"exercises\" the option",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The issuer has the corresponding obligation to fulfill the transaction (to sell or buy) if the holder \"exercises\" the option.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "obligations"
+    ],
+    "entities": [
+      "issuer",
+      "holder",
+      "option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "50171dbf-6a36-478d-88e0-a5ee5faa58ec",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "An option that conveys to the holder the right to buy at a specified price is referred to as a call, while one that conveys the right to sell at a specified price is known as a put.",
+    "subject": "option",
+    "predicate_type": "classifies",
+    "object_text": "call, while one that conveys the right to sell at a specified price is known as a put",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An option that conveys to the holder the right to buy at a specified price is referred to as a call, while one that conveys the right to sell at a specified price is known as a put.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "terminology"
+    ],
+    "entities": [
+      "call option",
+      "put option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d788d39c-1a70-4d02-abd5-688185cc00a6",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "The issuer may grant an option to a buyer as part of another transaction (such as a share issuance or an employee incentive scheme), or the buyer may pay the issuer a premium for the option.",
+    "subject": "issuer",
+    "predicate_type": "permits",
+    "object_text": "grant an option to a buyer as part of another transaction (such as a share issuance or an employee incentive scheme), or the buyer may pay the issuer a premium for the option",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The issuer may grant an option to a buyer as part of another transaction (such as a share issuance or an employee incentive scheme), or the buyer may pay the issuer a premium for the option.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "issuance"
+    ],
+    "entities": [
+      "issuer",
+      "buyer",
+      "option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f1e3cb9c-2011-4a50-8aed-665e340a51e5",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "A call option would normally be exercised only when the strike price is below the market value of the underlying asset, while a put option would normally be exercised only when the strike price is above the market value.",
+    "subject": "call option",
+    "predicate_type": "requires",
+    "object_text": "be exercised only when the strike price is below the market value of the underlying asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A call option would normally be exercised only when the strike price is below the market value of the underlying asset, while a put option would normally be exercised only when the strike price is above the market value.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "exercise"
+    ],
+    "entities": [
+      "call option",
+      "strike price",
+      "asset"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7dcc77d7-dbf8-427d-8aae-cd1cc6ff4d17",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "A put option would normally be exercised only when the strike price is above the market value.",
+    "subject": "put option",
+    "predicate_type": "requires",
+    "object_text": "be exercised only when the strike price is above the market value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A put option would normally be exercised only when the strike price is above the market value.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "exercise"
+    ],
+    "entities": [
+      "put option",
+      "strike price"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a9649595-d188-431b-980d-0073b3be2097",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "When an option is exercised, the cost to the option holder is the strike price of the asset acquired plus the premium, if any, paid to the issuer.",
+    "subject": "option",
+    "predicate_type": "relates_to",
+    "object_text": "the cost to the option holder is the strike price of the asset acquired plus the premium, if any, paid to the issuer",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When an option is exercised, the cost to the option holder is the strike price of the asset acquired plus the premium, if any, paid to the issuer.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "exercise"
+    ],
+    "entities": [
+      "option",
+      "option holder",
+      "strike price",
+      "asset",
+      "issuer"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "24bbe5e6-01e4-4e2a-905c-4ed4c9f2b7ca",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "If the option's expiration date passes without the option being exercised, the option expires, and the holder forfeits the premium paid to the issuer.",
+    "subject": "option",
+    "predicate_type": "causes",
+    "object_text": "expires, and the holder forfeits the premium paid to the issuer",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the option's expiration date passes without the option being exercised, the option expires, and the holder forfeits the premium paid to the issuer.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "expiration"
+    ],
+    "entities": [
+      "option",
+      "holder",
+      "issuer"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03d1fa39-0b84-4618-9227-9f340788f8a3",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "In any case, the premium is income to the issuer, and normally a capital loss to the option holder.",
+    "subject": "premium",
+    "predicate_type": "relates_to",
+    "object_text": "income to the issuer, and normally a capital loss to the option holder",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In any case, the premium is income to the issuer, and normally a capital loss to the option holder.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "premiums"
+    ],
+    "entities": [
+      "premium",
+      "issuer",
+      "option holder"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d0248b5d-b164-46db-92ec-8a643786ecee",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "An option holder may on-sell the option to a third party in a secondary market, in either an over-the-counter transaction or on an options exchange, depending on the option.",
+    "subject": "option holder",
+    "predicate_type": "permits",
+    "object_text": "on-sell the option to a third party in a secondary market, in either an over-the-counter transaction or on an options exchange, depending on the option",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An option holder may on-sell the option to a third party in a secondary market, in either an over-the-counter transaction or on an options exchange, depending on the option.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "trading"
+    ],
+    "entities": [
+      "option holder",
+      "option",
+      "third party"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e14e11a8-b623-4a4a-8495-5eb600dd6808",
+    "chunk_id": "707d824a-6d4c-40a8-b541-84916a5f6d09",
+    "document_id": "Option_(finance)",
+    "claim_text": "The market price of an American-style option normally closely follows that of the underlying stock being the difference between the market price of the stock and the strike price of the option.",
+    "subject": "market price of an American-style option",
+    "predicate_type": "relates_to",
+    "object_text": "normally closely follows that of the underlying stock being the difference between the market price of the stock and the strike price of the option",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The market price of an American-style option normally closely follows that of the underlying stock being the difference between the market price of the stock and the strike price of the option.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "pricing"
+    ],
+    "entities": [
+      "American-style option",
+      "stock",
+      "strike price"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fcb430c4-2370-45c5-8abc-b9f922dce387",
+    "chunk_id": "675b9bd0-87d5-450e-9402-372e340ba3cf",
+    "document_id": "Option_(finance)",
+    "claim_text": "A financial option is a contract between two counterparties with the terms of the option specified in a term sheet.",
+    "subject": "financial option",
+    "predicate_type": "defines",
+    "object_text": "contract between two counterparties with the terms of the option specified in a term sheet",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A financial option is a contract between two counterparties with the terms of the option specified in a term sheet.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "contract law"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "732f71a8-958e-4f7f-9d17-071a2c658c05",
+    "chunk_id": "675b9bd0-87d5-450e-9402-372e340ba3cf",
+    "document_id": "Option_(finance)",
+    "claim_text": "The option holder has the right to buy (a call option) or the right to sell (a put option).",
+    "subject": "option holder",
+    "predicate_type": "permits",
+    "object_text": "right to buy (a call option) or the right to sell (a put option)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The option holder has the right to buy (a call option) or the right to sell (a put option).",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "adb283b0-1c92-483d-b766-793d014f9176",
+    "chunk_id": "675b9bd0-87d5-450e-9402-372e340ba3cf",
+    "document_id": "Option_(finance)",
+    "claim_text": "The quantity and class of the underlying asset(s) (e.g., 100 shares of XYZ Co. B stock) is specified in option contracts.",
+    "subject": "option contracts",
+    "predicate_type": "requires",
+    "object_text": "the quantity and class of the underlying asset(s)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The quantity and class of the underlying asset(s) (e.g., 100 shares of XYZ Co. B stock) is specified in option contracts.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d4c27d5b-cb5b-4460-bbe0-e3f669ac4eae",
+    "chunk_id": "675b9bd0-87d5-450e-9402-372e340ba3cf",
+    "document_id": "Option_(finance)",
+    "claim_text": "The strike price, also known as the exercise price, is the price at which the underlying transaction will occur upon exercise.",
+    "subject": "strike price",
+    "predicate_type": "defines",
+    "object_text": "price at which the underlying transaction will occur upon exercise",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The strike price, also known as the exercise price, is the price at which the underlying transaction will occur upon exercise.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "53d39cd3-2fa0-4f27-94f4-71028a5c37ed",
+    "chunk_id": "675b9bd0-87d5-450e-9402-372e340ba3cf",
+    "document_id": "Option_(finance)",
+    "claim_text": "The expiration date, or expiry, is the last date the option can be exercised.",
+    "subject": "expiration date",
+    "predicate_type": "defines",
+    "object_text": "last date the option can be exercised",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The expiration date, or expiry, is the last date the option can be exercised.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb212c47-bd21-4313-abc2-9a6df9779d52",
+    "chunk_id": "675b9bd0-87d5-450e-9402-372e340ba3cf",
+    "document_id": "Option_(finance)",
+    "claim_text": "The settlement terms specify whether the writer must deliver the actual asset on exercise, or may simply tender the equivalent cash amount.",
+    "subject": "settlement terms",
+    "predicate_type": "defines",
+    "object_text": "whether the writer must deliver the actual asset on exercise, or may simply tender the equivalent cash amount",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The settlement terms specify whether the writer must deliver the actual asset on exercise, or may simply tender the equivalent cash amount.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8ac67a3c-82aa-4919-b771-f27d1078f323",
+    "chunk_id": "675b9bd0-87d5-450e-9402-372e340ba3cf",
+    "document_id": "Option_(finance)",
+    "claim_text": "The terms by which the option is quoted in the market convert the quoted price into the actual premium.",
+    "subject": "terms by which the option is quoted in the market",
+    "predicate_type": "causes",
+    "object_text": "convert the quoted price into the actual premium",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The terms by which the option is quoted in the market convert the quoted price into the actual premium.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17f2789d-71f6-434a-bda6-d07abac15667",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "Over-the-counter options (OTC options, also called \"dealer options\") are traded between two private parties and are not listed on an exchange.",
+    "subject": "Over-the-counter options",
+    "predicate_type": "relates_to",
+    "object_text": "traded between two private parties and are not listed on an exchange",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Over-the-counter options (OTC options, also called \"dealer options\") are traded between two private parties and are not listed on an exchange.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options"
+    ],
+    "entities": [
+      "OTC options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b34c2453-3705-45e0-8c7b-f6112594d6a8",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "The terms of an OTC option are unrestricted and may be individually tailored to meet any business need.",
+    "subject": "terms of an OTC option",
+    "predicate_type": "permits",
+    "object_text": "individually tailored to meet any business need",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The terms of an OTC option are unrestricted and may be individually tailored to meet any business need.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options"
+    ],
+    "entities": [
+      "OTC option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f1335b34-0c64-474a-884c-1802309be00e",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "The option writer is a well-capitalized institution to prevent credit risk.",
+    "subject": "option writer",
+    "predicate_type": "requires",
+    "object_text": "well-capitalized institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The option writer is a well-capitalized institution to prevent credit risk.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options",
+      "credit_risk"
+    ],
+    "entities": [
+      "option writer"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "84c3bf2c-b11a-4985-a1e0-a45461d6650a",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "Interest rate options are commonly traded over the counter.",
+    "subject": "Interest rate options",
+    "predicate_type": "relates_to",
+    "object_text": "commonly traded over the counter",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate options are commonly traded over the counter.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options",
+      "interest_rates"
+    ],
+    "entities": [
+      "Interest rate options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2d617127-d9b8-4413-8eb0-3db852eb08f5",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "Currency cross rate options are commonly traded over the counter.",
+    "subject": "Currency cross rate options",
+    "predicate_type": "relates_to",
+    "object_text": "commonly traded over the counter",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Currency cross rate options are commonly traded over the counter.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options",
+      "currency"
+    ],
+    "entities": [
+      "Currency cross rate options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03e80cc7-6bac-47e1-a1a3-8c8025d5ed11",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "Options on swaps or swaptions are commonly traded over the counter.",
+    "subject": "Options on swaps or swaptions",
+    "predicate_type": "relates_to",
+    "object_text": "commonly traded over the counter",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Options on swaps or swaptions are commonly traded over the counter.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options",
+      "swaps"
+    ],
+    "entities": [
+      "Options on swaps",
+      "swaptions"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "74f1ba47-2ca9-4350-b002-87ae3096420a",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "Options on MBS (mortgage back securities) are commonly traded over the counter.",
+    "subject": "Options on MBS",
+    "predicate_type": "relates_to",
+    "object_text": "commonly traded over the counter",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Options on MBS (mortgage back securities) are commonly traded over the counter.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options",
+      "mbs"
+    ],
+    "entities": [
+      "Options on MBS",
+      "mortgage back securities"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bde40cd3-0267-4667-a410-4ce4d676162e",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "Users of OTC options can narrowly tailor the terms of the option contract to suit individual business requirements by avoiding an exchange.",
+    "subject": "Users of OTC options",
+    "predicate_type": "permits",
+    "object_text": "narrowly tailor the terms of the option contract to suit individual business requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Users of OTC options can narrowly tailor the terms of the option contract to suit individual business requirements by avoiding an exchange.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options"
+    ],
+    "entities": [
+      "OTC options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "63848038-54db-48d7-a648-07a3b2ee4048",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "OTC option transactions generally do not need to be advertised to the market.",
+    "subject": "OTC option transactions",
+    "predicate_type": "prohibits",
+    "object_text": "advertised to the market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "OTC option transactions generally do not need to be advertised to the market.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options"
+    ],
+    "entities": [
+      "OTC option transactions"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6fd863a4-2c2f-43e6-9134-419862683ed4",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "OTC option transactions face little or no regulatory requirements.",
+    "subject": "OTC option transactions",
+    "predicate_type": "constrains",
+    "object_text": "little or no regulatory requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "OTC option transactions face little or no regulatory requirements.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options",
+      "regulation"
+    ],
+    "entities": [
+      "OTC option transactions"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "68253b60-6018-4c95-9a21-ccf4a92bfbea",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "OTC counterparties must establish credit lines with each other.",
+    "subject": "OTC counterparties",
+    "predicate_type": "requires",
+    "object_text": "establish credit lines with each other",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "OTC counterparties must establish credit lines with each other.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options",
+      "credit_lines"
+    ],
+    "entities": [
+      "OTC counterparties"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a00c46b7-1454-45a3-8ead-78ec6c9f8113",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "OTC counterparties must conform to each other's clearing and settlement procedures.",
+    "subject": "OTC counterparties",
+    "predicate_type": "requires",
+    "object_text": "conform to each other's clearing and settlement procedures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "OTC counterparties must conform to each other's clearing and settlement procedures.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "otc_options",
+      "clearing",
+      "settlement"
+    ],
+    "entities": [
+      "OTC counterparties"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "69773c2b-ff56-46de-8226-6f3d9edd8b80",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "There are no secondary markets for employee stock options with few exceptions.",
+    "subject": "employee stock options",
+    "predicate_type": "prohibits",
+    "object_text": "secondary markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are no secondary markets for employee stock options with few exceptions.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "employee_stock_options"
+    ],
+    "entities": [
+      "employee stock options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bf1531d0-c635-4644-b13a-df9af673c442",
+    "chunk_id": "020b7b7d-d80c-4881-88f7-7f530aa8d8f1",
+    "document_id": "Option_(finance)",
+    "claim_text": "Employee stock options must either be exercised by the original grantee or allowed to expire.",
+    "subject": "employee stock options",
+    "predicate_type": "requires",
+    "object_text": "either be exercised by the original grantee or allowed to expire",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Employee stock options must either be exercised by the original grantee or allowed to expire.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "employee_stock_options"
+    ],
+    "entities": [
+      "employee stock options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "faef4bca-c8c8-45e0-995a-698a7a8d5004",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "Since the market crash of 1987, it has been observed that market implied volatility for options of lower strike prices is typically higher than for higher strike prices.",
+    "subject": "market implied volatility for options of lower strike prices",
+    "predicate_type": "causes",
+    "object_text": "typically higher than for higher strike prices",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Since the market crash of 1987, it has been observed that market implied volatility for options of lower strike prices is typically higher than for higher strike prices.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2915fdf6-2380-4efd-8978-2146a724cdb8",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "Volatility varies both for time and for the price level of the underlying security.",
+    "subject": "volatility",
+    "predicate_type": "relates_to",
+    "object_text": "varies both for time and for the price level of the underlying security",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Volatility varies both for time and for the price level of the underlying security.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c6f46283-4181-4d23-be75-fd0030913ef0",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "Volatility smile has a time dimension, a volatility surface.",
+    "subject": "volatility smile",
+    "predicate_type": "relates_to",
+    "object_text": "has a time dimension, a volatility surface",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Volatility smile has a time dimension, a volatility surface.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b0c061c8-9404-4efa-b364-25f422ed34ab",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "The main approach here is to treat volatility as stochastic, with the resultant stochastic volatility models and the Heston model as a prototype.",
+    "subject": "main approach",
+    "predicate_type": "implements",
+    "object_text": "to treat volatility as stochastic, with the resultant stochastic volatility models and the Heston model as a prototype",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The main approach here is to treat volatility as stochastic, with the resultant stochastic volatility models and the Heston model as a prototype.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volatility",
+      "stochastic volatility models",
+      "Heston model"
+    ],
+    "entities": [
+      "Heston model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7b003556-38e5-4659-9e40-bda4b716c286",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "Other models include the CEV and SABR volatility models.",
+    "subject": "models",
+    "predicate_type": "classifies",
+    "object_text": "the CEV and SABR volatility models",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other models include the CEV and SABR volatility models.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volatility models"
+    ],
+    "entities": [
+      "CEV",
+      "SABR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b446273b-d654-42a4-b2aa-8d0b9d610a75",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "One principal advantage of the Heston model is that it can be solved in closed form, while other stochastic volatility models require complex numerical methods.",
+    "subject": "Heston model",
+    "predicate_type": "relates_to",
+    "object_text": "it can be solved in closed form",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One principal advantage of the Heston model is that it can be solved in closed form, while other stochastic volatility models require complex numerical methods.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Heston model",
+      "stochastic volatility models"
+    ],
+    "entities": [
+      "Heston model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c31a2b20-b964-4371-a4ca-454c28b05edf",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "Other stochastic volatility models require complex numerical methods.",
+    "subject": "stochastic volatility models",
+    "predicate_type": "requires",
+    "object_text": "complex numerical methods",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other stochastic volatility models require complex numerical methods.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stochastic volatility models"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "02a0d773-af57-4ba5-8697-bab55bea519c",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "An alternate approach is to apply a local volatility model, where volatility is treated as a deterministic function of both the current asset level and of time.",
+    "subject": "alternate approach",
+    "predicate_type": "implements",
+    "object_text": "to apply a local volatility model, where volatility is treated as a deterministic function of both the current asset level and of time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An alternate approach is to apply a local volatility model, where volatility is treated as a deterministic function of both the current asset level and of time.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "local volatility model",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "30bbbf59-4528-4481-b40e-27588b554b5a",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "A local volatility model is a generalisation of the Black\u2013Scholes model, where the volatility is a constant.",
+    "subject": "local volatility model",
+    "predicate_type": "classifies",
+    "object_text": "a generalisation of the Black\u2013Scholes model, where the volatility is a constant",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A local volatility model is a generalisation of the Black\u2013Scholes model, where the volatility is a constant.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "local volatility model",
+      "Black\u2013Scholes model",
+      "volatility"
+    ],
+    "entities": [
+      "Black\u2013Scholes model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "85592802-f908-4d0c-9a67-3e18fd3fbe36",
+    "chunk_id": "b295b6ec-0b9c-4c90-adbc-5a0709b3e69e",
+    "document_id": "Option_(finance)",
+    "claim_text": "The concept was developed when Bruno Dupire and Emanuel Derman and Iraj Kani noted that there is a unique diffusion process consistent with the risk neutral densities derived from the market prices of European options.",
+    "subject": "concept",
+    "predicate_type": "relates_to",
+    "object_text": "developed when Bruno Dupire and Emanuel Derman and Iraj Kani noted that there is a unique diffusion process consistent with the risk neutral densities derived from the market prices of European options",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The concept was developed when Bruno Dupire and Emanuel Derman and Iraj Kani noted that there is a unique diffusion process consistent with the risk neutral densities derived from the market prices of European options.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "diffusion process",
+      "risk neutral densities",
+      "European options"
+    ],
+    "entities": [
+      "Bruno Dupire",
+      "Emanuel Derman",
+      "Iraj Kani"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d2674266-932c-4f06-a863-330c89c7ea04",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "Contracts similar to options have been used since ancient times.",
+    "subject": "contracts similar to options",
+    "predicate_type": "relates_to",
+    "object_text": "have been used since ancient times",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Contracts similar to options have been used since ancient times.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "history"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e16fd40e-b8bb-4e79-8947-69be7cc550c9",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "The first reputed option buyer was the ancient Greek mathematician and philosopher Thales of Miletus.",
+    "subject": "Thales of Miletus",
+    "predicate_type": "relates_to",
+    "object_text": "was the first reputed option buyer",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The first reputed option buyer was the ancient Greek mathematician and philosopher Thales of Miletus.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "history"
+    ],
+    "entities": [
+      "Thales of Miletus"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2f4e4200-9ec1-408b-9a41-35f0fc9b7396",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "The 1688 book Confusion of Confusions describes the trading of \"opsies\" on the Amsterdam stock exchange (now Euronext).",
+    "subject": "Confusion of Confusions",
+    "predicate_type": "relates_to",
+    "object_text": "describes the trading of \"opsies\" on the Amsterdam stock exchange (now Euronext)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 1688 book Confusion of Confusions describes the trading of \"opsies\" on the Amsterdam stock exchange (now Euronext).",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "history"
+    ],
+    "entities": [
+      "Amsterdam stock exchange",
+      "Euronext"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2222e64a-5929-4a67-b5c8-35abccc54c9b",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "In London, puts and \"refusals\" (calls) first became well-known trading instruments in the 1690s during the reign of William and Mary.",
+    "subject": "puts and \"refusals\" (calls)",
+    "predicate_type": "relates_to",
+    "object_text": "first became well-known trading instruments in the 1690s during the reign of William and Mary",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In London, puts and \"refusals\" (calls) first became well-known trading instruments in the 1690s during the reign of William and Mary.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "history"
+    ],
+    "entities": [
+      "William and Mary"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b3d6c506-e5d7-4f48-8a80-4a4a10123f6e",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "Privileges were options sold over the counter in nineteenth-century America, with both puts and calls on shares offered by specialized dealers.",
+    "subject": "privileges",
+    "predicate_type": "relates_to",
+    "object_text": "were options sold over the counter in nineteenth-century America, with both puts and calls on shares offered by specialized dealers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Privileges were options sold over the counter in nineteenth-century America, with both puts and calls on shares offered by specialized dealers.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "history"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d51ef8f1-19b5-4f30-bc74-0d3e171e5e97",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "Their exercise price was fixed at a rounded-off market price on the day or week that the option was bought, and the expiry date was generally three months after purchase.",
+    "subject": "exercise price",
+    "predicate_type": "relates_to",
+    "object_text": "was fixed at a rounded-off market price on the day or week that the option was bought",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Their exercise price was fixed at a rounded-off market price on the day or week that the option was bought, and the expiry date was generally three months after purchase.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "history"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c3eb74b9-66c6-4079-93f7-a28ffc842e55",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "The expiry date was generally three months after purchase.",
+    "subject": "expiry date",
+    "predicate_type": "relates_to",
+    "object_text": "was generally three months after purchase",
+    "object_value": 3.0,
+    "object_unit": "months",
+    "source_text": "The expiry date was generally three months after purchase.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "history"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ed97703d-5e52-45bf-9b4e-954f0bdeac6a",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "They were not traded in secondary markets.",
+    "subject": "privileges",
+    "predicate_type": "prohibits",
+    "object_text": "traded in secondary markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They were not traded in secondary markets.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "history"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4b1fad3f-57a0-4cbb-a8ac-360ab5e91598",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "In the real estate market, call options have long been used to assemble large parcels of land from separate owners.",
+    "subject": "call options",
+    "predicate_type": "relates_to",
+    "object_text": "have long been used to assemble large parcels of land from separate owners",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the real estate market, call options have long been used to assemble large parcels of land from separate owners.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "real estate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b3ccebf5-f4bb-46a8-a16b-45af83755018",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "Purchase of real property, like houses, requires a buyer paying the seller into an escrow account an earnest payment, which offers the buyer the right to buy the property at the set terms, including the purchase price.",
+    "subject": "purchase of real property",
+    "predicate_type": "requires",
+    "object_text": "a buyer paying the seller into an escrow account an earnest payment, which offers the buyer the right to buy the property at the set terms, including the purchase price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Purchase of real property, like houses, requires a buyer paying the seller into an escrow account an earnest payment, which offers the buyer the right to buy the property at the set terms, including the purchase price.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "real estate",
+      "escrow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15dfab7e-73db-4b90-a8d5-67476bc0026c",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "In the motion picture industry, film or theatrical producers often buy an option giving the right \u2013 but not the obligation \u2013 to dramatize a specific book or script.",
+    "subject": "film or theatrical producers",
+    "predicate_type": "relates_to",
+    "object_text": "often buy an option giving the right \u2013 but not the obligation \u2013 to dramatize a specific book or script",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the motion picture industry, film or theatrical producers often buy an option giving the right \u2013 but not the obligation \u2013 to dramatize a specific book or script.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "motion picture industry"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "35a85905-72f1-402c-bc13-3fdd79a29dcf",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "Lines of credit give the potential borrower the right \u2013 but not the obligation \u2013 to borrow within a specified time period.",
+    "subject": "lines of credit",
+    "predicate_type": "permits",
+    "object_text": "the potential borrower the right to borrow within a specified time period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lines of credit give the potential borrower the right \u2013 but not the obligation \u2013 to borrow within a specified time period.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "lines of credit",
+      "borrowing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59c79ea4-4652-4fd5-adff-d4e54daafe67",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "Many choices, or embedded options, have traditionally been included in bond contracts.",
+    "subject": "embedded options",
+    "predicate_type": "relates_to",
+    "object_text": "have traditionally been included in bond contracts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many choices, or embedded options, have traditionally been included in bond contracts.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "bonds"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dabde4f4-5ebf-4156-88f7-066ee52f7019",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "Many bonds are convertible into common stock at the buyer's option, or may be called (bought back) at specified prices at the issuer's option.",
+    "subject": "bonds",
+    "predicate_type": "relates_to",
+    "object_text": "are convertible into common stock at the buyer's option, or may be called (bought back) at specified prices at the issuer's option",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many bonds are convertible into common stock at the buyer's option, or may be called (bought back) at specified prices at the issuer's option.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options (finance)",
+      "bonds"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23c9a031-f74d-44c7-b806-dad5722f5714",
+    "chunk_id": "0973b05e-cbfc-4463-aed3-cc54c8b1e061",
+    "document_id": "Option_(finance)",
+    "claim_text": "Mortgage borrowers have long had the option to repay the",
+    "subject": "mortgage borrowers",
+    "predicate_type": "permits",
+    "object_text": "the option to repay the",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mortgage borrowers have long had the option to repay the",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mortgages",
+      "borrowing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "07c22fca-157d-41a8-8c96-7d39d696f8aa",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "Combining any of the four basic kinds of option trades (possibly with different exercise prices and maturities) and the two basic kinds of stock trades (long and short) allows a variety of options strategies.",
+    "subject": "combination of option trades and stock trades",
+    "predicate_type": "permits",
+    "object_text": "a variety of options strategies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Combining any of the four basic kinds of option trades (possibly with different exercise prices and maturities) and the two basic kinds of stock trades (long and short) allows a variety of options strategies.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "option trades",
+      "stock trades"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5c23690e-9204-4595-b4dd-902dd9c746ba",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "Simple strategies usually combine only a few trades, while more complicated strategies can combine several.",
+    "subject": "strategies",
+    "predicate_type": "classifies",
+    "object_text": "simple strategies combine only a few trades, while more complicated strategies can combine several",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Simple strategies usually combine only a few trades, while more complicated strategies can combine several.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e4152c70-8b3e-40cf-98b9-202a3e93c046",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "Strategies are often used to engineer a particular risk profile to movements in the underlying security.",
+    "subject": "strategies",
+    "predicate_type": "relates_to",
+    "object_text": "engineer a particular risk profile to movements in the underlying security",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Strategies are often used to engineer a particular risk profile to movements in the underlying security.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "investment strategies"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4075816b-abff-47d7-8539-359f1fd9528f",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "Buying a butterfly spread (long one X1 call, short two X2 calls, and long one X3 call) allows a trader to profit if the stock price on the expiration date is near the middle exercise price, X2, and does not expose the trader to a large loss.",
+    "subject": "butterfly spread",
+    "predicate_type": "permits",
+    "object_text": "a trader to profit if the stock price on the expiration date is near the middle exercise price, X2, and does not expose the trader to a large loss",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Buying a butterfly spread (long one X1 call, short two X2 calls, and long one X3 call) allows a trader to profit if the stock price on the expiration date is near the middle exercise price, X2, and does not expose the trader to a large loss.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "butterfly spread"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d3f56fde-2d27-4496-9d85-066de9f7defd",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "A condor is a strategy similar to a butterfly spread, but with different strikes for the short options \u2013 offering a larger likelihood of profit but with a lower net credit compared to the butterfly spread.",
+    "subject": "condor",
+    "predicate_type": "relates_to",
+    "object_text": "a strategy similar to a butterfly spread, but with different strikes for the short options \u2013 offering a larger likelihood of profit but with a lower net credit compared to the butterfly spread",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A condor is a strategy similar to a butterfly spread, but with different strikes for the short options \u2013 offering a larger likelihood of profit but with a lower net credit compared to the butterfly spread.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "condor",
+      "butterfly spread"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a1f4be05-2422-46ec-8f17-7fa00d776f6a",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "Selling a straddle (selling both a put and a call at the same exercise price) would give a trader a greater profit than a butterfly if the final stock price is near the exercise price, but might result in a large loss.",
+    "subject": "selling a straddle",
+    "predicate_type": "relates_to",
+    "object_text": "give a trader a greater profit than a butterfly if the final stock price is near the exercise price, but might result in a large loss",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Selling a straddle (selling both a put and a call at the same exercise price) would give a trader a greater profit than a butterfly if the final stock price is near the exercise price, but might result in a large loss.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "straddle",
+      "put",
+      "call",
+      "butterfly"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "94d2113f-7de6-47b4-86cb-6302c4142985",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "Similar to the straddle is the strangle which is also constructed by a call and a put, but whose strikes are different, reducing the net debit of the trade, but also reducing the risk of loss in the trade.",
+    "subject": "strangle",
+    "predicate_type": "relates_to",
+    "object_text": "constructed by a call and a put, but whose strikes are different, reducing the net debit of the trade, but also reducing the risk of loss in the trade",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Similar to the straddle is the strangle which is also constructed by a call and a put, but whose strikes are different, reducing the net debit of the trade, but also reducing the risk of loss in the trade.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "straddle",
+      "strangle",
+      "call",
+      "put"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d4ab1696-3f9e-4735-a49f-8ed73bc62297",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "One well-known strategy is the covered call, in which a trader buys a stock (or holds a previously purchased stock position), and sells a call.",
+    "subject": "covered call",
+    "predicate_type": "defines",
+    "object_text": "a trader buys a stock (or holds a previously purchased stock position), and sells a call",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One well-known strategy is the covered call, in which a trader buys a stock (or holds a previously purchased stock position), and sells a call.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "covered call",
+      "stock",
+      "call"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b26fbfd5-f81d-40d0-8f48-c36d3e681e4a",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "If the stock price rises above the exercise price, the call will be exercised and the trader will get a fixed profit.",
+    "subject": "call",
+    "predicate_type": "causes",
+    "object_text": "will be exercised and the trader will get a fixed profit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the stock price rises above the exercise price, the call will be exercised and the trader will get a fixed profit.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "stock",
+      "call"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "27f9c5cc-2964-4954-bc1d-63c9f9b75e40",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "If the stock price falls, the call will not be exercised, and any loss incurred to the trader will be partially offset by the premium received from selling the call.",
+    "subject": "call",
+    "predicate_type": "causes",
+    "object_text": "will not be exercised, and any loss incurred to the trader will be partially offset by the premium received from selling the call",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the stock price falls, the call will not be exercised, and any loss incurred to the trader will be partially offset by the premium received from selling the call.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "stock",
+      "call"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d83f9cb4-4c79-4af7-bd1a-502f9ec19c4a",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "Overall, the payoffs match the payoffs from selling a put.",
+    "subject": "payoffs from a covered call",
+    "predicate_type": "relates_to",
+    "object_text": "match the payoffs from selling a put",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Overall, the payoffs match the payoffs from selling a put.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "covered call",
+      "put"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "42d8ea2f-b115-4134-ad73-61679eadc0a1",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "This relationship is known as put\u2013call parity and offers insights for financial theory.",
+    "subject": "relationship between payoffs from a covered call and selling a put",
+    "predicate_type": "defines",
+    "object_text": "put\u2013call parity and offers insights for financial theory",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This relationship is known as put\u2013call parity and offers insights for financial theory.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "put",
+      "call"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "36416d81-844b-4ec1-a0f5-24fe4192b672",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "A benchmark index for the performance of a buy-write strategy is the CBOE S&P 500 BuyWrite Index (ticker symbol BXM).",
+    "subject": "CBOE S&P 500 BuyWrite Index (ticker symbol BXM)",
+    "predicate_type": "defines",
+    "object_text": "benchmark index for the performance of a buy-write strategy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A benchmark index for the performance of a buy-write strategy is the CBOE S&P 500 BuyWrite Index (ticker symbol BXM).",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "CBOE S&P 500 BuyWrite Index"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "87f3f818-ed50-45d2-95cc-cfc26e2c3d7f",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "Another very common strategy is the protective put, in which a trader buys a stock (or holds a previously-purchased long stock position), and buys a put.",
+    "subject": "protective put",
+    "predicate_type": "defines",
+    "object_text": "a trader buys a stock (or holds a previously-purchased long stock position), and buys a put",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another very common strategy is the protective put, in which a trader buys a stock (or holds a previously-purchased long stock position), and buys a put.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "protective put",
+      "stock",
+      "put"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "900ebea1-f54e-43ed-b206-a67013d403c6",
+    "chunk_id": "371a9386-6b20-40b7-a697-6d608c1c9a65",
+    "document_id": "Option_(finance)",
+    "claim_text": "This strategy acts as an insurance when investing long on the stock.",
+    "subject": "protective put",
+    "predicate_type": "relates_to",
+    "object_text": "acts as an insurance when investing long on the stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This strategy acts as an insurance when investing long on the stock.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "investment strategies"
+    ],
+    "entities": [
+      "protective put",
+      "stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c56b35d4-0085-44e9-8f87-ee5d47e39655",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "A trader who expects a stock's price to increase can buy a call option to purchase the stock at a fixed price (strike price) at a later date, rather than purchase the stock outright.",
+    "subject": "trader",
+    "predicate_type": "permits",
+    "object_text": "buy a call option to purchase the stock at a fixed price (strike price) at a later date, rather than purchase the stock outright",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A trader who expects a stock's price to increase can buy a call option to purchase the stock at a fixed price (strike price) at a later date, rather than purchase the stock outright.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "call option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4c71a62-2e43-43f5-8a46-acf008684e81",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "The cash outlay on the option is the premium.",
+    "subject": "cash outlay on the option",
+    "predicate_type": "defines",
+    "object_text": "the premium",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The cash outlay on the option is the premium.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "option",
+      "premium"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b6d4a501-61f0-4496-a401-3f546c21cfb4",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "The trader would have no obligation to buy the stock, but only has the right to do so on or before the expiration date.",
+    "subject": "trader",
+    "predicate_type": "prohibits",
+    "object_text": "obligation to buy the stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The trader would have no obligation to buy the stock, but only has the right to do so on or before the expiration date.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a8de5ea-1551-4b09-a2f5-209555b6f475",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "The trader has the right to buy the stock on or before the expiration date.",
+    "subject": "trader",
+    "predicate_type": "permits",
+    "object_text": "buy the stock on or before the expiration date",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The trader has the right to buy the stock on or before the expiration date.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0df7a739-9726-4675-a371-d72db4f671b5",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "The risk of loss would be limited to the premium paid, unlike the possible loss had the stock been bought outright.",
+    "subject": "risk of loss",
+    "predicate_type": "constrains",
+    "object_text": "the premium paid",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk of loss would be limited to the premium paid, unlike the possible loss had the stock been bought outright.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading",
+      "risk management"
+    ],
+    "entities": [
+      "stock",
+      "premium"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "07327af3-dbac-4033-bd61-7c8c5e6f1065",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "The holder of an American-style call option can sell the option holding at any time until the expiration date.",
+    "subject": "holder of an American-style call option",
+    "predicate_type": "permits",
+    "object_text": "sell the option holding at any time until the expiration date",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The holder of an American-style call option can sell the option holding at any time until the expiration date.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "American-style call option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "34d3fcaa-96c6-45b6-a13f-a734c04aefe6",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "The holder would consider selling the option when the stock's spot price is above the exercise price, especially if the holder expects the price of the option to drop.",
+    "subject": "holder",
+    "predicate_type": "relates_to",
+    "object_text": "selling the option when the stock's spot price is above the exercise price, especially if the holder expects the price of the option to drop",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The holder would consider selling the option when the stock's spot price is above the exercise price, especially if the holder expects the price of the option to drop.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "stock",
+      "option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "afe7b2b8-0770-45cf-9953-edceb01eb529",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "By selling the option early in that situation, the trader can realise an immediate profit.",
+    "subject": "trader",
+    "predicate_type": "causes",
+    "object_text": "realise an immediate profit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By selling the option early in that situation, the trader can realise an immediate profit.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "19af16bd-17d8-48d3-a1b2-eebabf8fdb3f",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "The trader can exercise the option if there is no secondary market for the options.",
+    "subject": "trader",
+    "predicate_type": "permits",
+    "object_text": "exercise the option",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The trader can exercise the option if there is no secondary market for the options.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "option"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "47789ea1-2492-45d3-a20f-5173164715a3",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "The trader can sell the stock, realising a profit.",
+    "subject": "trader",
+    "predicate_type": "causes",
+    "object_text": "realising a profit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The trader can sell the stock, realising a profit.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5dd7dbd7-39fe-4917-8787-f33982a61d50",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "A trader would make a profit if the spot price of the shares rises by more than the premium.",
+    "subject": "trader",
+    "predicate_type": "causes",
+    "object_text": "make a profit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A trader would make a profit if the spot price of the shares rises by more than the premium.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "shares",
+      "premium"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "32a3fade-4d95-4397-aea5-be4951bc48f5",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "If the exercise price is 100 and the premium paid is 10, then if the spot price of 100 rises to only 110, the transaction is break-even.",
+    "subject": "transaction",
+    "predicate_type": "relates_to",
+    "object_text": "break-even",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the exercise price is 100 and the premium paid is 10, then if the spot price of 100 rises to only 110, the transaction is break-even.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8bda1ad7-f589-4208-b173-a551b5782ed6",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "An increase in the stock price above 110 produces a profit.",
+    "subject": "increase in the stock price",
+    "predicate_type": "causes",
+    "object_text": "produces a profit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An increase in the stock price above 110 produces a profit.",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c3b50ea3-9155-4a8c-9470-049ba3e9a2bb",
+    "chunk_id": "2b2651fd-344c-4aec-a767-604981bdd041",
+    "document_id": "Option_(finance)",
+    "claim_text": "If the stock price at expiration is lower than the exercise price, the holder of the option at that time will let the call contract expire and lose only the premium (or the price paid on transfer).",
+    "subject": "holder of the option",
+    "predicate_type": "causes",
+    "object_text": "lose only the premium (or the price paid on transfer)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the stock price at expiration is lower than the exercise price, the holder of the option at that time will let the call contract expire and lose only the premium (or the price paid on transfer).",
+    "source_document": "Option (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options trading"
+    ],
+    "entities": [
+      "option",
+      "call contract",
+      "premium"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

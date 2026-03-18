@@ -1,0 +1,5265 @@
+[
+  {
+    "assertion_id": "426814c2-cdee-4013-94a8-774f08a9b5fd",
+    "chunk_id": "6ff9cdc9-4763-43dc-9778-854595ee11cc",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA announced in July 2008 that it would be launching a pilot program to evaluate all-public arbitration panels (thus not requiring an industry arbitrator to be on each panel).",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "launching a pilot program to evaluate all-public arbitration panels",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA announced in July 2008 that it would be launching a pilot program to evaluate all-public arbitration panels (thus not requiring an industry arbitrator to be on each panel).",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": false,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f13189f5-2deb-4efa-b301-7c397278b8d9",
+    "chunk_id": "6ff9cdc9-4763-43dc-9778-854595ee11cc",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA announced in February 2011 that it would be making the program permanent.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "making the program permanent",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA announced in February 2011 that it would be making the program permanent.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": false,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "abfb9f33-8357-4d82-a1ff-d0a772598aae",
+    "chunk_id": "6ff9cdc9-4763-43dc-9778-854595ee11cc",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Richard Ketchum stated \"We believe that giving investors the ability to have an all-public panel will increase public confidence in the fairness of our dispute resolution process.\"",
+    "subject": "Richard Ketchum",
+    "predicate_type": "relates_to",
+    "object_text": "\"We believe that giving investors the ability to have an all-public panel will increase public confidence in the fairness of our dispute resolution process.\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Richard Ketchum stated \"We believe that giving investors the ability to have an all-public panel will increase public confidence in the fairness of our dispute resolution process.\"",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "investor_protection"
+    ],
+    "entities": [
+      "Richard Ketchum",
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": false,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "174d7f18-9dcd-4702-83a7-300204085169",
+    "chunk_id": "6ff9cdc9-4763-43dc-9778-854595ee11cc",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Richard Jackson stated \"It's probably pretty important to have someone on the panel who has specific industry knowledge and past experience in that field to explain some of the complexities that may be at issue,\"",
+    "subject": "Richard Jackson",
+    "predicate_type": "relates_to",
+    "object_text": "\"It's probably pretty important to have someone on the panel who has specific industry knowledge and past experience in that field to explain some of the complexities that may be at issue,\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Richard Jackson stated \"It's probably pretty important to have someone on the panel who has specific industry knowledge and past experience in that field to explain some of the complexities that may be at issue,\"",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "Richard Jackson",
+      "Schlindwein Associates, LLC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": false,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d5dcb996-80ef-4f6c-88bd-cc6f94d1b675",
+    "chunk_id": "6ff9cdc9-4763-43dc-9778-854595ee11cc",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The pilot program does not require an industry arbitrator to be on each panel.",
+    "subject": "pilot program",
+    "predicate_type": "prohibits",
+    "object_text": "requiring an industry arbitrator to be on each panel",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The pilot program does not require an industry arbitrator to be on each panel.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": false,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "75b5e80b-173c-4d9d-9811-d392c11fced7",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA had total revenues of US$1.34 billion in 2022.",
+    "subject": "FINRA",
+    "predicate_type": "relates_to",
+    "object_text": "total revenues of US$1.34 billion in 2022",
+    "object_value": 1.34,
+    "object_unit": "US$ billion",
+    "source_text": "FINRA had total revenues of US$1.34 billion in 2022.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_performance"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a50d5076-0569-4da3-81bc-0f7e1cd372da",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA is funded primarily by assessments of member firms' registered representatives and applicants.",
+    "subject": "FINRA",
+    "predicate_type": "relates_to",
+    "object_text": "funded primarily by assessments of member firms' registered representatives and applicants",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA is funded primarily by assessments of member firms' registered representatives and applicants.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "funding"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "81275c14-c256-47b9-87f9-bec7160f1e7c",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA is funded primarily by annual fees paid by members.",
+    "subject": "FINRA",
+    "predicate_type": "relates_to",
+    "object_text": "funded primarily by annual fees paid by members",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA is funded primarily by annual fees paid by members.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "funding"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "21651199-94d4-40ab-a31d-f59d3128e034",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA is funded primarily by fines that it levies.",
+    "subject": "FINRA",
+    "predicate_type": "relates_to",
+    "object_text": "funded primarily by fines that it levies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA is funded primarily by fines that it levies.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "funding"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f80898d7-5c9f-4e2b-abf7-6eaca04ab754",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The annual fee that each member pays includes a basic membership fee.",
+    "subject": "annual fee",
+    "predicate_type": "relates_to",
+    "object_text": "includes a basic membership fee",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The annual fee that each member pays includes a basic membership fee.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fees"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8525dfa7-7764-406a-b4a2-8c8a3bd49a81",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The annual fee that each member pays includes an assessment based on gross income.",
+    "subject": "annual fee",
+    "predicate_type": "relates_to",
+    "object_text": "includes an assessment based on gross income",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The annual fee that each member pays includes an assessment based on gross income.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fees"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9a617ea0-2a42-4df8-a68f-feaf7abebb86",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The annual fee that each member pays includes a fee for each principal and registered representative.",
+    "subject": "annual fee",
+    "predicate_type": "relates_to",
+    "object_text": "includes a fee for each principal and registered representative",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The annual fee that each member pays includes a fee for each principal and registered representative.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fees"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "254c55f1-b073-4903-83c8-c0dc227eb26e",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The annual fee that each member pays includes a charge for each branch office.",
+    "subject": "annual fee",
+    "predicate_type": "relates_to",
+    "object_text": "includes a charge for each branch office",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The annual fee that each member pays includes a charge for each branch office.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fees"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aa52ad8a-c95e-470a-a28d-72b771a7ae88",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Regulators with NASD and NYSE Regulation obtained supersized fines in 35 actions taken in 2005.",
+    "subject": "Regulators with NASD and NYSE Regulation",
+    "predicate_type": "relates_to",
+    "object_text": "obtained supersized fines in 35 actions taken in 2005",
+    "object_value": 35.0,
+    "object_unit": "actions",
+    "source_text": "Regulators with NASD and NYSE Regulation obtained supersized fines in 35 actions taken in 2005.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fines"
+    ],
+    "entities": [
+      "NASD",
+      "NYSE Regulation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4fe23f62-8a97-4e8b-9943-86527e667cfa",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The number of supersized fines dropped to 19 in 2006.",
+    "subject": "number of supersized fines",
+    "predicate_type": "relates_to",
+    "object_text": "dropped to 19 in 2006",
+    "object_value": 19.0,
+    "object_unit": null,
+    "source_text": "The number of supersized fines dropped to 19 in 2006.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fines"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "74f62f1a-4cf9-4829-b83a-f8a552e0e561",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The number of enforcement actions over US$5 million also fell in 2006.",
+    "subject": "number of enforcement actions over US$5 million",
+    "predicate_type": "relates_to",
+    "object_text": "also fell in 2006",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The number of enforcement actions over US$5 million also fell in 2006.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "enforcement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cadfd6f7-fdf3-4b68-bf4c-556211d572c1",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "There were seven enforcement actions over US$5 million in 2005.",
+    "subject": "enforcement actions over US$5 million",
+    "predicate_type": "relates_to",
+    "object_text": "seven enforcement actions over US$5 million in 2005",
+    "object_value": 7.0,
+    "object_unit": "actions",
+    "source_text": "There were seven enforcement actions over US$5 million in 2005.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "enforcement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b98f2d6-498a-4ba9-819e-f1a4e8d27eaf",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "There were three enforcement actions over US$5 million in 2006.",
+    "subject": "enforcement actions over US$5 million",
+    "predicate_type": "relates_to",
+    "object_text": "three enforcement actions over US$5 million in 2006",
+    "object_value": 3.0,
+    "object_unit": "actions",
+    "source_text": "There were three enforcement actions over US$5 million in 2006.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "enforcement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "24632582-7802-43a6-94ba-727a163067ca",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA issued $48.1 million in fines in 2022.",
+    "subject": "FINRA",
+    "predicate_type": "relates_to",
+    "object_text": "issued $48.1 million in fines in 2022",
+    "object_value": 48.1,
+    "object_unit": "$ million",
+    "source_text": "FINRA issued $48.1 million in fines in 2022.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fines"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b10b3f0b-8995-4774-8e90-5b0721def1a3",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA issued $90.1 million in fines in 2021.",
+    "subject": "FINRA",
+    "predicate_type": "relates_to",
+    "object_text": "issued $90.1 million in fines in 2021",
+    "object_value": 90.1,
+    "object_unit": "$ million",
+    "source_text": "FINRA issued $90.1 million in fines in 2021.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fines"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "21c4588b-840d-4597-bd34-7ec1f489b7a9",
+    "chunk_id": "2aefc907-269f-4f98-8bcf-32b17a51a08b",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The 2021 number was fueled by a record fine against Robinhood for $57 million.",
+    "subject": "2021 number",
+    "predicate_type": "causes",
+    "object_text": "fueled by a record fine against Robinhood for $57 million",
+    "object_value": 57.0,
+    "object_unit": "$ million",
+    "source_text": "The 2021 number was fueled by a record fine against Robinhood for $57 million.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fines"
+    ],
+    "entities": [
+      "Robinhood"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dad22a92-13fd-46dc-a1c1-6371c4188b25",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "A 2016 research paper from the University of Chicago and the University of Minnesota found that 7% of advisors industry-wide had been disciplined for misconduct.",
+    "subject": "2016 research paper from the University of Chicago and the University of Minnesota",
+    "predicate_type": "relates_to",
+    "object_text": "that 7% of advisors industry-wide had been disciplined for misconduct",
+    "object_value": 7.0,
+    "object_unit": "%",
+    "source_text": "A 2016 research paper from the University of Chicago and the University of Minnesota found that 7% of advisors industry-wide had been disciplined for misconduct.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "misconduct",
+      "financial advisors"
+    ],
+    "entities": [
+      "University of Chicago",
+      "University of Minnesota"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": false,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1feee32e-4077-43a3-af28-6e3ae51777f2",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "In 2017, Reuters analyzed FINRA data and found that a significant percentage of brokers with multiple disclosures on their record worked at 48 firms.",
+    "subject": "Reuters",
+    "predicate_type": "relates_to",
+    "object_text": "that a significant percentage of brokers with multiple disclosures on their record worked at 48 firms",
+    "object_value": 48.0,
+    "object_unit": null,
+    "source_text": "In 2017, Reuters analyzed FINRA data and found that a significant percentage of brokers with multiple disclosures on their record worked at 48 firms.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokers",
+      "disclosures"
+    ],
+    "entities": [
+      "FINRA",
+      "Reuters"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": false,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4f9a9a5c-b685-4497-9a20-669b11fe38a4",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA does not publicly identify or name individual firms as being \"high-risk,\"",
+    "subject": "FINRA",
+    "predicate_type": "prohibits",
+    "object_text": "publicly identify or name individual firms as being \"high-risk\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA does not publicly identify or name individual firms as being \"high-risk,\"",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "transparency"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "37d24542-da9d-4018-b1b9-bd35666892cb",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA does have an internal unit dedicated to tracking high-risk firms.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "an internal unit dedicated to tracking high-risk firms",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA does have an internal unit dedicated to tracking high-risk firms.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "57ce6cb5-7e2f-4d76-ae58-8329785ce4d6",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "According to studies in the Journal of Financial Economics and from the University of California, Berkeley, FINRA approves 84% of requests for expungement of BrokerCheck disclosures.",
+    "subject": "studies in the Journal of Financial Economics and from the University of California, Berkeley",
+    "predicate_type": "relates_to",
+    "object_text": "FINRA approves 84% of requests for expungement of BrokerCheck disclosures",
+    "object_value": 84.0,
+    "object_unit": "%",
+    "source_text": "According to studies in the Journal of Financial Economics and from the University of California, Berkeley, FINRA approves 84% of requests for expungement of BrokerCheck disclosures.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "expungement",
+      "BrokerCheck",
+      "disclosures"
+    ],
+    "entities": [
+      "FINRA",
+      "Journal of Financial Economics",
+      "University of California, Berkeley"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "619776bf-e706-46f4-85b7-5a6de64ff862",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "In 2019, Senator Elizabeth Warren called for FINRA to be more stringent about granting expungement requests for misconduct.",
+    "subject": "Senator Elizabeth Warren",
+    "predicate_type": "requires",
+    "object_text": "FINRA to be more stringent about granting expungement requests for misconduct",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2019, Senator Elizabeth Warren called for FINRA to be more stringent about granting expungement requests for misconduct.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "expungement",
+      "misconduct"
+    ],
+    "entities": [
+      "FINRA",
+      "Elizabeth Warren"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11974a94-96df-475e-8089-5cfe1d97ab91",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA amended its rules in 2023 to make the process more stringent for brokers seeking expungement.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "amended its rules in 2023 to make the process more stringent for brokers seeking expungement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA amended its rules in 2023 to make the process more stringent for brokers seeking expungement.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "expungement"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dd322b91-6da1-42d0-b912-b0600ec879e1",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The new rules require that expungement cases be decided unanimously by a three-member panel of public arbitrators with \u201cenhanced expungement training\u201d rather than the current sole arbitrator option.",
+    "subject": "new rules",
+    "predicate_type": "requires",
+    "object_text": "that expungement cases be decided unanimously by a three-member panel of public arbitrators with \u201cenhanced expungement training\u201d rather than the current sole arbitrator option",
+    "object_value": 3.0,
+    "object_unit": null,
+    "source_text": "The new rules require that expungement cases be decided unanimously by a three-member panel of public arbitrators with \u201cenhanced expungement training\u201d rather than the current sole arbitrator option.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "expungement",
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e5970f1f-9bcd-4b35-9fbf-0d51a42f6242",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "It also requires brokers to file straight-in requests within two years of the closing of a customer arbitration or civil litigation",
+    "subject": "new rules",
+    "predicate_type": "requires",
+    "object_text": "brokers to file straight-in requests within two years of the closing of a customer arbitration or civil litigation",
+    "object_value": 2.0,
+    "object_unit": "years",
+    "source_text": "It also requires brokers to file straight-in requests within two years of the closing of a customer arbitration or civil litigation",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "expungement",
+      "arbitration",
+      "litigation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ecb0faa-26db-4d39-956c-c6d53f35e29e",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "It also requires earlier notification of customers and state regulators when brokers seek expungement while allowing state regulators to participate in straight-in requests.",
+    "subject": "new rules",
+    "predicate_type": "requires",
+    "object_text": "earlier notification of customers and state regulators when brokers seek expungement while allowing state regulators to participate in straight-in requests",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It also requires earlier notification of customers and state regulators when brokers seek expungement while allowing state regulators to participate in straight-in requests.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "expungement",
+      "notification"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f701f0a9-14e3-49c5-9b53-a802c1795a6b",
+    "chunk_id": "b0b4cf95-d154-4269-8e14-15605ee2529d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "It also allows state regulators to participate in straight-in requests.",
+    "subject": "new rules",
+    "predicate_type": "permits",
+    "object_text": "state regulators to participate in straight-in requests",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It also allows state regulators to participate in straight-in requests.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "expungement",
+      "notification"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "04066ad0-b3cd-464c-bf41-a5a5d1e5b1e7",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "For a given case, the two sides are provided separate lists by FINRA of ten local arbitrators for each category from which each party can strike up to four arbitrators and provide a ranking for the rest.",
+    "subject": "FINRA",
+    "predicate_type": "requires",
+    "object_text": "providing separate lists of ten local arbitrators for each category to both sides in a given case, from which each party can strike up to four arbitrators and provide a ranking for the rest",
+    "object_value": 10.0,
+    "object_unit": null,
+    "source_text": "For a given case, the two sides are provided separate lists by FINRA of ten local arbitrators for each category from which each party can strike up to four arbitrators and provide a ranking for the rest.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a1829ef4-ad50-413d-b034-2bac3dc23cb9",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Also provided are ten-year biographies and prior award histories for each arbitrator.",
+    "subject": "arbitrator",
+    "predicate_type": "relates_to",
+    "object_text": "ten-year biographies and prior award histories",
+    "object_value": 10.0,
+    "object_unit": "years",
+    "source_text": "Also provided are ten-year biographies and prior award histories for each arbitrator.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "97e47598-7c0a-4523-9721-38ce7cd0d84b",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA will then provide the parties with the panel members by selecting the highest ranked available arbitrator from each category.",
+    "subject": "FINRA",
+    "predicate_type": "requires",
+    "object_text": "providing the parties with the panel members by selecting the highest ranked available arbitrator from each category",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA will then provide the parties with the panel members by selecting the highest ranked available arbitrator from each category.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c2e331e5-868b-463e-bc69-948f3b7903d7",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Smaller claims are decided by one arbitrator",
+    "subject": "smaller claims",
+    "predicate_type": "requires",
+    "object_text": "decided by one arbitrator",
+    "object_value": 1.0,
+    "object_unit": null,
+    "source_text": "Smaller claims are decided by one arbitrator",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "72a74f36-be6f-4c5b-a661-6b81226cacd2",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "claims of up to $50,000 may be decided through a Simplified Arbitration Process, with the arbitrator deciding the case by reviewing all the materials presented by the parties without an in-person hearing.",
+    "subject": "claims of up to $50,000",
+    "predicate_type": "permits",
+    "object_text": "decided through a Simplified Arbitration Process, with the arbitrator deciding the case by reviewing all the materials presented by the parties without an in-person hearing",
+    "object_value": 50000.0,
+    "object_unit": "$",
+    "source_text": "claims of up to $50,000 may be decided through a Simplified Arbitration Process, with the arbitrator deciding the case by reviewing all the materials presented by the parties without an in-person hearing.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e9a44979-dec9-4101-91be-9b977128c063",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Through July 2023, there were 1,914 new cases filed for arbitration.",
+    "subject": "new cases filed for arbitration",
+    "predicate_type": "relates_to",
+    "object_text": "1,914",
+    "object_value": 1914.0,
+    "object_unit": null,
+    "source_text": "Through July 2023, there were 1,914 new cases filed for arbitration.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a96c8ba0-4ea0-4cbe-b116-988746c86354",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "163 customer claimant cases had been decided through July 2023 and in 26% of those cases, customers were awarded damages.",
+    "subject": "customer claimant cases",
+    "predicate_type": "relates_to",
+    "object_text": "163 had been decided through July 2023 and in 26% of those cases, customers were awarded damages",
+    "object_value": 163.0,
+    "object_unit": null,
+    "source_text": "163 customer claimant cases had been decided through July 2023 and in 26% of those cases, customers were awarded damages.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "84495ef5-a698-4de0-8509-28a4a1a52366",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "in 26% of those cases, customers were awarded damages.",
+    "subject": "customer",
+    "predicate_type": "relates_to",
+    "object_text": "awarded damages in 26% of cases",
+    "object_value": 26.0,
+    "object_unit": "%",
+    "source_text": "in 26% of those cases, customers were awarded damages.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1150bea2-e598-4b04-a45a-4cf2142fe9d1",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA rules do not require parties to be represented by attorneys.",
+    "subject": "FINRA rules",
+    "predicate_type": "prohibits",
+    "object_text": "requiring parties to be represented by attorneys",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA rules do not require parties to be represented by attorneys.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "73b03a68-e95b-407b-90f9-293402773982",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "A party may also appear pro se, or be represented by a non-attorney in arbitration.",
+    "subject": "party",
+    "predicate_type": "permits",
+    "object_text": "appear pro se, or be represented by a non-attorney in arbitration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A party may also appear pro se, or be represented by a non-attorney in arbitration.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "14f8c307-2561-42ce-a8f7-9376c62d387d",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "One organization whose members specialize in representing customers against brokerage firms in FINRA arbitrations is the Public Investors Arbitration Bar Association (PIABA).",
+    "subject": "Public Investors Arbitration Bar Association (PIABA)",
+    "predicate_type": "relates_to",
+    "object_text": "organization whose members specialize in representing customers against brokerage firms in FINRA arbitrations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One organization whose members specialize in representing customers against brokerage firms in FINRA arbitrations is the Public Investors Arbitration Bar Association (PIABA).",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA",
+      "Public Investors Arbitration Bar Association"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0d987227-3c83-41a4-b684-d305ebd35f76",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA announced in July 2008 that it would be launching a pilot program to evaluate all-public arbitration panels (thus not requiring an industry arbitrator to be on each panel).",
+    "subject": "FINRA",
+    "predicate_type": "relates_to",
+    "object_text": "launching a pilot program to evaluate all-public arbitration panels in July 2008",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA announced in July 2008 that it would be launching a pilot program to evaluate all-public arbitration panels (thus not requiring an industry arbitrator to be on each panel).",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a292cd76-ea62-41b6-866c-0df30b1f036f",
+    "chunk_id": "5d3035ad-6be9-4c2b-99ba-47148625ab0d",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "In February 2011, FINRA announced that it would be making the program permanent.",
+    "subject": "FINRA",
+    "predicate_type": "relates_to",
+    "object_text": "making the program permanent in February 2011",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In February 2011, FINRA announced that it would be making the program permanent.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3f9adb44-e9e7-432e-89b6-5e35c3a0a7f1",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA regulates trading in equities, corporate bonds, securities futures, and options.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "trading in equities, corporate bonds, securities futures, and options",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA regulates trading in equities, corporate bonds, securities futures, and options.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities trading"
+    ],
+    "entities": [
+      "FINRA",
+      "equities",
+      "corporate bonds",
+      "securities futures",
+      "options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5542a531-f96b-4a5e-93ef-607a85598a69",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "All firms dealing in securities that are not regulated by another SRO, such as by the Municipal Securities Rulemaking Board (MSRB), are required to be member firms of the FINRA.",
+    "subject": "firms dealing in securities that are not regulated by another SRO",
+    "predicate_type": "requires",
+    "object_text": "to be member firms of the FINRA",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All firms dealing in securities that are not regulated by another SRO, such as by the Municipal Securities Rulemaking Board (MSRB), are required to be member firms of the FINRA.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "membership",
+      "regulation"
+    ],
+    "entities": [
+      "FINRA",
+      "Municipal Securities Rulemaking Board",
+      "MSRB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5a5be407-0705-40a1-8385-f6bfdf8754ad",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA periodically conducts regulatory exams of its regulated institutions.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "periodically conducts regulatory exams of its regulated institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA periodically conducts regulatory exams of its regulated institutions.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory examinations"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eddb948c-36b9-4511-8b2e-2ee2506b7b4d",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA publishes an annual report detailing its observations from the prior year's examinations in order to provide member firms with insight into findings from the recent oversight activities of FINRA\u2019s Member Supervision, Market Regulation and Enforcement programs.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "publishes an annual report detailing its observations from the prior year's examinations in order to provide member firms with insight into findings from the recent oversight activities of FINRA\u2019s Member Supervision, Market Regulation and Enforcement programs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA publishes an annual report detailing its observations from the prior year's examinations in order to provide member firms with insight into findings from the recent oversight activities of FINRA\u2019s Member Supervision, Market Regulation and Enforcement programs.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting",
+      "regulatory oversight"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9ee359e-6473-45f9-843d-b7e3d323f21d",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Topics covered in the 2023 report include manipulative trading, fixed income \u2014 fair pricing, fractional shares and Regulation SHO, financial crimes, cybersecurity, complex products, Regulation Best Interest (Reg BI) and Form CRS and mobile apps.",
+    "subject": "2023 report",
+    "predicate_type": "relates_to",
+    "object_text": "manipulative trading, fixed income \u2014 fair pricing, fractional shares and Regulation SHO, financial crimes, cybersecurity, complex products, Regulation Best Interest (Reg BI) and Form CRS and mobile apps",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Topics covered in the 2023 report include manipulative trading, fixed income \u2014 fair pricing, fractional shares and Regulation SHO, financial crimes, cybersecurity, complex products, Regulation Best Interest (Reg BI) and Form CRS and mobile apps.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market manipulation",
+      "fixed income",
+      "financial crime",
+      "cybersecurity",
+      "complex products",
+      "best interest",
+      "mobile apps"
+    ],
+    "entities": [
+      "Regulation SHO",
+      "Regulation Best Interest",
+      "Form CRS"
+    ],
+    "regulations": [
+      "Regulation SHO",
+      "Regulation Best Interest"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6ca4a31b-3eb1-4508-98e1-0a7d7de657cb",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA licenses individuals and admits firms to the industry, writes rules to govern their behavior, examines them for regulatory compliance, and is sanctioned by the U.S. Securities and Exchange Commission (SEC) to discipline registered representatives and member firms that fail to comply with federal securities laws and FINRA's rules and regulations.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "licenses individuals and admits firms to the industry, writes rules to govern their behavior, examines them for regulatory compliance, and is sanctioned by the U.S. Securities and Exchange Commission (SEC) to discipline registered representatives and member firms that fail to comply with federal securities laws and FINRA's rules and regulations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA licenses individuals and admits firms to the industry, writes rules to govern their behavior, examines them for regulatory compliance, and is sanctioned by the U.S. Securities and Exchange Commission (SEC) to discipline registered representatives and member firms that fail to comply with federal securities laws and FINRA's rules and regulations.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "licensing",
+      "regulation",
+      "compliance",
+      "discipline"
+    ],
+    "entities": [
+      "FINRA",
+      "U.S. Securities and Exchange Commission",
+      "SEC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41e7870c-074c-44b4-bec1-a1d082d5681e",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA provides education and qualification examinations to industry professionals.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "provides education and qualification examinations to industry professionals",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA provides education and qualification examinations to industry professionals.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "education",
+      "qualification examinations"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a18bfbe-ef15-4bcc-a2c3-1580c248f1b1",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA sells outsourced regulatory products and services to a number of stock markets and exchanges; e.g. American Stock Exchange (AMEX) and the International Securities Exchange (ISE).",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "sells outsourced regulatory products and services to a number of stock markets and exchanges",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA sells outsourced regulatory products and services to a number of stock markets and exchanges; e.g. American Stock Exchange (AMEX) and the International Securities Exchange (ISE).",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory products",
+      "regulatory services"
+    ],
+    "entities": [
+      "FINRA",
+      "American Stock Exchange",
+      "AMEX",
+      "International Securities Exchange",
+      "ISE"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c3ae4355-17dd-4f46-9930-79d789c4530d",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "NASD, the predecessor of FINRA, founded the NASDAQ (National Association of Securities Dealers Automated Quotations) stock market in 1971.",
+    "subject": "NASD",
+    "predicate_type": "causes",
+    "object_text": "founded the NASDAQ (National Association of Securities Dealers Automated Quotations) stock market in 1971",
+    "object_value": 1971,
+    "object_unit": null,
+    "source_text": "NASD, the predecessor of FINRA, founded the NASDAQ (National Association of Securities Dealers Automated Quotations) stock market in 1971.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market structure"
+    ],
+    "entities": [
+      "NASD",
+      "FINRA",
+      "NASDAQ",
+      "National Association of Securities Dealers Automated Quotations"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "83bcaf0a-de31-42fd-82c3-8ece26447c48",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "In 2006, NASD demutualized from NASDAQ by selling its ownership interest.",
+    "subject": "NASD",
+    "predicate_type": "implements",
+    "object_text": "demutualized from NASDAQ by selling its ownership interest",
+    "object_value": 2006,
+    "object_unit": null,
+    "source_text": "In 2006, NASD demutualized from NASDAQ by selling its ownership interest.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market structure"
+    ],
+    "entities": [
+      "NASD",
+      "NASDAQ"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a311280-7bc8-43d4-adb6-2dd1edeca67e",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The NASD, later FINRA, publishes much educational information for the public and has been publishing and disclosing the education and exam requirements for USA based credentials, charters, designations and certifications that are offered by SROs for about a decade.",
+    "subject": "The NASD, later FINRA",
+    "predicate_type": "implements",
+    "object_text": "publishes much educational information for the public and has been publishing and disclosing the education and exam requirements for USA based credentials, charters, designations and certifications that are offered by SROs for about a decade",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NASD, later FINRA, publishes much educational information for the public and has been publishing and disclosing the education and exam requirements for USA based credentials, charters, designations and certifications that are offered by SROs for about a decade.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "education",
+      "exams"
+    ],
+    "entities": [
+      "NASD",
+      "FINRA",
+      "SROs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "540a0d4d-8ea7-4d6b-954e-785773ec3e36",
+    "chunk_id": "be6a8a12-54d8-4e18-a575-68da65494d2f",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "In 2003, FINRA established an Investor Education Foundation focused on providing underserved Americans with financial decision-making tools and education, as well as funding research into financial education and protection for American households.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "established an Investor Education Foundation focused on providing underserved Americans with financial decision-making tools and education, as well as funding research into financial education and protection for American households",
+    "object_value": 2003,
+    "object_unit": null,
+    "source_text": "In 2003, FINRA established an Investor Education Foundation focused on providing underserved Americans with financial decision-making tools and education, as well as funding research into financial education and protection for American households.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investor education",
+      "financial education"
+    ],
+    "entities": [
+      "FINRA",
+      "Investor Education Foundation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aa4319cd-1bbe-4d42-a246-7d27ede88c57",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA publishes the background and experience of all licensed financial brokers, advisors and firms for free through the BrokerCheck website.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "publishes the background and experience of all licensed financial brokers, advisors and firms for free through the BrokerCheck website",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA publishes the background and experience of all licensed financial brokers, advisors and firms for free through the BrokerCheck website.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck",
+      "licensing"
+    ],
+    "entities": [
+      "FINRA",
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2fbd3469-470a-48ae-9b57-907c5baab4da",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck Report for an individual contains a summary section that provides a brief overview of the investment professional and credentials.",
+    "subject": "BrokerCheck Report for an individual",
+    "predicate_type": "defines",
+    "object_text": "a summary section that provides a brief overview of the investment professional and credentials",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck Report for an individual contains a summary section that provides a brief overview of the investment professional and credentials.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a43e1251-f69c-4c03-bbb7-10d81d61d9c7",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck Report for an individual contains a list of registered securities firms where the individual is currently and/or was previously registered.",
+    "subject": "BrokerCheck Report for an individual",
+    "predicate_type": "defines",
+    "object_text": "a list of registered securities firms where the individual is currently and/or was previously registered",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck Report for an individual contains a list of registered securities firms where the individual is currently and/or was previously registered.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f85ab3b-e9bb-49e8-911a-974c14c96735",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck Report for an individual contains the individual\u2019s employment history for the last 10 years",
+    "subject": "BrokerCheck Report for an individual",
+    "predicate_type": "defines",
+    "object_text": "the individual\u2019s employment history for the last 10 years",
+    "object_value": 10,
+    "object_unit": "years",
+    "source_text": "The BrokerCheck Report for an individual contains the individual\u2019s employment history for the last 10 years",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b41e4cc-c6e9-4cba-9d1e-12e1fe3c60d4",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck Report for an individual contains a qualifications section that includes a listing of the individual\u2019s current registrations or licenses, if any, and industry exams they have passed.",
+    "subject": "BrokerCheck Report for an individual",
+    "predicate_type": "defines",
+    "object_text": "a qualifications section that includes a listing of the individual\u2019s current registrations or licenses, if any, and industry exams they have passed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck Report for an individual contains a qualifications section that includes a listing of the individual\u2019s current registrations or licenses, if any, and industry exams they have passed.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f84f71a3-add3-4386-982b-23d98376ab5d",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck Report for an individual contains a disclosure section that includes information about customer disputes, disciplinary events and certain criminal and financial matters on the individual\u2019s record",
+    "subject": "BrokerCheck Report for an individual",
+    "predicate_type": "defines",
+    "object_text": "a disclosure section that includes information about customer disputes, disciplinary events and certain criminal and financial matters on the individual\u2019s record",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck Report for an individual contains a disclosure section that includes information about customer disputes, disciplinary events and certain criminal and financial matters on the individual\u2019s record",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1fe59d11-72c3-499d-870d-f268e7bf7695",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck Report for an individual contains the individual\u2019s most recently submitted comment(s)",
+    "subject": "BrokerCheck Report for an individual",
+    "predicate_type": "defines",
+    "object_text": "the individual\u2019s most recently submitted comment(s)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck Report for an individual contains the individual\u2019s most recently submitted comment(s)",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "87326465-7d3e-4915-8de0-907645ae20f9",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck report for a brokerage firm contains a summary section that provides a brief overview of the firm and its background.",
+    "subject": "BrokerCheck report for a brokerage firm",
+    "predicate_type": "defines",
+    "object_text": "a summary section that provides a brief overview of the firm and its background",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck report for a brokerage firm contains a summary section that provides a brief overview of the firm and its background.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd3dce5f-20d5-4aa0-81d9-354f788000f9",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck report for a brokerage firm contains a firm profile that describes where and when the firm was established and lists the people and organizations that own controlling shares or directly influence the firm's daily operations.",
+    "subject": "BrokerCheck report for a brokerage firm",
+    "predicate_type": "defines",
+    "object_text": "a firm profile that describes where and when the firm was established and lists the people and organizations that own controlling shares or directly influence the firm's daily operations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck report for a brokerage firm contains a firm profile that describes where and when the firm was established and lists the people and organizations that own controlling shares or directly influence the firm's daily operations.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a785c5e-93ca-4197-8657-4406cc86f52f",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck report for a brokerage firm contains a firm history that details any mergers, acquisitions or name changes affecting the firm.",
+    "subject": "BrokerCheck report for a brokerage firm",
+    "predicate_type": "defines",
+    "object_text": "a firm history that details any mergers, acquisitions or name changes affecting the firm",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck report for a brokerage firm contains a firm history that details any mergers, acquisitions or name changes affecting the firm.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "208bacdf-0224-4184-8d3a-5c383d2b01b7",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck report for a brokerage firm contains a firm operations section that lists the firm's active licenses and registrations, the types of businesses it conducts and other details pertaining to its operations.",
+    "subject": "BrokerCheck report for a brokerage firm",
+    "predicate_type": "defines",
+    "object_text": "a firm operations section that lists the firm's active licenses and registrations, the types of businesses it conducts and other details pertaining to its operations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck report for a brokerage firm contains a firm operations section that lists the firm's active licenses and registrations, the types of businesses it conducts and other details pertaining to its operations.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "40b8ee26-5436-4387-981c-6199851d3065",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The BrokerCheck report for a brokerage firm contains a disclosures section that contains information about any arbitration awards, disciplinary events and financial matters on the firm's record.",
+    "subject": "BrokerCheck report for a brokerage firm",
+    "predicate_type": "defines",
+    "object_text": "a disclosures section that contains information about any arbitration awards, disciplinary events and financial matters on the firm's record",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BrokerCheck report for a brokerage firm contains a disclosures section that contains information about any arbitration awards, disciplinary events and financial matters on the firm's record.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23ec25b9-d2e1-4cc8-90a7-aba419439269",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Some of these items may involve pending actions or allegations that have not been resolved or proven.",
+    "subject": "Some of these items",
+    "predicate_type": "relates_to",
+    "object_text": "may involve pending actions or allegations that have not been resolved or proven",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some of these items may involve pending actions or allegations that have not been resolved or proven.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0a17e4b9-3aea-4a9c-8fb3-c0d32187500a",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "After 10 years, an individual will only remain in BrokerCheck system if they were: the subject of a final regulatory action; convicted of or pled guilty or no contest to certain crimes; subject to a civil injunction involving investment-related activity or found in a civil court to have been involved in a violation of investment-related statutes or regulations; or named as a respondent or defendant in an arbitration or civil litigation in which the investment professional was alleged to have committed a sales practice violation, and which resulted in an award or civil judgment against the investment professional.",
+    "subject": "an individual",
+    "predicate_type": "constrains",
+    "object_text": "will only remain in BrokerCheck system if they were: the subject of a final regulatory action; convicted of or pled guilty or no contest to certain crimes; subject to a civil injunction involving investment-related activity or found in a civil court to have been involved in a violation of investment-related statutes or regulations; or named as a respondent or defendant in an arbitration or civil litigation in which the investment professional was alleged to have committed a sales practice violation, and which resulted in an award or civil judgment against the investment professional after 10 years",
+    "object_value": 10,
+    "object_unit": "years",
+    "source_text": "After 10 years, an individual will only remain in BrokerCheck system if they were: the subject of a final regulatory action; convicted of or pled guilty or no contest to certain crimes; subject to a civil injunction involving investment-related activity or found in a civil court to have been involved in a violation of investment-related statutes or regulations; or named as a respondent or defendant in an arbitration or civil litigation in which the investment professional was alleged to have committed a sales practice violation, and which resulted in an award or civil judgment against the investment professional.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": false,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5f052909-3452-4367-8e08-7031b7515947",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Academic researchers, journalists and politicians rely on FINRA BrokerCheck data to document misconduct in the US Financial Industry.",
+    "subject": "Academic researchers, journalists and politicians",
+    "predicate_type": "relates_to",
+    "object_text": "rely on FINRA BrokerCheck data to document misconduct in the US Financial Industry",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Academic researchers, journalists and politicians rely on FINRA BrokerCheck data to document misconduct in the US Financial Industry.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokercheck"
+    ],
+    "entities": [
+      "FINRA",
+      "BrokerCheck"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5db77b0b-04a9-42da-8872-9c7c8a640eaf",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "A 2016 research paper from the University of Chicago and the University of Minnesota found that 7% of advisors industry-wide had been disciplined for misconduct.",
+    "subject": "A 2016 research paper from the University of Chicago and the University of Minnesota",
+    "predicate_type": "relates_to",
+    "object_text": "found that 7% of advisors industry-wide had been disciplined for misconduct",
+    "object_value": 7.0,
+    "object_unit": "%",
+    "source_text": "A 2016 research paper from the University of Chicago and the University of Minnesota found that 7% of advisors industry-wide had been disciplined for misconduct.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "misconduct",
+      "disciplinary_action"
+    ],
+    "entities": [
+      "University of Chicago",
+      "University of Minnesota"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aee697e2-2833-4aa9-b43b-ccaa9988b6f7",
+    "chunk_id": "73007cc3-55ca-4d0c-be44-957d67eda482",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "In 2017, Reuters analyzed FINRA data and found that a significant percentage of brokers with multiple disclosures on their",
+    "subject": "Reuters",
+    "predicate_type": "relates_to",
+    "object_text": "analyzed FINRA data and found that a significant percentage of brokers with multiple disclosures on their",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2017, Reuters analyzed FINRA data and found that a significant percentage of brokers with multiple disclosures on their",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "broker_disclosure"
+    ],
+    "entities": [
+      "Reuters",
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cc9105b1-d2da-4e79-8a36-ef60d35a7511",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA operates the largest arbitration forum in the United States for the resolution of disputes between customers and member firms, as well as between brokerage firm employees and their firms.",
+    "subject": "FINRA",
+    "predicate_type": "implements",
+    "object_text": "the largest arbitration forum in the United States for the resolution of disputes between customers and member firms, as well as between brokerage firm employees and their firms",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA operates the largest arbitration forum in the United States for the resolution of disputes between customers and member firms, as well as between brokerage firm employees and their firms.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "dispute resolution"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "509c6c56-5b57-45de-b88b-8945939b88d2",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "This function had been performed by both NASD and NYSE's regulation committee until their merger in 2007 to form FINRA.",
+    "subject": "function of operating the largest arbitration forum in the United States",
+    "predicate_type": "implements",
+    "object_text": "performed by both NASD and NYSE's regulation committee until their merger in 2007 to form FINRA",
+    "object_value": 2007,
+    "object_unit": null,
+    "source_text": "This function had been performed by both NASD and NYSE's regulation committee until their merger in 2007 to form FINRA.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "dispute resolution"
+    ],
+    "entities": [
+      "NASD",
+      "NYSE",
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ab78bc9-0133-48c9-aa6d-ca2fef3f9d20",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Each entity had its own set of rules on arbitration procedures.",
+    "subject": "NASD and NYSE",
+    "predicate_type": "governs",
+    "object_text": "its own set of rules on arbitration procedures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Each entity had its own set of rules on arbitration procedures.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "dispute resolution"
+    ],
+    "entities": [
+      "NASD",
+      "NYSE"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "55eb9186-c1cf-4306-ab01-03f0bcfcbacb",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA Dispute Resolution harmonized the prior NYSE and NASD rules.",
+    "subject": "FINRA Dispute Resolution",
+    "predicate_type": "implements",
+    "object_text": "harmonized the prior NYSE and NASD rules",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA Dispute Resolution harmonized the prior NYSE and NASD rules.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "dispute resolution"
+    ],
+    "entities": [
+      "FINRA",
+      "NYSE",
+      "NASD"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "43d4b7a3-d37f-49de-ba0f-436195eb8f8f",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Virtually all agreements between investors and their stockbrokers include mandatory arbitration agreements, whereby investors (and the brokerage firms) waive their right to trial in a court of law.",
+    "subject": "agreements between investors and their stockbrokers",
+    "predicate_type": "requires",
+    "object_text": "mandatory arbitration agreements, whereby investors (and the brokerage firms) waive their right to trial in a court of law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Virtually all agreements between investors and their stockbrokers include mandatory arbitration agreements, whereby investors (and the brokerage firms) waive their right to trial in a court of law.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "dispute resolution"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "264dcf28-cb2e-472e-bcc5-4c48b6814c76",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA rules do not allow member firms to limit customers\u2019 right to pursue class actions in court, rather than arbitration.",
+    "subject": "FINRA rules",
+    "predicate_type": "prohibits",
+    "object_text": "member firms to limit customers\u2019 right to pursue class actions in court, rather than arbitration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA rules do not allow member firms to limit customers\u2019 right to pursue class actions in court, rather than arbitration.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "class actions"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a27cea99-a741-4241-9682-44305df0fe33",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "As of 2023, the pool of arbitrators consisted of 4,236 individuals classified by FINRA as industry panelists and 4,037 individuals classified as non-industry panelists.",
+    "subject": "pool of arbitrators",
+    "predicate_type": "classifies",
+    "object_text": "4,236 individuals classified by FINRA as industry panelists and 4,037 individuals classified as non-industry panelists",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As of 2023, the pool of arbitrators consisted of 4,236 individuals classified by FINRA as industry panelists and 4,037 individuals classified as non-industry panelists.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a21fdcc-fcf0-4f24-a481-472023aaec57",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "As of 2023, the pool of arbitrators consisted of 4,236 individuals classified by FINRA as industry panelists.",
+    "subject": "industry panelists",
+    "predicate_type": "defines",
+    "object_text": "4,236 individuals",
+    "object_value": 4236,
+    "object_unit": null,
+    "source_text": "As of 2023, the pool of arbitrators consisted of 4,236 individuals classified by FINRA as industry panelists.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "24d78272-a2e5-4339-8a68-b8b75c9d9504",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "As of 2023, the pool of arbitrators consisted of 4,037 individuals classified by FINRA as non-industry panelists.",
+    "subject": "non-industry panelists",
+    "predicate_type": "defines",
+    "object_text": "4,037 individuals",
+    "object_value": 4037,
+    "object_unit": null,
+    "source_text": "As of 2023, the pool of arbitrators consisted of 4,037 individuals classified by FINRA as non-industry panelists.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c5b5c1ed-0eee-496b-a4f9-b7af5f0a793a",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "In 1987, the U.S. Supreme Court ruled in Shearson/American Express Inc. v. McMahon that clauses mandating arbitration for disputes under the Securities Exchange Act of 1934 were enforceable.",
+    "subject": "U.S. Supreme Court ruling in Shearson/American Express Inc. v. McMahon",
+    "predicate_type": "governs",
+    "object_text": "clauses mandating arbitration for disputes under the Securities Exchange Act of 1934 were enforceable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1987, the U.S. Supreme Court ruled in Shearson/American Express Inc. v. McMahon that clauses mandating arbitration for disputes under the Securities Exchange Act of 1934 were enforceable.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "enforceability"
+    ],
+    "entities": [
+      "Shearson/American Express Inc.",
+      "Securities Exchange Act of 1934"
+    ],
+    "regulations": [
+      "Securities Exchange Act of 1934"
+    ],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "884cc89e-ccc0-467e-86db-cc3ba0ccabd2",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Three years later, it overturned Wilko v. Swan completely in Rodriguez de Quijas v. Shearson/American Express Inc., extending the arbitration requirement to disputes under the Securities Act of 1933.",
+    "subject": "U.S. Supreme Court ruling in Rodriguez de Quijas v. Shearson/American Express Inc.",
+    "predicate_type": "supersedes",
+    "object_text": "Wilko v. Swan completely, extending the arbitration requirement to disputes under the Securities Act of 1933",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Three years later, it overturned Wilko v. Swan completely in Rodriguez de Quijas v. Shearson/American Express Inc., extending the arbitration requirement to disputes under the Securities Act of 1933.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "enforceability"
+    ],
+    "entities": [
+      "Wilko v. Swan",
+      "Rodriguez de Quijas v. Shearson/American Express Inc.",
+      "Shearson/American Express Inc.",
+      "Securities Act of 1933"
+    ],
+    "regulations": [
+      "Securities Act of 1933"
+    ],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c513a9ad-e5e6-4d18-832c-ac53c825e355",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "For disputes over US$100,000 between customers and member firms, the panel that decides the case generally consists of three arbitrators: one industry (or, at the customer's timely discretion non-industry) panelist, one non-industry panelist, and one non-industry chairperson, according to the Code of Arbitration Procedure for Customer Disputes.",
+    "subject": "panel that decides the case",
+    "predicate_type": "requires",
+    "object_text": "three arbitrators: one industry (or, at the customer's timely discretion non-industry) panelist, one non-industry panelist, and one non-industry chairperson",
+    "object_value": 3,
+    "object_unit": null,
+    "source_text": "For disputes over US$100,000 between customers and member firms, the panel that decides the case generally consists of three arbitrators: one industry (or, at the customer's timely discretion non-industry) panelist, one non-industry panelist, and one non-industry chairperson, according to the Code of Arbitration Procedure for Customer Disputes.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "dispute resolution"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": [
+          "customers",
+          "member firms"
+        ]
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f1967ed5-52b7-49ed-bedb-dd219d6e31fe",
+    "chunk_id": "3ec85599-be09-4a8c-bdbc-9556598ab267",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "For disputes between an employee and member firms, all three arbitrators are industry panelists, according to the industry code.",
+    "subject": "arbitrators",
+    "predicate_type": "classifies",
+    "object_text": "all three arbitrators are industry panelists",
+    "object_value": 3,
+    "object_unit": null,
+    "source_text": "For disputes between an employee and member firms, all three arbitrators are industry panelists, according to the industry code.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "dispute resolution"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": [
+          "employee",
+          "member firms"
+        ]
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5bd81e73-3bd0-409e-b1e9-9c1cd0cce14f",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The Financial Industry Regulatory Authority is the largest independent regulator for all securities firms doing business in the United States.",
+    "subject": "Financial Industry Regulatory Authority",
+    "predicate_type": "defines",
+    "object_text": "the largest independent regulator for all securities firms doing business in the United States",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Financial Industry Regulatory Authority is the largest independent regulator for all securities firms doing business in the United States.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "Financial Industry Regulatory Authority"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ec521a6e-ffe6-41bc-bd88-3a4d097506ae",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA's mission is to protect investors by making sure the United States securities industry operates fairly and honestly.",
+    "subject": "FINRA",
+    "predicate_type": "defines",
+    "object_text": "mission to protect investors by making sure the United States securities industry operates fairly and honestly",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA's mission is to protect investors by making sure the United States securities industry operates fairly and honestly.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investor_protection",
+      "securities_industry"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1de1783a-9d3a-46b9-af80-5a52a9d44a6f",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "As of October 2023, FINRA oversaw 3,394 brokerage firms.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "3,394 brokerage firms",
+    "object_value": 3394,
+    "object_unit": null,
+    "source_text": "As of October 2023, FINRA oversaw 3,394 brokerage firms.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokerage"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": false,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aead1641-14f5-4064-8d03-ebb3946f6986",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "As of October 2023, FINRA oversaw 149,887 branch offices.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "149,887 branch offices",
+    "object_value": 149887,
+    "object_unit": null,
+    "source_text": "As of October 2023, FINRA oversaw 149,887 branch offices.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "brokerage"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": false,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59fe2ba1-cf88-4a3a-9609-e3ec81528d36",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "As of October 2023, FINRA oversaw approximately 612,457 registered securities representatives.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "approximately 612,457 registered securities representatives",
+    "object_value": 612457,
+    "object_unit": null,
+    "source_text": "As of October 2023, FINRA oversaw approximately 612,457 registered securities representatives.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": false,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0961270d-f922-4f07-b7e6-e31d2d2e2f9d",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA has approximately 4,200 employees.",
+    "subject": "FINRA",
+    "predicate_type": "defines",
+    "object_text": "approximately 4,200 employees",
+    "object_value": 4200,
+    "object_unit": null,
+    "source_text": "FINRA has approximately 4,200 employees.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "personnel"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b8311450-f48d-4d04-b26a-a6356c124bac",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA operates from Washington, D.C., and New York City, with 20 regional offices around the United States.",
+    "subject": "FINRA",
+    "predicate_type": "defines",
+    "object_text": "operates from Washington, D.C., and New York City, with 20 regional offices around the United States",
+    "object_value": 20,
+    "object_unit": null,
+    "source_text": "FINRA operates from Washington, D.C., and New York City, with 20 regional offices around the United States.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05b5babd-e32f-42c0-a5f8-faa148bf09e9",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA offers regulatory oversight over all securities firms that do business with the public.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "regulatory oversight over all securities firms that do business with the public",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA offers regulatory oversight over all securities firms that do business with the public.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities",
+      "regulatory_oversight"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f41dfe31-2efd-42f4-9f82-01b9dcc8a43e",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA offers professional training, testing, and licensing of registered persons.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "professional training, testing, and licensing of registered persons",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA offers professional training, testing, and licensing of registered persons.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "licensing",
+      "training"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8bcb932a-0d26-4656-927c-9d1fc8c94873",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA offers arbitration and mediation.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "arbitration and mediation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA offers arbitration and mediation.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitration",
+      "mediation"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7646d60b-f5a0-4ad4-ba84-04bd70ca7079",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA offers market regulation by contract for the New York Stock Exchange, the NASDAQ Stock Market, Inc., the American Stock Exchange LLC, and the International Securities Exchange, LLC.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "market regulation by contract for the New York Stock Exchange, the NASDAQ Stock Market, Inc., the American Stock Exchange LLC, and the International Securities Exchange, LLC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA offers market regulation by contract for the New York Stock Exchange, the NASDAQ Stock Market, Inc., the American Stock Exchange LLC, and the International Securities Exchange, LLC.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_regulation"
+    ],
+    "entities": [
+      "FINRA",
+      "New York Stock Exchange",
+      "NASDAQ Stock Market, Inc.",
+      "American Stock Exchange LLC",
+      "International Securities Exchange, LLC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "343bb2b7-9997-4110-97ab-548285f8547c",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA offers industry utilities, such as Trade Reporting Facilities and other over-the-counter operations.",
+    "subject": "FINRA",
+    "predicate_type": "governs",
+    "object_text": "industry utilities, such as Trade Reporting Facilities and other over-the-counter operations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA offers industry utilities, such as Trade Reporting Facilities and other over-the-counter operations.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_regulation"
+    ],
+    "entities": [
+      "FINRA",
+      "Trade Reporting Facilities"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5c502047-4d1a-466d-9b76-c87f8aa6e6b0",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA was formed by a consolidation of the member regulation, enforcement, and arbitration operations of the New York Stock Exchange, NYSE Regulation, Inc., and NASD.",
+    "subject": "FINRA",
+    "predicate_type": "defines",
+    "object_text": "formed by a consolidation of the member regulation, enforcement, and arbitration operations of the New York Stock Exchange, NYSE Regulation, Inc., and NASD",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA was formed by a consolidation of the member regulation, enforcement, and arbitration operations of the New York Stock Exchange, NYSE Regulation, Inc., and NASD.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "FINRA",
+      "New York Stock Exchange",
+      "NYSE Regulation, Inc.",
+      "NASD"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1606bdaf-84d6-44e6-a2d0-e68601528cd1",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The merger was approved by the United States Securities and Exchange Commission (SEC) on July 26, 2007.",
+    "subject": "merger",
+    "predicate_type": "relates_to",
+    "object_text": "approved by the United States Securities and Exchange Commission (SEC) on July 26, 2007",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The merger was approved by the United States Securities and Exchange Commission (SEC) on July 26, 2007.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "United States Securities and Exchange Commission",
+      "SEC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": false,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cc5bf308-a2d0-40f2-b9bc-4aa2ad11d137",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "FINRA's authority was upheld in June 2025, when the United States Supreme Court declined to hear an argument that the regulator is unconstitutional.",
+    "subject": "FINRA's authority",
+    "predicate_type": "relates_to",
+    "object_text": "upheld in June 2025, when the United States Supreme Court declined to hear an argument that the regulator is unconstitutional",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FINRA's authority was upheld in June 2025, when the United States Supreme Court declined to hear an argument that the regulator is unconstitutional.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "FINRA",
+      "United States Supreme Court"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": false,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7720a4eb-9615-4fe7-9d33-0ccdc02233fc",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "The case was raised after FINRA made a 2019 judgement against a broker-dealer for alleged theft of client funds, and the appeals process resulted in the denial from the high court and upholding of FINRA's regulatory authority.",
+    "subject": "case",
+    "predicate_type": "relates_to",
+    "object_text": "raised after FINRA made a 2019 judgement against a broker-dealer for alleged theft of client funds, and the appeals process resulted in the denial from the high court and upholding of FINRA's regulatory authority",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The case was raised after FINRA made a 2019 judgement against a broker-dealer for alleged theft of client funds, and the appeals process resulted in the denial from the high court and upholding of FINRA's regulatory authority.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "FINRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2a6591d7-a5fc-47c3-8844-94fbe668ce16",
+    "chunk_id": "cde74dad-2d5d-4ab4-9696-cbfb8d944c31",
+    "document_id": "Financial_Industry_Regulatory_Authority",
+    "claim_text": "Congresswoman and Republican Conference Chair Lisa McClain introduced legislation in the 119th Congress to transfer the rulemaking, examination, and enforcement authority held by FINRA to the Securities and Exchange Commission.",
+    "subject": "Congresswoman and Republican Conference Chair Lisa McClain",
+    "predicate_type": "relates_to",
+    "object_text": "introduced legislation in the 119th Congress to transfer the rulemaking, examination, and enforcement authority held by FINRA to the Securities and Exchange Commission",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Congresswoman and Republican Conference Chair Lisa McClain introduced legislation in the 119th Congress to transfer the rulemaking, examination, and enforcement authority held by FINRA to the Securities and Exchange Commission.",
+    "source_document": "Financial Industry Regulatory Authority",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "Lisa McClain",
+      "FINRA",
+      "Securities and Exchange Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

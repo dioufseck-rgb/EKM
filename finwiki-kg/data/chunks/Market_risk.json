@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "sequence": 0,
+    "section_title": "Market risk is   the risk of losses in positions arising from movements in market variables like prices and volatility.",
+    "content": "There is no unique classification as each classification may refer to different aspects of market risk. Nevertheless, the most commonly used types of market risk are:\n\nEquity risk, the risk that stock or stock indices (e.g. Euro Stoxx 50, etc.) prices or their implied volatility will change.\nInterest rate risk, the risk that interest rates (e.g. Libor, Euribor, etc.) or their implied volatility will change.\nCurrency risk, the risk that foreign exchange rates (e.g. EUR/USD, EUR/GBP, etc.) or their implied volatility will change.\nCommodity risk, the risk that commodity prices (e.g. corn, crude oil) or their implied volatility will change.\nMargining risk results from uncertain future cash outflows due to margin calls covering adverse value changes of a given position.\nShape risk\nHolding period risk\nBasis risk\nThe capital requirement for market risk is addressed under a revised framework known as \"Fundamental Review of the Trading Book\" (FRTB).",
+    "token_estimate": 148,
+    "title": "Market risk",
+    "url": "https://en.wikipedia.org/wiki/Market_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "sequence": 1,
+    "section_title": "Measuring the potential loss amount due to market risk",
+    "content": "As with other forms of risk, the potential loss amount due to market risk may be measured in several ways or conventions. Traditionally, one convention is to use value at risk (VaR). The conventions of using VaR are well established and accepted in the short-term risk management practice. However, VaR contains a number of limiting assumptions that constrain its accuracy. The first assumption is that the composition of the portfolio measured remains unchanged over the specified period. Over short time horizons, this limiting assumption is often regarded as reasonable. However, over longer time horizons, many of the positions in the portfolio may have been changed. The VaR of the unchanged portfolio is no longer relevant. Other problematic issues with VaR is that it is not sub-additive, and therefore not a coherent risk measure. As a result, other suggestions for measuring market risk is conditional value-at-risk (CVaR) that is coherent for general loss distributions, including discrete distributions and is sub-additive. The variance covariance and historical simulation approach to calculating VaR assumes that historical correlations are stable and will not change in the future or breakdown under times of market stress. However these assumptions are inappropriate as during periods of high volatility and market turbulence, historical correlations tend to break down. Intuitively, this is evident during a financial crisis where all industry sectors experience a significant increase in correlations, as opposed to an upward trending market. This phenomenon is also known as asymmetric correlations or asymmetric dependence. Rather than using the historical simulation, Monte-Carlo simulations with well-specified multivariate models are an excellent alternative. For example, to improve the estimation of the variance-covariance matrix, one can generate a forecast of asset distributions via Monte-Carlo simulation based upon the Gaussian copula and well-specified marginals. Allowing the modelling process to allow for empirical characteristics in stock returns such as auto-regression, asymmetric volatility, skewness, and kurtosis is important. Not accounting for these attributes lead to severe estimation error in the correlation and variance-covariance that have negative biases (as much as 70% of the true values). Estimation of VaR or CVaR for large portfolios of assets using the variance-covariance matrix may be inappropriate if the underlying returns distributions exhibit asymmetric dependence. In such scenarios, vine copulas that allow for asymmetric dependence (e.g., Clayton, Rotated Gumbel) across portfolios of assets are most appropriate in the calculation of tail risk using VaR or CVaR. Besides, care has to be",
+    "token_estimate": 400,
+    "title": "Market risk",
+    "url": "https://en.wikipedia.org/wiki/Market_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "da5d074f-c89c-4210-858c-31c946f2f9b1",
+    "document_id": "Market_risk",
+    "sequence": 2,
+    "section_title": "Measuring the potential loss amount due to market risk",
+    "content": "the variance-covariance matrix may be inappropriate if the underlying returns distributions exhibit asymmetric dependence. In such scenarios, vine copulas that allow for asymmetric dependence (e.g., Clayton, Rotated Gumbel) across portfolios of assets are most appropriate in the calculation of tail risk using VaR or CVaR. Besides, care has to be taken regarding the intervening cash flow, embedded options, changes in floating rate interest rates of the financial positions in the portfolio. They cannot be ignored if their impact can be large.",
+    "token_estimate": 81,
+    "title": "Market risk",
+    "url": "https://en.wikipedia.org/wiki/Market_risk",
+    "domain": "finance"
+  }
+]

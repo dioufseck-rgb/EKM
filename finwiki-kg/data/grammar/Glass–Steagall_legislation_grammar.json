@@ -1,0 +1,347 @@
+{
+  "4ca73643-f9c7-491a-b3d6-aa100bea3b29": {
+    "assertion_id": "4ca73643-f9c7-491a-b3d6-aa100bea3b29",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "52251017-7b54-483f-b6a7-190f0b58482f": {
+    "assertion_id": "52251017-7b54-483f-b6a7-190f0b58482f",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "785a87e3-2509-4250-b763-318f32364884": {
+    "assertion_id": "785a87e3-2509-4250-b763-318f32364884",
+    "discourse_role": "warrant",
+    "validity_claim_type": "normative"
+  },
+  "e7cbf2ad-2ed8-4dd2-9758-4f16a584286b": {
+    "assertion_id": "e7cbf2ad-2ed8-4dd2-9758-4f16a584286b",
+    "discourse_role": "rebuttal",
+    "validity_claim_type": "constative"
+  },
+  "1d44a43d-f19d-4b09-a4cb-431a2d0c048d": {
+    "assertion_id": "1d44a43d-f19d-4b09-a4cb-431a2d0c048d",
+    "discourse_role": "rebuttal",
+    "validity_claim_type": "constative"
+  },
+  "5e209ada-2b55-4e27-8649-582fe0192ef1": {
+    "assertion_id": "5e209ada-2b55-4e27-8649-582fe0192ef1",
+    "discourse_role": "rebuttal",
+    "validity_claim_type": "constative"
+  },
+  "68888f1a-ab57-4a8c-ac54-45e1551c7b8d": {
+    "assertion_id": "68888f1a-ab57-4a8c-ac54-45e1551c7b8d",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "688edef3-ee22-4e7d-bc1d-12f38c742719": {
+    "assertion_id": "688edef3-ee22-4e7d-bc1d-12f38c742719",
+    "discourse_role": "warrant",
+    "validity_claim_type": "normative"
+  },
+  "913322a1-cf70-4697-9dfb-b9af5f5feea8": {
+    "assertion_id": "913322a1-cf70-4697-9dfb-b9af5f5feea8",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "54f24f80-32a2-4d6d-bf29-bca5a895b151": {
+    "assertion_id": "54f24f80-32a2-4d6d-bf29-bca5a895b151",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "099e7c1d-4246-47b2-88e4-71095394b9db": {
+    "assertion_id": "099e7c1d-4246-47b2-88e4-71095394b9db",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "27d57cae-a30c-485c-a846-99df211fe5f0": {
+    "assertion_id": "27d57cae-a30c-485c-a846-99df211fe5f0",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "0e946482-8a6a-47b9-a6c2-47949f01be88": {
+    "assertion_id": "0e946482-8a6a-47b9-a6c2-47949f01be88",
+    "discourse_role": "warrant",
+    "validity_claim_type": "normative"
+  },
+  "058e1e27-048b-492a-81bb-a1c24b1e5c34": {
+    "assertion_id": "058e1e27-048b-492a-81bb-a1c24b1e5c34",
+    "discourse_role": "warrant",
+    "validity_claim_type": "normative"
+  },
+  "dc70aaff-9e8c-4deb-8851-bf13c88dd910": {
+    "assertion_id": "dc70aaff-9e8c-4deb-8851-bf13c88dd910",
+    "discourse_role": "warrant",
+    "validity_claim_type": "normative"
+  },
+  "a6ba5432-ee24-416d-a3b7-9ebc1f7ffa6f": {
+    "assertion_id": "a6ba5432-ee24-416d-a3b7-9ebc1f7ffa6f",
+    "discourse_role": "warrant",
+    "validity_claim_type": "normative"
+  },
+  "c49990aa-814b-4f8b-891d-dafc568e36c9": {
+    "assertion_id": "c49990aa-814b-4f8b-891d-dafc568e36c9",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "4c285731-cb51-45e9-946a-b3416ba0be23": {
+    "assertion_id": "4c285731-cb51-45e9-946a-b3416ba0be23",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "a790c22d-09c9-4108-b4e6-d5879803077c": {
+    "assertion_id": "a790c22d-09c9-4108-b4e6-d5879803077c",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "898abfec-37e6-433f-b88d-2e638f76f3be": {
+    "assertion_id": "898abfec-37e6-433f-b88d-2e638f76f3be",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "03ff4a24-8f94-461e-9dec-ee653f12e354": {
+    "assertion_id": "03ff4a24-8f94-461e-9dec-ee653f12e354",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "6efd6492-ba92-425e-b4db-cf5dccf1f542": {
+    "assertion_id": "6efd6492-ba92-425e-b4db-cf5dccf1f542",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "02b2688f-aea5-4227-840a-a4ade0741264": {
+    "assertion_id": "02b2688f-aea5-4227-840a-a4ade0741264",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "27d81c50-c1f7-4713-ad1d-60c8125b5870": {
+    "assertion_id": "27d81c50-c1f7-4713-ad1d-60c8125b5870",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "450644f0-9aeb-4914-906a-5ef6cdd9c83e": {
+    "assertion_id": "450644f0-9aeb-4914-906a-5ef6cdd9c83e",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "42af40c7-4f78-43a0-a270-75a626e242a5": {
+    "assertion_id": "42af40c7-4f78-43a0-a270-75a626e242a5",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "90570180-000f-42c0-bcd7-206537896a40": {
+    "assertion_id": "90570180-000f-42c0-bcd7-206537896a40",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "01245a6b-be99-486f-b25f-6436743a65de": {
+    "assertion_id": "01245a6b-be99-486f-b25f-6436743a65de",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "937f64ec-d3e8-43dc-8083-4ec810272589": {
+    "assertion_id": "937f64ec-d3e8-43dc-8083-4ec810272589",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "64703d29-664e-44b9-8814-9e645e9e260e": {
+    "assertion_id": "64703d29-664e-44b9-8814-9e645e9e260e",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "6891c584-eb19-4c46-9d3a-de49cfde9510": {
+    "assertion_id": "6891c584-eb19-4c46-9d3a-de49cfde9510",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "7f721834-4de8-450d-bef8-6a2c5072ecf0": {
+    "assertion_id": "7f721834-4de8-450d-bef8-6a2c5072ecf0",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "4000239d-b757-4b0f-aa1d-96c98a60b926": {
+    "assertion_id": "4000239d-b757-4b0f-aa1d-96c98a60b926",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "502a9e3e-63c5-4988-8efd-9a65899c0cd6": {
+    "assertion_id": "502a9e3e-63c5-4988-8efd-9a65899c0cd6",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "d3210e7a-b1d2-4eec-9dee-6cb311334049": {
+    "assertion_id": "d3210e7a-b1d2-4eec-9dee-6cb311334049",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "811abb3b-4eb6-47be-9790-4d3a81268afd": {
+    "assertion_id": "811abb3b-4eb6-47be-9790-4d3a81268afd",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "652029eb-f02b-4b9b-bdcd-9b19d6885b24": {
+    "assertion_id": "652029eb-f02b-4b9b-bdcd-9b19d6885b24",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "dfa93bfe-b0a0-4ef6-81a3-56c20034111d": {
+    "assertion_id": "dfa93bfe-b0a0-4ef6-81a3-56c20034111d",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "0ba8ade9-0676-4d67-a7d1-497b8ccbad79": {
+    "assertion_id": "0ba8ade9-0676-4d67-a7d1-497b8ccbad79",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "cca3f863-f5bf-4bc4-97bf-b151be9c00b7": {
+    "assertion_id": "cca3f863-f5bf-4bc4-97bf-b151be9c00b7",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "4e46c6fa-3c71-4a51-912d-e0aa3f2da3fd": {
+    "assertion_id": "4e46c6fa-3c71-4a51-912d-e0aa3f2da3fd",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "a92734d4-74b2-49dc-b0cf-c632a2fe866d": {
+    "assertion_id": "a92734d4-74b2-49dc-b0cf-c632a2fe866d",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "a15fad18-e650-44e4-b7dd-7128bc2112af": {
+    "assertion_id": "a15fad18-e650-44e4-b7dd-7128bc2112af",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "46719ba0-d747-473d-b279-a535b145e93f": {
+    "assertion_id": "46719ba0-d747-473d-b279-a535b145e93f",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "254e252f-5e4e-4143-8e42-422935b822e0": {
+    "assertion_id": "254e252f-5e4e-4143-8e42-422935b822e0",
+    "discourse_role": "ground",
+    "validity_claim_type": "expressive"
+  },
+  "2d8f9cf4-2486-4778-a757-b3a04509de90": {
+    "assertion_id": "2d8f9cf4-2486-4778-a757-b3a04509de90",
+    "discourse_role": "ground",
+    "validity_claim_type": "expressive"
+  },
+  "6a467ae1-0edf-4578-ae1c-1a239ba6ed06": {
+    "assertion_id": "6a467ae1-0edf-4578-ae1c-1a239ba6ed06",
+    "discourse_role": "ground",
+    "validity_claim_type": "expressive"
+  },
+  "05477229-729c-4247-9864-eb379eb38085": {
+    "assertion_id": "05477229-729c-4247-9864-eb379eb38085",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "cbc235fe-2677-4950-ad6a-b05182b5d736": {
+    "assertion_id": "cbc235fe-2677-4950-ad6a-b05182b5d736",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "281e7a35-9042-4015-8b85-548b3756d0e5": {
+    "assertion_id": "281e7a35-9042-4015-8b85-548b3756d0e5",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "d44d6bd1-d419-4c8d-8662-bdc83ca10e9d": {
+    "assertion_id": "d44d6bd1-d419-4c8d-8662-bdc83ca10e9d",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "3747c836-c56f-4bcb-a0c5-2be5edae5609": {
+    "assertion_id": "3747c836-c56f-4bcb-a0c5-2be5edae5609",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "8cee426a-0fa0-4b3a-8529-76b16e8993d0": {
+    "assertion_id": "8cee426a-0fa0-4b3a-8529-76b16e8993d0",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "b89c4f73-58c5-4428-b247-3633e5fa4dc7": {
+    "assertion_id": "b89c4f73-58c5-4428-b247-3633e5fa4dc7",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "71520321-5781-4c61-ab87-be590257080b": {
+    "assertion_id": "71520321-5781-4c61-ab87-be590257080b",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "2863f9af-e8de-4d4a-98d9-a7e22ec5ec75": {
+    "assertion_id": "2863f9af-e8de-4d4a-98d9-a7e22ec5ec75",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "602fd51c-4ece-44a0-af5a-2c852ed02f32": {
+    "assertion_id": "602fd51c-4ece-44a0-af5a-2c852ed02f32",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "4a7b2099-29df-4a0f-938d-d9e34c586702": {
+    "assertion_id": "4a7b2099-29df-4a0f-938d-d9e34c586702",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "6385caab-9602-46a8-b22b-88ed51e39b26": {
+    "assertion_id": "6385caab-9602-46a8-b22b-88ed51e39b26",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "0806c9a7-67d4-490a-9a55-cf1e248b8748": {
+    "assertion_id": "0806c9a7-67d4-490a-9a55-cf1e248b8748",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "9229b19d-c364-441f-9eff-a74fc804fe73": {
+    "assertion_id": "9229b19d-c364-441f-9eff-a74fc804fe73",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "8e7efa78-ea51-4866-b676-3fee863c93af": {
+    "assertion_id": "8e7efa78-ea51-4866-b676-3fee863c93af",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "1b8a8f9f-9e8e-49b1-88ce-a1ac93327403": {
+    "assertion_id": "1b8a8f9f-9e8e-49b1-88ce-a1ac93327403",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "05acaee7-f9d0-4d36-9b6c-245dc4a9848a": {
+    "assertion_id": "05acaee7-f9d0-4d36-9b6c-245dc4a9848a",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "f876fbf9-0d4f-47f1-9b9d-7eafde14c83d": {
+    "assertion_id": "f876fbf9-0d4f-47f1-9b9d-7eafde14c83d",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "71adb6fe-7a61-4958-9fee-b3febddabfd4": {
+    "assertion_id": "71adb6fe-7a61-4958-9fee-b3febddabfd4",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "79084324-c163-45e7-81d9-8e53d23f786c": {
+    "assertion_id": "79084324-c163-45e7-81d9-8e53d23f786c",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "005756f0-f149-4e25-8409-1853ebf873e6": {
+    "assertion_id": "005756f0-f149-4e25-8409-1853ebf873e6",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  },
+  "0a6ab2ee-1f8f-43d9-9e5c-f27a076ff7f1": {
+    "assertion_id": "0a6ab2ee-1f8f-43d9-9e5c-f27a076ff7f1",
+    "discourse_role": "ground",
+    "validity_claim_type": "constative"
+  }
+}

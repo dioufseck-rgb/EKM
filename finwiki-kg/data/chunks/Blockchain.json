@@ -1,0 +1,178 @@
+[
+  {
+    "chunk_id": "c6a4d956-6c46-463e-8c12-29f2aa739e04",
+    "document_id": "Blockchain",
+    "sequence": 0,
+    "section_title": "A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves). Since each block contains information about the previous block, they effectively form a chain (viz. linked list data structure), with each additional block linking to the ones before it. Consequently, blockchain transactions are resistant to alteration because, once recorded, the data in any given block cannot be changed retroactively without altering all subsequent blocks and obtaining network consensus to accept these changes.",
+    "content": "Blockchains are typically managed by a peer-to-peer (P2P) computer network for use as a public distributed ledger, where nodes collectively adhere to a consensus algorithm protocol to add and validate new transaction blocks. Although blockchain records are not unalterable, since blockchain forks are possible, blockchains may be considered secure by design and exemplify a distributed computing system with high Byzantine fault tolerance.\nA blockchain was created by a person (or group of people) using the name (or pseudonym) Satoshi Nakamoto in 2008 to serve as the public distributed ledger for bitcoin cryptocurrency transactions, based on previous work by Stuart Haber, W. Scott Stornetta, and Dave Bayer. The implementation of the blockchain within bitcoin made it the first digital currency to solve the double-spending problem without the need for a trusted authority or central server. The bitcoin design has inspired other applications and blockchains that are readable by the public and are widely used by cryptocurrencies. The blockchain may be considered a type of payment rail.\nPrivate blockchains have been proposed for business use. Computerworld called the marketing of such privatized blockchains without a proper security model \"snake oil\"; however, others have argued that permissioned blockchains, if carefully designed, may be more decentralized and therefore more secure in practice than permissionless ones.",
+    "token_estimate": 211,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "1e1b341e-e249-4256-835f-69eb8e5f2095",
+    "document_id": "Blockchain",
+    "sequence": 1,
+    "section_title": "History",
+    "content": "Cryptographer David Chaum first proposed a blockchain-like protocol in his 1982 dissertation \"Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups\". Further work on a cryptographically secured chain of blocks was described in 1991 by Stuart Haber and W. Scott Stornetta. They wanted to implement a system wherein document timestamps could not be tampered with. In 1992, Haber, Stornetta, and Dave Bayer incorporated Merkle trees into the design, which improved its efficiency by allowing several document certificates to be collected into one block. Under their company Surety, their document certificate hashes have been published in The New York Times every week since 1995.\nThe first decentralized blockchain was conceptualized by a person (or group of people) known as Satoshi Nakamoto in 2008. Nakamoto improved the design in an important way using a Hashcash-like method to timestamp blocks without requiring them to be signed by a trusted party and introducing a difficulty parameter to stabilize the rate at which blocks are added to the chain. The design was implemented the following year by Nakamoto as a core component of the cryptocurrency bitcoin, where it serves as the public ledger for all transactions on the network.\nIn August 2014, the bitcoin blockchain file size, containing records of all transactions that have occurred on the network, reached 20 GB (gigabytes). By 2024, the bitcoin blockchain exceeded 600 GB.\nThe words block and chain were used separately in Satoshi Nakamoto's original paper, but were eventually popularized as a single word, blockchain, by 2016.\nAccording to Accenture, an application of the diffusion of innovations theory suggests that blockchains attained a 13.5% adoption rate within financial services in 2016, therefore reaching the early adopters' phase. Industry trade groups joined to create the Global Blockchain Forum in 2016, an initiative of the Chamber of Digital Commerce.\nIn May 2018, Gartner found that only 1% of CIOs indicated any kind of blockchain adoption within their organisations, and only 8% of CIOs were in the short-term \"planning or [looking at] active experimentation with blockchain\". For the year 2019 Gartner reported 5% of CIOs believed blockchain technology was a 'game-changer' for their business.",
+    "token_estimate": 354,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "9c87c5e6-d7ec-4aeb-8993-34458f1d1dd7",
+    "document_id": "Blockchain",
+    "sequence": 2,
+    "section_title": "Structure and design",
+    "content": "A blockchain is a decentralized, distributed, and often public, digital ledger consisting of records called blocks that are used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks. This allows the participants to verify and audit transactions independently and relatively inexpensively. A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server. They are authenticated by mass collaboration powered by collective self-interests. Such a design facilitates robust workflow where participants' uncertainty regarding data security is marginal. The use of a blockchain removes the characteristic of infinite reproducibility from a digital asset. It confirms that each unit of value was transferred only once, solving the long-standing problem of double-spending. A blockchain has been described as a value-exchange protocol.\nLogically, a blockchain can be seen as consisting of several layers:\n\ninfrastructure (hardware)\nnetworking (node discovery, information propagation and verification)\nconsensus (proof of work, proof of stake)\ndata (blocks, transactions)\napplication (smart contracts/decentralized applications, if applicable)",
+    "token_estimate": 170,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "f20db6fd-ff81-46e0-a4d2-03697aec22b9",
+    "document_id": "Blockchain",
+    "sequence": 3,
+    "section_title": "Decentralization",
+    "content": "By storing data across its peer-to-peer network, the blockchain eliminates some risks that come with data being held centrally. The decentralized blockchain may use ad hoc message passing and distributed networking.\nIn a so-called \"51% attack\" a central entity gains control of more than half of a network and can then manipulate that specific blockchain record at will, allowing double-spending.\nBlockchain security methods include the use of public-key cryptography. A public key (a long, random-looking string of numbers) is an address on the blockchain. Value tokens sent across the network are recorded as belonging to that address. A private key is like a password that gives its owner access to their digital assets or the means to otherwise interact with the various capabilities that blockchains now support. Data stored on the blockchain is generally considered incorruptible.\nEvery node in a decentralized system has a copy of the blockchain. Data quality is maintained by massive database replication and computational trust. No centralized \"official\" copy exists and no user is \"trusted\" more than any other. Transactions are broadcast to the network using the software. Messages are delivered on a best-effort basis. Early blockchains rely on energy-intensive mining nodes to validate transactions, add them to the block they are building, and then broadcast the completed block to other nodes. Blockchains use various time-stamping schemes, such as proof-of-work, to serialize changes. Later consensus methods include proof of stake. The growth of a decentralized blockchain is accompanied by the risk of centralization because the computer resources required to process larger amounts of data become more expensive.",
+    "token_estimate": 261,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "9b17030c-ef00-41b3-b2f1-2de874184e1a",
+    "document_id": "Blockchain",
+    "sequence": 4,
+    "section_title": "= Permissionless (public) blockchain =",
+    "content": "An advantage to an open, permissionless, or public, blockchain network is that guarding against bad actors is not required and no access control is needed. This means that applications can be added to the network without the approval or trust of others, using the blockchain as a transport layer.\nBitcoin and other cryptocurrencies currently secure their blockchain by requiring new entries to include proof of work. To prolong the blockchain, bitcoin uses Hashcash puzzles. While Hashcash was designed in 1997 by Adam Back, the original idea was first proposed by Cynthia Dwork and Moni Naor and Eli Ponyatovski in their 1992 paper \"Pricing via Processing or Combatting Junk Mail\".\nIn 2016, venture capital investment for blockchain-related projects was weakening in the US but increasing in China. Bitcoin and many other cryptocurrencies use open (public) blockchains. As of April 2018, bitcoin has the highest market capitalization.",
+    "token_estimate": 145,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "82b5a196-7453-4ba4-87a5-98968d2fe886",
+    "document_id": "Blockchain",
+    "sequence": 5,
+    "section_title": "Uses",
+    "content": "Blockchain technology can be integrated into multiple areas. The primary use of blockchains is as a distributed ledger for cryptocurrencies such as bitcoin; there were also a few other operational products that had matured from proof of concept by late 2016. As of 2016, some businesses have been testing the technology and conducting low-level implementation to gauge blockchain's effects on organizational efficiency in their back office.\nBlockchain is seen as a pivotal technological advancement of the 21st century, with the ability to impact organizations at strategic, operational, and market levels. In 2019, it was estimated that around $2.9 billion were invested in blockchain technology, which represents an 89% increase from the year prior. Additionally, the International Data Corp estimated that corporate investment into blockchain technology would reach $12.4 billion by 2022. Furthermore, According to PricewaterhouseCoopers (PwC), the second-largest professional services network in the world, blockchain technology has the potential to generate an annual business value of more than $3 trillion by 2030. PwC's estimate is further augmented by a 2018 study that they have conducted, in which PwC surveyed 600 business executives and determined that 84% have at least some exposure to utilizing blockchain technology, which indicates a significant demand and interest in blockchain technology.\nIn 2019, the BBC World Service radio and podcast series Fifty Things That Made the Modern Economy identified blockchain as a technology that would have far-reaching consequences for economics and society. The economist and Financial Times journalist and broadcaster Tim Harford discussed why the underlying technology might have much wider applications and the challenges that needed to be overcome. His first broadcast was on 29 June 2019.\nThe number of blockchain wallets quadrupled to 40 million between 2016 and 2020.\nA paper published in 2022 discussed the potential use of blockchain technology in sustainable management.",
+    "token_estimate": 300,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "cf0f9d61-f860-4277-9416-956b78ba1af7",
+    "document_id": "Blockchain",
+    "sequence": 6,
+    "section_title": "Cryptocurrencies",
+    "content": "Most cryptocurrencies are designed to gradually decrease the production of that currency, placing a cap on the total amount of that currency that will ever be in circulation. Compared with ordinary currencies held by financial institutions or kept as cash on hand, cryptocurrencies can be more difficult for seizure by law enforcement.\nThe validity of each cryptocurrency's coins is provided by a blockchain. A blockchain is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a hash pointer as a link to a previous block, a timestamp and transaction data. By design, blockchains are inherently resistant to modification of the data. It is \"an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way\". For use as a distributed ledger, a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for validating new blocks. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks, which requires collusion of the network majority.\nBlockchains are secure by design and are an example of a distributed computing system with high Byzantine fault tolerance. Decentralized consensus has therefore been achieved with a blockchain.\nIn the context of cryptocurrencies, the blockchain serves as a public ledger for all transactions. Cryptocurrencies use various timestamping schemes to \"prove the validity of transactions added to the blockchain ledger without the need for a trusted third party\".\nThe first cryptocurrency was Bitcoin, which was first released as open-source software in 2009.\nAs cryptocurrencies have gained prominence, several countries have made advancements in their private and commercial law treatment to address legal uncertainties. In the United States, for example, the 2022 amendments to the Uniform Commercial Code (UCC) introduced Article 12, which establishes \"controllable electronic records\" (CERs) as a new category of personal property. This framework provides legal clarity for the ownership, transfer, and use of cryptocurrencies as CERs, with the concept of \"control\" serving as a functional equivalent to possession for digital assets. These reforms aim to align legal standards with market practices, reducing title disputes and supporting the integration of cryptocurrencies into commercial transactions.",
+    "token_estimate": 367,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "b450c9bc-93b8-44bb-9b61-a4e4d4d611e0",
+    "document_id": "Blockchain",
+    "sequence": 7,
+    "section_title": "Financial services",
+    "content": "According to Reason, many banks have expressed interest in implementing distributed ledgers for use in banking and are cooperating with companies creating private blockchains; according to a September 2016 IBM study, it is occurring faster than expected. It was estimated by the World Economic Forum that by 2025, 10% of the world's GDP would be stored on blockchain related technology. \nBanks are interested in this technology not least because it has the potential to speed up back office settlement systems. Moreover, as the blockchain industry has reached early maturity institutional appreciation has grown that it is, practically speaking, the infrastructure of a whole new financial industry, with all the implications which that entails. This technology will transform financial transactions due to its ability to enhance data storage, process simultaneous transactions, lessen transaction costs, and improve capital market transparency for debt and equity capital administration. \nBanks such as UBS are opening new research labs dedicated to blockchain technology in order to explore how blockchain can be used in financial services to increase efficiency and reduce costs.\nBerenberg, a German bank, believes that blockchain is an \"overhyped technology\" that has had a large number of \"proofs of concept\", but still has major challenges, and very few success stories.\nThe blockchain has also given rise to initial coin offerings (ICOs) as well as a new category of digital asset called security token offerings (STOs), also sometimes referred to as digital security offerings (DSOs). STO/DSOs may be conducted privately or on public, regulated stock exchange and are used to tokenize traditional assets such as company shares as well as more innovative ones like intellectual property, real estate, art, or individual products. A number of companies are active in this space providing services for compliant tokenization, private STOs, and public STOs.",
+    "token_estimate": 296,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "a8fd7be5-944f-4a03-b642-26bc804937f0",
+    "document_id": "Blockchain",
+    "sequence": 8,
+    "section_title": "Games",
+    "content": "Blockchain technology, such as cryptocurrencies and non-fungible tokens (NFTs), has been used in video games for monetization. Many live-service games offer in-game customization options, such as character skins or other in-game items, which the players can earn and trade with other players using in-game currency. Some games also allow for trading of virtual items using real-world currency, but this may be illegal in some countries where video games are seen as akin to gambling, and has led to gray market issues such as skin gambling, and thus publishers typically have shied away from allowing players to earn real-world funds from games. Blockchain games typically allow players to trade these in-game items for cryptocurrency, which can then be exchanged for money. The first known game to use blockchain technologies was CryptoKitties, launched in November 2017, where the player would purchase NFTs with Ethereum cryptocurrency, each NFT consisting of a virtual pet that the player could breed with others to create offspring with combined traits as new NFTs. The game made headlines in December 2017 when one virtual pet sold for more than US$100,000. CryptoKitties also illustrated scalability problems for games on Ethereum when it created significant congestion on the Ethereum network in early 2018 with approximately 30% of all Ethereum transactions being for the game. By the early 2020s, there had not been a breakout success in video games using blockchain, as these games tend to focus on using blockchain for speculation instead of more traditional forms of gameplay, which offers limited appeal to most players. Such games also represent a high risk to investors as their revenues can be difficult to predict. However, limited successes of some games, such as Axie Infinity during the COVID-19 pandemic, and corporate plans towards metaverse content, refueled interest in the area of GameFi, a term describing the intersection of video games and financing typically backed by blockchain currency, in the second half of 2021. Several major publishers, including Ubisoft, Electronic Arts, and Take Two Interactive, have stated that blockchain and NFT-based games are under serious consideration for their companies in the future. In October 2021, Valve Corporation banned blockchain games, including those using cryptocurrency and NFTs, from being hosted on its Steam digital storefront service, which is widely used for personal computer gaming, claiming that this was an extension of their policy banning games that offered in-game items with real-world value. Valve's prior history",
+    "token_estimate": 400,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "b669aa01-2435-4e1d-9e02-13faeaf32bee",
+    "document_id": "Blockchain",
+    "sequence": 9,
+    "section_title": "Games",
+    "content": "2021, Valve Corporation banned blockchain games, including those using cryptocurrency and NFTs, from being hosted on its Steam digital storefront service, which is widely used for personal computer gaming, claiming that this was an extension of their policy banning games that offered in-game items with real-world value. Valve's prior history with gambling, specifically skin gambling, was speculated to be a factor in the decision to ban blockchain games. Journalists and players responded positively to Valve's decision as blockchain and NFT games have a reputation for scams and fraud among most PC gamers, and Epic Games, which runs the Epic Games Store in competition to Steam, said that they would be open to accepted blockchain games in the wake of Valve's refusal.",
+    "token_estimate": 121,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "69659dfe-fdf6-41c0-9aa6-3b1a746a1994",
+    "document_id": "Blockchain",
+    "sequence": 10,
+    "section_title": "Supply chain",
+    "content": "There have been several different efforts to employ blockchains in supply chain management.\n\nPrecious commodities mining \u2014 Blockchain technology has been used for tracking the origins of gemstones and other precious commodities. In 2016, The Wall Street Journal reported that the blockchain technology company Everledger was partnering with IBM's blockchain-based tracking service to trace the origin of diamonds to ensure that they were ethically mined. As of 2019, the Diamond Trading Company (DTC) has been involved in building a diamond trading supply chain product called Tracer.\nFood supply \u2014 As of 2018, Walmart and IBM were running a trial to use a blockchain-backed system for supply chain monitoring for lettuce and spinach \u2013 all nodes of the blockchain were administered by Walmart and located on the IBM cloud.\nFashion industry \u2014 There is an opaque relationship between brands, distributors, and customers in the fashion industry, which prevents the sustainable and stable development of the fashion industry. Blockchain could make this information transparent, assisting sustainable development of the industry.\nMotor vehicles \u2014 Mercedes-Benz and partner Icertis developed a blockchain prototype used to facilitate consistent documentation of contracts along the supply chain so that the ethical standards and contractual obligations required of its direct suppliers can be passed on to second tier suppliers and beyond. In another project, the company uses blockchain technology to track the emissions of climate-relevant gases and the amount of secondary material along the supply chain for its battery cell manufacturers.",
+    "token_estimate": 243,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "28523f6f-98da-4ae9-bb2b-222710751b89",
+    "document_id": "Blockchain",
+    "sequence": 11,
+    "section_title": "Domain names",
+    "content": "There are several different efforts to offer domain name services via the blockchain. These domain names can be controlled by the use of a private key, which purports to allow for uncensorable websites. This would also bypass a registrar's ability to suppress domains used for fraud, abuse, or illegal content.\nNamecoin is a cryptocurrency that supports the \".bit\" top-level domain (TLD). Namecoin was forked from bitcoin in 2011. The .bit TLD is not sanctioned by ICANN, instead requiring an alternative DNS root. As of 2015, .bit was used by 28 websites, out of 120,000 registered names. Namecoin was dropped by OpenNIC in 2019, due to malware and potential other legal issues. Other blockchain alternatives to ICANN include The Handshake Network, EmerDNS, and Unstoppable Domains.\nSpecific TLDs include \".eth\", \".luxe\", and \".kred\", which are associated with the Ethereum blockchain through the Ethereum Name Service (ENS). The .kred TLD also acts as an alternative to conventional cryptocurrency wallet addresses as a convenience for transferring cryptocurrency.",
+    "token_estimate": 163,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "0020a0c5-472e-470c-9122-2849927aa109",
+    "document_id": "Blockchain",
+    "sequence": 12,
+    "section_title": "Other uses",
+    "content": "Blockchain technology can be used to create a permanent, public, transparent ledger system for compiling data on sales, tracking digital use and payments to content creators, such as wireless users or musicians. The Gartner 2019 CIO Survey reported 2% of higher education respondents had launched blockchain projects and another 18% were planning academic projects in the next 24 months. In 2017, IBM partnered with ASCAP and PRS for Music to adopt blockchain technology in music distribution. Imogen Heap's Mycelia service has also been proposed as a blockchain-based alternative \"that gives artists more control over how their songs and associated data circulate among fans and other musicians.\" New distribution methods are available for the insurance industry such as peer-to-peer insurance, parametric insurance and microinsurance following the adoption of blockchain. The sharing economy and IoT are also set to benefit from blockchains because they involve many collaborating peers. The use of blockchain in libraries is being studied with a grant from the U.S. Institute of Museum and Library Services. Other blockchain designs include Hyperledger, a collaborative effort from the Linux Foundation to support blockchain-based distributed ledgers, with projects under this initiative including Hyperledger Burrow (by Monax) and Hyperledger Fabric (spearheaded by IBM). Another is Quorum, a permissioned private blockchain by JPMorgan Chase with private storage, used for contract applications. Oracle introduced a blockchain table feature in its Oracle 21c database. Blockchain is also being used in peer-to-peer energy trading. Lightweight blockchains, or simplified blockchains, are more suitable for internet of things (IoT) applications than conventional blockchains. One experiment suggested that a lightweight blockchain-based network could accommodate up to 1.34 million authentication processes every second, which could be sufficient for resource-constrained IoT networks. Blockchain could be used in detecting counterfeits by associating unique identifiers to products, documents and shipments, and storing records associated with transactions that cannot be forged or altered. It is however argued that blockchain technology needs to be supplemented with technologies that provide a strong binding between physical objects and blockchain systems, as well as provisions for content creator verification ala KYC standards. The EUIPO established an Anti-Counterfeiting Blockathon Forum, with the objective of \"defining, piloting and implementing\" an anti-counterfeiting infrastructure at the European level. The Dutch Standardisation organisation NEN uses blockchain together with QR Codes to authenticate certificates. Beijing and Shanghai are among the cities designated by China to trial blockchain applications as January 30, 2022. In Chinese legal",
+    "token_estimate": 400,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "9009145b-0523-4368-b74d-7014cca511bd",
+    "document_id": "Blockchain",
+    "sequence": 13,
+    "section_title": "Blockchain interoperability",
+    "content": "With the increasing number of blockchain systems appearing, even only those that support cryptocurrencies, blockchain interoperability is becoming a topic of major importance. The objective is to support transferring assets from one blockchain system to another blockchain system. Wegner stated that \"interoperability is the ability of two or more software components to cooperate despite differences in language, interface, and execution platform\". The objective of blockchain interoperability is therefore to support such cooperation among blockchain systems, despite those kinds of differences.\nThere are already several blockchain interoperability solutions available. They can be classified into three categories: cryptocurrency interoperability approaches, blockchain engines, and blockchain connectors.\nSeveral individual IETF participants produced the draft of a blockchain interoperability architecture.",
+    "token_estimate": 115,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "9d679ecf-5b9a-4407-99ca-94448517d3bb",
+    "document_id": "Blockchain",
+    "sequence": 14,
+    "section_title": "Energy consumption concerns",
+    "content": "Some cryptocurrencies use blockchain mining, namely the peer-to-peer computer computations by which transactions are validated and verified. This requires a large amount of energy. In June 2018, the Bank for International Settlements criticized the use of public proof-of-work blockchains for their high energy consumption.\nEarly concern over the high energy consumption was a factor in later blockchains such as Cardano (2017), Solana (2020) and Polkadot (2020) adopting the less energy-intensive proof-of-stake model. Researchers have estimated that bitcoin consumes 100,000 times as much energy as proof-of-stake networks.\nIn 2021, a study by Cambridge University determined that bitcoin (at 121 terawatt-hours per year) used more electricity than Argentina (at 121TWh) and the Netherlands (109TWh). According to Digiconomist, one bitcoin transaction required 708 kilowatt-hours of electrical energy, the amount an average U.S. household consumed in 24 days.\nIn February 2021, U.S. Treasury secretary Janet Yellen called bitcoin \"an extremely inefficient way to conduct transactions\", saying \"the amount of energy consumed in processing those transactions is staggering\". In March 2021, Bill Gates stated that \"Bitcoin uses more electricity per transaction than any other method known to mankind\", adding \"It's not a great climate thing.\"\nNicholas Weaver, of the International Computer Science Institute at the University of California, Berkeley, examined blockchain's online security, and the energy efficiency of proof-of-work public blockchains, and in both cases found it grossly inadequate. The 31TWh-45TWh of electricity used for bitcoin in 2018 produced 17\u201323 million tonnes of CO2. By 2022, the University of Cambridge and Digiconomist estimated that the two largest proof-of-work blockchains, bitcoin and Ethereum, together used twice as much electricity in one year as the whole of Sweden, leading to the release of up to 120 million tonnes of CO2 each year.\nSome cryptocurrency developers are considering moving from the proof-of-work model to the proof-of-stake model. In Sept, 2022, Ethereum converted from proof-of-work to proof-of-stake.",
+    "token_estimate": 308,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "321d751f-586f-408f-b364-541721d6beec",
+    "document_id": "Blockchain",
+    "sequence": 15,
+    "section_title": "Testnet",
+    "content": "In blockchain technology, a testnet is an instance of a blockchain powered by the same or a newer version of the underlying software, to be used for testing and experimentation without risk to real funds or the main chain. Testnet coins are separate and distinct from the official mainnet coins, don't have value, and can be obtained freely from faucets.\nTestnets allow for the development of blockchain applications without the risk of losing funds.\nUsing testnets, a bug was discovered in the Bitcoin Core software that gave miners the ability to take down essential parts of the Bitcoin infrastructure (nodes) by sending a 'bad' block to the blockchain.",
+    "token_estimate": 108,
+    "title": "Blockchain",
+    "url": "https://en.wikipedia.org/wiki/Blockchain",
+    "domain": "finance"
+  }
+]

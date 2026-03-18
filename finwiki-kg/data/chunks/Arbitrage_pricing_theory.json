@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_id": "7b41d1fd-c6e0-4213-a55d-672cbca04a47",
+    "document_id": "Arbitrage_pricing_theory",
+    "sequence": 0,
+    "section_title": "Assumptions of APT Model",
+    "content": "The APT model for asset valuation is founded on the following assumptions:\n\nInvestors are risk-averse in nature and possess the same expectations\nEfficient markets with limited opportunity for arbitrage\nPerfect capital markets\nInfinite number of assets\nRisk factors are indicative of systematic risks that cannot be diversified away and thus impact all financial assets, to some degree. Thus, these factors must be:    \nNon-specific to any individual firm or industry\nCompensated by the market via a risk premium\nA random variable",
+    "token_estimate": 80,
+    "title": "Arbitrage pricing theory",
+    "url": "https://en.wikipedia.org/wiki/Arbitrage_pricing_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "sequence": 1,
+    "section_title": "Mechanics",
+    "content": "In the APT context, arbitrage consists of trading in two assets \u2013 with at least one being mispriced. The arbitrageur sells the asset which is relatively too expensive and uses the proceeds to buy one which is relatively too cheap.\nUnder the APT, an asset is mispriced if its current price diverges from the price predicted by the model. The asset price today should equal the sum of all future cash flows discounted at the APT rate, where the expected return of the asset is a linear function of various factors, and sensitivity to changes in each factor is represented by a factor-specific beta coefficient.\nA correctly priced asset here may be in fact a synthetic asset - a portfolio consisting of other correctly priced assets. This portfolio has the same exposure to each of the macroeconomic factors as the mispriced asset. The arbitrageur creates the portfolio by identifying n correctly priced assets (one per risk-factor, plus one) and then weighting the assets such that portfolio beta per factor is the same as for the mispriced asset.\nWhen the investor is long the asset and short the portfolio (or vice versa) he has created a position which has a positive expected return (the difference between asset return and portfolio return) and which has a net zero exposure to any macroeconomic factor and is therefore risk free (other than for firm specific risk). The arbitrageur is thus in a position to make a risk-free profit:",
+    "token_estimate": 244,
+    "title": "Arbitrage pricing theory",
+    "url": "https://en.wikipedia.org/wiki/Arbitrage_pricing_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "sequence": 2,
+    "section_title": "Difference between the capital asset pricing model",
+    "content": "The APT along with the capital asset pricing model (CAPM) is one of two influential theories on asset pricing. The APT differs from the CAPM in that it is less restrictive in its assumptions, making it more flexible for use in a wider range of application. Thus, it possesses greator explanatory power (as opposed to statistical) for expected asset returns. It assumes that each investor will hold a unique portfolio with its own particular array of betas, as opposed to the identical \"market portfolio\". In some ways, the CAPM can be considered a \"special case\" of the APT in that the securities market line represents a single-factor model of the asset price, where beta is exposed to changes in value of the market.\nFundamentally, the CAPM is derived on the premise that all factors in the economy can be reconciled into one factor represented by a market portfolio, thus implying they all have equivalent weight on the asset\u2019s return. In contrast, the APT model suggests that each stock reacts uniquely to various macroeconomic factors and thus the impact of each must be accounted for separately.\nA disadvantage of APT is that the selection and the number of factors to use in the model is ambiguous. Most academics use three to five factors to model returns, but the factors selected have not been empirically robust. In many instances the CAPM, as a model to estimate expected returns, has empirically outperformed the more advanced APT.\nAdditionally, the APT can be seen as a \"supply-side\" model, since its beta coefficients reflect the sensitivity of the underlying asset to economic factors. Thus, factor shocks would cause structural changes in assets' expected returns, or in the case of stocks, in firms' profitabilities.\nOn the other side, the capital asset pricing model is considered a \"demand side\" model. Its results, although similar to those of the APT, arise from a maximization problem of each investor's utility function, and from the resulting market equilibrium (investors are considered to be the \"consumers\" of the assets).",
+    "token_estimate": 337,
+    "title": "Arbitrage pricing theory",
+    "url": "https://en.wikipedia.org/wiki/Arbitrage_pricing_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "sequence": 3,
+    "section_title": "Implementation",
+    "content": "As with the CAPM, the factor-specific betas are found via a linear regression of historical security returns on the factor in question. Unlike the CAPM, the APT, however, does not itself reveal the identity of its priced factors - the number and nature of these factors is likely to change over time and between economies. As a result, this issue is essentially empirical in nature. Several a priori guidelines as to the characteristics required of potential factors are, however, suggested: \n\ntheir impact on asset prices manifests in their unexpected movements and they are completely unpredictable to the market at the beginning of each period \nthey should represent undiversifiable influences (these are, clearly, more likely to be macroeconomic rather than firm-specific in nature) on expected returns and so must be quantifiable with non-zero prices \ntimely and accurate information on these variables is required\nthe relationship should be theoretically justifiable on economic grounds\nChen, Roll and Ross identified the following macro-economic factors as significant in explaining security returns:\n\nsurprises in inflation;\nsurprises in GNP as indicated by an industrial production index;\nsurprises in investor confidence due to changes in default premium in corporate bonds;\nsurprise shifts in the yield curve.\nAs a practical matter, indices or spot or futures market prices may be used in place of macro-economic factors, which are reported at low frequency (e.g. monthly) and often with significant estimation errors. Market indices are sometimes derived by means of factor analysis. More direct \"indices\" that might be used are:\n\nshort-term interest rates;\nthe difference in long-term and short-term interest rates;\na diversified stock index such as the S&P 500 or NYSE Composite;\noil prices\ngold or other precious metal prices\nCurrency exchange rates",
+    "token_estimate": 283,
+    "title": "Arbitrage pricing theory",
+    "url": "https://en.wikipedia.org/wiki/Arbitrage_pricing_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "sequence": 4,
+    "section_title": "International arbitrage pricing theory",
+    "content": "International arbitrage pricing theory (IAPT) is an important extension of the base idea of arbitrage pricing theory which further considers factors such as exchange rate risk. In 1983 Bruno Solnik created an extension of the original arbitrage pricing theory to include risk related to international exchange rates hence making the model applicable international markets with multi-currency transactions. Solnik suggested that there may be several factors common to all international assets, and conversely, there may be other common factors applicable to certain markets based on nationality.\nFama and French originally proposed a three-factor model in 1995 which, consistent with the suggestion from Solnik above suggests that integrated international markets may experience a common set of factors, hence making it possible to price assets in all integrated markets using their model. The Fama and French three factor model attempts to explain stock returns based on market risk, size, and value.\nA 2012 paper aimed to empirically investigate Solnik\u2019s IAPT model and the suggestion that base currency fluctuations have a direct and comprehendible effect on the risk premiums of assets. This was tested by generating a returns relation which broke down individual investor returns into currency and non-currency (universal) returns. The paper utilised Fama and French\u2019s three factor model (explained above) to estimate international currency impacts on common factors. It was concluded that the total foreign exchange risk in international markets consisted of the immediate exchange rate risk and the residual market factors. This, along with empirical data tests validates the idea that foreign currency fluctuations have a direct effect on risk premiums and the factor loadings included in the APT model, hence, confirming the validity of the IAPT model.",
+    "token_estimate": 277,
+    "title": "Arbitrage pricing theory",
+    "url": "https://en.wikipedia.org/wiki/Arbitrage_pricing_theory",
+    "domain": "finance"
+  }
+]

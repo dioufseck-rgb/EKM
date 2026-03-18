@@ -1,0 +1,123 @@
+[
+  {
+    "chunk_id": "3029b7c5-5467-4ca4-b416-078c77225e36",
+    "document_id": "Basel_III",
+    "sequence": 0,
+    "section_title": "CET1 capital requirements",
+    "content": "CET1\n            \n            \n              RWAs\n            \n          \n        \n        =\n        \n          \n            CET1\n          \n        \n        \n        \n          \n            ratio\n          \n        \n      \n    \n    {\\displaystyle {\\frac {\\mbox{CET1}}{\\mbox{RWAs}}}={\\mbox{CET1}}\\;{\\textrm {ratio}}}\n  \n\nBasel III requires banks to have a minimum CET1 ratio (Common Tier 1 capital divided by risk-weighted assets (RWAs)) at all times of:\n\n4.5%\nPlus:\n\nA mandatory \"capital conservation buffer\" or \"stress capital buffer requirement\", equivalent to at least 2.5% of risk-weighted assets, but could be higher based on results from stress tests, as determined by national regulators.\nPlus:\n\nIf necessary, as determined by national regulators, a \"counter-cyclical buffer\" of up to an additional 2.5% of RWA as capital during periods of high credit growth. This must be met by CET1 capital.\nIn the U.S., an additional 1% is required for globally systemically important financial institutions.\nIt also requires minimum Tier 1 capital of 6% at all times (beginning in 2015).\nCommon Tier 1 capital comprises shareholders equity (including audited profits), less deductions of accounting reserve that are not believed to be loss absorbing \"today\", including goodwill and other intangible assets. To prevent the potential of double-counting of capital across the economy, bank's holdings of other bank shares are also deducted.",
+    "token_estimate": 180,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "940b5a74-271d-4c7f-8b83-4c6d9d105a26",
+    "document_id": "Basel_III",
+    "sequence": 1,
+    "section_title": "Leverage ratio requirements",
+    "content": "Leverage ratio is calculated by dividing Tier 1 capital by the bank's leverage exposure. The leverage exposure is the sum of the exposures of all on-balance sheet assets, 'add-ons' for derivative exposures and securities financing transactions (SFTs), and credit conversion factors for off-balance sheet items.\nBasel III introduced a minimum leverage ratio of 3%.\n\n  \n    \n      \n        \n          \n            \n              Tier 1 Capital\n            \n            \n              Total exposure\n            \n          \n        \n        \u2265\n        3\n        %\n      \n    \n    {\\displaystyle {\\frac {\\mbox{Tier 1 Capital}}{\\mbox{Total exposure}}}\\geq 3\\%}\n  \n\nThe U.S. established another ratio, the supplemental leverage ratio, defined as Tier 1 capital divided by total assets. It is required to be above 3.0%. A minimum leverage ratio of 5% is required for large banks and systemically important financial institutions. Due to the COVID-19 pandemic, from April 2020 until 31 March 2021, for financial institutions with more than $250 billion in consolidated assets, the calculation excluded U.S. Treasury securities and deposits at Federal Reserve Banks.\nIn the EU, the minimum bank leverage ratio is the same 3% as required by Basel III.\nThe UK requires a minimum leverage ratio, for banks with deposits greater than \u00a350 billion, of 3.25%. This higher minimum reflects the PRA's differing treatment of the leverage ratio, which excludes central bank reserves in 'Total exposure' of the calculation.",
+    "token_estimate": 202,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "d4f1d185-991f-40fc-94a1-9ce893bfbd69",
+    "document_id": "Basel_III",
+    "sequence": 2,
+    "section_title": "= Liquidity coverage ratio =",
+    "content": "The liquidity coverage ratio requires banks to hold sufficient high-quality liquid assets to cover its total net cash outflows over 30 days under a stressed scenario. This was implemented because some adequately-capitalized banks faced difficulties because of poor liquidity management. The LCR consists of two parts: the numerator is the value of HQLA, and the denominator consists of the total net cash outflows over a specified stress period (total expected cash outflows minus total expected cash inflows). Mathematically it is expressed as follows:\n\n  \n    \n      \n        \n          LCR\n        \n        =\n        \n          \n            High quality liquid assets\n            Total net liquidity outflows over 30 days\n          \n        \n        \u2265\n        100\n        %\n      \n    \n    {\\displaystyle {\\text{LCR}}={\\frac {\\text{High quality liquid assets}}{\\text{Total net liquidity outflows over 30 days}}}\\geq 100\\%}\n  \n\nRegulators can allow banks to dip below their required liquidity levels per the liquidity coverage ratio during periods of stress.",
+    "token_estimate": 132,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "b83090bd-30b6-4265-bb19-3efd576c83fb",
+    "document_id": "Basel_III",
+    "sequence": 3,
+    "section_title": "Interest rate risk in the banking book",
+    "content": "New standards for \"interest rate risk in the banking book\" (IRRBB) became effective in 2023. Banks are required to calculate their exposures based on \"economic value of equity\" (EVE) and \"net interest income\" (NII) under a set of prescribed interest rate shock scenarios. The standards thereby deal with the risks associated with a change in interest rates, including interest rate gaps, basis risk, yield curve risk, and option risk.\nThe bank's exposure to IRRBB is then equal to the largest negative change in EVE across all scenarios - in essence, the theoretical risk to the economic value of a bank's equity from a change in interest rates.\nIRRBB falls under Pillar II.",
+    "token_estimate": 112,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "f0dcba56-9ba0-40aa-a8d8-7c1857ebe697",
+    "document_id": "Basel_III",
+    "sequence": 4,
+    "section_title": "Basel III: Finalising post-crisis reforms",
+    "content": "The Basel III: Finalising post-crisis reforms standards cover further reforms in six areas: \n\nstandardised approach for credit risk (SA-CR)\ninternal ratings based approach (IRB) for credit risk\nCredit valuation adjustment risk (the process through which counterparty credit is valued, priced and hedged - using a standardised approach);\nOperational risk - A standardised approach for operational risk for a bank based on income and historical losses\nOutput floor - Replaces Basel II output floor with a more robust risk-sensitive floor and disclosure requirements\nFinalised Leverage ratio framework - buffer for global systemically important banks, definitions and requirements, exposure measures for on-balance sheet exposures, derivatives, securities financing transactions and off-balance sheet items.",
+    "token_estimate": 110,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "7b1c93b3-0f2f-4a15-a00d-c6dd43d97c1a",
+    "document_id": "Basel_III",
+    "sequence": 5,
+    "section_title": "Other principles and requirements",
+    "content": "The quality, consistency, and transparency of the capital base was raised.\nTier 1 capital: the predominant form of Tier 1 capital must be common shares and retained earnings. This is subject to prudential deductions, including goodwill and intangible assets.\nTier 2 capital: supplementary capital, however, the instruments were harmonised.\nTier 3 capital was eliminated.\nThe risk coverage of the capital framework was strengthened.\nPromoted more integrated management of market and counterparty credit risk\nAdded the credit valuation adjustment\u2013risk due to deterioration in counterparty's credit rating\nStrengthened the capital requirements for counterparty credit exposures arising from banks' derivatives, repo and securities financing transactions\nRaised the capital buffers backing these exposures\nReduced procyclicality and\nProvided additional incentives to move OTC derivative contracts to qualifying central counterparties (probably clearing houses). Where a bank acts as a clearing member of a central counterparty for its own purposes, a risk weight of 2% must be applied to the bank\u2019s trade exposure to the central counterparty.\nProvided incentives to strengthen the risk management of counterparty credit exposures\nRaised counterparty credit risk management standards by including wrong way risk\nA series of measures was introduced to promote the buildup of capital buffers in good times that can be drawn upon in periods of stress (\"Reducing procyclicality and promoting countercyclical buffers\").\nMeasures to address procyclicality:\nDampen excess cyclicality of the minimum capital requirement;\nPromoted more forward looking provisions;\nConserved capital to build buffers at individual banks and the banking sector that can be used in stress; and\nAchieved the broader macroprudential goal of protecting the banking sector from periods of excess credit growth.\nRequirement to use long-term data horizons to estimate probabilities of default\ndownturn loss given default estimates, recommended in Basel II, to become mandatory\nImproved calibration of the risk functions, which convert loss estimates into regulatory capital requirements.\nBanks must conduct stress tests that include scenarios of widening yield spreads in recessions.\nStronger provisioning practices (forward-looking provisioning):\nAdvocates a change in the accounting standards towards an expected loss (EL) approach (usually, EL amount := LGD*PD*EAD).",
+    "token_estimate": 339,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "a1f436ff-eb39-423c-a39e-88626d5e62a5",
+    "document_id": "Basel_III",
+    "sequence": 6,
+    "section_title": "U.S. modifications",
+    "content": "In the U.S., Basel III applies not only to banks but also to all institutions with more than US$50 billion in assets:\n\n\"Risk-based capital and leverage requirements\" including first annual capital plans, conduct stress tests, and capital adequacy \"including a tier one common risk-based capital ratio greater than 5 percent, under both expected and stressed conditions\"\nMarket liquidity, first based on the United States' own interagency liquidity risk-management guidance issued in March 2010 that require liquidity stress tests and set internal quantitative limits.\nThe Federal Reserve Board itself conducts stress tests annually using three economic and financial market scenarios. Institutions are encouraged to use at least five scenarios reflecting improbable events, and especially those considered impossible by management, but no standards apply to extreme scenarios. Only a summary of the three official Fed scenarios including company-specific information is made public but one or more internal company-run stress tests must be run each year with summaries published.\nSingle-counterparty credit limits to cut credit exposure of a covered financial firm to a single counterparty as a percentage of the firm's regulatory capital. Credit exposure between the largest financial companies is subject to a tighter limit.\nEarly remediation requirements to ensure that financial weaknesses are addressed at an early stage. One or more triggers for remediation\u2014such as capital levels, stress test results, and risk-management weaknesses. Required actions vary based on the severity of the situation, but include restrictions on growth, capital distributions, and executive compensation, as well as capital raising or asset sales.",
+    "token_estimate": 250,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "7c1c2edb-05c5-435d-ad85-890d9ac58c85",
+    "document_id": "Basel_III",
+    "sequence": 7,
+    "section_title": "Implementation by the Basel Committee on Banking Supervision",
+    "content": "On 15 April 2014, the Basel Committee on Banking Supervision (BCBS) released the final version of its \"Supervisory Framework for Measuring and Controlling Large Exposures\" (SFLE) that builds on longstanding BCBS guidance on credit exposure concentrations.\nOn 11 March 2016, the Basel Committee on Banking Supervision released the second of three proposals on public disclosure of regulatory metrics and qualitative data by banking institutions. The proposal requires disclosures on market risk to be more granular for both the standardized approach and regulatory approval of internal models.\nIn January 2013, the BCBS extended not only the implementation schedule to 2019, but broadened the definition of liquid assets.\nIn December 2017, the implementation of the market risk framework was delayed from 2019 to 2022. Implementation of the Basel III: Finalising post-crisis reforms, the market risk framework, and the revised Pillar 3 disclosure requirements were extended several times and will be phased-in by 2028.",
+    "token_estimate": 151,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "944b62ce-0da7-4866-991f-bb8dca6fc740",
+    "document_id": "Basel_III",
+    "sequence": 8,
+    "section_title": "Projected macroeconomic impact",
+    "content": "An OECD study, released on 17 February 2011, projected that all else equal, the medium-term impact of Basel III implementation on economic growth would be in the range of \u22120.05% to \u22120.15% per year due to increased bank lending spreads of 15 to as much as 50 basis points. The study hypothesized that the effect can be negated by a decrease in monetary policy rates of 30 to 80 basis points\nIn June 2024, a study by PwC projected that implemented of the Basel III Endgame requirements would reduce economic growth in the U.S. by 56 basis points via reduced returns to bank shareholders and increased costs to consumers and businesses.\nIn the United States, higher capital requirements resulted in contractions in trading operations and the number of personnel employed on trading floors.",
+    "token_estimate": 133,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "a3620b2c-f592-4104-8271-9814875107c9",
+    "document_id": "Basel_III",
+    "sequence": 9,
+    "section_title": "Criticism",
+    "content": "Academics criticized Basel III for continuing to allow large banks to calculate credit risk using internal models and for setting overall minimum capital requirements too low. Opaque treatment of all derivatives contracts is also criticized. While institutions have many legitimate (\"hedging\", \"insurance\") risk reduction reasons to deal in derivatives, the Basel III accords: treat insurance buyers and sellers equally even though sellers take on more concentrated risks (literally purchasing them) which they are then expected to offset correctly without regulation do not require organizations to investigate correlations of all internal risks they own do not tax or charge institutions for the systematic or aggressive externalization or conflicted marketing of risk\u2014other than requiring an orderly unravelling of derivatives in a crisis and stricter record keeping Since derivatives present major unknowns in a crisis these are seen as major failings by some critics causing several to claim that the \"too big to fail\" status remains with respect to major derivatives dealers who aggressively took on risk of an event they did not believe would happen\u2014but did. As Basel III does not absolutely require extreme scenarios that management flatly rejects to be included in stress testing this remains a vulnerability. The Heritage Foundation argued that capitalization regulation is inherently fruitless due to these and similar problems and\u2014despite an opposite ideological view of regulation\u2014agree that \"too big to fail\" persists. Basel III was also criticized as negatively affecting the stability of the financial system by increasing incentives of banks to game the regulatory framework. Notwithstanding the enhancement introduced by the Basel III standard, it argued that \"markets often fail to discipline large banks to hold prudent capital levels and make sound investment decisions\". In comments published in October 2012, the American Bankers Association, community banks organized in the Independent Community Bankers of America, and Democratic Party Senators Ben Cardin and Barbara Mikulski and Representatives Chris Van Hollen and Elijah Cummings of Maryland, said that the Basel III proposals would hurt small banks by increasing their capital holdings dramatically on mortgage and small business loans. Robert Reich, former United States Secretary of Labor and Professor of Public Policy at the University of California, Berkeley, has argued that Basel III did not go far enough to regulate banks since, he believed, inadequate regulation was a cause of the 2008 financial crisis and remains an unresolved issue despite the severity of the impact of the Great Recession.",
+    "token_estimate": 400,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "10c02dcf-63ef-40f7-bb7c-ba185b8fd1b5",
+    "document_id": "Basel_III",
+    "sequence": 10,
+    "section_title": "Criticism",
+    "content": "of Public Policy at the University of California, Berkeley, has argued that Basel III did not go far enough to regulate banks since, he believed, inadequate regulation was a cause of the 2008 financial crisis and remains an unresolved issue despite the severity of the impact of the Great Recession. In 2019, Michael Burry criticized Basel III for what he characterizes as \"more or less remov[ing] price discovery from the credit markets, meaning risk does not have an accurate pricing mechanism in interest rates anymore.\" The Institute of International Finance a Washington, D.C.\u2013based, 450-member banking trade association, argued against the implementation of the accords, claiming it would hurt banks and economic growth and add to the paper burden and risk inhibition by banks.",
+    "token_estimate": 123,
+    "title": "Basel III",
+    "url": "https://en.wikipedia.org/wiki/Basel_III",
+    "domain": "banking"
+  }
+]

@@ -1,0 +1,40 @@
+FINWIKI EVALUATION HARNESS v2 — RESULTS SUMMARY
+=================================================
+Run timestamp: 2026-03-14T18:24:46.756851
+Harness version: v2 (pool cap + neutral seed + conflict detection)
+Queries completed: 120 / 120
+Queries failed: 0
+
+AC ELIGIBILITY (Fix 3):
+  Queries with non-zero Toulmin neighborhood: 34 / 120 (28.3%)
+  Queries excluded from AC analysis (neighborhood_size=0): 86 (71.7%)
+
+PROPOSITION 1 (Epistemic type mismatch → compliance risk): [SUPPORTED]
+  VTP Condition A vs Condition D: 0.457 vs 0.873 | p=1.9833885054262123e-10 | d=0.776 [medium]
+  Interpretation: Discourse-typed retrieval achieves higher validity-type precision.
+
+PROPOSITION 2 (Argumentative truncation → compliance risk): [SUPPORTED]
+  AC Condition A vs Condition D: 0.882 vs 0.478 | p=0.00020858763308495394 | d=-0.797 [medium]
+  CWE Condition A: k=50.0 vs Condition D: k=50.0 | 40.350 vs 45.075 | p=0.0003712472177132828 | d=0.357 [small]
+  AC n_pairs (eligible only): 34
+  Interpretation: Discourse-typed retrieval achieves greater argumentative completeness at smaller k.
+
+PROPOSITION 3 (Validity-gated filtering → compliance risk reduction): [NOT SUPPORTED]
+  VTP Condition C vs Condition D: 0.858 vs 0.873 | p=0.7870914136949348 | d=0.092 [negligible]
+  Effect size by epistemic type — normative: -0.32914029376052495 constative: -0.2638993307594452 mixed: 0.28116552774972486
+  Interpretation: Full discourse-typed retrieval improves VTP beyond validity-gating alone.
+
+PROPOSITION 4 (Regulation-anchored assembly → compliance risk reduction): [SUPPORTED]
+  AC Condition B vs Condition D: 0.912 vs 0.478 | p=0.00012168146217711345 | d=-0.847 [large]
+  Effect size by repetitiveness — high: -0.7714096614862938 low: -0.9574271075730048
+  Interpretation: Regulation-anchored cross-document assembly improves AC over generic GraphRAG.
+
+CONFLICT DETECTION (Fix 4 — structural, not passive):
+  Condition D CSR rate (conflicts structurally detected): 0.167
+  Conditions A, B, C CSR: 0 by definition (no graph traversal)
+
+K-INVARIANCE (VTP only; CSR sweep removed per Fix 4):
+  VTP plateau for Condition A at k=11
+
+VENUE RECOMMENDATION:
+  SIGIR or EMNLP systems track

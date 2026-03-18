@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "sequence": 0,
+    "section_title": "General description",
+    "content": "An interest rate swap's (IRS's) effective description is a derivative contract, agreed between two counterparties, which specifies the nature of an exchange of payments benchmarked against an interest rate index. \nThe most common IRS is a fixed for floating swap, whereby one party will make payments to the other based on an initially agreed fixed rate of interest, to receive back payments based on a floating interest rate index. \nEach of these series of payments is termed a \"leg\", so a typical IRS has both a fixed and a floating leg. \nThe floating index is commonly an Secured Overnight Financing Rate (SOFR) \nTo completely determine any IRS a number of parameters must be specified for each leg:\n\nthe notional principal amount (or varying notional schedule);\nthe start and end dates, value-, trade- and settlement dates, and date scheduling (date rolling);\nthe fixed rate (i.e. \"swap rate\", sometimes quoted as a \"swap spread\" over a benchmark);\nthe chosen floating interest rate index tenor;\nthe day count conventions for interest calculations.\nEach currency has its own standard market conventions regarding the frequency of payments, the day count conventions and the end-of-month rule.",
+    "token_estimate": 190,
+    "title": "Interest rate swap",
+    "url": "https://en.wikipedia.org/wiki/Interest_rate_swap",
+    "domain": "derivatives"
+  },
+  {
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "sequence": 1,
+    "section_title": "Extended description",
+    "content": "As OTC instruments, interest rate swaps (IRSs) can be customised in a number of ways and can be structured to meet the specific needs of the counterparties. \nFor example: payment dates could be irregular, the notional of the swap could be amortized over time, reset dates (or fixing dates) of the floating rate could be irregular, mandatory break clauses may be inserted into the contract, etc. \nA common form of customisation is often present in new issue swaps where the fixed leg cashflows are designed to replicate those cashflows received as the coupons on a purchased bond. \nThe interbank market, however, only has a few standardised types.\nThere is no consensus on the scope of naming convention for different types of IRS. \nEven a wide description of IRS contracts only includes those whose legs are denominated in the same currency. \nIt is generally accepted that swaps of similar nature whose legs are denominated in different currencies are called cross currency basis swaps. \nSwaps which are determined on a floating rate index in one currency but whose payments are denominated in another currency are called Quantos.\nIn traditional interest rate derivative terminology an IRS is a fixed leg versus floating leg derivative contract referencing an IBOR as the floating leg. \nIf the floating leg is redefined to be an overnight index, such as EONIA, SONIA, FFOIS, etc. then this type of swap is generally referred to as an overnight indexed swap (OIS). \nSome financial literature may classify OISs as a subset of IRSs and other literature may recognise a distinct separation.\nFixed leg versus fixed leg swaps are rare, and generally constitute a form of specialised loan agreement.\nFloat leg versus float leg swaps are much more common. These are typically termed (single currency) basis swaps (SBSs). The legs on SBSs will necessarily be different interest indexes, such as 1M LIBOR, 3M LIBOR, 6M LIBOR, SONIA, etc. The pricing of these swaps requires a spread often quoted in basis points to be added to one of the floating legs in order to satisfy value equivalence.",
+    "token_estimate": 344,
+    "title": "Interest rate swap",
+    "url": "https://en.wikipedia.org/wiki/Interest_rate_swap",
+    "domain": "derivatives"
+  },
+  {
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "sequence": 2,
+    "section_title": "Uses",
+    "content": "Interest rate swaps are used to hedge against or speculate on changes in interest rates. They are also used to manage cashflows by converting floating to fixed interest payments, or vice versa.\nInterest rate swaps are also used speculatively by hedge funds or other investors who expect a change in interest rates or the relationships between them. Traditionally, fixed income investors who expected rates to fall would purchase cash bonds, whose value increased as rates fell. Today, investors with a similar view could enter a floating-for-fixed interest rate swap; as rates fall, investors would pay a lower floating rate in exchange for the same fixed rate.\nInterest rate swaps are also popular for the arbitrage opportunities they provide. Varying levels of creditworthiness means that there is often a positive quality spread differential that allows both parties to benefit from an interest rate swap.\nThe interest rate swap market in USD is closely linked to the Eurodollar futures market which trades among others at the Chicago Mercantile Exchange.",
+    "token_estimate": 167,
+    "title": "Interest rate swap",
+    "url": "https://en.wikipedia.org/wiki/Interest_rate_swap",
+    "domain": "derivatives"
+  },
+  {
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "sequence": 3,
+    "section_title": "Risks",
+    "content": "Interest rate swaps expose traders and institutions to various categories of financial risk: predominantly market risk - specifically interest rate risk - and credit risk. Reputation risks also exist. The mis-selling of swaps, over-exposure of municipalities to derivative contracts, and IBOR manipulation are examples of high-profile cases where trading interest rate swaps has led to a loss of reputation and fines by regulators. As regards market risk, during the swap's life, both the discounting factors and the forward rates change, and thus, per the above valuation techniques, the PV of a swap will deviate from its initial value. The swap will therefore at times be an asset to one party and a liability to the other. (The way these changes in value are reported is the subject of IAS 39 for jurisdictions following IFRS, and FAS 133 for U.S. GAAP.) In market terminology, the first-order link of swap value to interest rates is referred to as delta risk; their gamma risk reflects how delta risk changes as market interest rates fluctuate (see Greeks (finance)). Other specific types of market risk that interest rate swaps have exposure to are basis risks, where various IBOR tenor indexes can deviate from one another, and reset risks, where the publication of specific tenor IBOR indexes are subject to daily fluctuation. Uncollateralised interest rate swaps \u2014 those executed bilaterally without a CSA in place \u2014 expose the trading counterparties to funding risks and counterparty credit risks. Funding risks because the value of the swap might deviate to become so negative that it is unaffordable and cannot be funded. Credit risks because the respective counterparty, for whom the value of the swap is positive, will be concerned about the opposing counterparty defaulting on its obligations. Collateralised interest rate swaps, on the other hand, expose the users to collateral risks: here, depending upon the terms of the CSA, the type of posted collateral that is permitted might become more or less expensive due to other extraneous market movements. Credit and funding risks still exist for collateralised trades but to a much lesser extent. Regardless, due to regulations set out in the Basel III Regulatory Frameworks, trading interest rate derivatives commands a capital usage. The consequence of this is that, dependent upon their specific nature, interest rate swaps may be capital intensive; with the latter, also, sensitive to market movements. Capital risks are thus another concern for users,",
+    "token_estimate": 400,
+    "title": "Interest rate swap",
+    "url": "https://en.wikipedia.org/wiki/Interest_rate_swap",
+    "domain": "derivatives"
+  },
+  {
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "sequence": 4,
+    "section_title": "Risks",
+    "content": "set out in the Basel III Regulatory Frameworks, trading interest rate derivatives commands a capital usage. The consequence of this is that, dependent upon their specific nature, interest rate swaps may be capital intensive; with the latter, also, sensitive to market movements. Capital risks are thus another concern for users, and Banks typically calculate a credit valuation adjustment, CVA - as well as XVA for other risks - which then incorporate these risks into the instrument value. Debt security traders, daily mark to market their swap positions so as to \"visualize their inventory\" (see valuation control). As required, they will attempt to hedge, both to protect value and to reduce volatility. Since the cash flows of component swaps offset each other, traders will implement this hedging on a net basis for entire books. Here, the trader would typically hedge her interest rate risk through offsetting Treasuries (either spot or futures). For credit risks \u2013 which will not typically offset \u2013 traders estimate: for each counterparty the probability of default using models such as Jarrow\u2013Turnbull and KMV, or by stripping these from CDS prices; and then for each trade, the potential future exposure and expected exposure to the counterparty. Credit derivatives will then be purchased as appropriate. Often, a specialized XVA-desk centrally monitors and manages overall CVA and XVA exposure and capital, and will then implement this hedge. The other risks must be managed systematically, sometimes involving group treasury. These processes will all rely on well-designed numerical risk models: both to measure and forecast the (overall) change in value, and to suggest reliable offsetting benchmark trades which may be used to mitigate risks. Note, however, (and re P&L Attribution) that the multi-curve framework adds complexity in that (individual) positions are (potentially) affected by numerous instruments not obviously related.",
+    "token_estimate": 297,
+    "title": "Interest rate swap",
+    "url": "https://en.wikipedia.org/wiki/Interest_rate_swap",
+    "domain": "derivatives"
+  }
+]

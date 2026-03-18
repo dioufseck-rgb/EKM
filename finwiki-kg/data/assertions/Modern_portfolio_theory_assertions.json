@@ -1,0 +1,4323 @@
+[
+  {
+    "assertion_id": "89e2cb28-6e85-44e0-b3aa-30634fdda7fc",
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "One objection is that the MPT relies on the efficient-market hypothesis.",
+    "subject": "MPT",
+    "predicate_type": "requires",
+    "object_text": "the efficient-market hypothesis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One objection is that the MPT relies on the efficient-market hypothesis.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_theory"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "628d69c1-67d6-45b7-b022-3d1eaadcf895",
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The MPT uses fluctuations in share price as a substitute for risk.",
+    "subject": "MPT",
+    "predicate_type": "relates_to",
+    "object_text": "fluctuations in share price as a substitute for risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The MPT uses fluctuations in share price as a substitute for risk.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_theory"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cf940097-e526-456b-bbcf-249a74f755c3",
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Sir John Templeton believed in diversification as a concept.",
+    "subject": "Sir John Templeton",
+    "predicate_type": "relates_to",
+    "object_text": "diversification as a concept",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sir John Templeton believed in diversification as a concept.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_strategy"
+    ],
+    "entities": [
+      "Sir John Templeton"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b18b9e6-228c-4028-aacb-26fcd2bf9c48",
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Sir John Templeton felt the theoretical foundations of MPT were questionable.",
+    "subject": "Sir John Templeton",
+    "predicate_type": "relates_to",
+    "object_text": "the theoretical foundations of MPT were questionable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sir John Templeton felt the theoretical foundations of MPT were questionable.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_theory"
+    ],
+    "entities": [
+      "Sir John Templeton",
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9a61fc69-656f-4c54-9551-f044c671ef38",
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Building portfolios on the basis of unreliable and irrelevant statistical inputs, such as historical volatility, was doomed to failure.",
+    "subject": "Building portfolios",
+    "predicate_type": "causes",
+    "object_text": "failure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Building portfolios on the basis of unreliable and irrelevant statistical inputs, such as historical volatility, was doomed to failure.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_management",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ba984f6-eead-46bb-bac2-b13f19d7ebc0",
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "\"Naive diversification\", splitting capital equally among available investment options, might have advantages over MPT in some situations.",
+    "subject": "\"Naive diversification\"",
+    "predicate_type": "relates_to",
+    "object_text": "advantages over MPT in some situations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "\"Naive diversification\", splitting capital equally among available investment options, might have advantages over MPT in some situations.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_strategy"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9355818c-23b4-4666-bc2d-c7e88ddec289",
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The Markowitz model has been identified by academics to be inadequate due to its susceptibility to model instability.",
+    "subject": "Markowitz model",
+    "predicate_type": "relates_to",
+    "object_text": "inadequate due to its susceptibility to model instability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Markowitz model has been identified by academics to be inadequate due to its susceptibility to model instability.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_theory"
+    ],
+    "entities": [
+      "Markowitz model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9f0a21d-fbe4-4bc1-b0a9-035971404eb9",
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Model instability may arise among a universe of highly correlated assets.",
+    "subject": "Model instability",
+    "predicate_type": "causes",
+    "object_text": "may arise among a universe of highly correlated assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Model instability may arise among a universe of highly correlated assets.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "75c60298-0414-4a5c-b734-3eebde6b00d7",
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "In the 1970s, concepts from MPT found their way into the field of regional science.",
+    "subject": "concepts from MPT",
+    "predicate_type": "relates_to",
+    "object_text": "the field of regional science",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the 1970s, concepts from MPT found their way into the field of regional science.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "regional_science"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb3f2e5d-06dc-4e2f-b4d1-f20f24f6ccbe",
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Michael Conroy modeled the labor force in the economy using portfolio-theoretic methods to examine growth and variability in the labor force.",
+    "subject": "Michael Conroy",
+    "predicate_type": "implements",
+    "object_text": "portfolio-theoretic methods to examine growth and variability in the labor force",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Michael Conroy modeled the labor force in the economy using portfolio-theoretic methods to examine growth and variability in the labor force.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "labor_force",
+      "economic_growth"
+    ],
+    "entities": [
+      "Michael Conroy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a6f740f5-1300-445a-aa6a-ab724d41c3c5",
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "This was followed by a long literature on the relationship between economic growth and volatility.",
+    "subject": "long literature",
+    "predicate_type": "relates_to",
+    "object_text": "the relationship between economic growth and volatility",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This was followed by a long literature on the relationship between economic growth and volatility.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic_growth",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ba812e1-0db5-48cf-a39d-bcaafcc194cb",
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Modern portfolio theory has been used to model the self-concept in social psychology.",
+    "subject": "modern portfolio theory",
+    "predicate_type": "implements",
+    "object_text": "model the self-concept in social psychology",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modern portfolio theory has been used to model the self-concept in social psychology.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "social_psychology"
+    ],
+    "entities": [
+      "modern portfolio theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17a574cb-e8ca-4bed-ae84-0739a5a12ff7",
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "When the self attributes comprising the self-concept constitute a well-diversified portfolio, then psychological outcomes at the level of the individual such as mood and self-esteem should be more stable than when the self-concept is undiversified.",
+    "subject": "psychological outcomes",
+    "predicate_type": "relates_to",
+    "object_text": "more stable than when the self-concept is undiversified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the self attributes comprising the self-concept constitute a well-diversified portfolio, then psychological outcomes at the level of the individual such as mood and self-esteem should be more stable than when the self-concept is undiversified.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "social_psychology"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bba5216c-09d8-4d1d-8afb-c5c9d6efd080",
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "This prediction has been confirmed in studies involving human subjects.",
+    "subject": "prediction",
+    "predicate_type": "relates_to",
+    "object_text": "confirmed in studies involving human subjects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This prediction has been confirmed in studies involving human subjects.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "social_psychology"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dd583840-ec3c-403f-922e-63ca1d675565",
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Modern portfolio theory has been applied to modelling the uncertainty and correlation between documents in information retrieval.",
+    "subject": "modern portfolio theory",
+    "predicate_type": "implements",
+    "object_text": "modelling the uncertainty and correlation between documents in information retrieval",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modern portfolio theory has been applied to modelling the uncertainty and correlation between documents in information retrieval.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "information_retrieval"
+    ],
+    "entities": [
+      "modern portfolio theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9a162f8-d31c-4ebe-95d6-7b88d89c8859",
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Given a query, the aim is to maximize the overall relevance of a ranked list of documents and at the same time minimize the overall uncertainty of the ranked list.",
+    "subject": "aim",
+    "predicate_type": "relates_to",
+    "object_text": "maximize the overall relevance of a ranked list of documents and at the same time minimize the overall uncertainty of the ranked list",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Given a query, the aim is to maximize the overall relevance of a ranked list of documents and at the same time minimize the overall uncertainty of the ranked list.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "information_retrieval"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bfbd7754-9fe9-4202-bdda-07523e4f0bcd",
+    "chunk_id": "927ed505-b736-485e-b47f-6cb61c1ccd13",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Modern portfolio theory is inconsistent with main axioms of rational choice theory.",
+    "subject": "Modern portfolio theory",
+    "predicate_type": "prohibits",
+    "object_text": "consistency with main axioms of rational choice theory",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modern portfolio theory is inconsistent with main axioms of rational choice theory.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "rational_choice_theory"
+    ],
+    "entities": [
+      "Modern portfolio theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23c64a72-4d09-49d6-97fc-73d6d283f6ab",
+    "chunk_id": "927ed505-b736-485e-b47f-6cb61c1ccd13",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The monotonicity axiom states that, if investing into portfolio X will, with probability one, return more money than investing into portfolio Y, then a rational investor should prefer X to Y.",
+    "subject": "monotonicity axiom",
+    "predicate_type": "defines",
+    "object_text": "if investing into portfolio X will, with probability one, return more money than investing into portfolio Y, then a rational investor should prefer X to Y",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The monotonicity axiom states that, if investing into portfolio X will, with probability one, return more money than investing into portfolio Y, then a rational investor should prefer X to Y.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "rational_choice_theory",
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62ab6fa3-2bd5-4c67-a416-a3b4204da786",
+    "chunk_id": "927ed505-b736-485e-b47f-6cb61c1ccd13",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Modern portfolio theory is based on a different axiom, called variance aversion.",
+    "subject": "Modern portfolio theory",
+    "predicate_type": "requires",
+    "object_text": "variance aversion",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modern portfolio theory is based on a different axiom, called variance aversion.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "risk_management"
+    ],
+    "entities": [
+      "Modern portfolio theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "452ac3ce-0e14-4b0b-9ea0-d3415239d408",
+    "chunk_id": "927ed505-b736-485e-b47f-6cb61c1ccd13",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Modern portfolio theory may recommend to invest into Y on the basis that it has lower variance.",
+    "subject": "Modern portfolio theory",
+    "predicate_type": "permits",
+    "object_text": "investing into Y on the basis that it has lower variance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modern portfolio theory may recommend to invest into Y on the basis that it has lower variance.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "risk_management"
+    ],
+    "entities": [
+      "Modern portfolio theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "065a9120-f7bf-4411-b16f-385e7046b532",
+    "chunk_id": "927ed505-b736-485e-b47f-6cb61c1ccd13",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Maccheroni et al. described choice theory which is the closest possible to the modern portfolio theory, while satisfying monotonicity axiom.",
+    "subject": "Maccheroni et al.",
+    "predicate_type": "relates_to",
+    "object_text": "choice theory which is the closest possible to the modern portfolio theory, while satisfying monotonicity axiom",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Maccheroni et al. described choice theory which is the closest possible to the modern portfolio theory, while satisfying monotonicity axiom.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "rational_choice_theory"
+    ],
+    "entities": [
+      "Modern portfolio theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c78389c9-0bd4-4610-b72c-dc27ad6198a5",
+    "chunk_id": "927ed505-b736-485e-b47f-6cb61c1ccd13",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Mean-deviation analysis is a rational choice theory resulting from replacing variance by an appropriate deviation risk measure.",
+    "subject": "Mean-deviation analysis",
+    "predicate_type": "classifies",
+    "object_text": "rational choice theory resulting from replacing variance by an appropriate deviation risk measure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mean-deviation analysis is a rational choice theory resulting from replacing variance by an appropriate deviation risk measure.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "rational_choice_theory"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0a6001bc-f59c-4482-959b-7527bc0bee32",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "In the Black\u2013Scholes equation and MPT, there is no attempt to explain an underlying structure to price changes.",
+    "subject": "Black\u2013Scholes equation and MPT",
+    "predicate_type": "prohibits",
+    "object_text": "attempt to explain an underlying structure to price changes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the Black\u2013Scholes equation and MPT, there is no attempt to explain an underlying structure to price changes.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_modeling",
+      "pricing"
+    ],
+    "entities": [
+      "Black\u2013Scholes equation",
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c6e2ba16-3f46-470f-ae50-a61f67525bdf",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Various outcomes are simply given probabilities.",
+    "subject": "outcomes",
+    "predicate_type": "relates_to",
+    "object_text": "given probabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Various outcomes are simply given probabilities.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "probability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "35d46eb4-f379-4739-a071-11db4e5254ea",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "If there is no history of a particular system-level event like a liquidity crisis, there is no way to compute the odds of it.",
+    "subject": "system-level event like a liquidity crisis",
+    "predicate_type": "constrains",
+    "object_text": "way to compute the odds of it",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If there is no history of a particular system-level event like a liquidity crisis, there is no way to compute the odds of it.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "liquidity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b081692-7e19-455c-9aa1-edf76d3468fd",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Mathematical risk measurements are also useful only to the degree that they reflect investors' true concerns.",
+    "subject": "Mathematical risk measurements",
+    "predicate_type": "relates_to",
+    "object_text": "useful only to the degree that they reflect investors' true concerns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mathematical risk measurements are also useful only to the degree that they reflect investors' true concerns.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "72ab11ab-8a8f-42d5-a6f5-979931b5b864",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Variance is a symmetric measure that counts abnormally high returns as just as risky as abnormally low returns.",
+    "subject": "Variance",
+    "predicate_type": "defines",
+    "object_text": "symmetric measure that counts abnormally high returns as just as risky as abnormally low returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Variance is a symmetric measure that counts abnormally high returns as just as risky as abnormally low returns.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "variance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e743f92-7489-4b2f-b71c-35f26ae00f2a",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Modern portfolio theory has also been criticized because it assumes that returns follow a Gaussian distribution.",
+    "subject": "Modern portfolio theory",
+    "predicate_type": "relates_to",
+    "object_text": "criticized because it assumes that returns follow a Gaussian distribution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modern portfolio theory has also been criticized because it assumes that returns follow a Gaussian distribution.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "criticism"
+    ],
+    "entities": [
+      "Modern portfolio theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f1f71728-dc89-486d-b73b-ab476b126067",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Contrarian investors and value investors typically do not subscribe to Modern Portfolio Theory.",
+    "subject": "Contrarian investors and value investors",
+    "predicate_type": "prohibits",
+    "object_text": "subscribe to Modern Portfolio Theory",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Contrarian investors and value investors typically do not subscribe to Modern Portfolio Theory.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "investment_strategy"
+    ],
+    "entities": [
+      "Modern Portfolio Theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f56e858c-f823-46e2-980a-bfbb3b3b1a93",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The MPT relies on the efficient-market hypothesis and uses fluctuations in share price as a substitute for risk.",
+    "subject": "MPT",
+    "predicate_type": "relates_to",
+    "object_text": "relies on the efficient-market hypothesis and uses fluctuations in share price as a substitute for risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The MPT relies on the efficient-market hypothesis and uses fluctuations in share price as a substitute for risk.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "efficient_market_hypothesis",
+      "risk_management"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41d8d262-0530-41f4-918c-e1be1bfbeaca",
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Sir John Templeton believed in diversification as a concept, but also felt the theoretical foundations of MPT were questionable, and concluded",
+    "subject": "Sir John Templeton",
+    "predicate_type": "relates_to",
+    "object_text": "believed in diversification as a concept, but also felt the theoretical foundations of MPT were questionable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sir John Templeton believed in diversification as a concept, but also felt the theoretical foundations of MPT were questionable, and concluded",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "diversification"
+    ],
+    "entities": [
+      "MPT",
+      "Sir John Templeton"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c714e5fc-b925-4719-8383-d3fef4298096",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Some experts apply MPT to portfolios of projects and other assets besides financial instruments.",
+    "subject": "experts",
+    "predicate_type": "implements",
+    "object_text": "MPT to portfolios of projects and other assets besides financial instruments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some experts apply MPT to portfolios of projects and other assets besides financial instruments.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_management",
+      "modern_portfolio_theory"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a30d511-2345-4e2e-ba38-a4d6a270c2eb",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "When MPT is applied outside of traditional financial portfolios, some distinctions between the different types of portfolios must be considered.",
+    "subject": "distinctions between the different types of portfolios",
+    "predicate_type": "requires",
+    "object_text": "consideration when MPT is applied outside of traditional financial portfolios",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When MPT is applied outside of traditional financial portfolios, some distinctions between the different types of portfolios must be considered.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_management",
+      "modern_portfolio_theory"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "85c07bb5-9f71-46b5-898f-d4f4ff619fe1",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The assets in financial portfolios are, for practical purposes, continuously divisible while portfolios of projects are \"lumpy\".",
+    "subject": "assets in financial portfolios",
+    "predicate_type": "classifies",
+    "object_text": "continuously divisible",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The assets in financial portfolios are, for practical purposes, continuously divisible while portfolios of projects are \"lumpy\".",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d265b2cf-968b-4b43-9d82-6eac579f55b8",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Portfolios of projects are \"lumpy\".",
+    "subject": "portfolios of projects",
+    "predicate_type": "classifies",
+    "object_text": "\"lumpy\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Portfolios of projects are \"lumpy\".",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "22a3baee-23e7-4d0d-8780-aa23f1c981da",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The assets of financial portfolios are liquid; they can be assessed or re-assessed at any point in time.",
+    "subject": "assets of financial portfolios",
+    "predicate_type": "classifies",
+    "object_text": "liquid",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The assets of financial portfolios are liquid; they can be assessed or re-assessed at any point in time.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "73cee173-7c68-4003-b60f-17b88c6b286f",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Opportunities for launching new projects may be limited and may occur in limited windows of time.",
+    "subject": "opportunities for launching new projects",
+    "predicate_type": "constrains",
+    "object_text": "limited and may occur in limited windows of time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Opportunities for launching new projects may be limited and may occur in limited windows of time.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "project_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cc75d14a-b53a-402f-aea4-906192e432c7",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Projects that have already been initiated cannot be abandoned without the loss of the sunk costs (i.e., there is little or no recovery/salvage value of a half-complete project).",
+    "subject": "projects that have already been initiated",
+    "predicate_type": "constrains",
+    "object_text": "cannot be abandoned without the loss of the sunk costs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Projects that have already been initiated cannot be abandoned without the loss of the sunk costs (i.e., there is little or no recovery/salvage value of a half-complete project).",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "project_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "66c05a79-f21d-4fc8-8c70-f62134f2118c",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "These indicate the need to run the optimization with an additional set of mathematically expressed constraints that would not normally apply to financial portfolios.",
+    "subject": "optimization",
+    "predicate_type": "requires",
+    "object_text": "an additional set of mathematically expressed constraints that would not normally apply to financial portfolios",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These indicate the need to run the optimization with an additional set of mathematically expressed constraints that would not normally apply to financial portfolios.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "afa8cfd2-13cd-4710-a2be-8a51aad74d0c",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The concept of capturing the risk tolerance of an investor by documenting how much risk is acceptable for a given return may be applied to a variety of decision analysis problems.",
+    "subject": "concept of capturing the risk tolerance of an investor by documenting how much risk is acceptable for a given return",
+    "predicate_type": "permits",
+    "object_text": "application to a variety of decision analysis problems",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The concept of capturing the risk tolerance of an investor by documenting how much risk is acceptable for a given return may be applied to a variety of decision analysis problems.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "decision_making"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "84a7af89-4680-4bf4-aaf4-eefc426faed8",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "MPT uses historical variance as a measure of risk, but portfolios of assets like major projects do not have a well-defined \"historical variance\".",
+    "subject": "MPT",
+    "predicate_type": "defines",
+    "object_text": "historical variance as a measure of risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MPT uses historical variance as a measure of risk, but portfolios of assets like major projects do not have a well-defined \"historical variance\".",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "modern_portfolio_theory"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a7d5bb0-9377-4320-be7f-41425967106e",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Portfolios of assets like major projects do not have a well-defined \"historical variance\".",
+    "subject": "portfolios of assets like major projects",
+    "predicate_type": "relates_to",
+    "object_text": "do not have a well-defined \"historical variance\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Portfolios of assets like major projects do not have a well-defined \"historical variance\".",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0d0db51c-36e4-44ad-8bb6-a3b08902b631",
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The MPT investment boundary can be expressed in more general terms like \"chance of an ROI less than cost of capital\" or \"chance of losing more than half of the investment\".",
+    "subject": "MPT investment boundary",
+    "predicate_type": "permits",
+    "object_text": "expression in more general terms like \"chance of an ROI less than cost of capital\" or \"chance of losing more than half of the investment\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The MPT investment boundary can be expressed in more general terms like \"chance of an ROI less than cost of capital\" or \"chance of losing more than half of the investment\".",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "modern_portfolio_theory"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae944e17-5967-4899-9247-a5eb8c6c7bbc",
+    "chunk_id": "84d77081-b7d9-4b96-845c-14c3097d4d5f",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Since MPT's introduction in 1952, many attempts have been made to improve the model, especially by using more realistic assumptions.",
+    "subject": "attempts",
+    "predicate_type": "relates_to",
+    "object_text": "to improve the model, especially by using more realistic assumptions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Since MPT's introduction in 1952, many attempts have been made to improve the model, especially by using more realistic assumptions.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "model_improvement"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfb5c919-12a2-4e0d-9d36-9931583cd3ed",
+    "chunk_id": "84d77081-b7d9-4b96-845c-14c3097d4d5f",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Post-modern portfolio theory extends MPT by adopting non-normally distributed, asymmetric, and fat-tailed measures of risk.",
+    "subject": "Post-modern portfolio theory",
+    "predicate_type": "relates_to",
+    "object_text": "MPT by adopting non-normally distributed, asymmetric, and fat-tailed measures of risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Post-modern portfolio theory extends MPT by adopting non-normally distributed, asymmetric, and fat-tailed measures of risk.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "risk_management"
+    ],
+    "entities": [
+      "MPT",
+      "Post-modern portfolio theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "16d908ba-22b1-48a8-b103-aa8de3d8294e",
+    "chunk_id": "84d77081-b7d9-4b96-845c-14c3097d4d5f",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Black\u2013Litterman model optimization is an extension of unconstrained Markowitz optimization that incorporates relative and absolute 'views' on inputs of risk and returns from.",
+    "subject": "Black\u2013Litterman model optimization",
+    "predicate_type": "relates_to",
+    "object_text": "unconstrained Markowitz optimization that incorporates relative and absolute 'views' on inputs of risk and returns from",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Black\u2013Litterman model optimization is an extension of unconstrained Markowitz optimization that incorporates relative and absolute 'views' on inputs of risk and returns from.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_optimization",
+      "risk_management",
+      "return_optimization"
+    ],
+    "entities": [
+      "Black\u2013Litterman model",
+      "Markowitz optimization"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03b7c18f-54b0-4358-b330-b773ddda30fb",
+    "chunk_id": "84d77081-b7d9-4b96-845c-14c3097d4d5f",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The model is also extended by assuming that expected returns are uncertain, and the correlation matrix in this case can differ from the correlation matrix between returns.",
+    "subject": "model",
+    "predicate_type": "relates_to",
+    "object_text": "extended by assuming that expected returns are uncertain, and the correlation matrix in this case can differ from the correlation matrix between returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The model is also extended by assuming that expected returns are uncertain, and the correlation matrix in this case can differ from the correlation matrix between returns.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_theory",
+      "risk_management",
+      "correlation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "973f28c6-53ff-4013-bbbe-550b2b8cec98",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Critics of MPT question whether it is an ideal investment tool.",
+    "subject": "MPT",
+    "predicate_type": "relates_to",
+    "object_text": "whether it is an ideal investment tool",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Critics of MPT question whether it is an ideal investment tool.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_strategy"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1ca6c983-8631-4521-9d33-37e3173a69d6",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The risk, return, and correlation measures used by MPT are based on expected values.",
+    "subject": "risk, return, and correlation measures used by MPT",
+    "predicate_type": "defines",
+    "object_text": "based on expected values",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk, return, and correlation measures used by MPT are based on expected values.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_strategy"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "acacfdf7-1fe2-4d9b-9859-57a4991d2601",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Expected values are statistical statements about the future.",
+    "subject": "Expected values",
+    "predicate_type": "defines",
+    "object_text": "statistical statements about the future",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Expected values are statistical statements about the future.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_strategy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9c49e4f1-336b-4a00-b1a9-e64e41e77c77",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Such measures often cannot capture the true statistical features of the risk and return which often follow highly skewed distributions.",
+    "subject": "Such measures",
+    "predicate_type": "prohibits",
+    "object_text": "capture the true statistical features of the risk and return which often follow highly skewed distributions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such measures often cannot capture the true statistical features of the risk and return which often follow highly skewed distributions.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_strategy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "83ae111d-ce9f-4a92-9915-503bcd527e7f",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Investors must substitute predictions based on historical measurements of asset return and volatility for these values in the equations.",
+    "subject": "investors",
+    "predicate_type": "requires",
+    "object_text": "substitute predictions based on historical measurements of asset return and volatility for these values in the equations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investors must substitute predictions based on historical measurements of asset return and volatility for these values in the equations.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_strategy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e86a426f-aa93-44ac-ba39-860dd823fb90",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Expected values fail to take account of new circumstances that did not exist when the historical data was generated.",
+    "subject": "Expected values",
+    "predicate_type": "prohibits",
+    "object_text": "take account of new circumstances that did not exist when the historical data was generated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Expected values fail to take account of new circumstances that did not exist when the historical data was generated.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_strategy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1f68f010-8949-4c14-9ad9-ff1cb045e726",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The optimization problem is solved under the assumption that expected values are uncertain and correlated.",
+    "subject": "optimization problem",
+    "predicate_type": "requires",
+    "object_text": "solved under the assumption that expected values are uncertain and correlated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The optimization problem is solved under the assumption that expected values are uncertain and correlated.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_strategy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cddf1e72-ab63-4ea0-9b3a-3d29e6b67c38",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The Markowitz solution corresponds only to the case where the correlation between expected returns is similar to the correlation between returns.",
+    "subject": "Markowitz solution",
+    "predicate_type": "relates_to",
+    "object_text": "corresponds only to the case where the correlation between expected returns is similar to the correlation between returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Markowitz solution corresponds only to the case where the correlation between expected returns is similar to the correlation between returns.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_strategy"
+    ],
+    "entities": [
+      "Markowitz"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5efb2216-37d8-4f7f-b56d-4ea6926198f2",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Investors are stuck with estimating key parameters from past market data because MPT attempts to model risk in terms of the likelihood of losses, but says nothing about why those losses might occur.",
+    "subject": "investors",
+    "predicate_type": "relates_to",
+    "object_text": "stuck with estimating key parameters from past market data because MPT attempts to model risk in terms of the likelihood of losses, but says nothing about why those losses might occur",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investors are stuck with estimating key parameters from past market data because MPT attempts to model risk in terms of the likelihood of losses, but says nothing about why those losses might occur.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_strategy"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c60d2b60-92c7-4dd0-a402-56999b4a24fb",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The risk measurements used are probabilistic in nature, not structural.",
+    "subject": "risk measurements",
+    "predicate_type": "classifies",
+    "object_text": "probabilistic in nature, not structural",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk measurements used are probabilistic in nature, not structural.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b7e6c644-2d19-49c7-9156-a6b75ea7a635",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Options theory and MPT have at least one important conceptual difference from the probabilistic risk assessment done by nuclear power [plants].",
+    "subject": "Options theory and MPT",
+    "predicate_type": "relates_to",
+    "object_text": "have at least one important conceptual difference from the probabilistic risk assessment done by nuclear power [plants]",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Options theory and MPT have at least one important conceptual difference from the probabilistic risk assessment done by nuclear power [plants].",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5352a244-939a-48bd-afa2-5cd1aa6d36b6",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "A PRA is what economists would call a structural model.",
+    "subject": "PRA",
+    "predicate_type": "defines",
+    "object_text": "what economists would call a structural model",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A PRA is what economists would call a structural model.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [
+      "PRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1169f1ab-12fa-4582-9ddd-a956d3fd007f",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "In the Black\u2013Scholes equation and MPT, there is no attempt to explain an underlying structure to price changes.",
+    "subject": "Black\u2013Scholes equation and MPT",
+    "predicate_type": "prohibits",
+    "object_text": "attempt to explain an underlying structure to price changes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the Black\u2013Scholes equation and MPT, there is no attempt to explain an underlying structure to price changes.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_strategy"
+    ],
+    "entities": [
+      "Black-Scholes",
+      "MPT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f8c5513-a1fc-4189-b201-18e055c70498",
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Various outcomes are simply given probabilities.",
+    "subject": "Various outcomes",
+    "predicate_type": "relates_to",
+    "object_text": "simply given probabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Various outcomes are simply given probabilities.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1189e679-239f-4385-bd18-3fd32e694f69",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The total risk of an individual asset or portfolio is decomposed into two distinct components: specific risk and systematic risk.",
+    "subject": "total risk of an individual asset or portfolio",
+    "predicate_type": "classifies",
+    "object_text": "two distinct components: specific risk and systematic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The total risk of an individual asset or portfolio is decomposed into two distinct components: specific risk and systematic risk.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "portfolio theory"
+    ],
+    "entities": [
+      "asset",
+      "portfolio",
+      "specific risk",
+      "systematic risk"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fcf92bf5-a37d-49cf-a680-15adbba626d6",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Specific risk is also known as diversifiable, unique, or idiosyncratic risk.",
+    "subject": "Specific risk",
+    "predicate_type": "defines",
+    "object_text": "diversifiable, unique, or idiosyncratic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Specific risk is also known as diversifiable, unique, or idiosyncratic risk.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "Specific risk"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4ca79cfa-2723-4887-8d89-96ef43f0f285",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Specific risk is associated with individual assets.",
+    "subject": "Specific risk",
+    "predicate_type": "relates_to",
+    "object_text": "individual assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Specific risk is associated with individual assets.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "Specific risk",
+      "individual assets"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "43b643a8-e0bc-42ae-8215-a93884be1a7c",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Within a portfolio, specific risks can be mitigated through diversification.",
+    "subject": "specific risks",
+    "predicate_type": "permits",
+    "object_text": "can be mitigated through diversification",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Within a portfolio, specific risks can be mitigated through diversification.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "diversification"
+    ],
+    "entities": [
+      "portfolio",
+      "specific risks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e0689b32-4227-4525-be63-c0880ca80aa1",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The unique price movements of uncorrelated assets tend to offset each other.",
+    "subject": "unique price movements of uncorrelated assets",
+    "predicate_type": "causes",
+    "object_text": "offset each other",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The unique price movements of uncorrelated assets tend to offset each other.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "diversification"
+    ],
+    "entities": [
+      "uncorrelated assets"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "24f2edde-8dbe-407e-aa2d-f3242414419a",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Systematic risk is also known as market risk or non-diversifiable risk.",
+    "subject": "Systematic risk",
+    "predicate_type": "defines",
+    "object_text": "market risk or non-diversifiable risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systematic risk is also known as market risk or non-diversifiable risk.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "Systematic risk"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b8aa68d5-a8b3-4ca4-88be-d1ca2588b2e5",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Systematic risk refers to the risk common to all securities in a given market, driven by macroeconomic factors.",
+    "subject": "Systematic risk",
+    "predicate_type": "relates_to",
+    "object_text": "the risk common to all securities in a given market, driven by macroeconomic factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systematic risk refers to the risk common to all securities in a given market, driven by macroeconomic factors.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "Systematic risk",
+      "securities",
+      "market",
+      "macroeconomic factors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e710b28b-f624-4d55-859c-3b8f9df93cf5",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Rational investors can eliminate unique risk at no cost through diversification.",
+    "subject": "Rational investors",
+    "predicate_type": "permits",
+    "object_text": "can eliminate unique risk at no cost through diversification",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Rational investors can eliminate unique risk at no cost through diversification.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "diversification"
+    ],
+    "entities": [
+      "investors",
+      "unique risk"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17bf9f29-e0e7-4913-8eb7-a0728171dd77",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The market only provides a risk premium for bearing systematic risk.",
+    "subject": "market",
+    "predicate_type": "relates_to",
+    "object_text": "only provides a risk premium for bearing systematic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The market only provides a risk premium for bearing systematic risk.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "risk premium"
+    ],
+    "entities": [
+      "market",
+      "systematic risk"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7b31c76-f3ec-4650-855b-6e3c1d0c307d",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "An asset's expected return is not determined by its total variance, but specifically by its covariance with the market portfolio.",
+    "subject": "asset's expected return",
+    "predicate_type": "constrains",
+    "object_text": "not determined by its total variance, but specifically by its covariance with the market portfolio",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An asset's expected return is not determined by its total variance, but specifically by its covariance with the market portfolio.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "return on investment"
+    ],
+    "entities": [
+      "asset",
+      "market portfolio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3f155397-9857-4f3d-8464-683aa2709303",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The equilibrium price of an asset must adjust until its risk-adjusted return aligns with the Security Market Line shown in the diagram.",
+    "subject": "equilibrium price of an asset",
+    "predicate_type": "requires",
+    "object_text": "must adjust until its risk-adjusted return aligns with the Security Market Line shown in the diagram",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The equilibrium price of an asset must adjust until its risk-adjusted return aligns with the Security Market Line shown in the diagram.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "asset pricing"
+    ],
+    "entities": [
+      "asset",
+      "Security Market Line"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "53d326e8-bca9-4d32-b2a6-6075004493f3",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Assets with the same Beta must offer the same expected return, regardless of their individual specific risk profiles.",
+    "subject": "Assets with the same Beta",
+    "predicate_type": "requires",
+    "object_text": "must offer the same expected return, regardless of their individual specific risk profiles",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Assets with the same Beta must offer the same expected return, regardless of their individual specific risk profiles.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "return on investment"
+    ],
+    "entities": [
+      "Beta",
+      "assets",
+      "specific risk"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "210a918b-ae6a-4b69-8258-52eb18a917ae",
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "This fundamental distinction serves as the basis for modern portfolio management, where the goal is to optimize the exposure to rewarded systematic factors while neutralizing unrewarded idiosyncratic noise.",
+    "subject": "This fundamental distinction",
+    "predicate_type": "relates_to",
+    "object_text": "serves as the basis for modern portfolio management, where the goal is to optimize the exposure to rewarded systematic factors while neutralizing unrewarded idiosyncratic noise",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This fundamental distinction serves as the basis for modern portfolio management, where the goal is to optimize the exposure to rewarded systematic factors while neutralizing unrewarded idiosyncratic noise.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "portfolio management"
+    ],
+    "entities": [
+      "modern portfolio management",
+      "systematic factors",
+      "idiosyncratic noise"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23a30d91-9883-4a6a-85a9-0134e7f35cb6",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The risk-free asset is the theoretical asset that pays a deterministic risk-free rate.",
+    "subject": "risk-free asset",
+    "predicate_type": "defines",
+    "object_text": "theoretical asset that pays a deterministic risk-free rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk-free asset is the theoretical asset that pays a deterministic risk-free rate.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "risk-free asset"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eed15b1a-6c24-42f9-902c-c528c29ac7ea",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Short-term government securities, such as US Treasury bills, serve as a proxy for the risk-free asset due to their fixed interest payments and negligible default risk.",
+    "subject": "Short-term government securities",
+    "predicate_type": "implements",
+    "object_text": "proxy for the risk-free asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Short-term government securities, such as US Treasury bills, serve as a proxy for the risk-free asset due to their fixed interest payments and negligible default risk.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "US Treasury bills",
+      "risk-free asset"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aad23344-4bef-4da9-b87f-4317a74d0df2",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The risk-free asset has zero variance in returns if held to maturity.",
+    "subject": "risk-free asset",
+    "predicate_type": "constrains",
+    "object_text": "zero variance in returns",
+    "object_value": 0.0,
+    "object_unit": null,
+    "source_text": "The risk-free asset has zero variance in returns if held to maturity.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "risk-free asset"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e108e15f-c5f7-4649-8e30-a2e188068c6e",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The risk-free asset remains uncorrelated with any risky asset or portfolio.",
+    "subject": "risk-free asset",
+    "predicate_type": "constrains",
+    "object_text": "uncorrelated with any risky asset or portfolio",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk-free asset remains uncorrelated with any risky asset or portfolio.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "risk-free asset"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ab908e9d-58c4-4d9a-ae22-9a9ac39e2b9f",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "When combined with a risky portfolio, the resulting change in expected return is linearly related to the change in risk as the allocation proportions vary.",
+    "subject": "change in expected return",
+    "predicate_type": "relates_to",
+    "object_text": "linearly related to the change in risk as the allocation proportions vary",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When combined with a risky portfolio, the resulting change in expected return is linearly related to the change in risk as the allocation proportions vary.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b88547af-baf2-458c-b92e-43e39fb2307f",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The introduction of a risk-free asset transforms the efficient frontier into a linear half-line tangent to the Markowitz bullet at the portfolio with the highest Sharpe ratio.",
+    "subject": "introduction of a risk-free asset",
+    "predicate_type": "causes",
+    "object_text": "transforms the efficient frontier into a linear half-line tangent to the Markowitz bullet at the portfolio with the highest Sharpe ratio",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The introduction of a risk-free asset transforms the efficient frontier into a linear half-line tangent to the Markowitz bullet at the portfolio with the highest Sharpe ratio.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "risk-free asset",
+      "Markowitz bullet",
+      "Sharpe ratio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8c8712fa-d4f2-400c-81a9-35f067648218",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The vertical intercept of this line represents a portfolio allocated 100% to the risk-free asset.",
+    "subject": "vertical intercept of this line",
+    "predicate_type": "relates_to",
+    "object_text": "portfolio allocated 100% to the risk-free asset",
+    "object_value": 100.0,
+    "object_unit": "%",
+    "source_text": "The vertical intercept of this line represents a portfolio allocated 100% to the risk-free asset.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "risk-free asset"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e639f5fa-1d01-40cb-9a65-dadf4721f264",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The tangency point denotes a portfolio with 100% investment in risky assets, while segments between the intercept and tangency represent lending portfolios.",
+    "subject": "tangency point",
+    "predicate_type": "relates_to",
+    "object_text": "portfolio with 100% investment in risky assets, while segments between the intercept and tangency represent lending portfolios",
+    "object_value": 100.0,
+    "object_unit": "%",
+    "source_text": "The tangency point denotes a portfolio with 100% investment in risky assets, while segments between the intercept and tangency represent lending portfolios.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8ad5b093-6443-42be-86a7-d8cd6baa58d9",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "Points extending beyond the tangency point represent borrowing portfolios, where the investor leverages the risky tangency portfolio by shorting the risk-free asset.",
+    "subject": "Points extending beyond the tangency point",
+    "predicate_type": "relates_to",
+    "object_text": "borrowing portfolios, where the investor leverages the risky tangency portfolio by shorting the risk-free asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Points extending beyond the tangency point represent borrowing portfolios, where the investor leverages the risky tangency portfolio by shorting the risk-free asset.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "risk-free asset"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90619ebe-3944-4143-9eab-eaaedadddd87",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "This efficient locus is defined as the capital allocation line (CAL).",
+    "subject": "efficient locus",
+    "predicate_type": "defines",
+    "object_text": "capital allocation line (CAL)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This efficient locus is defined as the capital allocation line (CAL).",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "capital allocation line"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c8e2d1b1-4a92-4a4e-96b3-ef65bafdbbba",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The introduction of  {\\displaystyle R_{F}} improves the investment opportunity set because the CAL provides a higher expected return for every level of risk compared to the risky-only hyperbola.",
+    "subject": "introduction of  {\\displaystyle R_{F}}",
+    "predicate_type": "causes",
+    "object_text": "improves the investment opportunity set because the CAL provides a higher expected return for every level of risk compared to the risky-only hyperbola",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The introduction of  {\\displaystyle R_{F}} improves the investment opportunity set because the CAL provides a higher expected return for every level of risk compared to the risky-only hyperbola.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "capital allocation line"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "78d84fde-8c82-4c7e-9342-898dc85547c4",
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "claim_text": "The principle that all investors can achieve their optimal risk-return profile using only the risk-free asset and a single risky fund is known as the Mutual fund separation theorem, specifically the one-fund theorem.",
+    "subject": "principle that all investors can achieve their optimal risk-return profile using only the risk-free asset and a single risky fund",
+    "predicate_type": "defines",
+    "object_text": "Mutual fund separation theorem, specifically the one-fund theorem",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The principle that all investors can achieve their optimal risk-return profile using only the risk-free asset and a single risky fund is known as the Mutual fund separation theorem, specifically the one-fund theorem.",
+    "source_document": "Modern portfolio theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "risk-free asset",
+      "Mutual fund separation theorem",
+      "one-fund theorem"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FinWiki Knowledge Graph</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+         background: #0f1117; color: #e2e8f0; height: 100vh; display: flex;
+         flex-direction: column; overflow: hidden; }
+
+  /* ── Header ── */
+  #header { background: #1a1f2e; border-bottom: 1px solid #2d3748;
+            padding: 10px 20px; flex-shrink: 0; }
+  #header h1 { font-size: 16px; font-weight: 600; color: #90cdf4;
+               display: inline; margin-right: 20px; }
+  #stats-strip { display: inline; font-size: 12px; color: #94a3b8; }
+  #stats-strip span { margin-right: 20px; }
+  #stats-strip span::before { content: "| "; color: #4a5568; }
+  #stats-strip span:first-child::before { content: ""; }
+
+  /* ── Error banner ── */
+  #api-error-banner { background: #744210; color: #fbd38d; padding: 6px 20px;
+                      font-size: 12px; display: none; flex-shrink: 0; }
+
+  /* ── Main area ── */
+  #main { display: flex; flex: 1; overflow: hidden; min-height: 0; }
+
+  /* ── Graph container ── */
+  #graph-container { flex: 1; position: relative; background: #0d1117;
+                     overflow: hidden; }
+  #graph { width: 100%; height: 100%; }
+
+  /* ── Loading spinner ── */
+  #loading-spinner { position: absolute; top: 50%; left: 50%;
+                     transform: translate(-50%, -50%); text-align: center;
+                     color: #94a3b8; }
+  .spinner { width: 40px; height: 40px; border: 3px solid #2d3748;
+             border-top-color: #90cdf4; border-radius: 50%;
+             animation: spin 0.8s linear infinite; margin: 0 auto 8px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── Controls panel ── */
+  #controls { width: 280px; background: #1a1f2e; border-left: 1px solid #2d3748;
+              overflow-y: auto; padding: 16px; flex-shrink: 0; display: flex;
+              flex-direction: column; gap: 16px; }
+
+  .ctrl-section { border-bottom: 1px solid #2d3748; padding-bottom: 12px; }
+  .ctrl-label { font-size: 11px; font-weight: 600; color: #718096;
+                text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+
+  /* Filter buttons */
+  .filter-btn { display: block; width: 100%; text-align: left; padding: 6px 10px;
+                margin-bottom: 4px; background: #2d3748; border: 1px solid #4a5568;
+                color: #e2e8f0; border-radius: 4px; cursor: pointer; font-size: 12px; }
+  .filter-btn:hover { background: #374151; }
+  .filter-btn.active { background: #2b4c7e; border-color: #4299e1; color: #90cdf4; }
+
+  /* Confidence slider */
+  #conf-row { display: flex; justify-content: space-between; align-items: center;
+              margin-bottom: 6px; font-size: 12px; }
+  #confidence-slider { width: 100%; accent-color: #4299e1; }
+
+  /* Color-by buttons */
+  .color-btn { padding: 5px 12px; background: #2d3748; border: 1px solid #4a5568;
+               color: #e2e8f0; border-radius: 4px; cursor: pointer; font-size: 12px;
+               margin-right: 4px; }
+  .color-btn.active { background: #2b4c7e; border-color: #4299e1; color: #90cdf4; }
+
+  /* Legend */
+  .legend-item { display: flex; align-items: center; gap: 8px; font-size: 11px;
+                 color: #94a3b8; margin-bottom: 4px; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+
+  /* Node detail panel */
+  #node-detail { display: none; background: #111827; border: 1px solid #2d3748;
+                 border-radius: 6px; padding: 12px; font-size: 12px; }
+  #node-detail h3 { font-size: 13px; color: #90cdf4; margin-bottom: 8px;
+                    word-break: break-all; }
+  .detail-row { display: flex; justify-content: space-between; color: #94a3b8;
+                margin-bottom: 4px; }
+  .detail-row strong { color: #e2e8f0; }
+  .readiness-bar { height: 8px; background: #2d3748; border-radius: 4px;
+                   margin: 6px 0; overflow: hidden; }
+  .readiness-fill { height: 100%; border-radius: 4px; transition: width 0.3s; }
+  #connections-list { margin-top: 8px; max-height: 120px; overflow-y: auto; }
+  .conn-item { color: #94a3b8; font-size: 11px; padding: 2px 0;
+               border-bottom: 1px solid #1e2533; }
+  #explore-btn { margin-top: 10px; width: 100%; padding: 6px; background: #1a365d;
+                 border: 1px solid #2b6cb0; color: #90cdf4; border-radius: 4px;
+                 cursor: pointer; font-size: 12px; }
+  #explore-btn:hover { background: #2b4c7e; }
+  #expand-btn { margin-top: 6px; width: 100%; padding: 6px; background: #1a2e1a;
+                border: 1px solid #276227; color: #68d391; border-radius: 4px;
+                cursor: pointer; font-size: 12px; }
+  #expand-btn:hover { background: #1f3b1f; }
+  #expand-btn.expanded { background: #2d1a1a; border-color: #c05621; color: #fc8181; }
+
+  /* ── Centrality strip ── */
+  #centrality { background: #131924; border-top: 1px solid #2d3748;
+                display: flex; flex-shrink: 0; height: 200px; overflow: hidden; }
+  .cent-col { flex: 1; padding: 10px 14px; overflow-y: auto;
+              border-right: 1px solid #2d3748; }
+  .cent-col:last-child { border-right: none; }
+  .cent-col h3 { font-size: 11px; font-weight: 600; color: #718096;
+                 text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+  .bar-row { display: flex; align-items: center; gap: 6px; margin-bottom: 4px;
+             cursor: pointer; }
+  .bar-row:hover .bar-label { color: #e2e8f0; }
+  .bar-label { font-size: 10px; color: #94a3b8; width: 140px; flex-shrink: 0;
+               white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { flex: 1; height: 10px; background: #1e2533; border-radius: 3px;
+               overflow: hidden; position: relative; }
+  .bar-fill { height: 100%; border-radius: 3px; transition: width 0.6s ease; }
+  .bar-fill-overlay { height: 100%; position: absolute; top: 0; left: 0;
+                      border-radius: 3px; opacity: 0.5; }
+  .bar-val { font-size: 10px; color: #718096; width: 28px; text-align: right; flex-shrink: 0; }
+
+  /* Tooltip */
+  #tooltip { position: fixed; background: #1a1f2e; border: 1px solid #4a5568;
+             color: #e2e8f0; padding: 8px 12px; border-radius: 6px; font-size: 11px;
+             pointer-events: none; display: none; z-index: 100; max-width: 220px;
+             line-height: 1.5; }
+</style>
+</head>
+<body>
+
+<div id="header">
+  <h1>FinWiki Knowledge Graph</h1>
+  <span id="stats-strip"><span>Loading…</span></span>
+</div>
+<div id="api-error-banner">⚠ API not available — displaying sample data</div>
+
+<div id="main">
+  <div id="graph-container">
+    <div id="loading-spinner">
+      <div class="spinner"></div>
+      <div>Loading graph data…</div>
+    </div>
+    <svg id="graph"></svg>
+  </div>
+
+  <div id="controls">
+    <div class="ctrl-section">
+      <div class="ctrl-label">Filter</div>
+      <button class="filter-btn active" data-filter="all">All edges</button>
+      <button class="filter-btn" data-filter="regulatory">Regulatory only</button>
+      <button class="filter-btn" data-filter="conflicts">Conflicts only</button>
+      <button class="filter-btn" data-filter="high-readiness">High AI-readiness (≥0.7)</button>
+    </div>
+
+    <div class="ctrl-section">
+      <div class="ctrl-label">Confidence threshold</div>
+      <div id="conf-row">
+        <span>Min confidence</span>
+        <strong id="conf-value">0.65</strong>
+      </div>
+      <input type="range" id="confidence-slider" min="0.50" max="1.00" step="0.05" value="0.65">
+    </div>
+
+    <div class="ctrl-section">
+      <div class="ctrl-label">Color by</div>
+      <button class="color-btn active" data-mode="category">Category</button>
+      <button class="color-btn" data-mode="readiness">AI-readiness</button>
+    </div>
+
+    <div class="ctrl-section" id="legend-section">
+      <div class="ctrl-label">Legend</div>
+      <div id="legend"></div>
+    </div>
+
+    <div id="node-detail">
+      <h3 id="detail-title"></h3>
+      <div class="detail-row"><span>Category</span><strong id="detail-cat"></strong></div>
+      <div class="detail-row">
+        <span>Assertions</span><strong id="detail-ac"></strong>
+        &nbsp;<span>Warrants</span><strong id="detail-wc"></strong>
+        &nbsp;<span>Grounds</span><strong id="detail-gc"></strong>
+      </div>
+      <div class="detail-row">
+        <span>Normative</span><strong id="detail-nm"></strong>
+        &nbsp;<span>Constative</span><strong id="detail-ct"></strong>
+        &nbsp;<span>Expressive</span><strong id="detail-ex"></strong>
+      </div>
+      <div class="detail-row"><span>Conflicts</span><strong id="detail-cf"></strong></div>
+      <div class="detail-row">
+        <span>AI-readiness</span><strong id="detail-ar"></strong>
+      </div>
+      <div class="readiness-bar"><div class="readiness-fill" id="detail-ar-bar"></div></div>
+      <div id="connections-list"></div>
+      <button id="explore-btn">Explore in graph ↗</button>
+      <button id="expand-btn">Expand assertions ▼</button>
+    </div>
+  </div>
+</div>
+
+<div id="centrality">
+  <div class="cent-col" id="col-concepts">
+    <h3>Top Concepts</h3>
+    <div id="concepts-bars"></div>
+  </div>
+  <div class="cent-col" id="col-regulations">
+    <h3>Top Regulations</h3>
+    <div id="regulations-bars"></div>
+  </div>
+  <div class="cent-col" id="col-assertions">
+    <h3>Top Assertions (by edge degree)</h3>
+    <div id="assertions-bars"></div>
+  </div>
+</div>
+
+<div id="tooltip"></div>
+
+<script>
+// ── Constants ─────────────────────────────────────────────────────────────────
+const API_BASE = 'http://localhost:8000';
+
+const CAT_COLOR = {
+  regulatory:       '#185FA5',
+  risk:             '#D85A30',
+  financial_theory: '#7F77DD',
+  products:         '#1D9E75',
+  other:            '#888780',
+};
+
+const REL_STYLE = {
+  ENTAILS:     { stroke: '#378ADD', opacity: 0.30, width: 1, dash: null },
+  CAUSES:      { stroke: '#1D9E75', opacity: 0.30, width: 1, dash: null },
+  SPECIALIZES: { stroke: '#7F77DD', opacity: 0.30, width: 1, dash: null },
+  CONTRADICTS: { stroke: '#E24B4A', opacity: 0.90, width: 2, dash: '5,3' },
+};
+const DEFAULT_REL_STYLE = { stroke: '#888780', opacity: 0.20, width: 0.5, dash: null };
+
+const readinessColor = d3.scaleSequential()
+  .domain([0, 1])
+  .interpolator(d3.interpolateRgb('#E24B4A', '#639922'));
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let allNodes = [], allEdges = [], centrality = { concepts: [], regulations: [], assertions: [] };
+let activeFilter = 'all';
+let colorMode = 'category';
+let confidenceThreshold = 0.65;
+let currentTransform = d3.zoomIdentity;
+let simulation, linkSel, nodeSel, labelSel;
+let selectedNode = null;
+
+// Drill-down state
+const expandedDocs = new Map();   // doc_id → [assertion node objects]
+let assertionNodeSel, assertionLinkSel, assertionLabelSel;
+
+// Assertion node colors by discourse role
+const ROLE_COLOR = {
+  warrant: '#378ADD',
+  ground:  '#1D9E75',
+  claim:   '#E8A838',
+  unclassified: '#888780',
+};
+function assertionColor(d) {
+  return ROLE_COLOR[d.discourse_role] || ROLE_COLOR.unclassified;
+}
+
+// ── Fallback data ─────────────────────────────────────────────────────────────
+const FALLBACK_NODES = [
+  { doc_id: 'Basel_III', title: 'Basel III', category: 'regulatory', assertion_count: 120, warrant_count: 28, ground_count: 72, claim_count: 20, normative_count: 58, expressive_count: 4, conflict_count: 3, ai_readiness_score: 0.82 },
+  { doc_id: 'Value_at_Risk', title: 'Value at Risk', category: 'risk', assertion_count: 95, warrant_count: 18, ground_count: 58, claim_count: 19, normative_count: 30, expressive_count: 5, conflict_count: 2, ai_readiness_score: 0.71 },
+  { doc_id: 'CAPM', title: 'CAPM', category: 'financial_theory', assertion_count: 80, warrant_count: 20, ground_count: 45, claim_count: 15, normative_count: 20, expressive_count: 8, conflict_count: 0, ai_readiness_score: 0.68 },
+  { doc_id: 'Hedge_Fund', title: 'Hedge Fund', category: 'products', assertion_count: 65, warrant_count: 12, ground_count: 38, claim_count: 15, normative_count: 22, expressive_count: 3, conflict_count: 1, ai_readiness_score: 0.59 },
+  { doc_id: 'Dodd_Frank_Act', title: 'Dodd–Frank Act', category: 'regulatory', assertion_count: 140, warrant_count: 35, ground_count: 88, claim_count: 17, normative_count: 72, expressive_count: 5, conflict_count: 5, ai_readiness_score: 0.89 },
+  { doc_id: 'Credit_Risk', title: 'Credit Risk', category: 'risk', assertion_count: 88, warrant_count: 22, ground_count: 52, claim_count: 14, normative_count: 35, expressive_count: 6, conflict_count: 1, ai_readiness_score: 0.67 },
+  { doc_id: 'Black_Scholes', title: 'Black–Scholes', category: 'financial_theory', assertion_count: 72, warrant_count: 15, ground_count: 44, claim_count: 13, normative_count: 18, expressive_count: 7, conflict_count: 0, ai_readiness_score: 0.62 },
+  { doc_id: 'Derivative_(finance)', title: 'Derivative (finance)', category: 'products', assertion_count: 55, warrant_count: 10, ground_count: 32, claim_count: 13, normative_count: 18, expressive_count: 4, conflict_count: 2, ai_readiness_score: 0.55 },
+  { doc_id: 'MiFID_II', title: 'MiFID II', category: 'regulatory', assertion_count: 110, warrant_count: 30, ground_count: 68, claim_count: 12, normative_count: 60, expressive_count: 3, conflict_count: 4, ai_readiness_score: 0.85 },
+  { doc_id: 'Liquidity_Risk', title: 'Liquidity Risk', category: 'risk', assertion_count: 60, warrant_count: 14, ground_count: 35, claim_count: 11, normative_count: 22, expressive_count: 5, conflict_count: 1, ai_readiness_score: 0.58 },
+];
+const FALLBACK_EDGES = [
+  { source_doc: 'Basel_III',         target_doc: 'Credit_Risk',          rel_type: 'ENTAILS',     edge_count: 8,  mean_confidence: 0.88 },
+  { source_doc: 'Basel_III',         target_doc: 'Liquidity_Risk',        rel_type: 'ENTAILS',     edge_count: 6,  mean_confidence: 0.85 },
+  { source_doc: 'Dodd_Frank_Act',    target_doc: 'Derivative_(finance)',  rel_type: 'ENTAILS',     edge_count: 10, mean_confidence: 0.91 },
+  { source_doc: 'MiFID_II',          target_doc: 'Hedge_Fund',            rel_type: 'ENTAILS',     edge_count: 5,  mean_confidence: 0.82 },
+  { source_doc: 'Value_at_Risk',     target_doc: 'Credit_Risk',           rel_type: 'CAUSES',      edge_count: 4,  mean_confidence: 0.76 },
+  { source_doc: 'CAPM',              target_doc: 'Black_Scholes',         rel_type: 'SPECIALIZES', edge_count: 3,  mean_confidence: 0.79 },
+  { source_doc: 'Basel_III',         target_doc: 'Dodd_Frank_Act',        rel_type: 'CONTRADICTS', edge_count: 2,  mean_confidence: 0.72 },
+  { source_doc: 'MiFID_II',          target_doc: 'Dodd_Frank_Act',        rel_type: 'CONTRADICTS', edge_count: 3,  mean_confidence: 0.69 },
+  { source_doc: 'Black_Scholes',     target_doc: 'Derivative_(finance)',  rel_type: 'ENTAILS',     edge_count: 4,  mean_confidence: 0.83 },
+  { source_doc: 'Credit_Risk',       target_doc: 'Value_at_Risk',         rel_type: 'CAUSES',      edge_count: 3,  mean_confidence: 0.74 },
+  { source_doc: 'Liquidity_Risk',    target_doc: 'Credit_Risk',           rel_type: 'CAUSES',      edge_count: 2,  mean_confidence: 0.70 },
+  { source_doc: 'Hedge_Fund',        target_doc: 'Derivative_(finance)',  rel_type: 'ENTAILS',     edge_count: 3,  mean_confidence: 0.77 },
+];
+const FALLBACK_CENTRALITY = {
+  concepts: [
+    { name: 'Capital Adequacy', degree: 142 }, { name: 'Market Risk', degree: 118 },
+    { name: 'Counterparty Risk', degree: 97 }, { name: 'Regulatory Capital', degree: 89 },
+    { name: 'Liquidity Coverage', degree: 76 }, { name: 'Tier 1 Capital', degree: 68 },
+    { name: 'Stress Testing', degree: 61 }, { name: 'Leverage Ratio', degree: 55 },
+    { name: 'Credit Exposure', degree: 49 }, { name: 'Risk Weighting', degree: 43 },
+  ],
+  regulations: [
+    { name: 'Basel III', assertion_count: 83, warrants: 16, doc_count: 9 },
+    { name: 'Dodd-Frank', assertion_count: 71, warrants: 22, doc_count: 7 },
+    { name: 'MiFID II', assertion_count: 64, warrants: 18, doc_count: 6 },
+    { name: 'AIFMD', assertion_count: 52, warrants: 12, doc_count: 5 },
+    { name: 'FATCA', assertion_count: 38, warrants: 8, doc_count: 4 },
+  ],
+  assertions: [
+    { assertion_id: '1', assertion_text: 'Banks must maintain a minimum CET1 ratio of 4.5%', discourse_role: 'warrant', doc_id: 'Basel_III', degree: 28 },
+    { assertion_id: '2', assertion_text: 'Systemic risk increases with leverage', discourse_role: 'ground', doc_id: 'Value_at_Risk', degree: 22 },
+    { assertion_id: '3', assertion_text: 'Derivatives must be centrally cleared', discourse_role: 'warrant', doc_id: 'Dodd_Frank_Act', degree: 19 },
+    { assertion_id: '4', assertion_text: 'Option pricing assumes log-normal returns', discourse_role: 'ground', doc_id: 'Black_Scholes', degree: 16 },
+    { assertion_id: '5', assertion_text: 'Liquidity buffers must cover 30-day outflows', discourse_role: 'warrant', doc_id: 'Basel_III', degree: 14 },
+  ],
+};
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+const nodeRadius = d => Math.max(8, Math.min(28, Math.sqrt(d.assertion_count || 1) * 2.2));
+
+function nodeColor(d) {
+  if (colorMode === 'readiness') return readinessColor(d.ai_readiness_score || 0);
+  return CAT_COLOR[d.category] || CAT_COLOR.other;
+}
+
+function edgeStyle(rel_type) {
+  return REL_STYLE[rel_type] || DEFAULT_REL_STYLE;
+}
+
+function strokeWidth(e) {
+  return 0.5 + Math.min((e.edge_count || 1) / 5, 3);
+}
+
+function truncate(s, n) {
+  return s && s.length > n ? s.slice(0, n) + '…' : (s || '');
+}
+
+function pct(num, denom) {
+  return denom > 0 ? Math.round((num / denom) * 100) + '%' : '0%';
+}
+
+// ── Data loading ──────────────────────────────────────────────────────────────
+async function loadData() {
+  let useFallback = false;
+  let nodesData, edgesData;
+
+  try {
+    const [nr, er] = await Promise.all([
+      fetch(`${API_BASE}/viz/nodes`),
+      fetch(`${API_BASE}/viz/edges`),
+    ]);
+    if (!nr.ok || !er.ok) throw new Error('API error');
+    const nj = await nr.json();
+    const ej = await er.json();
+    nodesData = nj.nodes;
+    edgesData = ej.edges;
+  } catch (e) {
+    useFallback = true;
+    nodesData = FALLBACK_NODES;
+    edgesData = FALLBACK_EDGES;
+    document.getElementById('api-error-banner').style.display = 'block';
+  }
+
+  // Load centrality (non-fatal)
+  try {
+    const cr = await fetch(`${API_BASE}/viz/centrality`);
+    if (cr.ok) centrality = await cr.json();
+    else centrality = FALLBACK_CENTRALITY;
+  } catch (e) {
+    centrality = FALLBACK_CENTRALITY;
+    if (!useFallback) console.warn('Centrality endpoint unavailable, using fallback');
+  }
+
+  allNodes = nodesData;
+  allEdges = edgesData;
+}
+
+// ── Stats strip ───────────────────────────────────────────────────────────────
+function renderStats() {
+  const totalAssertions = allNodes.reduce((s, n) => s + (n.assertion_count || 0), 0);
+  const totalDocs = allNodes.length;
+  const totalRelations = allEdges.reduce((s, e) => s + (e.edge_count || 0), 0);
+  const totalConflicts = allEdges.filter(e => e.rel_type === 'CONTRADICTS')
+                                  .reduce((s, e) => s + (e.edge_count || 0), 0);
+  const avgReadiness = allNodes.length
+    ? (allNodes.reduce((s, n) => s + (n.ai_readiness_score || 0), 0) / allNodes.length).toFixed(2)
+    : 0;
+
+  document.getElementById('stats-strip').innerHTML =
+    `<span>${totalAssertions.toLocaleString()} assertions</span>` +
+    `<span>${totalDocs} documents</span>` +
+    `<span>${totalRelations.toLocaleString()} relations</span>` +
+    `<span>${totalConflicts} conflicts</span>` +
+    `<span>Avg AI-readiness: ${avgReadiness}</span>`;
+}
+
+// ── Legend ────────────────────────────────────────────────────────────────────
+function renderLegend() {
+  const el = document.getElementById('legend');
+  if (colorMode === 'category') {
+    el.innerHTML = Object.entries(CAT_COLOR).map(([k, v]) =>
+      `<div class="legend-item"><div class="legend-dot" style="background:${v}"></div>
+       <span>${k.replace('_', ' ')}</span></div>`
+    ).join('');
+  } else {
+    el.innerHTML =
+      `<div class="legend-item"><div class="legend-dot" style="background:#E24B4A"></div><span>Low readiness (0)</span></div>` +
+      `<div class="legend-item"><div class="legend-dot" style="background:#639922"></div><span>High readiness (1)</span></div>`;
+  }
+}
+
+// ── Filtering ─────────────────────────────────────────────────────────────────
+function getVisibleEdges() {
+  let edges = allEdges.filter(e => (e.mean_confidence || 1) >= confidenceThreshold);
+  if (activeFilter === 'conflicts') {
+    edges = edges.filter(e => e.rel_type === 'CONTRADICTS');
+  } else if (activeFilter === 'regulatory') {
+    const regDocs = new Set(allNodes.filter(n => n.category === 'regulatory').map(n => n.doc_id));
+    edges = edges.filter(e => regDocs.has(e.source_doc) || regDocs.has(e.target_doc));
+  }
+  return edges;
+}
+
+function getVisibleNodeIds() {
+  const edges = getVisibleEdges();
+  if (activeFilter === 'conflicts') {
+    const ids = new Set();
+    edges.forEach(e => { ids.add(e.source_doc); ids.add(e.target_doc); });
+    return ids;
+  }
+  if (activeFilter === 'regulatory') {
+    const regDocs = new Set(allNodes.filter(n => n.category === 'regulatory').map(n => n.doc_id));
+    const neighborIds = new Set(regDocs);
+    edges.forEach(e => { neighborIds.add(e.source_doc); neighborIds.add(e.target_doc); });
+    return neighborIds;
+  }
+  return new Set(allNodes.map(n => n.doc_id));
+}
+
+// ── D3 force graph ────────────────────────────────────────────────────────────
+let svgRoot, gMain, zoomBehavior;
+
+function initGraph() {
+  const container = document.getElementById('graph-container');
+  const W = container.clientWidth;
+  const H = container.clientHeight;
+
+  svgRoot = d3.select('#graph')
+    .attr('width', W).attr('height', H);
+
+  // defs — arrowhead
+  const defs = svgRoot.append('defs');
+  const types = ['ENTAILS','CAUSES','SPECIALIZES','CONTRADICTS','DEFAULT'];
+  types.forEach(t => {
+    const st = REL_STYLE[t] || DEFAULT_REL_STYLE;
+    defs.append('marker')
+      .attr('id', `arrow-${t}`)
+      .attr('viewBox', '0 -4 8 8').attr('refX', 18).attr('refY', 0)
+      .attr('markerWidth', 6).attr('markerHeight', 6)
+      .attr('orient', 'auto')
+      .append('path').attr('d', 'M0,-4L8,0L0,4').attr('fill', st.stroke)
+      .style('opacity', st.opacity);
+  });
+
+  zoomBehavior = d3.zoom()
+    .scaleExtent([0.1, 8])
+    .on('zoom', (event) => {
+      currentTransform = event.transform;
+      gMain.attr('transform', event.transform);
+      updateLabelVisibility();
+    });
+
+  svgRoot.call(zoomBehavior)
+    .on('dblclick.zoom', () => resetZoom());
+
+  gMain = svgRoot.append('g');
+}
+
+function buildGraph() {
+  if (!gMain) return;
+  expandedDocs.clear();
+  gMain.selectAll('*').remove();
+
+  const visibleIds = getVisibleNodeIds();
+  const visEdges = getVisibleEdges();
+
+  const nodes = allNodes
+    .filter(n => visibleIds.has(n.doc_id))
+    .map(n => ({ ...n }));  // clone for simulation
+
+  const nodeMap = new Map(nodes.map(n => [n.doc_id, n]));
+
+  const edges = visEdges
+    .filter(e => nodeMap.has(e.source_doc) && nodeMap.has(e.target_doc))
+    .map(e => ({ ...e, source: e.source_doc, target: e.target_doc }));
+
+  const container = document.getElementById('graph-container');
+  const W = container.clientWidth;
+  const H = container.clientHeight;
+
+  simulation = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(edges)
+      .id(d => d.doc_id)
+      .distance(d => d.rel_type === 'CONTRADICTS' ? 80 : 120)
+      .strength(d => (d.mean_confidence || 0.5) * 0.4))
+    .force('charge', d3.forceManyBody().strength(-400))
+    .force('center', d3.forceCenter(W / 2, H / 2))
+    .force('collision', d3.forceCollide().radius(d => nodeRadius(d) + 8));
+
+  // ── Edges ──
+  linkSel = gMain.append('g').attr('class', 'links')
+    .selectAll('line')
+    .data(edges)
+    .join('line')
+    .attr('stroke', d => (edgeStyle(d.rel_type)).stroke)
+    .attr('stroke-opacity', d => (edgeStyle(d.rel_type)).opacity)
+    .attr('stroke-width', d => strokeWidth(d))
+    .attr('stroke-dasharray', d => (edgeStyle(d.rel_type)).dash || null)
+    .style('cursor', 'pointer')
+    .on('mouseover', (event, d) => showEdgeTooltip(event, d))
+    .on('mouseout', hideTooltip)
+    .on('click', (event, d) => showEdgeTooltip(event, d, true));
+
+  // ── Nodes ──
+  const nodeG = gMain.append('g').attr('class', 'nodes')
+    .selectAll('g')
+    .data(nodes)
+    .join('g')
+    .style('cursor', 'pointer')
+    .call(d3.drag()
+      .on('start', dragStarted)
+      .on('drag', dragged)
+      .on('end', dragEnded))
+    .on('mouseover', (event, d) => showNodeTooltip(event, d))
+    .on('mouseout', hideTooltip)
+    .on('click', (event, d) => { event.stopPropagation(); selectNode(d, edges); })
+    .on('dblclick', (event, d) => {
+      event.stopPropagation();
+      if (expandedDocs.has(d.doc_id)) {
+        collapseDoc(d.doc_id);
+        // update expand btn if this node is selected
+        const btn = document.getElementById('expand-btn');
+        if (btn) { btn.textContent = 'Expand assertions ▼'; btn.className = ''; }
+      } else {
+        const btn = document.getElementById('expand-btn');
+        if (btn) btn.textContent = 'Loading…';
+        expandDoc(d).then(() => {
+          if (btn) { btn.textContent = 'Collapse assertions ▲'; btn.className = 'expanded'; }
+        });
+      }
+    });
+
+  // Outer conflict ring
+  nodeG.filter(d => d.conflict_count > 0)
+    .append('circle')
+    .attr('r', d => nodeRadius(d) + 3)
+    .attr('fill', 'none')
+    .attr('stroke', '#E24B4A')
+    .attr('stroke-width', 2);
+
+  // Main circle
+  nodeSel = nodeG.append('circle')
+    .attr('r', d => nodeRadius(d))
+    .attr('fill', d => nodeColor(d))
+    .attr('stroke', '#fff')
+    .attr('stroke-width', 1.5);
+
+  // high-readiness dimming
+  if (activeFilter === 'high-readiness') {
+    nodeSel.attr('opacity', d => d.ai_readiness_score >= 0.7 ? 1.0 : 0.2);
+  }
+
+  // Labels
+  labelSel = nodeG.append('text')
+    .attr('text-anchor', 'middle')
+    .attr('dominant-baseline', 'middle')
+    .attr('fill', '#fff')
+    .attr('font-size', 10)
+    .attr('pointer-events', 'none')
+    .text(d => truncate(d.doc_id, 14));
+
+  updateLabelVisibility();
+
+  simulation.on('tick', () => {
+    linkSel
+      .attr('x1', d => d.source.x)
+      .attr('y1', d => d.source.y)
+      .attr('x2', d => d.target.x)
+      .attr('y2', d => d.target.y);
+
+    nodeG.attr('transform', d => `translate(${d.x},${d.y})`);
+  });
+
+  // click background → deselect
+  svgRoot.on('click', () => {
+    selectedNode = null;
+    document.getElementById('node-detail').style.display = 'none';
+  });
+}
+
+function updateLabelVisibility() {
+  if (!labelSel) return;
+  const scale = currentTransform.k;
+  labelSel.attr('display', d =>
+    scale >= 1.5 ? null : (d.assertion_count >= 30 ? null : 'none')
+  );
+}
+
+function updateNodeColors() {
+  if (!nodeSel) return;
+  nodeSel.attr('fill', d => nodeColor(d));
+}
+
+// ── Drag ──────────────────────────────────────────────────────────────────────
+function dragStarted(event, d) {
+  if (!event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x; d.fy = d.y;
+}
+function dragged(event, d) { d.fx = event.x; d.fy = event.y; }
+function dragEnded(event, d) {
+  if (!event.active) simulation.alphaTarget(0);
+  // keep pinned (fx/fy stay set)
+}
+
+function resetZoom() {
+  const container = document.getElementById('graph-container');
+  svgRoot.transition().duration(500)
+    .call(zoomBehavior.transform, d3.zoomIdentity
+      .translate(container.clientWidth / 2, container.clientHeight / 2)
+      .scale(1)
+      .translate(-container.clientWidth / 2, -container.clientHeight / 2));
+}
+
+// ── Tooltips ──────────────────────────────────────────────────────────────────
+const tooltip = document.getElementById('tooltip');
+
+function showTooltip(event, html) {
+  tooltip.innerHTML = html;
+  tooltip.style.display = 'block';
+  positionTooltip(event);
+}
+function positionTooltip(event) {
+  const x = event.clientX + 12;
+  const y = event.clientY + 12;
+  tooltip.style.left = (x + tooltip.offsetWidth > window.innerWidth ? x - tooltip.offsetWidth - 24 : x) + 'px';
+  tooltip.style.top  = (y + tooltip.offsetHeight > window.innerHeight ? y - tooltip.offsetHeight - 12 : y) + 'px';
+}
+function hideTooltip() { tooltip.style.display = 'none'; }
+
+function showNodeTooltip(event, d) {
+  showTooltip(event,
+    `<strong>${truncate(d.title || d.doc_id, 30)}</strong><br>` +
+    `Assertions: ${d.assertion_count} &nbsp;|&nbsp; Conflicts: ${d.conflict_count}<br>` +
+    `AI-readiness: ${d.ai_readiness_score}`
+  );
+}
+
+function showEdgeTooltip(event, d, pin) {
+  const srcName = truncate(d.source_doc || (d.source && d.source.doc_id) || '', 20);
+  const tgtName = truncate(d.target_doc || (d.target && d.target.doc_id) || '', 20);
+  showTooltip(event,
+    `<strong>${d.rel_type}</strong><br>` +
+    `${srcName} → ${tgtName}<br>` +
+    `Count: ${d.edge_count} &nbsp;|&nbsp; Conf: ${d.mean_confidence}`
+  );
+  if (pin) event.stopPropagation();
+}
+
+// ── Node detail panel ─────────────────────────────────────────────────────────
+function selectNode(d, edges) {
+  selectedNode = d;
+  const ac = d.assertion_count || 0;
+  const nc = d.normative_count || 0;
+  const ec = d.expressive_count || 0;
+  const constative = Math.max(0, ac - nc - ec);
+
+  document.getElementById('detail-title').textContent = truncate(d.title || d.doc_id, 35);
+  document.getElementById('detail-cat').textContent = d.category;
+  document.getElementById('detail-ac').textContent = ac;
+  document.getElementById('detail-wc').textContent = d.warrant_count || 0;
+  document.getElementById('detail-gc').textContent = d.ground_count || 0;
+  document.getElementById('detail-nm').textContent = pct(nc, ac);
+  document.getElementById('detail-ct').textContent = pct(constative, ac);
+  document.getElementById('detail-ex').textContent = pct(ec, ac);
+  document.getElementById('detail-cf').textContent = d.conflict_count || 0;
+  document.getElementById('detail-ar').textContent = d.ai_readiness_score || 0;
+  document.getElementById('detail-ar-bar').style.width = ((d.ai_readiness_score || 0) * 100) + '%';
+  document.getElementById('detail-ar-bar').style.background = readinessColor(d.ai_readiness_score || 0);
+
+  // Connections
+  const docId = d.doc_id;
+  const conns = allEdges.filter(e => e.source_doc === docId || e.target_doc === docId);
+  const docEdgeMap = {};
+  conns.forEach(e => {
+    const peer = e.source_doc === docId ? e.target_doc : e.source_doc;
+    if (!docEdgeMap[peer]) docEdgeMap[peer] = [];
+    docEdgeMap[peer].push(e);
+  });
+  const connEntries = Object.entries(docEdgeMap);
+  const connList = document.getElementById('connections-list');
+  connList.innerHTML = `<div style="color:#718096;font-size:10px;margin-bottom:4px">`+
+    `${conns.length} edges to ${connEntries.length} documents</div>` +
+    connEntries.slice(0, 12).map(([peer, es]) =>
+      es.map(e =>
+        `<div class="conn-item">${truncate(peer, 20)} — ${e.rel_type} (×${e.edge_count}, conf ${e.mean_confidence})</div>`
+      ).join('')
+    ).join('');
+
+  const expandBtn = document.getElementById('expand-btn');
+  const isExpanded = expandedDocs.has(d.doc_id);
+  expandBtn.textContent = isExpanded ? 'Collapse assertions ▲' : 'Expand assertions ▼';
+  expandBtn.className = isExpanded ? 'expanded' : '';
+  expandBtn.onclick = () => {
+    if (expandedDocs.has(d.doc_id)) {
+      collapseDoc(d.doc_id);
+      expandBtn.textContent = 'Expand assertions ▼';
+      expandBtn.className = '';
+    } else {
+      expandBtn.textContent = 'Loading…';
+      expandDoc(d).then(() => {
+        expandBtn.textContent = 'Collapse assertions ▲';
+        expandBtn.className = 'expanded';
+      });
+    }
+  };
+
+  document.getElementById('explore-btn').onclick = () => {
+    if (typeof window.sendPrompt === 'function') {
+      window.sendPrompt('Tell me about the knowledge quality of ' + docId);
+    } else if (typeof window.claude !== 'undefined' && window.claude.sendPrompt) {
+      window.claude.sendPrompt('Tell me about the knowledge quality of ' + docId);
+    } else {
+      alert('Explore: Tell me about the knowledge quality of ' + docId);
+    }
+  };
+
+  document.getElementById('node-detail').style.display = 'block';
+}
+
+// ── Assertion drill-down ──────────────────────────────────────────────────────
+
+async function expandDoc(docNode) {
+  const docId = docNode.doc_id;
+  if (expandedDocs.has(docId)) return;   // already expanded
+
+  let assertions;
+  try {
+    const r = await fetch(`${API_BASE}/viz/doc/${encodeURIComponent(docId)}/assertions`);
+    if (!r.ok) throw new Error('fetch failed');
+    const data = await r.json();
+    assertions = data.assertions;
+  } catch (e) {
+    console.warn('Could not load assertions for', docId, e);
+    return;
+  }
+
+  const maxDeg = assertions.reduce((m, a) => Math.max(m, a.degree || 1), 1);
+
+  // Create assertion nodes, positioned near parent
+  const aNodes = assertions.map((a, i) => {
+    const angle = (2 * Math.PI * i) / assertions.length;
+    const r = nodeRadius(docNode) + 40 + Math.random() * 20;
+    return {
+      ...a,
+      _type:    'assertion',
+      _parent:  docId,
+      id:       `asr:${a.assertion_id}`,
+      x:        (docNode.x || 0) + r * Math.cos(angle),
+      y:        (docNode.y || 0) + r * Math.sin(angle),
+      _radius:  Math.max(4, Math.min(12, Math.sqrt(a.degree || 1) * 1.8)),
+    };
+  });
+
+  // Links from each assertion to its parent doc
+  const aLinks = aNodes.map(a => ({
+    source: a.id,
+    target: docId,
+    _type:  'assertion-parent',
+  }));
+
+  expandedDocs.set(docId, { nodes: aNodes, links: aLinks });
+  renderAssertionLayer();
+  simulation.alpha(0.4).restart();
+}
+
+function collapseDoc(docId) {
+  expandedDocs.delete(docId);
+  renderAssertionLayer();
+  simulation.alpha(0.2).restart();
+}
+
+function renderAssertionLayer() {
+  if (!gMain) return;
+
+  // Flatten all expanded nodes + links
+  const aNodes = [...expandedDocs.values()].flatMap(d => d.nodes);
+  const aLinks = [...expandedDocs.values()].flatMap(d => d.links);
+
+  // Remove old layers
+  gMain.selectAll('.assertion-links').remove();
+  gMain.selectAll('.assertion-nodes').remove();
+
+  if (aNodes.length === 0) return;
+
+  // Build a unified id→object map for link resolution
+  const nodeById = new Map();
+  simulation.nodes().forEach(n => nodeById.set(n.doc_id, n));
+  aNodes.forEach(n => nodeById.set(n.id, n));
+
+  // Resolve link source/target to objects
+  const resolvedLinks = aLinks.map(l => ({
+    ...l,
+    source: nodeById.get(typeof l.source === 'object' ? l.source.id : l.source) || l.source,
+    target: nodeById.get(typeof l.target === 'object' ? l.target.doc_id || l.target.id : l.target) || l.target,
+  }));
+
+  // Add assertion nodes to simulation
+  const allSimNodes = simulation.nodes();
+  // Remove old assertion nodes, add fresh ones
+  const docNodes = allSimNodes.filter(n => n._type !== 'assertion');
+  simulation.nodes([...docNodes, ...aNodes]);
+
+  // Update link force
+  const existingLinks = simulation.force('link').links()
+    .filter(l => l._type !== 'assertion-parent');
+  simulation.force('link').links([...existingLinks, ...resolvedLinks]);
+
+  // ── Draw assertion links ──
+  assertionLinkSel = gMain.insert('g', '.nodes')
+    .attr('class', 'assertion-links')
+    .selectAll('line')
+    .data(resolvedLinks)
+    .join('line')
+    .attr('stroke', '#4a5568')
+    .attr('stroke-opacity', 0.4)
+    .attr('stroke-width', 0.8)
+    .attr('stroke-dasharray', '2,2');
+
+  // ── Draw assertion nodes ──
+  const aNodeG = gMain.append('g')
+    .attr('class', 'assertion-nodes')
+    .selectAll('g')
+    .data(aNodes)
+    .join('g')
+    .style('cursor', 'pointer')
+    .call(d3.drag()
+      .on('start', dragStarted)
+      .on('drag', dragged)
+      .on('end', dragEnded))
+    .on('mouseover', (event, d) => showTooltip(event,
+      `<strong>${d.discourse_role}</strong> · ${d.validity_claim_type}<br>` +
+      `${truncate(d.claim_text, 80)}<br>conf: ${d.confidence} · degree: ${d.degree}`
+    ))
+    .on('mouseout', hideTooltip);
+
+  aNodeG.append('circle')
+    .attr('r', d => d._radius)
+    .attr('fill', d => assertionColor(d))
+    .attr('stroke', '#1a1f2e')
+    .attr('stroke-width', 0.8)
+    .attr('opacity', 0.85);
+
+  aNodeG.append('text')
+    .attr('text-anchor', 'middle')
+    .attr('dominant-baseline', 'middle')
+    .attr('fill', '#cbd5e0')
+    .attr('font-size', 8)
+    .attr('pointer-events', 'none')
+    .attr('dy', d => d._radius + 9)
+    .text(d => truncate(d.claim_text, 22));
+
+  // Hook into tick
+  simulation.on('tick.assertions', () => {
+    if (assertionLinkSel) {
+      assertionLinkSel
+        .attr('x1', d => (d.source.x || 0))
+        .attr('y1', d => (d.source.y || 0))
+        .attr('x2', d => (d.target.x || d.target.doc_id ? d.target.x || 0 : 0))
+        .attr('y2', d => (d.target.y || 0));
+    }
+    gMain.selectAll('.assertion-nodes g')
+      .attr('transform', d => `translate(${d.x || 0},${d.y || 0})`);
+  });
+}
+
+// ── Centrality bars ───────────────────────────────────────────────────────────
+function renderCentrality() {
+  // Concepts
+  const concepts = centrality.concepts || [];
+  const maxDeg = concepts.reduce((m, c) => Math.max(m, c.degree || 0), 1);
+  document.getElementById('concepts-bars').innerHTML = concepts.slice(0, 10).map(c => {
+    const w = Math.round(((c.degree || 0) / maxDeg) * 100);
+    const col = CAT_COLOR.regulatory;
+    return `<div class="bar-row">
+      <div class="bar-label" title="${c.name}">${truncate(c.name, 20)}</div>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:${w}%;background:${col}"></div>
+      </div>
+      <div class="bar-val">${c.degree}</div>
+    </div>`;
+  }).join('');
+
+  // Regulations
+  const regs = centrality.regulations || [];
+  const maxAc = regs.reduce((m, r) => Math.max(m, r.assertion_count || 0), 1);
+  document.getElementById('regulations-bars').innerHTML = regs.slice(0, 10).map(r => {
+    const w = Math.round(((r.assertion_count || 0) / maxAc) * 100);
+    const wo = r.assertion_count > 0
+      ? Math.round(((r.warrants || 0) / r.assertion_count) * 100) : 0;
+    return `<div class="bar-row" title="${r.warrants||0} warrants / ${r.assertion_count||0} assertions across ${r.doc_count||0} documents">
+      <div class="bar-label" title="${r.name}">${truncate(r.name, 20)}</div>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:${w}%;background:#185FA5"></div>
+        <div class="bar-fill-overlay" style="width:${wo}%;background:#0d3565"></div>
+      </div>
+      <div class="bar-val">${r.assertion_count}</div>
+    </div>`;
+  }).join('');
+
+  // Assertions
+  const asrs = centrality.assertions || [];
+  const maxDegA = asrs.reduce((m, a) => Math.max(m, a.degree || 0), 1);
+  document.getElementById('assertions-bars').innerHTML = asrs.slice(0, 10).map(a => {
+    const w = Math.round(((a.degree || 0) / maxDegA) * 100);
+    const col = a.discourse_role === 'warrant' ? '#378ADD'
+              : a.discourse_role === 'ground'  ? '#1D9E75' : '#888780';
+    return `<div class="bar-row" data-docid="${a.doc_id}"
+              onclick="jumpToDoc('${a.doc_id}')"
+              title="${a.assertion_text}">
+      <div class="bar-label">${truncate(a.assertion_text, 35)}</div>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:${w}%;background:${col}"></div>
+      </div>
+      <div class="bar-val">${a.degree}</div>
+    </div>`;
+  }).join('');
+}
+
+function jumpToDoc(docId) {
+  const node = allNodes.find(n => n.doc_id === docId);
+  if (node) selectNode(node, allEdges);
+}
+
+// ── Event wiring ──────────────────────────────────────────────────────────────
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    buildGraph();
+  });
+});
+
+document.getElementById('confidence-slider').addEventListener('input', (e) => {
+  confidenceThreshold = parseFloat(e.target.value);
+  document.getElementById('conf-value').textContent = confidenceThreshold.toFixed(2);
+  buildGraph();
+});
+
+document.querySelectorAll('.color-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.color-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    colorMode = btn.dataset.mode;
+    renderLegend();
+    updateNodeColors();
+  });
+});
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+(async () => {
+  await loadData();
+  document.getElementById('loading-spinner').style.display = 'none';
+  renderStats();
+  renderLegend();
+  initGraph();
+  buildGraph();
+  renderCentrality();
+})();
+</script>
+</body>
+</html>

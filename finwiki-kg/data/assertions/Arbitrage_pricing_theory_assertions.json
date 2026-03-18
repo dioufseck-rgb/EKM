@@ -1,0 +1,2591 @@
+[
+  {
+    "assertion_id": "472db4a4-b909-4223-b159-f932bac60739",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "In the APT context, arbitrage consists of trading in two assets \u2013 with at least one being mispriced.",
+    "subject": "arbitrage",
+    "predicate_type": "defines",
+    "object_text": "trading in two assets \u2013 with at least one being mispriced",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the APT context, arbitrage consists of trading in two assets \u2013 with at least one being mispriced.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitrage",
+      "asset pricing"
+    ],
+    "entities": [
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eaccc7c9-fe3d-4c64-bdf4-141897cae8c8",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The arbitrageur sells the asset which is relatively too expensive and uses the proceeds to buy one which is relatively too cheap.",
+    "subject": "arbitrageur",
+    "predicate_type": "implements",
+    "object_text": "sells the asset which is relatively too expensive and uses the proceeds to buy one which is relatively too cheap",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The arbitrageur sells the asset which is relatively too expensive and uses the proceeds to buy one which is relatively too cheap.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitrage",
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a6683d1-c5bd-4e24-81f0-b6f45616f299",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Under the APT, an asset is mispriced if its current price diverges from the price predicted by the model.",
+    "subject": "asset",
+    "predicate_type": "constrains",
+    "object_text": "is mispriced if its current price diverges from the price predicted by the model",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under the APT, an asset is mispriced if its current price diverges from the price predicted by the model.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67f2ee9d-8ccf-4951-82db-3698132b9d8d",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The asset price today should equal the sum of all future cash flows discounted at the APT rate.",
+    "subject": "asset price",
+    "predicate_type": "requires",
+    "object_text": "equal the sum of all future cash flows discounted at the APT rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The asset price today should equal the sum of all future cash flows discounted at the APT rate.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "38f9d610-cfbd-4b21-b688-11104a34d3a4",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The expected return of the asset is a linear function of various factors.",
+    "subject": "expected return of the asset",
+    "predicate_type": "defines",
+    "object_text": "a linear function of various factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The expected return of the asset is a linear function of various factors.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "29a43ff9-3158-4b74-9bd2-b81d0fac5f5e",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Sensitivity to changes in each factor is represented by a factor-specific beta coefficient.",
+    "subject": "sensitivity to changes in each factor",
+    "predicate_type": "relates_to",
+    "object_text": "represented by a factor-specific beta coefficient",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sensitivity to changes in each factor is represented by a factor-specific beta coefficient.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4116d904-5b8b-49f2-8001-49f6a2868115",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "A correctly priced asset here may be in fact a synthetic asset - a portfolio consisting of other correctly priced assets.",
+    "subject": "correctly priced asset",
+    "predicate_type": "defines",
+    "object_text": "a synthetic asset - a portfolio consisting of other correctly priced assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A correctly priced asset here may be in fact a synthetic asset - a portfolio consisting of other correctly priced assets.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1d5b9b8b-dacf-4fc5-a5ea-b9ce80ad0c82",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "This portfolio has the same exposure to each of the macroeconomic factors as the mispriced asset.",
+    "subject": "portfolio",
+    "predicate_type": "relates_to",
+    "object_text": "has the same exposure to each of the macroeconomic factors as the mispriced asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This portfolio has the same exposure to each of the macroeconomic factors as the mispriced asset.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dca48c86-1ada-487f-adf5-2e00a1b6e8f6",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The arbitrageur creates the portfolio by identifying n correctly priced assets (one per risk-factor, plus one) and then weighting the assets such that portfolio beta per factor is the same as for the mispriced asset.",
+    "subject": "arbitrageur",
+    "predicate_type": "implements",
+    "object_text": "creates the portfolio by identifying n correctly priced assets (one per risk-factor, plus one) and then weighting the assets such that portfolio beta per factor is the same as for the mispriced asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The arbitrageur creates the portfolio by identifying n correctly priced assets (one per risk-factor, plus one) and then weighting the assets such that portfolio beta per factor is the same as for the mispriced asset.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitrage",
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "beaeeb8c-a579-4585-8d9b-d1a9be281eb2",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "When the investor is long the asset and short the portfolio (or vice versa) he has created a position which has a positive expected return (the difference between asset return and portfolio return) and which has a net zero exposure to any macroeconomic factor and is therefore risk free (other than for firm specific risk).",
+    "subject": "position",
+    "predicate_type": "relates_to",
+    "object_text": "has a positive expected return (the difference between asset return and portfolio return) and which has a net zero exposure to any macroeconomic factor and is therefore risk free (other than for firm specific risk)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the investor is long the asset and short the portfolio (or vice versa) he has created a position which has a positive expected return (the difference between asset return and portfolio return) and which has a net zero exposure to any macroeconomic factor and is therefore risk free (other than for firm specific risk).",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitrage",
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1edc9287-3f35-4a96-80ab-3844070c3cdd",
+    "chunk_id": "8eccea70-ff94-47fb-8d05-c4ba0e095568",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The arbitrageur is thus in a position to make a risk-free profit.",
+    "subject": "arbitrageur",
+    "predicate_type": "permits",
+    "object_text": "make a risk-free profit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The arbitrageur is thus in a position to make a risk-free profit.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitrage",
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2fb7df2c-90cb-4b5a-a538-63d5e367526c",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "International arbitrage pricing theory (IAPT) is an important extension of the base idea of arbitrage pricing theory which further considers factors such as exchange rate risk.",
+    "subject": "International arbitrage pricing theory (IAPT)",
+    "predicate_type": "defines",
+    "object_text": "an important extension of the base idea of arbitrage pricing theory which further considers factors such as exchange rate risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "International arbitrage pricing theory (IAPT) is an important extension of the base idea of arbitrage pricing theory which further considers factors such as exchange rate risk.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitrage pricing theory",
+      "exchange rate risk"
+    ],
+    "entities": [
+      "International arbitrage pricing theory",
+      "arbitrage pricing theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b5c51451-9b43-448f-84e6-c0d5655066c2",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "In 1983 Bruno Solnik created an extension of the original arbitrage pricing theory to include risk related to international exchange rates hence making the model applicable international markets with multi-currency transactions.",
+    "subject": "Bruno Solnik",
+    "predicate_type": "implements",
+    "object_text": "an extension of the original arbitrage pricing theory to include risk related to international exchange rates hence making the model applicable international markets with multi-currency transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1983 Bruno Solnik created an extension of the original arbitrage pricing theory to include risk related to international exchange rates hence making the model applicable international markets with multi-currency transactions.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "arbitrage pricing theory",
+      "exchange rate risk"
+    ],
+    "entities": [
+      "Bruno Solnik",
+      "arbitrage pricing theory"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "18b1ada9-50e1-4759-8794-7eb38603a031",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Solnik suggested that there may be several factors common to all international assets, and conversely, there may be other common factors applicable to certain markets based on nationality.",
+    "subject": "Solnik",
+    "predicate_type": "relates_to",
+    "object_text": "that there may be several factors common to all international assets, and conversely, there may be other common factors applicable to certain markets based on nationality",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Solnik suggested that there may be several factors common to all international assets, and conversely, there may be other common factors applicable to certain markets based on nationality.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "international assets",
+      "market factors"
+    ],
+    "entities": [
+      "Solnik"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "77fb7493-9260-46cd-bfa1-75c1f697db54",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Fama and French originally proposed a three-factor model in 1995 which, consistent with the suggestion from Solnik above suggests that integrated international markets may experience a common set of factors, hence making it possible to price assets in all integrated markets using their model.",
+    "subject": "Fama and French",
+    "predicate_type": "relates_to",
+    "object_text": "originally proposed a three-factor model in 1995 which, consistent with the suggestion from Solnik above suggests that integrated international markets may experience a common set of factors, hence making it possible to price assets in all integrated markets using their model",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Fama and French originally proposed a three-factor model in 1995 which, consistent with the suggestion from Solnik above suggests that integrated international markets may experience a common set of factors, hence making it possible to price assets in all integrated markets using their model.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "three-factor model",
+      "international markets",
+      "asset pricing"
+    ],
+    "entities": [
+      "Fama",
+      "French",
+      "Solnik"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "023a1493-a1d2-4099-973d-cbec76d2aa55",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The Fama and French three factor model attempts to explain stock returns based on market risk, size, and value.",
+    "subject": "Fama and French three factor model",
+    "predicate_type": "relates_to",
+    "object_text": "attempts to explain stock returns based on market risk, size, and value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Fama and French three factor model attempts to explain stock returns based on market risk, size, and value.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stock returns",
+      "market risk",
+      "size",
+      "value"
+    ],
+    "entities": [
+      "Fama",
+      "French"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6fd95ce2-7c6a-46fa-9883-e01f4a0588e5",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "A 2012 paper aimed to empirically investigate Solnik\u2019s IAPT model and the suggestion that base currency fluctuations have a direct and comprehendible effect on the risk premiums of assets.",
+    "subject": "A 2012 paper",
+    "predicate_type": "relates_to",
+    "object_text": "aimed to empirically investigate Solnik\u2019s IAPT model and the suggestion that base currency fluctuations have a direct and comprehendible effect on the risk premiums of assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A 2012 paper aimed to empirically investigate Solnik\u2019s IAPT model and the suggestion that base currency fluctuations have a direct and comprehendible effect on the risk premiums of assets.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "IAPT model",
+      "currency fluctuations",
+      "risk premiums"
+    ],
+    "entities": [
+      "Solnik",
+      "IAPT model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "172eadc2-d149-4970-957e-eb0168182ea3",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "This was tested by generating a returns relation which broke down individual investor returns into currency and non-currency (universal) returns.",
+    "subject": "Returns relation",
+    "predicate_type": "relates_to",
+    "object_text": "broke down individual investor returns into currency and non-currency (universal) returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This was tested by generating a returns relation which broke down individual investor returns into currency and non-currency (universal) returns.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investor returns",
+      "currency returns"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a968e046-3308-4c39-b527-af682e7f6763",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The paper utilised Fama and French\u2019s three factor model (explained above) to estimate international currency impacts on common factors.",
+    "subject": "The paper",
+    "predicate_type": "implements",
+    "object_text": "utilised Fama and French\u2019s three factor model (explained above) to estimate international currency impacts on common factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The paper utilised Fama and French\u2019s three factor model (explained above) to estimate international currency impacts on common factors.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "three factor model",
+      "international currency",
+      "common factors"
+    ],
+    "entities": [
+      "Fama",
+      "French"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "829e5db3-ee11-41e3-bb31-45b96c353373",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "It was concluded that the total foreign exchange risk in international markets consisted of the immediate exchange rate risk and the residual market factors.",
+    "subject": "Total foreign exchange risk in international markets",
+    "predicate_type": "relates_to",
+    "object_text": "consisted of the immediate exchange rate risk and the residual market factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It was concluded that the total foreign exchange risk in international markets consisted of the immediate exchange rate risk and the residual market factors.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "exchange rate risk",
+      "market factors"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1ffef1b5-0e23-4a9d-8702-d95b24d92af2",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "This, along with empirical data tests validates the idea that foreign currency fluctuations have a direct effect on risk premiums and the factor loadings included in the APT model, hence, confirming the validity of the IAPT model.",
+    "subject": "Empirical data tests",
+    "predicate_type": "relates_to",
+    "object_text": "validates the idea that foreign currency fluctuations have a direct effect on risk premiums and the factor loadings included in the APT model, hence, confirming the validity of the IAPT model",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This, along with empirical data tests validates the idea that foreign currency fluctuations have a direct effect on risk premiums and the factor loadings included in the APT model, hence, confirming the validity of the IAPT model.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign currency fluctuations",
+      "risk premiums",
+      "APT model",
+      "IAPT model"
+    ],
+    "entities": [
+      "APT model",
+      "IAPT model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "170b9c3d-8230-4203-9e8a-8b5337924c1a",
+    "chunk_id": "207b996d-4d58-4c09-8faa-c83a957a36de",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The total foreign exchange risk in international markets consisted of the immediate exchange rate risk and the residual market factors.",
+    "subject": "foreign exchange risk",
+    "predicate_type": "relates_to",
+    "object_text": "consisted of the immediate exchange rate risk and the residual market factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The total foreign exchange risk in international markets consisted of the immediate exchange rate risk and the residual market factors.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "exchange rate risk",
+      "market factors"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac08541a-f5d4-47d1-8a1b-72f6328b679b",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "As with the CAPM, the factor-specific betas are found via a linear regression of historical security returns on the factor in question.",
+    "subject": "factor-specific betas",
+    "predicate_type": "implements",
+    "object_text": "linear regression of historical security returns on the factor in question",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As with the CAPM, the factor-specific betas are found via a linear regression of historical security returns on the factor in question.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "factor_analysis",
+      "linear_regression"
+    ],
+    "entities": [
+      "CAPM"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e2b9bcd5-d5f8-42f7-a899-46fbc554ce99",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Unlike the CAPM, the APT does not itself reveal the identity of its priced factors.",
+    "subject": "APT",
+    "predicate_type": "prohibits",
+    "object_text": "reveal the identity of its priced factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Unlike the CAPM, the APT does not itself reveal the identity of its priced factors.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "factor_analysis"
+    ],
+    "entities": [
+      "CAPM",
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6a196d26-6dd5-4b4e-ae3a-835780f7b89a",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The number and nature of these factors is likely to change over time and between economies.",
+    "subject": "factors",
+    "predicate_type": "relates_to",
+    "object_text": "likely to change over time and between economies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The number and nature of these factors is likely to change over time and between economies.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "factor_analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4d075bd-ea00-47bd-9949-9cddecf8c88b",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "This issue is essentially empirical in nature.",
+    "subject": "issue",
+    "predicate_type": "relates_to",
+    "object_text": "essentially empirical in nature",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This issue is essentially empirical in nature.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "63cd26ad-166c-4ce0-bb68-b20bd97fb7c9",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Their impact on asset prices manifests in their unexpected movements and they are completely unpredictable to the market at the beginning of each period.",
+    "subject": "potential factors",
+    "predicate_type": "relates_to",
+    "object_text": "impact on asset prices manifests in their unexpected movements and they are completely unpredictable to the market at the beginning of each period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Their impact on asset prices manifests in their unexpected movements and they are completely unpredictable to the market at the beginning of each period.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset_pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3d50f54b-4f37-4205-9281-58ba3c6daaa1",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "They should represent undiversifiable influences on expected returns and so must be quantifiable with non-zero prices.",
+    "subject": "potential factors",
+    "predicate_type": "requires",
+    "object_text": "represent undiversifiable influences on expected returns and so must be quantifiable with non-zero prices",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They should represent undiversifiable influences on expected returns and so must be quantifiable with non-zero prices.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "expected_returns"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2ad5167-0228-48ac-82d9-e0dbf902cf4b",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Timely and accurate information on these variables is required.",
+    "subject": "variables",
+    "predicate_type": "requires",
+    "object_text": "timely and accurate information",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Timely and accurate information on these variables is required.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "80aa8048-ca66-4c17-81cc-9463f084f962",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The relationship should be theoretically justifiable on economic grounds.",
+    "subject": "relationship",
+    "predicate_type": "requires",
+    "object_text": "theoretically justifiable on economic grounds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The relationship should be theoretically justifiable on economic grounds.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03f6466d-285e-4882-94f6-4b67474b4136",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Chen, Roll and Ross identified the following macro-economic factors as significant in explaining security returns: surprises in inflation.",
+    "subject": "Chen, Roll and Ross",
+    "predicate_type": "relates_to",
+    "object_text": "identified the following macro-economic factors as significant in explaining security returns: surprises in inflation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Chen, Roll and Ross identified the following macro-economic factors as significant in explaining security returns: surprises in inflation.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "security_returns",
+      "macroeconomics"
+    ],
+    "entities": [
+      "Chen",
+      "Roll",
+      "Ross"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "324457fb-5ce1-4af5-9d14-d862fb7e1fe3",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Market indices are sometimes derived by means of factor analysis.",
+    "subject": "Market indices",
+    "predicate_type": "implements",
+    "object_text": "derived by means of factor analysis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Market indices are sometimes derived by means of factor analysis.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "factor_analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "643a2aba-013c-4bf6-9a93-072d93fa2f07",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "More direct \"indices\" that might be used are: short-term interest rates.",
+    "subject": "direct \"indices\"",
+    "predicate_type": "relates_to",
+    "object_text": "short-term interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "More direct \"indices\" that might be used are: short-term interest rates.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "45e58ed4-8340-4c81-a82a-9961872002b3",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "More direct \"indices\" that might be used are: the difference in long-term and short-term interest rates.",
+    "subject": "direct \"indices\"",
+    "predicate_type": "relates_to",
+    "object_text": "the difference in long-term and short-term interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "More direct \"indices\" that might be used are: the difference in long-term and short-term interest rates.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2d704116-0746-4c22-9031-e3a3d0216cd8",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "More direct \"indices\" that might be used are: a diversified stock index such as the S&P 500 or NYSE Composite.",
+    "subject": "direct \"indices\"",
+    "predicate_type": "relates_to",
+    "object_text": "a diversified stock index such as the S&P 500 or NYSE Composite",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "More direct \"indices\" that might be used are: a diversified stock index such as the S&P 500 or NYSE Composite.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stock_index"
+    ],
+    "entities": [
+      "S&P 500",
+      "NYSE Composite"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0b8fe799-a455-4b65-b51d-f05a76ef58d6",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "More direct \"indices\" that might be used are: oil prices.",
+    "subject": "direct \"indices\"",
+    "predicate_type": "relates_to",
+    "object_text": "oil prices",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "More direct \"indices\" that might be used are: oil prices.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "oil_prices"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03da281d-6fc1-43ac-bc59-00e0d330f41d",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "More direct \"indices\" that might be used are: gold or other precious metal prices.",
+    "subject": "direct \"indices\"",
+    "predicate_type": "relates_to",
+    "object_text": "gold or other precious metal prices",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "More direct \"indices\" that might be used are: gold or other precious metal prices.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "gold_prices",
+      "metal_prices"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "345fa872-5deb-4741-97a0-703976e8f94d",
+    "chunk_id": "efd2d762-76ff-41af-9572-fd6ddacb45dd",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "More direct \"indices\" that might be used are: Currency exchange rates",
+    "subject": "direct \"indices\"",
+    "predicate_type": "relates_to",
+    "object_text": "Currency exchange rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "More direct \"indices\" that might be used are: Currency exchange rates",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency_exchange_rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bd058f03-4bed-4614-8788-b27d8b804c29",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The APT along with the capital asset pricing model (CAPM) is one of two influential theories on asset pricing.",
+    "subject": "APT",
+    "predicate_type": "relates_to",
+    "object_text": "one of two influential theories on asset pricing along with the capital asset pricing model (CAPM)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The APT along with the capital asset pricing model (CAPM) is one of two influential theories on asset pricing.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT",
+      "CAPM"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8782b602-5b92-4a1d-ae25-ab9bbc605c7c",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "The APT differs from the CAPM in that it is less restrictive in its assumptions, making it more flexible for use in a wider range of application.",
+    "subject": "APT",
+    "predicate_type": "relates_to",
+    "object_text": "less restrictive in its assumptions than CAPM, making it more flexible for use in a wider range of application",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The APT differs from the CAPM in that it is less restrictive in its assumptions, making it more flexible for use in a wider range of application.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT",
+      "CAPM"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "16d87f22-e8cb-411d-9fc3-757ad10698ac",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "It possesses greator explanatory power (as opposed to statistical) for expected asset returns.",
+    "subject": "APT",
+    "predicate_type": "relates_to",
+    "object_text": "greator explanatory power (as opposed to statistical) for expected asset returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It possesses greator explanatory power (as opposed to statistical) for expected asset returns.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "60ce5094-23c2-4750-a02c-080a6df028ad",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "It assumes that each investor will hold a unique portfolio with its own particular array of betas, as opposed to the identical \"market portfolio\".",
+    "subject": "APT",
+    "predicate_type": "requires",
+    "object_text": "each investor will hold a unique portfolio with its own particular array of betas, as opposed to the identical \"market portfolio\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It assumes that each investor will hold a unique portfolio with its own particular array of betas, as opposed to the identical \"market portfolio\".",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6737cfa2-9a0d-4ce8-a490-f98a4033020f",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "In some ways, the CAPM can be considered a \"special case\" of the APT in that the securities market line represents a single-factor model of the asset price, where beta is exposed to changes in value of the market.",
+    "subject": "CAPM",
+    "predicate_type": "relates_to",
+    "object_text": "a \"special case\" of the APT in that the securities market line represents a single-factor model of the asset price, where beta is exposed to changes in value of the market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In some ways, the CAPM can be considered a \"special case\" of the APT in that the securities market line represents a single-factor model of the asset price, where beta is exposed to changes in value of the market.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "CAPM",
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d773520d-693a-48de-87aa-b8ffa6414a85",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Fundamentally, the CAPM is derived on the premise that all factors in the economy can be reconciled into one factor represented by a market portfolio, thus implying they all have equivalent weight on the asset\u2019s return.",
+    "subject": "CAPM",
+    "predicate_type": "relates_to",
+    "object_text": "derived on the premise that all factors in the economy can be reconciled into one factor represented by a market portfolio, thus implying they all have equivalent weight on the asset\u2019s return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Fundamentally, the CAPM is derived on the premise that all factors in the economy can be reconciled into one factor represented by a market portfolio, thus implying they all have equivalent weight on the asset\u2019s return.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "CAPM"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd92cda2-2882-413a-9ef4-4b84716d7aa5",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "In contrast, the APT model suggests that each stock reacts uniquely to various macroeconomic factors and thus the impact of each must be accounted for separately.",
+    "subject": "APT model",
+    "predicate_type": "relates_to",
+    "object_text": "each stock reacts uniquely to various macroeconomic factors and thus the impact of each must be accounted for separately",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In contrast, the APT model suggests that each stock reacts uniquely to various macroeconomic factors and thus the impact of each must be accounted for separately.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dacd535e-c814-442d-a972-a1e127e4e193",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "A disadvantage of APT is that the selection and the number of factors to use in the model is ambiguous.",
+    "subject": "APT",
+    "predicate_type": "relates_to",
+    "object_text": "the selection and the number of factors to use in the model is ambiguous",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A disadvantage of APT is that the selection and the number of factors to use in the model is ambiguous.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "854d75d7-a363-454b-a673-c6e0c3841fed",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Most academics use three to five factors to model returns, but the factors selected have not been empirically robust.",
+    "subject": "academics",
+    "predicate_type": "relates_to",
+    "object_text": "use three to five factors to model returns, but the factors selected have not been empirically robust",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Most academics use three to five factors to model returns, but the factors selected have not been empirically robust.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b3ba84b-7c9f-4d26-b8c1-73582d0afd9d",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "In many instances the CAPM, as a model to estimate expected returns, has empirically outperformed the more advanced APT.",
+    "subject": "CAPM",
+    "predicate_type": "relates_to",
+    "object_text": "empirically outperformed the more advanced APT as a model to estimate expected returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In many instances the CAPM, as a model to estimate expected returns, has empirically outperformed the more advanced APT.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "CAPM",
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5b2d6a77-32e8-42c7-8dac-24c9c6c342c5",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Additionally, the APT can be seen as a \"supply-side\" model, since its beta coefficients reflect the sensitivity of the underlying asset to economic factors.",
+    "subject": "APT",
+    "predicate_type": "classifies",
+    "object_text": "a \"supply-side\" model",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additionally, the APT can be seen as a \"supply-side\" model, since its beta coefficients reflect the sensitivity of the underlying asset to economic factors.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e6424f0f-28aa-43be-861b-7b6997de9665",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Factor shocks would cause structural changes in assets' expected returns, or in the case of stocks, in firms' profitabilities.",
+    "subject": "Factor shocks",
+    "predicate_type": "causes",
+    "object_text": "structural changes in assets' expected returns, or in the case of stocks, in firms' profitabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Factor shocks would cause structural changes in assets' expected returns, or in the case of stocks, in firms' profitabilities.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "54b6445b-928d-4b12-be29-48e0c2357048",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "On the other side, the capital asset pricing model is considered a \"demand side\" model.",
+    "subject": "capital asset pricing model",
+    "predicate_type": "classifies",
+    "object_text": "a \"demand side\" model",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On the other side, the capital asset pricing model is considered a \"demand side\" model.",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "capital asset pricing model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "94ebf871-8298-4292-8ca8-5202deba9404",
+    "chunk_id": "ba4f331a-8321-43a9-bfeb-d216d4728c67",
+    "document_id": "Arbitrage_pricing_theory",
+    "claim_text": "Its results, although similar to those of the APT, arise from a maximization problem of each investor's utility function, and from the resulting market equilibrium (investors are considered to be the \"consumers\" of the assets).",
+    "subject": "capital asset pricing model",
+    "predicate_type": "relates_to",
+    "object_text": "results arise from a maximization problem of each investor's utility function, and from the resulting market equilibrium (investors are considered to be the \"consumers\" of the assets)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Its results, although similar to those of the APT, arise from a maximization problem of each investor's utility function, and from the resulting market equilibrium (investors are considered to be the \"consumers\" of the assets).",
+    "source_document": "Arbitrage pricing theory",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset pricing"
+    ],
+    "entities": [
+      "capital asset pricing model",
+      "APT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

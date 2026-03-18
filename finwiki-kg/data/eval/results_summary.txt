@@ -1,0 +1,31 @@
+FINWIKI EVALUATION HARNESS — RESULTS SUMMARY
+=============================================
+Run timestamp: 2026-03-14T15:07:24.940837
+Queries completed: 120 / 120
+Queries failed: 0
+
+PROPOSITION 1 (Epistemic type mismatch → compliance risk): [SUPPORTED]
+  VTP Condition A vs Condition D: 0.454 vs 0.828 | p=1.2779111787862718e-07 | d=0.656 [medium]
+  Interpretation: Discourse-typed retrieval achieves higher validity-type precision than standard RAG.
+
+PROPOSITION 2 (Argumentative truncation → compliance risk): [SUPPORTED]
+  AC Condition A vs Condition D: 1.000 vs 0.571 | p=0.014305878435429648 | d=-0.835 [large]
+  CWE Condition A: k=50.0 vs Condition D: k=50.0 | 48.467 vs 48.717 | p=0.16142946236708333 | d=0.050 [negligible]
+  Interpretation: Discourse-typed retrieval achieves greater argumentative completeness at smaller k.
+
+PROPOSITION 3 (Validity-gated filtering → compliance risk reduction): [PARTIALLY SUPPORTED]
+  VTP Condition C vs Condition D: 0.833 vs 0.828 | p=0.019630657257290667 | d=-0.217 [small]
+  Effect size by epistemic type — normative: -0.3919405090775258 constative: 0.0 mixed: 0.0
+  Interpretation: Full discourse-typed retrieval improves VTP beyond validity-gating alone.
+
+PROPOSITION 4 (Regulation-anchored assembly → compliance risk reduction): [SUPPORTED]
+  AC Condition B vs Condition D: 1.000 vs 0.571 | p=0.014305878435429648 | d=-0.835 [large]
+  Effect size by repetitiveness — high: -0.9486832978705138 low: -0.4999999999
+  Interpretation: Regulation-anchored cross-document assembly improves AC over generic GraphRAG.
+
+K-INVARIANCE:
+  VTP plateau for Condition A at k=11
+  CSR for Conditions A and B at all k: A={'5': 0.05, '10': 0.15, '20': 0.35, '50': 0.75, '100': 0.8} B={'5': 0.05, '10': 0.25, '20': 0.35, '50': 0.75, '100': 0.8}
+
+VENUE RECOMMENDATION:
+  SIGIR or EMNLP systems track

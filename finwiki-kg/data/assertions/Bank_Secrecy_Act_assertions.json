@@ -1,0 +1,1839 @@
+[
+  {
+    "assertion_id": "6388a582-5344-49e4-b083-80beca7666d6",
+    "chunk_id": "9bd80a71-f666-46e4-8af9-ce992c579481",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "A MIL must indicate cash purchases of monetary instruments, such as money orders, cashier's checks, and traveler's checks valued between $3,000 and $10,000.",
+    "subject": "MIL",
+    "predicate_type": "requires",
+    "object_text": "indication of cash purchases of monetary instruments, such as money orders, cashier's checks, and traveler's checks valued between $3,000 and $10,000",
+    "object_value": 3000.0,
+    "object_unit": "$",
+    "source_text": "A MIL must indicate cash purchases of monetary instruments, such as money orders, cashier's checks, and traveler's checks valued between $3,000 and $10,000.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "cash transactions"
+    ],
+    "entities": [
+      "money orders",
+      "cashier's checks",
+      "traveler's checks",
+      "MIL"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b5051e07-e2e0-40e9-ae21-be5fd5304d45",
+    "chunk_id": "9bd80a71-f666-46e4-8af9-ce992c579481",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "This form is required to be kept on record at the financial institution for at least five years.",
+    "subject": "form",
+    "predicate_type": "requires",
+    "object_text": "to be kept on record at the financial institution for at least five years",
+    "object_value": 5.0,
+    "object_unit": "years",
+    "source_text": "This form is required to be kept on record at the financial institution for at least five years.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "record keeping"
+    ],
+    "entities": [],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3323efe2-447b-4cc3-880d-313c59bde9a6",
+    "chunk_id": "9bd80a71-f666-46e4-8af9-ce992c579481",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "This form is required to be produced at the request of examiners or audit to verify compliance.",
+    "subject": "form",
+    "predicate_type": "requires",
+    "object_text": "to be produced at the request of examiners or audit to verify compliance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This form is required to be produced at the request of examiners or audit to verify compliance.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance",
+      "audit"
+    ],
+    "entities": [],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "795fc213-2f61-4e88-9a44-94ab9b3f386a",
+    "chunk_id": "9bd80a71-f666-46e4-8af9-ce992c579481",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "The \"Report of International Transportation of Currency or Monetary Instruments\", also referred to as a Currency and Monetary Instrument Report (CMIR), must be filed by each person or institution that physically transports, mails, or ships, or causes to be physically transported, mailed, shipped, or received, currency, traveler's checks, and certain other monetary instruments in an aggregate amount exceeding $10,000 into or out of the United States.",
+    "subject": "Report of International Transportation of Currency or Monetary Instruments",
+    "predicate_type": "requires",
+    "object_text": "to be filed by each person or institution that physically transports, mails, or ships, or causes to be physically transported, mailed, shipped, or received, currency, traveler's checks, and certain other monetary instruments in an aggregate amount exceeding $10,000 into or out of the United States",
+    "object_value": 10000.0,
+    "object_unit": "$",
+    "source_text": "The \"Report of International Transportation of Currency or Monetary Instruments\", also referred to as a Currency and Monetary Instrument Report (CMIR), must be filed by each person or institution that physically transports, mails, or ships, or causes to be physically transported, mailed, shipped, or received, currency, traveler's checks, and certain other monetary instruments in an aggregate amount exceeding $10,000 into or out of the United States.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency transportation",
+      "international transactions"
+    ],
+    "entities": [
+      "Currency and Monetary Instrument Report",
+      "CMIR",
+      "currency",
+      "traveler's checks"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "United States"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c846c809-376d-42e5-8b7c-cd73789e69c8",
+    "chunk_id": "9bd80a71-f666-46e4-8af9-ce992c579481",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "It is identified as FinCEN Form 105 Report.",
+    "subject": "Report of International Transportation of Currency or Monetary Instruments",
+    "predicate_type": "defines",
+    "object_text": "FinCEN Form 105 Report",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is identified as FinCEN Form 105 Report.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting"
+    ],
+    "entities": [
+      "FinCEN Form 105 Report"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "25464ca4-4b93-44e5-995a-5e7ca64f8079",
+    "chunk_id": "9bd80a71-f666-46e4-8af9-ce992c579481",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Banks are required to file a Designation of Exempt Person (FinCEN Form 110) to designate an exempt customer for the purpose of CTR reporting under the BSA.",
+    "subject": "Banks",
+    "predicate_type": "requires",
+    "object_text": "to file a Designation of Exempt Person (FinCEN Form 110) to designate an exempt customer for the purpose of CTR reporting under the BSA",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks are required to file a Designation of Exempt Person (FinCEN Form 110) to designate an exempt customer for the purpose of CTR reporting under the BSA.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CTR reporting",
+      "exemptions"
+    ],
+    "entities": [
+      "FinCEN Form 110",
+      "BSA"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b9e3d044-a88a-42eb-b615-b426ec43c271",
+    "chunk_id": "9bd80a71-f666-46e4-8af9-ce992c579481",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Banks use this form once every two years to renew exemptions for eligible non-listed business and payroll customers.",
+    "subject": "Banks",
+    "predicate_type": "requires",
+    "object_text": "to use this form once every two years to renew exemptions for eligible non-listed business and payroll customers",
+    "object_value": 2.0,
+    "object_unit": "years",
+    "source_text": "Banks use this form once every two years to renew exemptions for eligible non-listed business and payroll customers.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "exemptions",
+      "customer due diligence"
+    ],
+    "entities": [],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "afc88e0d-8cac-43b6-8646-78ba632a1ce5",
+    "chunk_id": "9bd80a71-f666-46e4-8af9-ce992c579481",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Any business receiving one or more related cash payments totaling more than $10,000 to file IRS/FinCEN Form 8300.",
+    "subject": "business",
+    "predicate_type": "requires",
+    "object_text": "to file IRS/FinCEN Form 8300",
+    "object_value": 10000.0,
+    "object_unit": "$",
+    "source_text": "Any business receiving one or more related cash payments totaling more than $10,000 to file IRS/FinCEN Form 8300.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cash payments",
+      "reporting"
+    ],
+    "entities": [
+      "IRS/FinCEN Form 8300"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "586b057b-9dc1-480b-a604-f8559b76687f",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "The Bank Secrecy Act Advisory Group (BSAAG) is a U.S. government\u2013private sector forum established in 1992 by the U.S. Department of the Treasury.",
+    "subject": "Bank Secrecy Act Advisory Group (BSAAG)",
+    "predicate_type": "defines",
+    "object_text": "a U.S. government\u2013private sector forum established in 1992 by the U.S. Department of the Treasury",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Bank Secrecy Act Advisory Group (BSAAG) is a U.S. government\u2013private sector forum established in 1992 by the U.S. Department of the Treasury.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory reporting",
+      "governance"
+    ],
+    "entities": [
+      "Bank Secrecy Act Advisory Group",
+      "U.S. Department of the Treasury"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e1146c2c-6245-4ab8-8de7-1c9f27e22e7f",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Its primary purpose is to enhance collaboration between financial institutions, law enforcement agencies, and regulators in implementing and improving anti-money laundering (AML) policies under the BSA.",
+    "subject": "Bank Secrecy Act Advisory Group (BSAAG)",
+    "predicate_type": "relates_to",
+    "object_text": "enhance collaboration between financial institutions, law enforcement agencies, and regulators in implementing and improving anti-money laundering (AML) policies under the BSA",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Its primary purpose is to enhance collaboration between financial institutions, law enforcement agencies, and regulators in implementing and improving anti-money laundering (AML) policies under the BSA.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "anti-money laundering"
+    ],
+    "entities": [
+      "Bank Secrecy Act Advisory Group",
+      "BSA"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ea1287e1-23da-450d-b0b2-1ec767e62b82",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Over the years, the BSAAG has played a crucial role in shaping U.S. AML regulations and ensuring that the BSA remains responsive to new financial technologies and criminal tactics.",
+    "subject": "Bank Secrecy Act Advisory Group (BSAAG)",
+    "predicate_type": "relates_to",
+    "object_text": "played a crucial role in shaping U.S. AML regulations and ensuring that the BSA remains responsive to new financial technologies and criminal tactics",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Over the years, the BSAAG has played a crucial role in shaping U.S. AML regulations and ensuring that the BSA remains responsive to new financial technologies and criminal tactics.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "anti-money laundering"
+    ],
+    "entities": [
+      "Bank Secrecy Act Advisory Group",
+      "BSA"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "00504dab-fe9a-4660-9a5f-870194f4fd20",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Its recommendations have influenced major reforms, including those stemming from the USA PATRIOT Act and recent updates under the Anti-Money Laundering Act of 2020.",
+    "subject": "Bank Secrecy Act Advisory Group (BSAAG)",
+    "predicate_type": "causes",
+    "object_text": "major reforms, including those stemming from the USA PATRIOT Act and recent updates under the Anti-Money Laundering Act of 2020",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Its recommendations have influenced major reforms, including those stemming from the USA PATRIOT Act and recent updates under the Anti-Money Laundering Act of 2020.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "anti-money laundering"
+    ],
+    "entities": [
+      "Bank Secrecy Act Advisory Group",
+      "USA PATRIOT Act",
+      "Anti-Money Laundering Act of 2020"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1add75f9-1b13-4ed0-8011-d6041a293b09",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "The BSAAG provides a forum for representatives from government agencies and financial institutions to share insights and challenges related to BSA compliance.",
+    "subject": "Bank Secrecy Act Advisory Group (BSAAG)",
+    "predicate_type": "relates_to",
+    "object_text": "a forum for representatives from government agencies and financial institutions to share insights and challenges related to BSA compliance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BSAAG provides a forum for representatives from government agencies and financial institutions to share insights and challenges related to BSA compliance.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory reporting",
+      "compliance"
+    ],
+    "entities": [
+      "Bank Secrecy Act Advisory Group",
+      "BSA"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2a3fda8d-c1f2-4cec-9441-bc1119d826ab",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "The BSAAG provides a forum for representatives from government agencies and financial institutions to recommend improvements to reporting requirements.",
+    "subject": "Bank Secrecy Act Advisory Group (BSAAG)",
+    "predicate_type": "relates_to",
+    "object_text": "a forum for representatives from government agencies and financial institutions to recommend improvements to reporting requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BSAAG provides a forum for representatives from government agencies and financial institutions to recommend improvements to reporting requirements.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory reporting"
+    ],
+    "entities": [
+      "Bank Secrecy Act Advisory Group"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9af3e595-f4e8-49c1-a65c-7b8c5ba5e1cd",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "The BSAAG provides a forum for representatives from government agencies and financial institutions to advise on the detection and prevention of financial crimes within the scope of BSA enforcement.",
+    "subject": "Bank Secrecy Act Advisory Group (BSAAG)",
+    "predicate_type": "relates_to",
+    "object_text": "a forum for representatives from government agencies and financial institutions to advise on the detection and prevention of financial crimes within the scope of BSA enforcement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BSAAG provides a forum for representatives from government agencies and financial institutions to advise on the detection and prevention of financial crimes within the scope of BSA enforcement.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial crime",
+      "enforcement"
+    ],
+    "entities": [
+      "Bank Secrecy Act Advisory Group",
+      "BSA"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e53d809-25af-452d-bd68-01ae43b1e05e",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "The group supports the Treasury Department's enforcement of the Bank Secrecy Act, which is carried out by the Financial Crimes Enforcement Network (FinCEN).",
+    "subject": "Bank Secrecy Act Advisory Group (BSAAG)",
+    "predicate_type": "relates_to",
+    "object_text": "supports the Treasury Department's enforcement of the Bank Secrecy Act, which is carried out by the Financial Crimes Enforcement Network (FinCEN)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The group supports the Treasury Department's enforcement of the Bank Secrecy Act, which is carried out by the Financial Crimes Enforcement Network (FinCEN).",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "enforcement"
+    ],
+    "entities": [
+      "Bank Secrecy Act Advisory Group",
+      "Treasury Department",
+      "Bank Secrecy Act",
+      "Financial Crimes Enforcement Network (FinCEN)"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e7b4e7f-ff1f-4aa8-b050-6751fac5a740",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "BSAAG members represent a diverse cross-section of the financial sector and public agencies, including commercial banks, credit unions, and money services businesses.",
+    "subject": "BSAAG members",
+    "predicate_type": "relates_to",
+    "object_text": "a diverse cross-section of the financial sector and public agencies, including commercial banks, credit unions, and money services businesses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "BSAAG members represent a diverse cross-section of the financial sector and public agencies, including commercial banks, credit unions, and money services businesses.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "BSAAG",
+      "commercial banks",
+      "credit unions",
+      "money services businesses"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5c0ee5cd-9307-44f9-a6cd-bae0ee750193",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "BSAAG members represent regulatory bodies such as the Federal Reserve, FDIC, and SEC.",
+    "subject": "BSAAG members",
+    "predicate_type": "relates_to",
+    "object_text": "regulatory bodies such as the Federal Reserve, FDIC, and SEC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "BSAAG members represent regulatory bodies such as the Federal Reserve, FDIC, and SEC.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "BSAAG",
+      "Federal Reserve",
+      "FDIC",
+      "SEC"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a9e9c82-ab4c-4714-97dd-291c364ecd7b",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "BSAAG members represent law enforcement agencies, including the FBI and IRS-CI.",
+    "subject": "BSAAG members",
+    "predicate_type": "relates_to",
+    "object_text": "law enforcement agencies, including the FBI and IRS-CI",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "BSAAG members represent law enforcement agencies, including the FBI and IRS-CI.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "BSAAG",
+      "FBI",
+      "IRS-CI"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "af59e333-975c-4704-b3ac-a6a5e94e641c",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "BSAAG members represent technology and compliance firms offering AML solutions.",
+    "subject": "BSAAG members",
+    "predicate_type": "relates_to",
+    "object_text": "technology and compliance firms offering AML solutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "BSAAG members represent technology and compliance firms offering AML solutions.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance",
+      "anti-money laundering"
+    ],
+    "entities": [
+      "BSAAG"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2c6ad374-d6ee-4965-82c3-d0bd528d962e",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Membership is by invitation, and members typically serve three-year terms.",
+    "subject": "BSAAG membership",
+    "predicate_type": "relates_to",
+    "object_text": "by invitation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Membership is by invitation, and members typically serve three-year terms.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "BSAAG"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "80126e2f-18db-4dc0-ae13-e3659ae4f74c",
+    "chunk_id": "7edfd5b3-c7e8-44fa-a0de-692ea2987022",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Members typically serve three-year terms.",
+    "subject": "BSAAG members",
+    "predicate_type": "relates_to",
+    "object_text": "serve three-year terms",
+    "object_value": 3.0,
+    "object_unit": "year",
+    "source_text": "Members typically serve three-year terms.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "BSAAG"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bc7f7c3b-f427-4ac7-bff0-f5b114576d1b",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "There are heavy penalties for individuals and financial institutions that fail to file CTRs, MILs, or SARs.",
+    "subject": "individuals and financial institutions",
+    "predicate_type": "constrains",
+    "object_text": "to file CTRs, MILs, or SARs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are heavy penalties for individuals and financial institutions that fail to file CTRs, MILs, or SARs.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting",
+      "compliance"
+    ],
+    "entities": [
+      "CTRs",
+      "MILs",
+      "SARs"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5f437ae6-223e-4d37-9bab-f8fbe9c195b0",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "There are also penalties for banks who disclose to its client that it has filed a SAR about the client.",
+    "subject": "banks",
+    "predicate_type": "prohibits",
+    "object_text": "disclosing to its client that it has filed a SAR about the client",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are also penalties for banks who disclose to its client that it has filed a SAR about the client.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting",
+      "compliance"
+    ],
+    "entities": [
+      "SAR"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e2eb91db-74d3-437f-8955-70388609abd1",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Penalties include heavy fines and prison sentences.",
+    "subject": "penalties",
+    "predicate_type": "defines",
+    "object_text": "heavy fines and prison sentences",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Penalties include heavy fines and prison sentences.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a821c1fe-9df4-4787-a59e-e6f6fe45e436",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "IRC \u00a76038D requires that all U.S. persons, individuals, corporations, partnerships, LLCs, and trusts, provide timely information regarding their foreign accounts",
+    "subject": "IRC \u00a76038D",
+    "predicate_type": "requires",
+    "object_text": "that all U.S. persons, individuals, corporations, partnerships, LLCs, and trusts, provide timely information regarding their foreign accounts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRC \u00a76038D requires that all U.S. persons, individuals, corporations, partnerships, LLCs, and trusts, provide timely information regarding their foreign accounts",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting",
+      "compliance"
+    ],
+    "entities": [
+      "IRC \u00a76038D"
+    ],
+    "regulations": [
+      "IRC \u00a76038D"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "33e3f62c-7267-4f4b-a576-283e621b9e0f",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "a $10,000 penalty will result for every month it is late",
+    "subject": "failure to provide timely information regarding foreign accounts",
+    "predicate_type": "causes",
+    "object_text": "a $10,000 penalty for every month it is late",
+    "object_value": 10000.0,
+    "object_unit": "$",
+    "source_text": "a $10,000 penalty will result for every month it is late",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting",
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8355f07a-fdd8-43eb-88cd-68b2ec919c93",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "In 1998, the Supreme Court ruled in United States v. Bajakajian that the government may not confiscate money from an individual for failure to report it on a Currency and Other Monetary Instruments Report (CMIR)",
+    "subject": "Supreme Court",
+    "predicate_type": "prohibits",
+    "object_text": "the government from confiscating money from an individual for failure to report it on a Currency and Other Monetary Instruments Report (CMIR)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1998, the Supreme Court ruled in United States v. Bajakajian that the government may not confiscate money from an individual for failure to report it on a Currency and Other Monetary Instruments Report (CMIR)",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting",
+      "compliance"
+    ],
+    "entities": [
+      "Currency and Other Monetary Instruments Report (CMIR)"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3abd953e-04d4-47fb-a9fb-14526eef4149",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "such punishment would be \"grossly disproportional to the gravity of [the] offense\" and unconstitutional under the Excessive Fines clause of the Eighth Amendment.",
+    "subject": "confiscating money from an individual for failure to report it on a Currency and Other Monetary Instruments Report (CMIR)",
+    "predicate_type": "relates_to",
+    "object_text": "would be \"grossly disproportional to the gravity of [the] offense\" and unconstitutional under the Excessive Fines clause of the Eighth Amendment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "such punishment would be \"grossly disproportional to the gravity of [the] offense\" and unconstitutional under the Excessive Fines clause of the Eighth Amendment.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [
+      "Eighth Amendment"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c5ee8db2-353a-4864-87bd-0ecb1d3b5c33",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "Bajakajian and his family had tried to take $357,144 out of the United States in their luggage",
+    "subject": "Bajakajian and his family",
+    "predicate_type": "relates_to",
+    "object_text": "had tried to take $357,144 out of the United States in their luggage",
+    "object_value": 357144.0,
+    "object_unit": "$",
+    "source_text": "Bajakajian and his family had tried to take $357,144 out of the United States in their luggage",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9dd7c8fc-30b0-4004-ae13-46f2b4aa997c",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "the government had seized it under the Bank Secrecy Act, which allows forfeiture of \"any property, real or personal, involved in such offense\".",
+    "subject": "government",
+    "predicate_type": "implements",
+    "object_text": "seized it under the Bank Secrecy Act, which allows forfeiture of \"any property, real or personal, involved in such offense\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "the government had seized it under the Bank Secrecy Act, which allows forfeiture of \"any property, real or personal, involved in such offense\".",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1d72da4-e6ce-4064-a9ba-3263b7737900",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "It was the first time the Supreme Court struck down the federal government's \"aggressive use of forfeiture\".",
+    "subject": "Supreme Court",
+    "predicate_type": "relates_to",
+    "object_text": "struck down the federal government's \"aggressive use of forfeiture\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It was the first time the Supreme Court struck down the federal government's \"aggressive use of forfeiture\".",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ed823d1e-a2b5-4cec-92f1-3fd9f8f87351",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "In March 2010, Wachovia admitted to \"serious and systemic\" violations of the Bank Secrecy Act for laundering $378 billion between 2004 and 2007, the largest violation in terms of a dollar amount.",
+    "subject": "Wachovia",
+    "predicate_type": "relates_to",
+    "object_text": "admitted to \"serious and systemic\" violations of the Bank Secrecy Act for laundering $378 billion between 2004 and 2007, the largest violation in terms of a dollar amount",
+    "object_value": 378000000000.0,
+    "object_unit": "$",
+    "source_text": "In March 2010, Wachovia admitted to \"serious and systemic\" violations of the Bank Secrecy Act for laundering $378 billion between 2004 and 2007, the largest violation in terms of a dollar amount.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "compliance"
+    ],
+    "entities": [
+      "Wachovia"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d269ee85-533a-4499-9ecc-8e1376873301",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "It allowed Mexican and Colombian drug cartels to launder money through casas de cambio by willfully failing to set up an effective anti-money-laundering program.",
+    "subject": "Wachovia",
+    "predicate_type": "relates_to",
+    "object_text": "allowed Mexican and Colombian drug cartels to launder money through casas de cambio by willfully failing to set up an effective anti-money-laundering program",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It allowed Mexican and Colombian drug cartels to launder money through casas de cambio by willfully failing to set up an effective anti-money-laundering program.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "compliance"
+    ],
+    "entities": [
+      "Wachovia"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "496bd59b-7a3d-4e48-afb4-e3f30b42ea47",
+    "chunk_id": "23fbebe9-d17d-4fdb-a0df-55ed1c7e5734",
+    "document_id": "Bank_Secrecy_Act",
+    "claim_text": "In 2022, Arthur Hayes, entrepreneur and co-founder and former CEO of cryptocurrency exchange BitMEX, pled guilty to Bank Secrecy Act violations and was sentenced to six months of home detention, two years of probation, and a $10 million fine.",
+    "subject": "Arthur Hayes",
+    "predicate_type": "relates_to",
+    "object_text": "pled guilty to Bank Secrecy Act violations and was sentenced to six months of home detention, two years of probation, and a $10 million fine",
+    "object_value": 10000000.0,
+    "object_unit": "$",
+    "source_text": "In 2022, Arthur Hayes, entrepreneur and co-founder and former CEO of cryptocurrency exchange BitMEX, pled guilty to Bank Secrecy Act violations and was sentenced to six months of home detention, two years of probation, and a $10 million fine.",
+    "source_document": "Bank Secrecy Act",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [
+      "Arthur Hayes",
+      "BitMEX"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

@@ -1,0 +1,1610 @@
+[
+  {
+    "assertion_id": "ba2dde8f-d6c2-45a7-a5a4-b309a63fa378",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "The Sharpe ratio seeks to characterize how well the return of an asset compensates the investor for the risk taken.",
+    "subject": "Sharpe ratio",
+    "predicate_type": "defines",
+    "object_text": "how well the return of an asset compensates the investor for the risk taken",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Sharpe ratio seeks to characterize how well the return of an asset compensates the investor for the risk taken.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "investment_performance"
+    ],
+    "entities": [
+      "Sharpe ratio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6f8a0452-dbbe-49c8-9697-8425d29b57ca",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "When comparing two assets, the one with a higher Sharpe ratio appears to provide better return for the same risk, which is usually attractive to investors.",
+    "subject": "asset",
+    "predicate_type": "relates_to",
+    "object_text": "higher Sharpe ratio appears to provide better return for the same risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When comparing two assets, the one with a higher Sharpe ratio appears to provide better return for the same risk, which is usually attractive to investors.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "investment_performance"
+    ],
+    "entities": [
+      "Sharpe ratio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17e1b48a-2047-4fd2-83b7-873500d7be2b",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Financial assets are often not normally distributed, so that standard deviation does not capture all aspects of risk.",
+    "subject": "Financial assets",
+    "predicate_type": "constrains",
+    "object_text": "standard deviation does not capture all aspects of risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial assets are often not normally distributed, so that standard deviation does not capture all aspects of risk.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "standard deviation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c9d5293b-c25f-40df-b4b1-abc12eb9ac2f",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Ponzi schemes will have a high empirical Sharpe ratio until they fail.",
+    "subject": "Ponzi schemes",
+    "predicate_type": "relates_to",
+    "object_text": "will have a high empirical Sharpe ratio until they fail",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Ponzi schemes will have a high empirical Sharpe ratio until they fail.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "Sharpe ratio"
+    ],
+    "entities": [
+      "Sharpe ratio",
+      "Ponzi schemes"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "50300427-1b34-49f1-b081-07f67a7548f2",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "A fund that sells low-strike put options will have a high empirical Sharpe ratio until one of those puts is exercised, creating a large loss.",
+    "subject": "fund that sells low-strike put options",
+    "predicate_type": "relates_to",
+    "object_text": "will have a high empirical Sharpe ratio until one of those puts is exercised, creating a large loss",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A fund that sells low-strike put options will have a high empirical Sharpe ratio until one of those puts is exercised, creating a large loss.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "Sharpe ratio"
+    ],
+    "entities": [
+      "Sharpe ratio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "89a26845-68d4-4b2b-b61f-e607f1f8f62f",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "The empirical standard deviation before failure gives no real indication of the size of the risk being run.",
+    "subject": "empirical standard deviation before failure",
+    "predicate_type": "relates_to",
+    "object_text": "gives no real indication of the size of the risk being run",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The empirical standard deviation before failure gives no real indication of the size of the risk being run.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "standard deviation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c5448358-e4e4-4682-a957-7ce83a84f252",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "A reliable empirical estimate of Sharpe ratio still requires the collection of return data over sufficient period for all aspects of the strategy returns to be observed.",
+    "subject": "reliable empirical estimate of Sharpe ratio",
+    "predicate_type": "requires",
+    "object_text": "the collection of return data over sufficient period for all aspects of the strategy returns to be observed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A reliable empirical estimate of Sharpe ratio still requires the collection of return data over sufficient period for all aspects of the strategy returns to be observed.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "Sharpe ratio"
+    ],
+    "entities": [
+      "Sharpe ratio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "08ff284e-37d4-4e7c-a0b7-975dcfcc9c64",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Data must be taken over decades if the algorithm sells an insurance that involves a high liability payout once every 5\u201310 years, and a high-frequency trading algorithm may only require a week of data if each trade occurs every 50 milliseconds, with care taken toward risk from unexpected but rare results that such testing did not capture (see flash crash).",
+    "subject": "data",
+    "predicate_type": "requires",
+    "object_text": "taken over decades if the algorithm sells an insurance that involves a high liability payout once every 5\u201310 years",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Data must be taken over decades if the algorithm sells an insurance that involves a high liability payout once every 5\u201310 years, and a high-frequency trading algorithm may only require a week of data if each trade occurs every 50 milliseconds, with care taken toward risk from unexpected but rare results that such testing did not capture (see flash crash).",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "data_collection"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dab38137-b081-4edf-b38d-a5cefdb69972",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "A high-frequency trading algorithm may only require a week of data if each trade occurs every 50 milliseconds, with care taken toward risk from unexpected but rare results that such testing did not capture (see flash crash).",
+    "subject": "high-frequency trading algorithm",
+    "predicate_type": "requires",
+    "object_text": "a week of data if each trade occurs every 50 milliseconds",
+    "object_value": 1.0,
+    "object_unit": "week",
+    "source_text": "A high-frequency trading algorithm may only require a week of data if each trade occurs every 50 milliseconds, with care taken toward risk from unexpected but rare results that such testing did not capture (see flash crash).",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "data_collection"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5cba966f-4329-4f96-a66b-3c71d1d630ea",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "When examining the investment performance of assets with smoothing of returns (such as with-profits funds), the Sharpe ratio should be derived from the performance of the underlying assets rather than the fund returns",
+    "subject": "Sharpe ratio",
+    "predicate_type": "requires",
+    "object_text": "derived from the performance of the underlying assets rather than the fund returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When examining the investment performance of assets with smoothing of returns (such as with-profits funds), the Sharpe ratio should be derived from the performance of the underlying assets rather than the fund returns",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "Sharpe ratio"
+    ],
+    "entities": [
+      "Sharpe ratio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0f757cc3-bdea-4228-a04c-4068aee4374a",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Such a model would invalidate the aforementioned Ponzi scheme, as desired.",
+    "subject": "model",
+    "predicate_type": "relates_to",
+    "object_text": "would invalidate the aforementioned Ponzi scheme",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such a model would invalidate the aforementioned Ponzi scheme, as desired.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "Ponzi scheme"
+    ],
+    "entities": [
+      "Ponzi scheme"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "09154da6-5e5a-4c81-b123-78b13f896256",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Sharpe ratios, along with Treynor ratios and Jensen's alphas, are often used to rank the performance of portfolio or mutual fund managers.",
+    "subject": "Sharpe ratios",
+    "predicate_type": "relates_to",
+    "object_text": "are often used to rank the performance of portfolio or mutual fund managers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sharpe ratios, along with Treynor ratios and Jensen's alphas, are often used to rank the performance of portfolio or mutual fund managers.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "Sharpe ratio"
+    ],
+    "entities": [
+      "Sharpe ratio",
+      "Treynor ratios",
+      "Jensen's alphas"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "08b6038b-438d-4154-9fa4-b6d0ab13dcf8",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Berkshire Hathaway had a Sharpe ratio of 0.79 for the period 1976 to 2017, higher than any other stock or mutual fund with a history of more than 30 years.",
+    "subject": "Berkshire Hathaway",
+    "predicate_type": "relates_to",
+    "object_text": "had a Sharpe ratio of 0.79 for the period 1976 to 2017, higher than any other stock or mutual fund with a history of more than 30 years",
+    "object_value": 0.79,
+    "object_unit": null,
+    "source_text": "Berkshire Hathaway had a Sharpe ratio of 0.79 for the period 1976 to 2017, higher than any other stock or mutual fund with a history of more than 30 years.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "Sharpe ratio"
+    ],
+    "entities": [
+      "Sharpe ratio",
+      "Berkshire Hathaway"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "645fa203-5185-4ffc-ae4c-070c736a64bc",
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "The stock market had a Sharpe ratio of 0.49 for the same period.",
+    "subject": "stock market",
+    "predicate_type": "relates_to",
+    "object_text": "had a Sharpe ratio of 0.49 for the same period",
+    "object_value": 0.49,
+    "object_unit": null,
+    "source_text": "The stock market had a Sharpe ratio of 0.49 for the same period.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_assessment",
+      "Sharpe ratio"
+    ],
+    "entities": [
+      "Sharpe ratio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5e27258c-fde1-410e-a6f4-dc291b8a6362",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Bailey and L\u00f3pez de Prado (2012) show that Sharpe ratios tend to be overstated in the case of hedge funds with short track records.",
+    "subject": "Sharpe ratios",
+    "predicate_type": "causes",
+    "object_text": "tend to be overstated in the case of hedge funds with short track records",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bailey and L\u00f3pez de Prado (2012) show that Sharpe ratios tend to be overstated in the case of hedge funds with short track records.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [
+      "Bailey",
+      "L\u00f3pez de Prado"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e55f1e4-37e1-4509-b9b4-f570b91600c3",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Bailey and L\u00f3pez de Prado (2012) propose a deflated Sharpe ratio that takes into account the asymmetry and fat-tails of the returns' distribution, sample length, and selection bias.",
+    "subject": "Bailey and L\u00f3pez de Prado (2012)",
+    "predicate_type": "defines",
+    "object_text": "a deflated Sharpe ratio that takes into account the asymmetry and fat-tails of the returns' distribution, sample length, and selection bias",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bailey and L\u00f3pez de Prado (2012) propose a deflated Sharpe ratio that takes into account the asymmetry and fat-tails of the returns' distribution, sample length, and selection bias.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [
+      "Bailey",
+      "L\u00f3pez de Prado"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "754e9aab-b45a-4079-a34d-2b747a86f79a",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Bailey and L\u00f3pez de Prado have proposed a Sharpe ratio indifference curve with regards to the selection of portfolio managers on the basis of their Sharpe ratios.",
+    "subject": "Bailey and L\u00f3pez de Prado",
+    "predicate_type": "defines",
+    "object_text": "a Sharpe ratio indifference curve",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bailey and L\u00f3pez de Prado have proposed a Sharpe ratio indifference curve with regards to the selection of portfolio managers on the basis of their Sharpe ratios.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [
+      "Bailey",
+      "L\u00f3pez de Prado"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "64e18f08-3e74-4a25-be74-926edaa4a637",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "This curve illustrates the fact that it is efficient to hire portfolio managers with low and even negative Sharpe ratios, as long as their correlation to the other portfolio managers is sufficiently low.",
+    "subject": "Sharpe ratio indifference curve",
+    "predicate_type": "relates_to",
+    "object_text": "it is efficient to hire portfolio managers with low and even negative Sharpe ratios, as long as their correlation to the other portfolio managers is sufficiently low",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This curve illustrates the fact that it is efficient to hire portfolio managers with low and even negative Sharpe ratios, as long as their correlation to the other portfolio managers is sufficiently low.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1ba8a357-a825-4f08-8008-512ae814350f",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Goetzmann, Ingersoll, Spiegel, and Welch (2002) determined that the best strategy to maximize a portfolio's Sharpe ratio, when both securities and options contracts on these securities are available for investment, is a portfolio of selling one out-of-the-money call and selling one out-of-the-money put.",
+    "subject": "strategy",
+    "predicate_type": "implements",
+    "object_text": "a portfolio of selling one out-of-the-money call and selling one out-of-the-money put",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Goetzmann, Ingersoll, Spiegel, and Welch (2002) determined that the best strategy to maximize a portfolio's Sharpe ratio, when both securities and options contracts on these securities are available for investment, is a portfolio of selling one out-of-the-money call and selling one out-of-the-money put.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [
+      "Goetzmann",
+      "Ingersoll",
+      "Spiegel",
+      "Welch"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a5885db2-bd63-49e3-8832-e5b1832c6d30",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "This portfolio generates an immediate positive payoff, has a large probability of generating modestly high returns, and has a small probability of generating huge losses.",
+    "subject": "portfolio of selling one out-of-the-money call and selling one out-of-the-money put",
+    "predicate_type": "causes",
+    "object_text": "an immediate positive payoff",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This portfolio generates an immediate positive payoff, has a large probability of generating modestly high returns, and has a small probability of generating huge losses.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b68f141f-e861-4ea5-bbe4-cbeaad690a89",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "This portfolio has a large probability of generating modestly high returns.",
+    "subject": "portfolio of selling one out-of-the-money call and selling one out-of-the-money put",
+    "predicate_type": "causes",
+    "object_text": "a large probability of generating modestly high returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This portfolio has a large probability of generating modestly high returns.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b7ffc80a-e754-4a71-b3a0-427b9031ef39",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "This portfolio has a small probability of generating huge losses.",
+    "subject": "portfolio of selling one out-of-the-money call and selling one out-of-the-money put",
+    "predicate_type": "causes",
+    "object_text": "a small probability of generating huge losses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This portfolio has a small probability of generating huge losses.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "146cf8d4-7f0f-4dd1-a78e-b132debdc21f",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Shah (2014) observed that such a portfolio is not suitable for many investors, but fund sponsors who select fund managers primarily based on the Sharpe ratio will give incentives for fund managers to adopt such a strategy.",
+    "subject": "portfolio of selling one out-of-the-money call and selling one out-of-the-money put",
+    "predicate_type": "prohibits",
+    "object_text": "is not suitable for many investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Shah (2014) observed that such a portfolio is not suitable for many investors, but fund sponsors who select fund managers primarily based on the Sharpe ratio will give incentives for fund managers to adopt such a strategy.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [
+      "Shah"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8db010ae-927a-434b-babf-b3e799a0dc58",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Fund sponsors who select fund managers primarily based on the Sharpe ratio will give incentives for fund managers to adopt such a strategy.",
+    "subject": "fund sponsors",
+    "predicate_type": "causes",
+    "object_text": "give incentives for fund managers to adopt such a strategy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Fund sponsors who select fund managers primarily based on the Sharpe ratio will give incentives for fund managers to adopt such a strategy.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1d86d06a-e7ed-4c18-a1d5-7b903cf91c1b",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "A Sharpe Ratio greater than 1 is considered acceptable.",
+    "subject": "Sharpe Ratio",
+    "predicate_type": "classifies",
+    "object_text": "acceptable",
+    "object_value": 1.0,
+    "object_unit": null,
+    "source_text": "A Sharpe Ratio greater than 1 is considered acceptable.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d6c36a32-9d17-4612-80b1-571414c055f7",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "A ratio higher than 2.0 is considered very good.",
+    "subject": "Sharpe Ratio",
+    "predicate_type": "classifies",
+    "object_text": "very good",
+    "object_value": 2.0,
+    "object_unit": null,
+    "source_text": "A ratio higher than 2.0 is considered very good.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b92d9ab2-acb9-4c2d-86f0-68ea0743d044",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "A ratio above 3.0 is excellent.",
+    "subject": "Sharpe Ratio",
+    "predicate_type": "classifies",
+    "object_text": "excellent",
+    "object_value": 3.0,
+    "object_unit": null,
+    "source_text": "A ratio above 3.0 is excellent.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15194548-9b77-4b2a-bfed-c4a54009e47c",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "The magnitude of the Sharpe ratio is sensitive to the time period over which the underlying returns are measured.",
+    "subject": "magnitude of the Sharpe ratio",
+    "predicate_type": "relates_to",
+    "object_text": "sensitive to the time period over which the underlying returns are measured",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The magnitude of the Sharpe ratio is sensitive to the time period over which the underlying returns are measured.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c7651161-c82c-4417-a95f-798cb661ac42",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "The nominator of the ratio (returns) scales in proportion to time.",
+    "subject": "nominator of the ratio (returns)",
+    "predicate_type": "relates_to",
+    "object_text": "scales in proportion to time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The nominator of the ratio (returns) scales in proportion to time.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9acc68e6-32bb-4cbd-a26b-dc6d64abd124",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "The denominator of the ratio (standard deviation) scales in proportion to the square root of time.",
+    "subject": "denominator of the ratio (standard deviation)",
+    "predicate_type": "relates_to",
+    "object_text": "scales in proportion to the square root of time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The denominator of the ratio (standard deviation) scales in proportion to the square root of time.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "44f24861-89f8-4da9-901c-c612167d5aef",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "Most diversified indexes of equities, bonds, mortgages or commodities have annualized Sharpe ratios below 1.",
+    "subject": "diversified indexes of equities, bonds, mortgages or commodities",
+    "predicate_type": "relates_to",
+    "object_text": "have annualized Sharpe ratios below 1",
+    "object_value": 1.0,
+    "object_unit": null,
+    "source_text": "Most diversified indexes of equities, bonds, mortgages or commodities have annualized Sharpe ratios below 1.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2f5ff32b-07dd-44e0-8faa-e8308a2fd178",
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "claim_text": "A Sharpe ratio consistently above 2.0 or 3.0 is unrealistic.",
+    "subject": "Sharpe ratio",
+    "predicate_type": "classifies",
+    "object_text": "unrealistic",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A Sharpe ratio consistently above 2.0 or 3.0 is unrealistic.",
+    "source_document": "Sharpe ratio",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "performance_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

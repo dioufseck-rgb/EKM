@@ -1,0 +1,1778 @@
+[
+  {
+    "assertion_id": "66c8b7c2-9588-44e0-87d3-cb74918bbf6f",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "The CAPM is a model for pricing an individual security or portfolio.",
+    "subject": "CAPM",
+    "predicate_type": "defines",
+    "object_text": "model for pricing an individual security or portfolio",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The CAPM is a model for pricing an individual security or portfolio.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_asset_pricing_model",
+      "investment_valuation"
+    ],
+    "entities": [
+      "CAPM"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1bb451a9-602e-49e8-978a-2b7440fe857b",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "For individual securities, it makes use of the security market line (SML) and its relation to expected return and systematic risk (beta) to show how the market must price individual securities in relation to their security risk class.",
+    "subject": "CAPM",
+    "predicate_type": "implements",
+    "object_text": "use of the security market line (SML) and its relation to expected return and systematic risk (beta) to show how the market must price individual securities in relation to their security risk class",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For individual securities, it makes use of the security market line (SML) and its relation to expected return and systematic risk (beta) to show how the market must price individual securities in relation to their security risk class.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_asset_pricing_model",
+      "investment_valuation"
+    ],
+    "entities": [
+      "SML",
+      "beta"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9046880-d79c-4999-834a-34ba66e2dcaf",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "The SML enables us to calculate the reward-to-risk ratio for any security in relation to that of the overall market.",
+    "subject": "SML",
+    "predicate_type": "permits",
+    "object_text": "calculation of the reward-to-risk ratio for any security in relation to that of the overall market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The SML enables us to calculate the reward-to-risk ratio for any security in relation to that of the overall market.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "security_market_line",
+      "risk_management"
+    ],
+    "entities": [
+      "SML"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da367c33-692b-45f3-9df1-e5a49742a162",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "When the expected rate of return for any security is deflated by its beta coefficient, the reward-to-risk ratio for any individual security in the market is equal to the market reward-to-risk ratio.",
+    "subject": "reward-to-risk ratio for any individual security",
+    "predicate_type": "relates_to",
+    "object_text": "market reward-to-risk ratio",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the expected rate of return for any security is deflated by its beta coefficient, the reward-to-risk ratio for any individual security in the market is equal to the market reward-to-risk ratio.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "investment_valuation"
+    ],
+    "entities": [
+      "beta"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8b26381c-6889-4ab5-836c-4d5340774e97",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "In equilibrium, all assets should plot directly on the SML.",
+    "subject": "assets",
+    "predicate_type": "relates_to",
+    "object_text": "plot directly on the SML",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In equilibrium, all assets should plot directly on the SML.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "security_market_line",
+      "investment_valuation"
+    ],
+    "entities": [
+      "SML"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f7661ca0-f405-4bc4-ac4e-f0d4bcc804f4",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "An asset located above the line is considered undervalued, as it offers a higher return for its level of systematic risk, while an asset below is overvalued.",
+    "subject": "asset located above the line",
+    "predicate_type": "classifies",
+    "object_text": "undervalued",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An asset located above the line is considered undervalued, as it offers a higher return for its level of systematic risk, while an asset below is overvalued.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "75110f18-b173-4b5d-90bf-c5720d66157e",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "An asset located below is overvalued.",
+    "subject": "asset located below",
+    "predicate_type": "classifies",
+    "object_text": "overvalued",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An asset located below is overvalued.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d0706beb-aa36-4ba6-8e68-d0f178999cfc",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "The slope of the SML represents the market risk premium, illustrating the trade-off between risk and return.",
+    "subject": "slope of the SML",
+    "predicate_type": "defines",
+    "object_text": "market risk premium",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The slope of the SML represents the market risk premium, illustrating the trade-off between risk and return.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "security_market_line",
+      "risk_management"
+    ],
+    "entities": [
+      "SML"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "63b35ab8-0c06-4d65-b166-56c8acc2acd2",
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "By determining the position of a security relative to this line, investors can identify whether the expected return justifies the asset's market-related volatility.",
+    "subject": "investors",
+    "predicate_type": "permits",
+    "object_text": "identify whether the expected return justifies the asset's market-related volatility by determining the position of a security relative to this line",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By determining the position of a security relative to this line, investors can identify whether the expected return justifies the asset's market-related volatility.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_valuation",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "041d5656-1533-4a58-81d4-54fe6826824a",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "The risk of a portfolio comprises systematic risk, also known as undiversifiable risk, and unsystematic risk, which is also known as idiosyncratic risk or diversifiable risk.",
+    "subject": "risk of a portfolio",
+    "predicate_type": "classifies",
+    "object_text": "systematic risk and unsystematic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk of a portfolio comprises systematic risk, also known as undiversifiable risk, and unsystematic risk, which is also known as idiosyncratic risk or diversifiable risk.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_risk",
+      "systematic_risk",
+      "unsystematic_risk"
+    ],
+    "entities": [
+      "portfolio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1f27a5b4-c5fc-42e4-821e-bd057dbff68e",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "Systematic risk refers to the risk common to all securities\u2014i.e., market risk.",
+    "subject": "Systematic risk",
+    "predicate_type": "defines",
+    "object_text": "the risk common to all securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systematic risk refers to the risk common to all securities\u2014i.e., market risk.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systematic_risk",
+      "market_risk"
+    ],
+    "entities": [
+      "securities"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0c4931e5-1114-471b-8460-6726cb26b4f6",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "Unsystematic risk is the risk associated with individual assets.",
+    "subject": "Unsystematic risk",
+    "predicate_type": "defines",
+    "object_text": "the risk associated with individual assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Unsystematic risk is the risk associated with individual assets.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "unsystematic_risk",
+      "asset_risk"
+    ],
+    "entities": [
+      "assets"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8ecdae23-98ae-4a8e-88d2-21c7d7a0fcfc",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "Unsystematic risk can be diversified away to smaller levels by including a greater number of assets in the portfolio as specific risks \"average out\".",
+    "subject": "Unsystematic risk",
+    "predicate_type": "permits",
+    "object_text": "diversification away to smaller levels by including a greater number of assets in the portfolio",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Unsystematic risk can be diversified away to smaller levels by including a greater number of assets in the portfolio as specific risks \"average out\".",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "unsystematic_risk",
+      "diversification"
+    ],
+    "entities": [
+      "assets",
+      "portfolio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "265ec5f5-a7eb-4365-bdab-c464d918b65f",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "The same is not possible for systematic risk within one market.",
+    "subject": "systematic risk",
+    "predicate_type": "prohibits",
+    "object_text": "diversification within one market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The same is not possible for systematic risk within one market.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systematic_risk",
+      "diversification"
+    ],
+    "entities": [
+      "market"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d030ebae-f651-4e11-8e1b-ed6a8d119254",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "A portfolio of approximately 30\u201340 securities in developed markets such as the UK or US will render the portfolio sufficiently diversified such that risk exposure is limited to systematic risk only.",
+    "subject": "portfolio",
+    "predicate_type": "constrains",
+    "object_text": "risk exposure to systematic risk only",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A portfolio of approximately 30\u201340 securities in developed markets such as the UK or US will render the portfolio sufficiently diversified such that risk exposure is limited to systematic risk only.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_diversification",
+      "systematic_risk"
+    ],
+    "entities": [
+      "securities",
+      "UK",
+      "US"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb574bea-836c-48b2-951c-78310e7d5e2b",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "This number may vary depending on the way securities are weighted in a portfolio which alters the overall risk contribution of each security.",
+    "subject": "number of securities",
+    "predicate_type": "relates_to",
+    "object_text": "the way securities are weighted in a portfolio",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This number may vary depending on the way securities are weighted in a portfolio which alters the overall risk contribution of each security.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_diversification",
+      "risk_contribution"
+    ],
+    "entities": [
+      "securities",
+      "portfolio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c15dcf8e-5188-4db4-9468-1e552e01c758",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "Market cap weighting means that securities of companies with larger market capitalization will take up a larger portion of the portfolio, making it effectively less diversified.",
+    "subject": "Market cap weighting",
+    "predicate_type": "causes",
+    "object_text": "securities of companies with larger market capitalization will take up a larger portion of the portfolio, making it effectively less diversified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Market cap weighting means that securities of companies with larger market capitalization will take up a larger portion of the portfolio, making it effectively less diversified.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_capitalization",
+      "portfolio_diversification"
+    ],
+    "entities": [
+      "securities",
+      "companies",
+      "portfolio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0831997c-236a-4978-915b-2d7fc75a12ce",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "In developing markets, a larger number of securities is required for diversification due to higher asset volatilities.",
+    "subject": "diversification",
+    "predicate_type": "requires",
+    "object_text": "a larger number of securities in developing markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In developing markets, a larger number of securities is required for diversification due to higher asset volatilities.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_diversification",
+      "asset_volatility"
+    ],
+    "entities": [
+      "securities"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f33a373b-637d-493b-9b46-11d6feb724e6",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "A rational investor should not take on any diversifiable risk, as only non-diversifiable risks are rewarded within the scope of this model.",
+    "subject": "rational investor",
+    "predicate_type": "prohibits",
+    "object_text": "taking on any diversifiable risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A rational investor should not take on any diversifiable risk, as only non-diversifiable risks are rewarded within the scope of this model.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "diversifiable_risk",
+      "non-diversifiable_risk"
+    ],
+    "entities": [
+      "investor"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1d4d8555-99a4-46ae-b6b2-a9570d6eaf3c",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "Therefore, the required return on an asset must be linked to its contribution to overall portfolio riskiness as opposed to its \"stand alone risk\".",
+    "subject": "required return on an asset",
+    "predicate_type": "requires",
+    "object_text": "link to its contribution to overall portfolio riskiness",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Therefore, the required return on an asset must be linked to its contribution to overall portfolio riskiness as opposed to its \"stand alone risk\".",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset_return",
+      "portfolio_risk"
+    ],
+    "entities": [
+      "asset",
+      "portfolio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f5a02eb3-8e20-4cad-bd0b-bb909d25b586",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "In the CAPM context, portfolio risk is represented by higher variance\u2014i.e., less predictability.",
+    "subject": "portfolio risk",
+    "predicate_type": "relates_to",
+    "object_text": "higher variance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the CAPM context, portfolio risk is represented by higher variance\u2014i.e., less predictability.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_risk",
+      "variance"
+    ],
+    "entities": [
+      "CAPM",
+      "portfolio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "70ad3276-f10c-4187-b980-ebf25047f9f0",
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "In other words, the beta of the portfolio is the defining factor in rewarding the systematic exposure taken by an investor.",
+    "subject": "beta of the portfolio",
+    "predicate_type": "relates_to",
+    "object_text": "the defining factor in rewarding the systematic exposure taken by an investor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In other words, the beta of the portfolio is the defining factor in rewarding the systematic exposure taken by an investor.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio_beta",
+      "systematic_exposure"
+    ],
+    "entities": [
+      "portfolio",
+      "investor"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0122e113-49ed-4120-9e07-3c7d4290af26",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors aim to maximize economic utilities.",
+    "subject": "investors",
+    "predicate_type": "requires",
+    "object_text": "to maximize economic utilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors aim to maximize economic utilities.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "63b6c5b6-4803-4b5f-bc7d-6a8ea60448ac",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "Asset quantities are given and fixed.",
+    "subject": "Asset quantities",
+    "predicate_type": "constrains",
+    "object_text": "given and fixed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Asset quantities are given and fixed.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "Assets"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1ebe496-eef3-425f-8298-8711a71eddf4",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors are rational.",
+    "subject": "investors",
+    "predicate_type": "defines",
+    "object_text": "rational",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors are rational.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6315441b-77f6-4502-953d-baa686f82f95",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors are risk-averse.",
+    "subject": "investors",
+    "predicate_type": "defines",
+    "object_text": "risk-averse",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors are risk-averse.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "39b704c2-3910-4d39-8625-dbae5d28de29",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors are broadly diversified across a range of investments.",
+    "subject": "investors",
+    "predicate_type": "defines",
+    "object_text": "broadly diversified across a range of investments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors are broadly diversified across a range of investments.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b96f26f4-cccc-4cf8-b070-495f65c0ea58",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors are price takers, i.e., they cannot influence prices.",
+    "subject": "investors",
+    "predicate_type": "defines",
+    "object_text": "price takers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors are price takers, i.e., they cannot influence prices.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "decdffce-279d-45c4-9a81-9a2e72a9b873",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors cannot influence prices.",
+    "subject": "investors",
+    "predicate_type": "prohibits",
+    "object_text": "influence prices",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors cannot influence prices.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b742ba98-640f-406b-bd40-984ed7839f40",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors can lend and borrow unlimited amounts under the risk free rate of interest.",
+    "subject": "investors",
+    "predicate_type": "permits",
+    "object_text": "lend and borrow unlimited amounts under the risk free rate of interest",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors can lend and borrow unlimited amounts under the risk free rate of interest.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f43994ac-9db4-4ddc-8aff-5b27ed8488d6",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors trade without transaction or taxation costs.",
+    "subject": "investors",
+    "predicate_type": "permits",
+    "object_text": "trade without transaction or taxation costs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors trade without transaction or taxation costs.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "16a4d2b1-2aa0-48dd-b22f-29e0ea411445",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors deal with securities that are all highly divisible into small parcels.",
+    "subject": "investors",
+    "predicate_type": "relates_to",
+    "object_text": "deal with securities that are all highly divisible into small parcels",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors deal with securities that are all highly divisible into small parcels.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors",
+      "securities"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fa8d544c-232f-477c-bf31-dc2a3bbef9cb",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All assets are perfectly divisible and liquid.",
+    "subject": "assets",
+    "predicate_type": "defines",
+    "object_text": "perfectly divisible and liquid",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All assets are perfectly divisible and liquid.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "assets"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c6273080-127e-44fd-bca7-20480e6b286c",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors have homogeneous expectations.",
+    "subject": "investors",
+    "predicate_type": "defines",
+    "object_text": "homogeneous expectations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors have homogeneous expectations.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6270cbb2-dcf5-4605-9b7a-8ce27455cc12",
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "claim_text": "All investors have all information available all at the same time.",
+    "subject": "investors",
+    "predicate_type": "relates_to",
+    "object_text": "all information available all at the same time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All investors have all information available all at the same time.",
+    "source_document": "Capital asset pricing model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

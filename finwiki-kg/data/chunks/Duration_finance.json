@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "2df59cc9-abf7-4a21-9379-25001519fa51",
+    "document_id": "Duration_(finance)",
+    "sequence": 0,
+    "section_title": "Analogy",
+    "content": "Imagine a long plank set along a timeline that begins today. Each future cash flow is a small weight placed on the plank at the cash flow time. Heavier weights correspond to cash flows with larger present values. If you slide a single support under the plank to the point where the system balances, that balance point is the time-centre of all the weights.\nIf most of the weight lies far along the plank the balance point sits further from today and the bond is more sensitive to a change in yields. If weight is concentrated near the start through high coupons or short maturity the balance point moves inward and sensitivity falls. This time-centre corresponds to Macaulay duration.\nNow tilt the ground by a very small amount. The plank drops a little and, for such a small tilt, the vertical drop at the balance point is almost exactly proportional to the tilt. That proportional response mirrors modified duration, which gives the first-order change in price for a small change in yield.\nWith a larger tilt the motion does not remain proportional because the plank follows a curve. The extra curvature in the response explains convexity and shows why the second-order term matters for larger yield moves or for cash-flow patterns that make the curve more pronounced.\nIf the ground does not tilt uniformly but is raised or lowered under specific years, different parts of the plank move by different amounts. That picture matches shifts in the term structure and motivates measures such as Fisher\u2013Weil duration and key-rate durations, where sensitivity depends on which maturities move.",
+    "token_estimate": 266,
+    "title": "Duration (finance)",
+    "url": "https://en.wikipedia.org/wiki/Duration_(finance)",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "fa6ed550-0bee-48d2-827d-05b3082b74c5",
+    "document_id": "Duration_(finance)",
+    "sequence": 1,
+    "section_title": "Practical notes",
+    "content": "The choice of key maturities and the curve interpolation method affect estimates. Using the same interpolation for pricing and shocks improves internal consistency.\nShifts should be small so that first-order approximations remain accurate. Larger shocks require convexity or direct repricing.\nReport both the set of key rate DV01s and the parallel DV01. The totals provide a cross-check that the key rate bucket exposures add up to the overall rate risk.\nIn many benchmark methodologies key rate DV01s are computed under a constant option-adjusted spread. Under that convention the sum of the key rate DV01s is approximately equal to the option-adjusted duration for a parallel move, which provides a practical cross-check on reported exposures.",
+    "token_estimate": 113,
+    "title": "Duration (finance)",
+    "url": "https://en.wikipedia.org/wiki/Duration_(finance)",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "d5dae33e-bdb1-424a-b67f-d966197cc13d",
+    "document_id": "Duration_(finance)",
+    "sequence": 2,
+    "section_title": "Risk \u2013 duration as interest rate sensitivity",
+    "content": "The primary use of modified duration is to summarise interest rate sensitivity. Thinking in yield terms allows comparisons across different instruments. The examples below use a 10-year final maturity with 5% nominal yield and semi-annual compounding.\n\nNotes\n\n\u2020 DV01 shown for the receive-fixed swap is the PV01 of the fixed leg per 1 bp for $100 notional at par. The sign depends on receive versus pay fixed.\nAll four instruments mature in 10 years, yet their sensitivities differ. The zero-coupon has the highest sensitivity and the annuity the lowest because cash flows arrive earlier. Modified duration provides a comparable percentage measure across the three bonds. For example, the zero-coupon\u2019s value changes at about 9.76% per 100 bp, so a +1 bp move implies a price change of roughly \u22120.0976% (from $61.0271 to about $60.968).\nWhen comparing equal notionals, DV01 gives the dollar change per 1 bp. DV01 is natural for swaps, where there is no initial price, as well as for bonds. The swap\u2019s PV01 at par is close to the coupon bond\u2019s DV01 because both reflect the present value of fixed-leg cash flows on the same curve. In portfolio terms, dollar convexity adds across holdings in the same way as DV01, which allows second-order effects to be summarised at portfolio level for a given shock size.\nModified duration measures the size of the parallel-rate sensitivity. It does not identify which part of the term structure drives the move. The annuity above has \n  \n    \n      \n        \n          D\n          \n            Mac\n          \n        \n        \u2248\n        4.8\n      \n    \n    {\\displaystyle D_{\\text{Mac}}\\approx 4.8}\n  \n years yet its cash flows extend to 10 years, so it remains sensitive to longer maturities. Sensitivity to specific maturities is captured by key rate durations.\nFor fixed cash flows, price changes arise from two sources:\n\nPassage of time, which moves price toward par and is predictable.\nChanges in the yield, from shifts in the benchmark curve and from spread changes.\nThe price\u2013yield relationship is inverse. The duration term gives a linear approximation. For larger moves, adding convexity provides a quadratic correction, or the instrument can be repriced exactly at the new yield. The options analogue is the pair of first- and second-order Greeks, delta and gamma.",
+    "token_estimate": 357,
+    "title": "Duration (finance)",
+    "url": "https://en.wikipedia.org/wiki/Duration_(finance)",
+    "domain": "finance"
+  }
+]

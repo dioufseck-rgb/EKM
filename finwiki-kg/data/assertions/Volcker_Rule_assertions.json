@@ -1,0 +1,4095 @@
+[
+  {
+    "assertion_id": "51233902-29bb-4b42-b97f-8b10a5080a5b",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The amendment and the final legislation both covered more types of proprietary trading than the original rule proposed by the administration.",
+    "subject": "amendment and the final legislation",
+    "predicate_type": "relates_to",
+    "object_text": "covered more types of proprietary trading than the original rule proposed by the administration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The amendment and the final legislation both covered more types of proprietary trading than the original rule proposed by the administration.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8c472fda-66d5-4f5a-9751-b3bc25df7028",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "It also banned conflict of interest trading.",
+    "subject": "amendment and the final legislation",
+    "predicate_type": "prohibits",
+    "object_text": "conflict of interest trading",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It also banned conflict of interest trading.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "conflict_of_interest",
+      "trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c1ddd2b5-2e16-492c-8d90-9d5edf4cfa33",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The measure approved by the conferees ends that type of conflict which Wall Street has engaged in.",
+    "subject": "measure approved by the conferees",
+    "predicate_type": "prohibits",
+    "object_text": "that type of conflict which Wall Street has engaged in",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The measure approved by the conferees ends that type of conflict which Wall Street has engaged in.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "conflict_of_interest",
+      "trading"
+    ],
+    "entities": [
+      "Wall Street"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "26579842-5804-49fb-9ac0-d87af30ff45e",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Conferees changed the proprietary trading ban to allow banks to invest in hedge funds and private equity funds at the request of Senator Scott Brown (R-Mass.), whose vote was needed in the Senate to pass the bill.",
+    "subject": "Conferees",
+    "predicate_type": "permits",
+    "object_text": "banks to invest in hedge funds and private equity funds at the request of Senator Scott Brown (R-Mass.)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Conferees changed the proprietary trading ban to allow banks to invest in hedge funds and private equity funds at the request of Senator Scott Brown (R-Mass.), whose vote was needed in the Senate to pass the bill.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading",
+      "hedge_funds",
+      "private_equity"
+    ],
+    "entities": [
+      "Senator Scott Brown"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": [
+          "banks"
+        ]
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62c1e5dd-c489-4028-b816-e750b8f96085",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Volcker rule was further amended to allow banks to invest 3% of Tier 1 capital into hedge funds and private equity funds, an amount that would exceed $6 billion a year for Bank of America alone.",
+    "subject": "Volcker rule",
+    "predicate_type": "permits",
+    "object_text": "banks to invest 3% of Tier 1 capital into hedge funds and private equity funds",
+    "object_value": 3.0,
+    "object_unit": "%",
+    "source_text": "The Volcker rule was further amended to allow banks to invest 3% of Tier 1 capital into hedge funds and private equity funds, an amount that would exceed $6 billion a year for Bank of America alone.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading",
+      "hedge_funds",
+      "private_equity",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Bank of America"
+    ],
+    "regulations": [
+      "Volcker rule"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": [
+          "banks"
+        ]
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "efce1126-7db0-412e-8b7b-b296c07e6a53",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Proprietary trading in Treasuries, bonds issued by government-backed entities like Fannie Mae and Freddie Mac, as well as municipal bonds were also exempted.",
+    "subject": "Proprietary trading",
+    "predicate_type": "relates_to",
+    "object_text": "in Treasuries, bonds issued by government-backed entities like Fannie Mae and Freddie Mac, as well as municipal bonds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Proprietary trading in Treasuries, bonds issued by government-backed entities like Fannie Mae and Freddie Mac, as well as municipal bonds were also exempted.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading",
+      "government_bonds",
+      "municipal_bonds"
+    ],
+    "entities": [
+      "Fannie Mae",
+      "Freddie Mac"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2de63123-f7c1-4df7-9725-951b8fa74e82",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Another form of permitted proprietary trading allows market making trading based on Reasonably Expected Near Term Demand of Customers (\"RENTD\").",
+    "subject": "proprietary trading",
+    "predicate_type": "permits",
+    "object_text": "market making trading based on Reasonably Expected Near Term Demand of Customers (\"RENTD\")",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another form of permitted proprietary trading allows market making trading based on Reasonably Expected Near Term Demand of Customers (\"RENTD\").",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading",
+      "market_making"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bd8149fa-938b-4208-bb08-09a496a79e8b",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Trading desks that will use the underwriting exception must also estimate RENTD, which is defined differently for underwriting.",
+    "subject": "Trading desks",
+    "predicate_type": "requires",
+    "object_text": "estimate RENTD, which is defined differently for underwriting",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Trading desks that will use the underwriting exception must also estimate RENTD, which is defined differently for underwriting.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting",
+      "trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c380559b-5927-486f-b640-d6faece2c3fa",
+    "chunk_id": "d21483bc-76fd-424c-be03-5bbd6a88e137",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Following the passage of the Financial Reform Bill, many banks and financial firms indicated that they did not expect the Volcker Rule to have a significant effect on their profits.",
+    "subject": "many banks and financial firms",
+    "predicate_type": "relates_to",
+    "object_text": "did not expect the Volcker Rule to have a significant effect on their profits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Following the passage of the Financial Reform Bill, many banks and financial firms indicated that they did not expect the Volcker Rule to have a significant effect on their profits.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_reform",
+      "profitability"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "812cc2e3-c118-4252-94a6-7a29e3508c2d",
+    "chunk_id": "80722f1b-76fd-4a1d-ad55-a7d75c532594",
+    "document_id": "Volcker_Rule",
+    "claim_text": "European scholars and lawmakers also discussed the necessity of banking reform in light of the crisis, recommending the adoption of specific regulations limiting proprietary trading by banks and their affiliates.",
+    "subject": "European scholars and lawmakers",
+    "predicate_type": "relates_to",
+    "object_text": "the adoption of specific regulations limiting proprietary trading by banks and their affiliates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "European scholars and lawmakers also discussed the necessity of banking reform in light of the crisis, recommending the adoption of specific regulations limiting proprietary trading by banks and their affiliates.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking reform",
+      "proprietary trading"
+    ],
+    "entities": [
+      "banks",
+      "affiliates"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4045fe2-dda3-439f-912b-f9bb7e25d0ec",
+    "chunk_id": "80722f1b-76fd-4a1d-ad55-a7d75c532594",
+    "document_id": "Volcker_Rule",
+    "claim_text": "SFAF and World Pensions Council banking experts argued that such rules should be adopted and implemented within the broader context of statutory laws valid across the European Union.",
+    "subject": "SFAF and World Pensions Council banking experts",
+    "predicate_type": "relates_to",
+    "object_text": "that such rules should be adopted and implemented within the broader context of statutory laws valid across the European Union",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "SFAF and World Pensions Council banking experts argued that such rules should be adopted and implemented within the broader context of statutory laws valid across the European Union.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "SFAF",
+      "World Pensions Council"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "44959477-534a-40af-b196-a2f161166bcd",
+    "chunk_id": "80722f1b-76fd-4a1d-ad55-a7d75c532594",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Liikanen Report is a set of recommendations published in October 2012 by a group of experts led by Erkki Liikanen, governor of the Bank of Finland and ECB council member.",
+    "subject": "Liikanen Report",
+    "predicate_type": "defines",
+    "object_text": "a set of recommendations published in October 2012 by a group of experts led by Erkki Liikanen, governor of the Bank of Finland and ECB council member",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Liikanen Report is a set of recommendations published in October 2012 by a group of experts led by Erkki Liikanen, governor of the Bank of Finland and ECB council member.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking reform"
+    ],
+    "entities": [
+      "Erkki Liikanen",
+      "Bank of Finland",
+      "ECB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4361216b-c59e-4d95-b0d3-2dbcc075225d",
+    "chunk_id": "80722f1b-76fd-4a1d-ad55-a7d75c532594",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Liikanen Group was established in Brussels by EU Commissioner Michel Barnier in February 2012.",
+    "subject": "Liikanen Group",
+    "predicate_type": "governs",
+    "object_text": "established in Brussels by EU Commissioner Michel Barnier in February 2012",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Liikanen Group was established in Brussels by EU Commissioner Michel Barnier in February 2012.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking reform"
+    ],
+    "entities": [
+      "EU Commissioner Michel Barnier"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a96ef56e-aca2-485f-ab0a-95a89ec35f63",
+    "chunk_id": "80722f1b-76fd-4a1d-ad55-a7d75c532594",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On July 25, 2012, Sandy Weill called for splitting up the commercial banks from the investment banks.",
+    "subject": "Sandy Weill",
+    "predicate_type": "relates_to",
+    "object_text": "splitting up the commercial banks from the investment banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On July 25, 2012, Sandy Weill called for splitting up the commercial banks from the investment banks.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking reform"
+    ],
+    "entities": [
+      "Sandy Weill",
+      "Citigroup"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "00831f92-1d35-4203-8873-a1cefa57ff34",
+    "chunk_id": "80722f1b-76fd-4a1d-ad55-a7d75c532594",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On July 25, 2012, Sandy Weill called for the return of the Glass-Steagall Act of 1933.",
+    "subject": "Sandy Weill",
+    "predicate_type": "relates_to",
+    "object_text": "the return of the Glass-Steagall Act of 1933",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On July 25, 2012, Sandy Weill called for the return of the Glass-Steagall Act of 1933.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking reform"
+    ],
+    "entities": [
+      "Sandy Weill",
+      "Citigroup"
+    ],
+    "regulations": [
+      "Glass-Steagall Act of 1933"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a7a7283d-74d2-4b2a-b30f-29ca2956692c",
+    "chunk_id": "80722f1b-76fd-4a1d-ad55-a7d75c532594",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On October 24, 2017, the European Commission scrapped the draft legislation that would have permitted the EBA regulator to order \"too big to fail\" banks to split off their trading activities.",
+    "subject": "European Commission",
+    "predicate_type": "prohibits",
+    "object_text": "the draft legislation that would have permitted the EBA regulator to order \"too big to fail\" banks to split off their trading activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On October 24, 2017, the European Commission scrapped the draft legislation that would have permitted the EBA regulator to order \"too big to fail\" banks to split off their trading activities.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "European Commission",
+      "EBA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ca0aac83-43fe-4522-8b84-5457f0f2f99d",
+    "chunk_id": "80722f1b-76fd-4a1d-ad55-a7d75c532594",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The draft was supposed to be the EU's answer to the United States' Volcker Rule.",
+    "subject": "draft legislation",
+    "predicate_type": "relates_to",
+    "object_text": "the EU's answer to the United States' Volcker Rule",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The draft was supposed to be the EU's answer to the United States' Volcker Rule.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2a162728-b487-4c18-a576-91f3a3ccf001",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Volcker argued that such speculative activity played a key role in the 2008 financial crisis.",
+    "subject": "Volcker",
+    "predicate_type": "causes",
+    "object_text": "such speculative activity played a key role in the 2008 financial crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Volcker argued that such speculative activity played a key role in the 2008 financial crisis.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_crisis"
+    ],
+    "entities": [
+      "Volcker"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2d9caa6c-e260-498a-b66d-e0d5a15e7edd",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The rule is often referred to as a ban on proprietary trading by commercial banks, whereby deposits are used to trade on the bank's own accounts.",
+    "subject": "rule",
+    "predicate_type": "defines",
+    "object_text": "a ban on proprietary trading by commercial banks, whereby deposits are used to trade on the bank's own accounts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The rule is often referred to as a ban on proprietary trading by commercial banks, whereby deposits are used to trade on the bank's own accounts.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading",
+      "commercial_banks"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d719faf1-2458-4dba-84db-e61433fa1f49",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "A number of exceptions to this ban were included in the Dodd\u2013Frank law.",
+    "subject": "exceptions",
+    "predicate_type": "permits",
+    "object_text": "exceptions to this ban were included in the Dodd\u2013Frank law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A number of exceptions to this ban were included in the Dodd\u2013Frank law.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading"
+    ],
+    "entities": [
+      "Dodd-Frank"
+    ],
+    "regulations": [
+      "Dodd-Frank"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ef3e780-3b1c-4825-8f86-782bf2909b6b",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The rule's provisions were scheduled to be implemented as part of the Dodd\u2013Frank Act on July 21, 2010, with preceding ramifications, but were delayed.",
+    "subject": "rule's provisions",
+    "predicate_type": "implements",
+    "object_text": "scheduled to be implemented as part of the Dodd\u2013Frank Act on July 21, 2010, with preceding ramifications, but were delayed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The rule's provisions were scheduled to be implemented as part of the Dodd\u2013Frank Act on July 21, 2010, with preceding ramifications, but were delayed.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "implementation"
+    ],
+    "entities": [
+      "Dodd-Frank Act"
+    ],
+    "regulations": [
+      "Dodd-Frank"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0c098f57-1428-4afc-bdc2-32ebd56d875d",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On December 10, 2013, the necessary agencies approved regulations implementing the rule, which were scheduled to go into effect April 1, 2014.",
+    "subject": "necessary agencies",
+    "predicate_type": "implements",
+    "object_text": "approved regulations implementing the rule, which were scheduled to go into effect April 1, 2014",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On December 10, 2013, the necessary agencies approved regulations implementing the rule, which were scheduled to go into effect April 1, 2014.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "implementation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1791ee57-987a-4e54-86c1-502ac8ca76b2",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On January 14, 2014, after a lawsuit by community banks over provisions concerning specialized securities, revised final regulations were adopted.",
+    "subject": "revised final regulations",
+    "predicate_type": "governs",
+    "object_text": "adopted after a lawsuit by community banks over provisions concerning specialized securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On January 14, 2014, after a lawsuit by community banks over provisions concerning specialized securities, revised final regulations were adopted.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities"
+    ],
+    "entities": [
+      "community banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9505f5d-0a25-4596-8810-d396523d4763",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The rule came into effect on July 21, 2015.",
+    "subject": "rule",
+    "predicate_type": "implements",
+    "object_text": "came into effect on July 21, 2015",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The rule came into effect on July 21, 2015.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "implementation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e83c417e-cffa-4f4f-a960-909d2e857eee",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On August 11, 2016, several large banks requested a 5-year delay to exit illiquid investments.",
+    "subject": "several large banks",
+    "predicate_type": "relates_to",
+    "object_text": "requested a 5-year delay to exit illiquid investments",
+    "object_value": 5,
+    "object_unit": "year",
+    "source_text": "On August 11, 2016, several large banks requested a 5-year delay to exit illiquid investments.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investments"
+    ],
+    "entities": [
+      "large banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eca4f6a4-4f1a-4abf-ab3e-06ba5fa65dec",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On January 30, 2020, the Federal Reserve put forward a proposal to roll back some provisions of the rule, specifically rules that limit bank investment in venture capital and securitized loans.",
+    "subject": "Federal Reserve",
+    "predicate_type": "relates_to",
+    "object_text": "put forward a proposal to roll back some provisions of the rule, specifically rules that limit bank investment in venture capital and securitized loans",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On January 30, 2020, the Federal Reserve put forward a proposal to roll back some provisions of the rule, specifically rules that limit bank investment in venture capital and securitized loans.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "venture_capital",
+      "securitization"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce3467a3-d552-4201-a05c-7305a3c66e43",
+    "chunk_id": "39185a58-44c3-4c19-8f11-230783fc4cdd",
+    "document_id": "Volcker_Rule",
+    "claim_text": "These changes were adopted on June 25, 2020.",
+    "subject": "These changes",
+    "predicate_type": "governs",
+    "object_text": "were adopted on June 25, 2020",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These changes were adopted on June 25, 2020.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "85438a05-d6a1-4405-8d30-4901d9ac74fd",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Volcker Rule was first publicly endorsed by President Obama on January 21, 2010.",
+    "subject": "Volcker Rule",
+    "predicate_type": "relates_to",
+    "object_text": "first publicly endorsed by President Obama on January 21, 2010",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Volcker Rule was first publicly endorsed by President Obama on January 21, 2010.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "President Obama",
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "07501de8-da0b-4e94-900f-a4fbbe4751c3",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The proposal was to specifically prohibit a bank or institution that owns a bank from engaging in proprietary trading.",
+    "subject": "proposal",
+    "predicate_type": "prohibits",
+    "object_text": "a bank or institution that owns a bank from engaging in proprietary trading",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The proposal was to specifically prohibit a bank or institution that owns a bank from engaging in proprietary trading.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b08ff81a-30a6-40d9-a325-7d0ba41cb37e",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The proposal was to specifically prohibit a bank or institution that owns a bank from owning or investing in a hedge fund or private equity fund.",
+    "subject": "proposal",
+    "predicate_type": "prohibits",
+    "object_text": "a bank or institution that owns a bank from owning or investing in a hedge fund or private equity fund",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The proposal was to specifically prohibit a bank or institution that owns a bank from owning or investing in a hedge fund or private equity fund.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hedge_funds",
+      "private_equity"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59124f9d-2ec9-4727-87f5-7f5a41412371",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The proposal was to limit the liabilities that the largest banks could hold.",
+    "subject": "proposal",
+    "predicate_type": "constrains",
+    "object_text": "the liabilities that the largest banks could hold",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The proposal was to limit the liabilities that the largest banks could hold.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liabilities"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f2e0653-79b5-4bd7-9a25-4927f46466ae",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Under discussion was the possibility of placing restrictions on the way market-making activities are compensated.",
+    "subject": "market-making activities",
+    "predicate_type": "constrains",
+    "object_text": "the way market-making activities are compensated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under discussion was the possibility of placing restrictions on the way market-making activities are compensated.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_making"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ece8d97f-7fc6-4c16-8135-3c882d035546",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Traders would be paid on the basis of the spread of transactions rather than any profit that the trader made for the client.",
+    "subject": "traders",
+    "predicate_type": "relates_to",
+    "object_text": "paid on the basis of the spread of transactions rather than any profit that the trader made for the client",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Traders would be paid on the basis of the spread of transactions rather than any profit that the trader made for the client.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compensation"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d5c186b6-7e87-4dbf-8f84-5ed113bffb3b",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On January 21, 2010, President Obama announced his intention to end the mentality of \"Too big to fail\".",
+    "subject": "President Obama",
+    "predicate_type": "relates_to",
+    "object_text": "announced his intention to end the mentality of \"Too big to fail\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On January 21, 2010, President Obama announced his intention to end the mentality of \"Too big to fail\".",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [
+      "President Obama"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f04f36c2-e8aa-4404-be73-d1e57a33e8a3",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "In a February 22, 2010 letter to The Wall Street Journal, five former Secretaries of the Treasury endorsed the Volcker Rule proposals.",
+    "subject": "five former Secretaries of the Treasury",
+    "predicate_type": "relates_to",
+    "object_text": "endorsed the Volcker Rule proposals",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In a February 22, 2010 letter to The Wall Street Journal, five former Secretaries of the Treasury endorsed the Volcker Rule proposals.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Volcker Rule",
+      "The Wall Street Journal"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7b1ffd13-f254-4fe3-8260-9297fcb9857c",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "As of February 23, 2010, the U.S. Congress began to consider a weaker bill allowing federal regulators to restrict proprietary trading and hedge fund ownership by banks, but not prohibiting these activities altogether.",
+    "subject": "U.S. Congress",
+    "predicate_type": "relates_to",
+    "object_text": "began to consider a weaker bill allowing federal regulators to restrict proprietary trading and hedge fund ownership by banks, but not prohibiting these activities altogether",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As of February 23, 2010, the U.S. Congress began to consider a weaker bill allowing federal regulators to restrict proprietary trading and hedge fund ownership by banks, but not prohibiting these activities altogether.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading",
+      "hedge_funds"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "787dbf78-35fe-4afb-9748-a2aa0609e929",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Senators Jeff Merkley, Democrat of Oregon, and Carl Levin, Democrat of Michigan, introduced the main piece of the Volcker Rule \u2013 its limitations on proprietary trading \u2013 as an amendment to the broader Dodd\u2013Frank financial reform legislation that was passed by the United States Senate on May 20, 2010.",
+    "subject": "Senators Jeff Merkley and Carl Levin",
+    "predicate_type": "implements",
+    "object_text": "limitations on proprietary trading as an amendment to the broader Dodd\u2013Frank financial reform legislation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Senators Jeff Merkley, Democrat of Oregon, and Carl Levin, Democrat of Michigan, introduced the main piece of the Volcker Rule \u2013 its limitations on proprietary trading \u2013 as an amendment to the broader Dodd\u2013Frank financial reform legislation that was passed by the United States Senate on May 20, 2010.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading"
+    ],
+    "entities": [
+      "Jeff Merkley",
+      "Carl Levin",
+      "Dodd-Frank"
+    ],
+    "regulations": [
+      "Volcker Rule",
+      "Dodd-Frank"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7d53b10-fb7f-449a-8a94-9bb0e01eccf0",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Despite having wide support in the Senate, the amendment was never given a vote.",
+    "subject": "amendment",
+    "predicate_type": "relates_to",
+    "object_text": "never given a vote despite having wide support in the Senate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Despite having wide support in the Senate, the amendment was never given a vote.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "72b53f5a-66b5-4b0c-bf1a-5aad5fa270f1",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "When the Merkley-Levin Amendment was first brought to the floor, Senator Richard Shelby, Republican of Alabama, objected to a motion to vote on the amendment.",
+    "subject": "Senator Richard Shelby",
+    "predicate_type": "relates_to",
+    "object_text": "objected to a motion to vote on the Merkley-Levin Amendment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the Merkley-Levin Amendment was first brought to the floor, Senator Richard Shelby, Republican of Alabama, objected to a motion to vote on the amendment.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Richard Shelby",
+      "Merkley-Levin Amendment"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0289e1d5-4315-4a32-9710-462e95a1b4d2",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Merkley and Levin responded by attaching the amendment to another amendment to the bill put forth by Senator Sam Brownback, Republican of Kansas.",
+    "subject": "Merkley and Levin",
+    "predicate_type": "relates_to",
+    "object_text": "attaching the amendment to another amendment to the bill put forth by Senator Sam Brownback",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Merkley and Levin responded by attaching the amendment to another amendment to the bill put forth by Senator Sam Brownback, Republican of Kansas.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Merkley",
+      "Levin",
+      "Sam Brownback"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0dc3521b-0e27-4863-b637-cf9c5fb45535",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Shortly before it was due to be voted upon, Brownback withdrew his own amendment, thus killing the Merkley-Levin amendment and the Volcker Rule as part of the Senate bill.",
+    "subject": "Brownback",
+    "predicate_type": "relates_to",
+    "object_text": "withdrew his own amendment, thus killing the Merkley-Levin amendment and the Volcker Rule as part of the Senate bill",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Shortly before it was due to be voted upon, Brownback withdrew his own amendment, thus killing the Merkley-Levin amendment and the Volcker Rule as part of the Senate bill.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Brownback",
+      "Merkley-Levin amendment",
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "adcc2aa9-adbb-4406-b14e-2bbb648afc31",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Despite that vote, the proposal made it into the final legislation when the House\u2013Senate conference committee passed a strengthened version of the rule that included the language prepared by Senators Merkley and Levin.",
+    "subject": "proposal",
+    "predicate_type": "relates_to",
+    "object_text": "made it into the final legislation when the House\u2013Senate conference committee passed a strengthened version of the rule that included the language prepared by Senators Merkley and Levin",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Despite that vote, the proposal made it into the final legislation when the House\u2013Senate conference committee passed a strengthened version of the rule that included the language prepared by Senators Merkley and Levin.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Merkley",
+      "Levin"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8b77761c-ee47-4021-a266-1ed329b8ca5f",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The original Merkley-Levin amendment and the final legislation both covered more types of proprietary trading than the original rule proposed by the administration.",
+    "subject": "Merkley-Levin amendment and the final legislation",
+    "predicate_type": "relates_to",
+    "object_text": "covered more types of proprietary trading than the original rule proposed by the administration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The original Merkley-Levin amendment and the final legislation both covered more types of proprietary trading than the original rule proposed by the administration.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary_trading"
+    ],
+    "entities": [
+      "Merkley-Levin amendment"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "401da1eb-f2d5-4d0f-a04b-bca16ead1d21",
+    "chunk_id": "295731f9-72d5-44da-b94e-1e553ff8b06e",
+    "document_id": "Volcker_Rule",
+    "claim_text": "It also banned conflict of interest trading.",
+    "subject": "Merkley-Levin amendment and the final legislation",
+    "predicate_type": "prohibits",
+    "object_text": "conflict of interest trading",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It also banned conflict of interest trading.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "conflict_of_interest"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f6c7a9b6-4f2c-4407-9a5e-0075c1b4943b",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Volcker Rule regulations were approved by all five of the necessary financial regulatory agencies on December 10, 2013.",
+    "subject": "Volcker Rule regulations",
+    "predicate_type": "governs",
+    "object_text": "approved by all five of the necessary financial regulatory agencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Volcker Rule regulations were approved by all five of the necessary financial regulatory agencies on December 10, 2013.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "534081b4-30d2-41d4-b9ce-ca962e71b824",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Volcker Rule was set to go into effect April 1, 2014.",
+    "subject": "Volcker Rule",
+    "predicate_type": "implements",
+    "object_text": "set to go into effect",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Volcker Rule was set to go into effect April 1, 2014.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "960aa827-ae59-41dd-bc79-6a5ce133647e",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The final rule had a longer compliance period than earlier proposals.",
+    "subject": "final rule",
+    "predicate_type": "relates_to",
+    "object_text": "longer compliance period than earlier proposals",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final rule had a longer compliance period than earlier proposals.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eaeeede3-aca2-4ec2-bfe6-898ff7c7ecdf",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The final rule had fewer metrics than earlier proposals.",
+    "subject": "final rule",
+    "predicate_type": "relates_to",
+    "object_text": "fewer metrics than earlier proposals",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final rule had fewer metrics than earlier proposals.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c739f20c-0993-40c1-9a9b-3eda74e353be",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The final rule put the onus on banks to demonstrate that they are operating their trading activities in compliance with the rule.",
+    "subject": "final rule",
+    "predicate_type": "requires",
+    "object_text": "banks to demonstrate that they are operating their trading activities in compliance with the rule",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final rule put the onus on banks to demonstrate that they are operating their trading activities in compliance with the rule.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance",
+      "trading"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c06f9ad0-91e8-45d8-9b42-6db4cf7998d3",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The final rule required CEO certification of the effectiveness of the compliance program.",
+    "subject": "final rule",
+    "predicate_type": "requires",
+    "object_text": "CEO certification of the effectiveness of the compliance program",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final rule required CEO certification of the effectiveness of the compliance program.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a2939e8-6e07-4163-ac6c-0a6c79df6e8e",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Federal Reserve Board, FDIC, OCC, CFTC and SEC all announced on December 27, 2013 they were reviewing whether it would be appropriate to exempt a small subset of securities from the rule.",
+    "subject": "Federal Reserve Board, FDIC, OCC, CFTC and SEC",
+    "predicate_type": "relates_to",
+    "object_text": "reviewing whether it would be appropriate to exempt a small subset of securities from the rule",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Federal Reserve Board, FDIC, OCC, CFTC and SEC all announced on December 27, 2013 they were reviewing whether it would be appropriate to exempt a small subset of securities from the rule.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Federal Reserve Board",
+      "FDIC",
+      "OCC",
+      "CFTC",
+      "SEC",
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0dff0930-a230-427e-ae92-46bd79fc50fd",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Federal Reserve Board, FDIC, OCC, CFTC and SEC would rule by January 15, 2014, at the latest on whether to exempt a small subset of securities from the rule.",
+    "subject": "Federal Reserve Board, FDIC, OCC, CFTC and SEC",
+    "predicate_type": "governs",
+    "object_text": "rule by January 15, 2014, at the latest on whether to exempt a small subset of securities from the rule",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Federal Reserve Board, FDIC, OCC, CFTC and SEC would rule by January 15, 2014, at the latest on whether to exempt a small subset of securities from the rule.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Federal Reserve Board",
+      "FDIC",
+      "OCC",
+      "CFTC",
+      "SEC",
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8ba74c27-95d2-4599-97c0-4371197cf7f8",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Interim final regulations were adopted on January 14, 2014 to permit certain banking entities to retain those investments.",
+    "subject": "interim final regulations",
+    "predicate_type": "permits",
+    "object_text": "certain banking entities to retain those investments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interim final regulations were adopted on January 14, 2014 to permit certain banking entities to retain those investments.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9e5cf33c-c386-4507-bf07-b5d73097e2d7",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Revised final regulations were approved on January 14, 2014.",
+    "subject": "revised final regulations",
+    "predicate_type": "governs",
+    "object_text": "approved",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Revised final regulations were approved on January 14, 2014.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "293dc3a6-d2ac-4ddf-ac52-15da487bb3f6",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The rule came into effect on July 21, 2015.",
+    "subject": "rule",
+    "predicate_type": "implements",
+    "object_text": "came into effect",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The rule came into effect on July 21, 2015.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "78c9224d-4381-4c22-bb40-f60f3eab5e7e",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Extensions continued for banks to exit illiquid investments.",
+    "subject": "extensions",
+    "predicate_type": "permits",
+    "object_text": "banks to exit illiquid investments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Extensions continued for banks to exit illiquid investments.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1db87778-0069-4b1b-8787-140a4d86094d",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Federal Reserve extended the Volcker Rule's conformance period for \"legacy covered funds\" until July 21, 2016 on December 18, 2014.",
+    "subject": "Federal Reserve",
+    "predicate_type": "permits",
+    "object_text": "extended the Volcker Rule's conformance period for \"legacy covered funds\" until July 21, 2016",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Federal Reserve extended the Volcker Rule's conformance period for \"legacy covered funds\" until July 21, 2016 on December 18, 2014.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Federal Reserve",
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ade15b89-13f1-4102-ad29-56fffef13057",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Federal Reserve indicated it would likely extend the conformance period further to July 21, 2017.",
+    "subject": "Federal Reserve",
+    "predicate_type": "permits",
+    "object_text": "extend the conformance period further to July 21, 2017",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Federal Reserve indicated it would likely extend the conformance period further to July 21, 2017.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Federal Reserve",
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cc0e2f8f-4b6a-4c44-83d7-764b059e07c3",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The extension to 2016 is the second of three possible one-year extensions the Federal Reserve may issue under the Dodd\u2013Frank Act.",
+    "subject": "extension to 2016",
+    "predicate_type": "relates_to",
+    "object_text": "the second of three possible one-year extensions the Federal Reserve may issue under the Dodd\u2013Frank Act",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The extension to 2016 is the second of three possible one-year extensions the Federal Reserve may issue under the Dodd\u2013Frank Act.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Federal Reserve",
+      "Dodd\u2013Frank Act"
+    ],
+    "regulations": [
+      "Dodd\u2013Frank Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c9887e50-8999-4a17-94f5-3db973b1fcf6",
+    "chunk_id": "4174cbeb-4d19-4f72-85d9-8fd3d50daec1",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Regulators provided an initial one-year extension when the Volcker Rule was finalized in December 2013.",
+    "subject": "regulators",
+    "predicate_type": "permits",
+    "object_text": "provided an initial one-year extension when the Volcker Rule was finalized",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Regulators provided an initial one-year extension when the Volcker Rule was finalized in December 2013.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Volcker Rule"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "647d631b-5aac-4f6f-95c5-132611d4345a",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Public comments to the Financial Stability Oversight Council on how exactly the rule should be implemented were submitted through November 5, 2010.",
+    "subject": "Public comments",
+    "predicate_type": "relates_to",
+    "object_text": "to the Financial Stability Oversight Council on how exactly the rule should be implemented were submitted through November 5, 2010",
+    "object_value": 5,
+    "object_unit": "day",
+    "source_text": "Public comments to the Financial Stability Oversight Council on how exactly the rule should be implemented were submitted through November 5, 2010.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_implementation"
+    ],
+    "entities": [
+      "Financial Stability Oversight Council"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d7e38382-db00-46df-8ec6-58b79ffd3bb6",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Financial firms such as Goldman Sachs, Bank of America, and JPMorgan Chase & Co. posted comments expressing concerns about the rule.",
+    "subject": "Financial firms",
+    "predicate_type": "relates_to",
+    "object_text": "posted comments expressing concerns about the rule",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial firms such as Goldman Sachs, Bank of America, and JPMorgan Chase & Co. posted comments expressing concerns about the rule.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_compliance"
+    ],
+    "entities": [
+      "Goldman Sachs",
+      "Bank of America",
+      "JPMorgan Chase & Co."
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "306337d6-a507-4847-b6e4-fd4d9215f1fb",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Republican representatives to Congress also expressed concern about the Volcker Rule, saying the rule's prohibitions may hamper the competitiveness of American banks in the global marketplace",
+    "subject": "Republican representatives to Congress",
+    "predicate_type": "relates_to",
+    "object_text": "expressed concern about the Volcker Rule, saying the rule's prohibitions may hamper the competitiveness of American banks in the global marketplace",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Republican representatives to Congress also expressed concern about the Volcker Rule, saying the rule's prohibitions may hamper the competitiveness of American banks in the global marketplace",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_impact"
+    ],
+    "entities": [
+      "Congress"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cca9a3b2-7d3c-4951-9e9f-a69e597e0aae",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Republican representatives to Congress also expressed concern about the Volcker Rule, saying that they may seek to cut funding to the federal agencies responsible for its enforcement.",
+    "subject": "Republican representatives to Congress",
+    "predicate_type": "relates_to",
+    "object_text": "expressed concern about the Volcker Rule, saying that they may seek to cut funding to the federal agencies responsible for its enforcement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Republican representatives to Congress also expressed concern about the Volcker Rule, saying that they may seek to cut funding to the federal agencies responsible for its enforcement.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_enforcement"
+    ],
+    "entities": [
+      "Congress"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "30093271-9424-418c-a7c7-683deff1c23f",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Chairman of the House Financial Services Committee, Representative Spencer Bachus (R-Alabama), stated that he was seeking to limit the effect of the Volcker Rule",
+    "subject": "Representative Spencer Bachus",
+    "predicate_type": "relates_to",
+    "object_text": "stated that he was seeking to limit the effect of the Volcker Rule",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Chairman of the House Financial Services Committee, Representative Spencer Bachus (R-Alabama), stated that he was seeking to limit the effect of the Volcker Rule",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_impact"
+    ],
+    "entities": [
+      "House Financial Services Committee",
+      "Spencer Bachus"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad4de822-470e-41db-aec3-2123523cb70f",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Volcker himself stated that he expected backers of the rule to prevail over such critics.",
+    "subject": "Volcker",
+    "predicate_type": "relates_to",
+    "object_text": "stated that he expected backers of the rule to prevail over such critics",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Volcker himself stated that he expected backers of the rule to prevail over such critics.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_outlook"
+    ],
+    "entities": [
+      "Volcker"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "07921750-cdaf-4a14-bcba-cb634f3a4dc5",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Regulators presented a proposed form of the Volcker Rule regulations for public comment on October 11, 2011, which was approved by the SEC, The Federal Reserve, The Office of the Comptroller of the Currency and the FDIC.",
+    "subject": "Regulators",
+    "predicate_type": "relates_to",
+    "object_text": "presented a proposed form of the Volcker Rule regulations for public comment on October 11, 2011, which was approved by the SEC, The Federal Reserve, The Office of the Comptroller of the Currency and the FDIC",
+    "object_value": 11,
+    "object_unit": "day",
+    "source_text": "Regulators presented a proposed form of the Volcker Rule regulations for public comment on October 11, 2011, which was approved by the SEC, The Federal Reserve, The Office of the Comptroller of the Currency and the FDIC.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_approval"
+    ],
+    "entities": [
+      "SEC",
+      "Federal Reserve",
+      "Office of the Comptroller of the Currency",
+      "FDIC"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c05fe0b6-4fdd-4251-876e-e7a743f7616b",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The proposed regulations were immediately criticized by banking groups as being too costly to implement",
+    "subject": "The proposed regulations",
+    "predicate_type": "relates_to",
+    "object_text": "were immediately criticized by banking groups as being too costly to implement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The proposed regulations were immediately criticized by banking groups as being too costly to implement",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_compliance"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23de4bbd-a2a1-4925-a58f-2df1d8d38afa",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The proposed regulations were immediately criticized by reform advocates for being weak and filled with loopholes.",
+    "subject": "The proposed regulations",
+    "predicate_type": "relates_to",
+    "object_text": "were immediately criticized by reform advocates for being weak and filled with loopholes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The proposed regulations were immediately criticized by reform advocates for being weak and filled with loopholes.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_criticism"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0c7f9554-c037-4daa-85e8-95ae2b7a10de",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "On January 12, 2012, the U.S. Commodity Futures Trading Commission (CFTC) issued substantially similar proposed regulations.",
+    "subject": "U.S. Commodity Futures Trading Commission (CFTC)",
+    "predicate_type": "relates_to",
+    "object_text": "issued substantially similar proposed regulations",
+    "object_value": 12,
+    "object_unit": "day",
+    "source_text": "On January 12, 2012, the U.S. Commodity Futures Trading Commission (CFTC) issued substantially similar proposed regulations.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_issuance"
+    ],
+    "entities": [
+      "U.S. Commodity Futures Trading Commission"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8151dcc3-58a7-49e1-9fef-4b07cafc6c3d",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Volcker himself stated that he would have preferred a simpler set of rules",
+    "subject": "Volcker",
+    "predicate_type": "relates_to",
+    "object_text": "stated that he would have preferred a simpler set of rules",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Volcker himself stated that he would have preferred a simpler set of rules",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_design"
+    ],
+    "entities": [
+      "Volcker"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1638130d-d3d5-4fb2-8c30-d8e870d890d3",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Volcker stated that he would love to see a four-page bill that bans proprietary trading and makes the board and chief executive responsible for compliance.",
+    "subject": "Volcker",
+    "predicate_type": "relates_to",
+    "object_text": "stated that he would love to see a four-page bill that bans proprietary trading and makes the board and chief executive responsible for compliance",
+    "object_value": 4,
+    "object_unit": "page",
+    "source_text": "Volcker stated that he would love to see a four-page bill that bans proprietary trading and makes the board and chief executive responsible for compliance.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_design"
+    ],
+    "entities": [
+      "Volcker"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "39381777-9a9c-48db-9d61-7c61566a4af7",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Volcker stated that he would have strong regulators.",
+    "subject": "Volcker",
+    "predicate_type": "relates_to",
+    "object_text": "stated that he would have strong regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Volcker stated that he would have strong regulators.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_oversight"
+    ],
+    "entities": [
+      "Volcker"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c34e9295-90db-4635-b107-1d7f4f4aeb2d",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Regulators gave the public until February 13, 2012, to comment on the proposed draft of the regulations (over 17,000 comments were made).",
+    "subject": "Regulators",
+    "predicate_type": "relates_to",
+    "object_text": "gave the public until February 13, 2012, to comment on the proposed draft of the regulations (over 17,000 comments were made)",
+    "object_value": 13,
+    "object_unit": "day",
+    "source_text": "Regulators gave the public until February 13, 2012, to comment on the proposed draft of the regulations (over 17,000 comments were made).",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_comment_period"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a5c38568-7251-4d5f-a6f5-edda7933959f",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Under the Dodd\u2013Frank financial reform law, the regulations went into effect on July 21, 2012.",
+    "subject": "the regulations",
+    "predicate_type": "implements",
+    "object_text": "went into effect on July 21, 2012",
+    "object_value": 21,
+    "object_unit": "day",
+    "source_text": "Under the Dodd\u2013Frank financial reform law, the regulations went into effect on July 21, 2012.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_implementation"
+    ],
+    "entities": [
+      "Dodd-Frank"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "79c815c9-cf7b-4626-b106-31db0c722cd0",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Federal Reserve Chairman Ben S. Bernanke said the central bank and other regulators would not meet that deadline during his report to Congress on February 29, 2012",
+    "subject": "Federal Reserve Chairman Ben S. Bernanke",
+    "predicate_type": "relates_to",
+    "object_text": "said the central bank and other regulators would not meet that deadline during his report to Congress on February 29, 2012",
+    "object_value": 29,
+    "object_unit": "day",
+    "source_text": "Federal Reserve Chairman Ben S. Bernanke said the central bank and other regulators would not meet that deadline during his report to Congress on February 29, 2012",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_delay"
+    ],
+    "entities": [
+      "Federal Reserve",
+      "Ben S. Bernanke"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b9cab62-1ca3-4b10-819a-86ed977ecca7",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "By February 26, 2013, the rule was still not implemented.",
+    "subject": "the rule",
+    "predicate_type": "relates_to",
+    "object_text": "was still not implemented",
+    "object_value": 26,
+    "object_unit": "day",
+    "source_text": "By February 26, 2013, the rule was still not implemented.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_delay"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0477abd5-81c7-4151-a2ec-a64c2e1b9d65",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "Occupy the SEC filed a suit in the Eastern District Court of New York naming the Federal Reserve, the SEC, CFTC, OCC, FDIC, and the U.S. Department of the Treasury and calling for the court to set a deadline for implementation.",
+    "subject": "Occupy the SEC",
+    "predicate_type": "relates_to",
+    "object_text": "filed a suit in the Eastern District Court of New York naming the Federal Reserve, the SEC, CFTC, OCC, FDIC, and the U.S. Department of the Treasury and calling for the court to set a deadline for implementation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Occupy the SEC filed a suit in the Eastern District Court of New York naming the Federal Reserve, the SEC, CFTC, OCC, FDIC, and the U.S. Department of the Treasury and calling for the court to set a deadline for implementation.",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_lawsuits"
+    ],
+    "entities": [
+      "Occupy the SEC",
+      "Federal Reserve",
+      "SEC",
+      "CFTC",
+      "OCC",
+      "FDIC",
+      "U.S. Department of the Treasury"
+    ],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c32c4967-f5e5-4691-b4d4-9672af68a777",
+    "chunk_id": "9e3b9004-5a2d-4f9d-aa6b-9cc4094c2f74",
+    "document_id": "Volcker_Rule",
+    "claim_text": "The Volcker Rule was not likely to be in effect until July 2014",
+    "subject": "The Volcker Rule",
+    "predicate_type": "relates_to",
+    "object_text": "was not likely to be in effect until July 2014",
+    "object_value": 2014,
+    "object_unit": "year",
+    "source_text": "The Volcker Rule was not likely to be in effect until July 2014",
+    "source_document": "Volcker Rule",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "volcker_rule",
+      "regulatory_delay"
+    ],
+    "entities": [],
+    "regulations": [
+      "Volcker Rule"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

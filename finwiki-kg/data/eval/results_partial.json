@@ -1,0 +1,6562 @@
+[
+  {
+    "query_id": "7e6ab8d3-977f-416d-a688-bdd1a0b6259c",
+    "query_text": "What does MiFID 2 require the European Commission to do by March 3, 2021?",
+    "epistemic_type": "normative",
+    "source_doc": "Markets in Financial Instruments Directive 2014",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6417287279999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 538
+      },
+      "B": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 538
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 74
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 74
+      }
+    },
+    "timestamp": "2026-03-14T15:08:05.201392",
+    "failed": false
+  },
+  {
+    "query_id": "42016fc4-9146-4c0b-9d93-7bb4bc614a48",
+    "query_text": "What did the Volcker Rule prohibit?",
+    "epistemic_type": "normative",
+    "source_doc": "Volcker Rule",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.676825472,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 682
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 682
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 65
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 69
+      }
+    },
+    "timestamp": "2026-03-14T15:08:05.905734",
+    "failed": false
+  },
+  {
+    "query_id": "5214abdb-02cb-47c7-8fc1-abc7055c73ec",
+    "query_text": "What did the Dodd-Frank Act require?",
+    "epistemic_type": "normative",
+    "source_doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6977091329999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 686
+      },
+      "B": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 686
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 113
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 113
+      }
+    },
+    "timestamp": "2026-03-14T15:08:06.939027",
+    "failed": false
+  },
+  {
+    "query_id": "769be917-3ade-49d1-841c-cd0a8c11afb8",
+    "query_text": "When did the Reserve Bank of India implement Basel II standardized norms?",
+    "epistemic_type": "normative",
+    "source_doc": "Basel II",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6679531044999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 540
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 540
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 49
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 51
+      }
+    },
+    "timestamp": "2026-03-14T15:08:07.393348",
+    "failed": false
+  },
+  {
+    "query_id": "4b5fcb43-f6bb-42aa-9b0f-7af9a4106072",
+    "query_text": "What does Section 806 of the Sarbanes-Oxley Act prohibit?",
+    "epistemic_type": "normative",
+    "source_doc": "Sarbanes\u2013Oxley Act",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6306174665,
+    "metrics": {
+      "A": {
+        "vtp": 0.5,
+        "vtp_detail": {
+          "precision": 0.5
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 674
+      },
+      "B": {
+        "vtp": 0.5,
+        "vtp_detail": {
+          "precision": 0.5
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 674
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 92
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 98
+      }
+    },
+    "timestamp": "2026-03-14T15:08:07.890058",
+    "failed": false
+  },
+  {
+    "query_id": "82cb1f12-acae-4913-aebb-05931cf6cb10",
+    "query_text": "What are banks required to calculate under Basel III?",
+    "epistemic_type": "normative",
+    "source_doc": "Basel III",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.7134766530000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 443
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 443
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 63
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 65
+      }
+    },
+    "timestamp": "2026-03-14T15:08:08.351370",
+    "failed": false
+  },
+  {
+    "query_id": "fa3a26fe-67ca-47c6-964b-1cf6c11657e4",
+    "query_text": "What does Article 82(1) GDPR require for the award of damages?",
+    "epistemic_type": "normative",
+    "source_doc": "General Data Protection Regulation",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6124741284999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 656
+      },
+      "B": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 656
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 144
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 145
+      }
+    },
+    "timestamp": "2026-03-14T15:08:08.783177",
+    "failed": false
+  },
+  {
+    "query_id": "f791302c-c938-41af-be8c-744cd1e9d169",
+    "query_text": "What capital ratio are banks with an international presence required to hold?",
+    "epistemic_type": "normative",
+    "source_doc": "Basel I",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6759782359999998,
+    "metrics": {
+      "A": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 396
+      },
+      "B": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 396
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 59
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 61
+      }
+    },
+    "timestamp": "2026-03-14T15:08:09.306382",
+    "failed": false
+  },
+  {
+    "query_id": "3cf7653a-070a-4984-a54c-6cd719f085f3",
+    "query_text": "What does Directive 2011/61/EU require of AIFMs?",
+    "epistemic_type": "normative",
+    "source_doc": "Alternative Investment Fund Managers Directive 2011",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6383027405,
+    "metrics": {
+      "A": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 670
+      },
+      "B": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 670
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 112
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 112
+      }
+    },
+    "timestamp": "2026-03-14T15:08:09.794300",
+    "failed": false
+  },
+  {
+    "query_id": "0f2a1c55-e778-4b7d-a093-ebee4f68606e",
+    "query_text": "What type of risk does a firm have when it has contractual cash flows denominated in a foreign currency?",
+    "epistemic_type": "normative",
+    "source_doc": "Foreign exchange risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6762175485,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 580
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 580
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 13
+      },
+      "D": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 27
+      }
+    },
+    "timestamp": "2026-03-14T15:08:10.313699",
+    "failed": false
+  },
+  {
+    "query_id": "1ba3760f-5f2a-47dc-997e-511cd6f75218",
+    "query_text": "What is the minimum capital percentage banks should hold relative to their risk-weighted assets?",
+    "epistemic_type": "normative",
+    "source_doc": "Risk-weighted asset",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6990737935,
+    "metrics": {
+      "A": {
+        "vtp": 0.2,
+        "vtp_detail": {
+          "precision": 0.2
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 392
+      },
+      "B": {
+        "vtp": 0.2,
+        "vtp_detail": {
+          "precision": 0.2
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 392
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 61
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 63
+      }
+    },
+    "timestamp": "2026-03-14T15:08:11.690938",
+    "failed": false
+  },
+  {
+    "query_id": "60a30681-a8a4-4b5a-9136-c26cee8cb748",
+    "query_text": "What does the CAMELS rating system require of financial institutions?",
+    "epistemic_type": "normative",
+    "source_doc": "Interest rate risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.651792733,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 496
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 497
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 90
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 92
+      }
+    },
+    "timestamp": "2026-03-14T15:08:12.720392",
+    "failed": false
+  },
+  {
+    "query_id": "bb488efd-e8c7-4498-a00d-73d7a088f81b",
+    "query_text": "What is required for initial margin deposits?",
+    "epistemic_type": "normative",
+    "source_doc": "Settlement risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6333021720000002,
+    "metrics": {
+      "A": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 466
+      },
+      "B": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 466
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 54
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 54
+      }
+    },
+    "timestamp": "2026-03-14T15:08:13.656134",
+    "failed": false
+  },
+  {
+    "query_id": "af700a53-b1ff-4a0c-a38c-942793bfdf3a",
+    "query_text": "What is the requirement for modeling the cross ownership of debt and equity claims in the analysis of interconnectedness?",
+    "epistemic_type": "normative",
+    "source_doc": "Systemic risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6388274315,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 532
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 532
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 20
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 21
+      }
+    },
+    "timestamp": "2026-03-14T15:08:14.626268",
+    "failed": false
+  },
+  {
+    "query_id": "a58dbd9e-2959-4d5c-b2cd-8bdbc6affee0",
+    "query_text": "What risk management strategies are required to mitigate market risk?",
+    "epistemic_type": "normative",
+    "source_doc": "Market risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6604732314999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 36,
+        "csr": 1,
+        "n_retrieved": 574
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 36,
+        "csr": 1,
+        "n_retrieved": 574
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 11
+      },
+      "D": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 12
+      }
+    },
+    "timestamp": "2026-03-14T15:08:15.390171",
+    "failed": false
+  },
+  {
+    "query_id": "76731eff-a16e-4b38-956c-7b83b51eaaaa",
+    "query_text": "What is the maximum number of days past due on a credit obligation before it is considered a credit default risk?",
+    "epistemic_type": "normative",
+    "source_doc": "Credit risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.656382457,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 649
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 649
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 15
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 15
+      }
+    },
+    "timestamp": "2026-03-14T15:08:15.812371",
+    "failed": false
+  },
+  {
+    "query_id": "9d04a194-1608-4942-abed-b05ddf22a347",
+    "query_text": "Are banks required to calculate concentration risk?",
+    "epistemic_type": "normative",
+    "source_doc": "Concentration risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6661768515000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 467
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 467
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 47
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 47
+      }
+    },
+    "timestamp": "2026-03-14T15:08:16.274087",
+    "failed": false
+  },
+  {
+    "query_id": "3e793948-3e9f-4b45-b5ac-2ed0f248ee39",
+    "query_text": "What risks are excluded from the Basel Committee's definition of operational risk?",
+    "epistemic_type": "normative",
+    "source_doc": "Operational risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6544051869999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 538
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 538
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 32
+      },
+      "D": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 45
+      }
+    },
+    "timestamp": "2026-03-14T15:08:17.252407",
+    "failed": false
+  },
+  {
+    "query_id": "3ef610d0-333e-4c25-9f57-b26f041d17ba",
+    "query_text": "What did the Basel Capital Accord require regarding stress tests?",
+    "epistemic_type": "normative",
+    "source_doc": "Stress test (financial)",
+    "source_category": "risk",
+    "repetitiveness_index": 0.690249497,
+    "metrics": {
+      "A": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 489
+      },
+      "B": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 489
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 66
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 68
+      }
+    },
+    "timestamp": "2026-03-14T15:08:17.654253",
+    "failed": false
+  },
+  {
+    "query_id": "571e853d-8b08-4354-bbf0-7e15c62fb2a4",
+    "query_text": "Is beta permitted to be used on a stand-alone basis?",
+    "epistemic_type": "normative",
+    "source_doc": "Beta (finance)",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.600480781,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 594
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 594
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 31
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 33
+      }
+    },
+    "timestamp": "2026-03-14T15:08:18.200810",
+    "failed": false
+  },
+  {
+    "query_id": "aee42908-d0a3-48e3-ae3a-2754ce8191fd",
+    "query_text": "How must the market price individual securities according to the capital asset pricing model?",
+    "epistemic_type": "normative",
+    "source_doc": "Capital asset pricing model",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.6622827035000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 19,
+        "csr": 1,
+        "n_retrieved": 562
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 19,
+        "csr": 1,
+        "n_retrieved": 562
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 11
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 11
+      }
+    },
+    "timestamp": "2026-03-14T15:08:18.656727",
+    "failed": false
+  },
+  {
+    "query_id": "bad60563-a57f-4eae-820f-5d0089589975",
+    "query_text": "Under the APT, what is an arbitrageur permitted to do?",
+    "epistemic_type": "normative",
+    "source_doc": "Arbitrage pricing theory",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.645612028,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 38,
+        "csr": 0,
+        "n_retrieved": 550
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 38,
+        "csr": 0,
+        "n_retrieved": 550
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 10
+      },
+      "D": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 14
+      }
+    },
+    "timestamp": "2026-03-14T15:08:19.095973",
+    "failed": false
+  },
+  {
+    "query_id": "ad4abc26-d089-43ef-bc28-02ea5b2e7997",
+    "query_text": "Are there any regulations that apply specifically to collateralized debt obligations?",
+    "epistemic_type": "normative",
+    "source_doc": "Collateralized debt obligation",
+    "source_category": "product",
+    "repetitiveness_index": 0.6783186745,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 665
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 665
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 25
+      },
+      "D": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 31
+      }
+    },
+    "timestamp": "2026-03-14T15:08:19.519108",
+    "failed": false
+  },
+  {
+    "query_id": "16c3c842-e5e7-4b00-a998-f12baddab7c5",
+    "query_text": "What does ERISA regulate?",
+    "epistemic_type": "normative",
+    "source_doc": "Venture capital",
+    "source_category": "product",
+    "repetitiveness_index": 0.585460731,
+    "metrics": {
+      "A": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 752
+      },
+      "B": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 752
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 117
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 120
+      }
+    },
+    "timestamp": "2026-03-14T15:08:20.011738",
+    "failed": false
+  },
+  {
+    "query_id": "68a4e553-4244-4d98-9fef-3a34aed43a4c",
+    "query_text": "How is a reverse triangular merger taxed under the U.S. Internal Revenue Code?",
+    "epistemic_type": "normative",
+    "source_doc": "Mergers and acquisitions",
+    "source_category": "product",
+    "repetitiveness_index": 0.5981214825000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 433
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 433
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 32
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 32
+      }
+    },
+    "timestamp": "2026-03-14T15:08:20.519981",
+    "failed": false
+  },
+  {
+    "query_id": "13e020d0-2c05-4cc5-9ffe-45fbfaaffda4",
+    "query_text": "When did the NSFR become a minimum standard?",
+    "epistemic_type": "normative",
+    "source_doc": "Net stable funding ratio",
+    "source_category": "product",
+    "repetitiveness_index": 0.5905505289999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 554
+      },
+      "B": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 554
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 81
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 81
+      }
+    },
+    "timestamp": "2026-03-14T15:08:20.913258",
+    "failed": false
+  },
+  {
+    "query_id": "3b32960c-8f8a-4970-a060-9eb80f509483",
+    "query_text": "What does the fundamental accounting equation require?",
+    "epistemic_type": "normative",
+    "source_doc": "Equity (finance)",
+    "source_category": "product",
+    "repetitiveness_index": 0.603048794,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 366
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 366
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 47
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 60
+      }
+    },
+    "timestamp": "2026-03-14T15:08:21.306682",
+    "failed": false
+  },
+  {
+    "query_id": "e5118777-6da8-467a-9bc3-fbc9f441b5de",
+    "query_text": "What does IAS39 require regarding derivatives?",
+    "epistemic_type": "normative",
+    "source_doc": "Hedge accounting",
+    "source_category": "product",
+    "repetitiveness_index": 0.640666462,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 494
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 494
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 30
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 30
+      }
+    },
+    "timestamp": "2026-03-14T15:08:21.756710",
+    "failed": false
+  },
+  {
+    "query_id": "32e856db-cff9-4de0-94bb-70b3f4186384",
+    "query_text": "What body determines the formula for risk-weighted assets?",
+    "epistemic_type": "normative",
+    "source_doc": "Tier 1 capital",
+    "source_category": "product",
+    "repetitiveness_index": 0.6700364125000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 462
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 462
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 63
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 0.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 65
+      }
+    },
+    "timestamp": "2026-03-14T15:08:22.147074",
+    "failed": false
+  },
+  {
+    "query_id": "49cd2aea-a52b-4b4d-91ce-3280fffa6004",
+    "query_text": "What is the ECB permitted to do regarding a digital euro?",
+    "epistemic_type": "normative",
+    "source_doc": "Central bank digital currency",
+    "source_category": "product",
+    "repetitiveness_index": 0.6659251685,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 670
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 670
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 39
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 39
+      }
+    },
+    "timestamp": "2026-03-14T15:08:22.607963",
+    "failed": false
+  },
+  {
+    "query_id": "52f25936-c5ee-4791-900a-7fb758ec9eae",
+    "query_text": "What are the permitted uses of the Black-Scholes model?",
+    "epistemic_type": "normative",
+    "source_doc": "Black\u2013Scholes model",
+    "source_category": "product",
+    "repetitiveness_index": 0.679756313,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 611
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 611
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 16
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 16
+      }
+    },
+    "timestamp": "2026-03-14T15:08:23.104992",
+    "failed": false
+  },
+  {
+    "query_id": "8e67d332-3487-4fce-999f-b3f8325eeec2",
+    "query_text": "What are shareholders of an ETF entitled to?",
+    "epistemic_type": "normative",
+    "source_doc": "Exchange-traded fund",
+    "source_category": "product",
+    "repetitiveness_index": 0.6235815055,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 751
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 751
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 34
+      },
+      "D": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 48
+      }
+    },
+    "timestamp": "2026-03-14T15:08:23.472156",
+    "failed": false
+  },
+  {
+    "query_id": "7a1371ca-abeb-45c9-9e86-4981446c0802",
+    "query_text": "What does financial distress in companies require?",
+    "epistemic_type": "normative",
+    "source_doc": "Financial distress",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6338661915000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.2,
+        "vtp_detail": {
+          "precision": 0.2
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 532
+      },
+      "B": {
+        "vtp": 0.2,
+        "vtp_detail": {
+          "precision": 0.2
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 532
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 42
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 44
+      }
+    },
+    "timestamp": "2026-03-14T15:08:23.875055",
+    "failed": false
+  },
+  {
+    "query_id": "02981a1e-cbc5-43c7-9511-491a6b4074a9",
+    "query_text": "What did IAS 36 mandate regarding asset impairment?",
+    "epistemic_type": "normative",
+    "source_doc": "Impaired asset",
+    "source_category": "product",
+    "repetitiveness_index": 0.631382251,
+    "metrics": {
+      "A": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 432
+      },
+      "B": {
+        "vtp": 0.1,
+        "vtp_detail": {
+          "precision": 0.1
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 432
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 75
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 77
+      }
+    },
+    "timestamp": "2026-03-14T15:08:24.286693",
+    "failed": false
+  },
+  {
+    "query_id": "ed65841a-cb23-4be9-b3bb-79c17d30e895",
+    "query_text": "What is required to calculate adjusted present value?",
+    "epistemic_type": "normative",
+    "source_doc": "Net present value",
+    "source_category": "product",
+    "repetitiveness_index": 0.6156228029999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 529
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 529
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 20
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 20
+      }
+    },
+    "timestamp": "2026-03-14T15:08:24.886121",
+    "failed": false
+  },
+  {
+    "query_id": "0bee7378-5334-45e3-8a7e-0fe7eed96578",
+    "query_text": "What does the Securities Act of 1933 mandate?",
+    "epistemic_type": "normative",
+    "source_doc": "United States Securities and Exchange Commission",
+    "source_category": "product",
+    "repetitiveness_index": 0.6373317245,
+    "metrics": {
+      "A": {
+        "vtp": 0.6,
+        "vtp_detail": {
+          "precision": 0.6
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 657
+      },
+      "B": {
+        "vtp": 0.6,
+        "vtp_detail": {
+          "precision": 0.6
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 657
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 131
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 132
+      }
+    },
+    "timestamp": "2026-03-14T15:08:25.257632",
+    "failed": false
+  },
+  {
+    "query_id": "dedc19bf-14f0-4715-b2f6-c71ee55e4d11",
+    "query_text": "How should liquidity risk be managed?",
+    "epistemic_type": "normative",
+    "source_doc": "Liquidity risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.658805168,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 557
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 557
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 30
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 30
+      }
+    },
+    "timestamp": "2026-03-14T15:08:25.716663",
+    "failed": false
+  },
+  {
+    "query_id": "dda81f17-6075-4a04-bb1a-8a71b565a078",
+    "query_text": "What factors should investors consider when evaluating sovereign credit ratings?",
+    "epistemic_type": "normative",
+    "source_doc": "Credit rating",
+    "source_category": "product",
+    "repetitiveness_index": 0.6379527485,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 667
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 667
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 20
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 20
+      }
+    },
+    "timestamp": "2026-03-14T15:08:26.073940",
+    "failed": false
+  },
+  {
+    "query_id": "de68a28a-0b3a-488f-9684-9bfc76f2495f",
+    "query_text": "What did Gerard Vissering advocate regarding international currency?",
+    "epistemic_type": "normative",
+    "source_doc": "Bank for International Settlements",
+    "source_category": "product",
+    "repetitiveness_index": 0.570642157,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 677
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 677
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 28
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 28
+      }
+    },
+    "timestamp": "2026-03-14T15:08:26.445031",
+    "failed": false
+  },
+  {
+    "query_id": "acdc40d4-e2ed-4d16-879e-96e1ebce3096",
+    "query_text": "What is required to validate VaR forecasts?",
+    "epistemic_type": "normative",
+    "source_doc": "Value at risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6805503419999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 596
+      },
+      "B": {
+        "vtp": 0.3,
+        "vtp_detail": {
+          "precision": 0.3
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 596
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 33
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 35
+      }
+    },
+    "timestamp": "2026-03-14T15:08:26.862892",
+    "failed": false
+  },
+  {
+    "query_id": "e738da61-66bc-4978-90a9-13d583caa8f8",
+    "query_text": "How is equity derived in financial accounting?",
+    "epistemic_type": "constative",
+    "source_doc": "Equity (finance)",
+    "source_category": "product",
+    "repetitiveness_index": 0.625171041,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 427
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 427
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 392
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 392
+      }
+    },
+    "timestamp": "2026-03-14T15:08:27.230263",
+    "failed": false
+  },
+  {
+    "query_id": "04fbcab6-d982-4217-94f3-12c60afdf4d0",
+    "query_text": "What is the Tier 1 capital ratio?",
+    "epistemic_type": "constative",
+    "source_doc": "Tier 1 capital",
+    "source_category": "product",
+    "repetitiveness_index": 0.6909004729999999,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 416
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 416
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 354
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 354
+      }
+    },
+    "timestamp": "2026-03-14T15:08:27.642588",
+    "failed": false
+  },
+  {
+    "query_id": "ccf36477-ec47-436b-9796-d14dcb7d7cfd",
+    "query_text": "What legal structures can an ETF have?",
+    "epistemic_type": "constative",
+    "source_doc": "Exchange-traded fund",
+    "source_category": "product",
+    "repetitiveness_index": 0.639760473,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 729
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 729
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 670
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 670
+      }
+    },
+    "timestamp": "2026-03-14T15:08:28.036017",
+    "failed": false
+  },
+  {
+    "query_id": "1dc7db0f-d672-4942-a632-43b5a5abeec4",
+    "query_text": "What is the Office of Inspector General's relationship to the SEC?",
+    "epistemic_type": "constative",
+    "source_doc": "United States Securities and Exchange Commission",
+    "source_category": "product",
+    "repetitiveness_index": 0.6356523135,
+    "metrics": {
+      "A": {
+        "vtp": 0.4,
+        "vtp_detail": {
+          "precision": 0.4
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 712
+      },
+      "B": {
+        "vtp": 0.4,
+        "vtp_detail": {
+          "precision": 0.4
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 712
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 574
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 574
+      }
+    },
+    "timestamp": "2026-03-14T15:08:28.488849",
+    "failed": false
+  },
+  {
+    "query_id": "470ede9c-cd61-44ac-bff3-e718a38781b7",
+    "query_text": "What is the Black-Scholes model used for?",
+    "epistemic_type": "constative",
+    "source_doc": "Black\u2013Scholes model",
+    "source_category": "product",
+    "repetitiveness_index": 0.6764195275,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 615
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 615
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 605
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 605
+      }
+    },
+    "timestamp": "2026-03-14T15:08:28.888913",
+    "failed": false
+  },
+  {
+    "query_id": "4584b31a-5ca0-4741-84e4-3cf85116235b",
+    "query_text": "What is a vertical merger?",
+    "epistemic_type": "constative",
+    "source_doc": "Mergers and acquisitions",
+    "source_category": "product",
+    "repetitiveness_index": 0.6080166595000002,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 608
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 608
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 588
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 593
+      }
+    },
+    "timestamp": "2026-03-14T15:08:29.266615",
+    "failed": false
+  },
+  {
+    "query_id": "75840b86-f00d-4bc6-91a8-332fe2b2382d",
+    "query_text": "What is Drex and when did testing begin?",
+    "epistemic_type": "constative",
+    "source_doc": "Central bank digital currency",
+    "source_category": "product",
+    "repetitiveness_index": 0.5441255815000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 635
+      },
+      "B": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 635
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 572
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 572
+      }
+    },
+    "timestamp": "2026-03-14T15:08:29.754686",
+    "failed": false
+  },
+  {
+    "query_id": "aad8cb55-bb21-4cab-86a8-f5a149ad8857",
+    "query_text": "How does internal rate of return work?",
+    "epistemic_type": "constative",
+    "source_doc": "Net present value",
+    "source_category": "product",
+    "repetitiveness_index": 0.6541002425,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 596
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 596
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 10,
+        "csr": 0,
+        "n_retrieved": 584
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 10,
+        "csr": 0,
+        "n_retrieved": 584
+      }
+    },
+    "timestamp": "2026-03-14T15:08:30.191781",
+    "failed": false
+  },
+  {
+    "query_id": "047e267f-0f72-42a5-946a-b23016f1e13e",
+    "query_text": "What are the different types of collateralized debt obligations and what assets back them?",
+    "epistemic_type": "constative",
+    "source_doc": "Collateralized debt obligation",
+    "source_category": "product",
+    "repetitiveness_index": 0.6947499655,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 649
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 649
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 630
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 630
+      }
+    },
+    "timestamp": "2026-03-14T15:08:30.720182",
+    "failed": false
+  },
+  {
+    "query_id": "5879080e-244b-4e5a-b9d7-1e4f2b927aa6",
+    "query_text": "When did IAS 36 become effective?",
+    "epistemic_type": "constative",
+    "source_doc": "Impaired asset",
+    "source_category": "product",
+    "repetitiveness_index": 0.6294550175,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 447
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 447
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 377
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 377
+      }
+    },
+    "timestamp": "2026-03-14T15:08:31.598983",
+    "failed": false
+  },
+  {
+    "query_id": "2904dae3-4df8-4435-88a0-13e8bc0a769e",
+    "query_text": "What is MiFID 2?",
+    "epistemic_type": "constative",
+    "source_doc": "Markets in Financial Instruments Directive 2014",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.640471789,
+    "metrics": {
+      "A": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 522
+      },
+      "B": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 522
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 448
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 448
+      }
+    },
+    "timestamp": "2026-03-14T15:08:32.439205",
+    "failed": false
+  },
+  {
+    "query_id": "e4205f56-36a6-4be7-a602-f1d148dc1762",
+    "query_text": "What is the Volcker Rule?",
+    "epistemic_type": "constative",
+    "source_doc": "Volcker Rule",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6787102060000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.5,
+        "vtp_detail": {
+          "precision": 0.5
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 646
+      },
+      "B": {
+        "vtp": 0.5,
+        "vtp_detail": {
+          "precision": 0.5
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 646
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 551
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 551
+      }
+    },
+    "timestamp": "2026-03-14T15:08:33.255514",
+    "failed": false
+  },
+  {
+    "query_id": "c85d7c29-2854-4dad-b1b6-e43c697fd37e",
+    "query_text": "Who proposed the Dodd-Frank Wall Street Reform and Consumer Protection Act?",
+    "epistemic_type": "constative",
+    "source_doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.684636983,
+    "metrics": {
+      "A": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 687
+      },
+      "B": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 687
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 575
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 577
+      }
+    },
+    "timestamp": "2026-03-14T15:08:34.038994",
+    "failed": false
+  },
+  {
+    "query_id": "d9464e31-18a4-49ae-81a4-bc116ea44886",
+    "query_text": "What does IRB stand for?",
+    "epistemic_type": "constative",
+    "source_doc": "Basel II",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.5779672050000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 655
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 655
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 615
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 615
+      }
+    },
+    "timestamp": "2026-03-14T15:08:34.446048",
+    "failed": false
+  },
+  {
+    "query_id": "d94761f3-c0f2-4ff4-9132-8ec793a1cb79",
+    "query_text": "According to the GDPR, what are the conditions for a person to receive compensation for damages?",
+    "epistemic_type": "constative",
+    "source_doc": "General Data Protection Regulation",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6403045285,
+    "metrics": {
+      "A": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 644
+      },
+      "B": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 644
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 525
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 531
+      }
+    },
+    "timestamp": "2026-03-14T15:08:34.964250",
+    "failed": false
+  },
+  {
+    "query_id": "f171c3ca-d52f-4a03-a5d8-5f57f5ee06fe",
+    "query_text": "What are the six enumerated categories of protected conduct in Section 806 of the Sarbanes-Oxley Act?",
+    "epistemic_type": "constative",
+    "source_doc": "Sarbanes\u2013Oxley Act",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6206240004999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 716
+      },
+      "B": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 716
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 557
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 557
+      }
+    },
+    "timestamp": "2026-03-14T15:08:35.396625",
+    "failed": false
+  },
+  {
+    "query_id": "edccbdd0-b427-401a-ac19-f23a18de86bd",
+    "query_text": "What prompted Directive 2011/61/EU?",
+    "epistemic_type": "constative",
+    "source_doc": "Alternative Investment Fund Managers Directive 2011",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.5978736764999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.7,
+        "vtp_detail": {
+          "precision": 0.7
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 584
+      },
+      "B": {
+        "vtp": 0.7,
+        "vtp_detail": {
+          "precision": 0.7
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 584
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 495
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 495
+      }
+    },
+    "timestamp": "2026-03-14T15:08:35.877852",
+    "failed": false
+  },
+  {
+    "query_id": "9f5bf71a-4db7-475f-bc92-8db5f6055865",
+    "query_text": "How is the tier 1 capital ratio calculated?",
+    "epistemic_type": "constative",
+    "source_doc": "Basel I",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6949129510000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 464
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 464
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 400
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 400
+      }
+    },
+    "timestamp": "2026-03-14T15:08:36.324300",
+    "failed": false
+  },
+  {
+    "query_id": "33d14f59-9325-4c0d-8aed-a97589610868",
+    "query_text": "According to Basel III, what does IRRBB stand for?",
+    "epistemic_type": "constative",
+    "source_doc": "Basel III",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.663237379,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 35,
+        "csr": 1,
+        "n_retrieved": 517
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 35,
+        "csr": 1,
+        "n_retrieved": 517
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 37,
+        "csr": 1,
+        "n_retrieved": 454
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 37,
+        "csr": 1,
+        "n_retrieved": 454
+      }
+    },
+    "timestamp": "2026-03-14T15:08:36.696856",
+    "failed": false
+  },
+  {
+    "query_id": "8a2fcdc3-ecba-43db-ac28-d1c6fabeaa85",
+    "query_text": "What is a bank stress test?",
+    "epistemic_type": "constative",
+    "source_doc": "Stress test (financial)",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6601798450000002,
+    "metrics": {
+      "A": {
+        "vtp": 0.6,
+        "vtp_detail": {
+          "precision": 0.6
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 520
+      },
+      "B": {
+        "vtp": 0.6,
+        "vtp_detail": {
+          "precision": 0.6
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 520
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 459
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 459
+      }
+    },
+    "timestamp": "2026-03-14T15:08:37.168701",
+    "failed": false
+  },
+  {
+    "query_id": "d6a292f6-c07a-40d8-9b84-ba883adab0b6",
+    "query_text": "What is interest rate risk in the context of the CAMELS system?",
+    "epistemic_type": "constative",
+    "source_doc": "Interest rate risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.676879004,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 594
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 594
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 575
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 575
+      }
+    },
+    "timestamp": "2026-03-14T15:08:37.546882",
+    "failed": false
+  },
+  {
+    "query_id": "53c96bac-fa41-48dc-83ff-3c7633f00cdf",
+    "query_text": "According to the Basel Committee, what is the origin of operational risk?",
+    "epistemic_type": "constative",
+    "source_doc": "Operational risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.649646343,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 524
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 524
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 480
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 480
+      }
+    },
+    "timestamp": "2026-03-14T15:08:37.952605",
+    "failed": false
+  },
+  {
+    "query_id": "2b8f67c6-9306-4f40-aece-49ba9af2997b",
+    "query_text": "What are leading and lagging in the context of cash flows?",
+    "epistemic_type": "constative",
+    "source_doc": "Foreign exchange risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6171665080000002,
+    "metrics": {
+      "A": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 543
+      },
+      "B": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 543
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 518
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 518
+      }
+    },
+    "timestamp": "2026-03-14T15:08:38.352561",
+    "failed": false
+  },
+  {
+    "query_id": "efa4c307-a244-4ca9-87ed-1ab3baa8e764",
+    "query_text": "How does backtesting relate to Value at Risk (VaR)?",
+    "epistemic_type": "constative",
+    "source_doc": "Value at risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6878237870000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 572
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 572
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 537
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 539
+      }
+    },
+    "timestamp": "2026-03-14T15:08:38.792096",
+    "failed": false
+  },
+  {
+    "query_id": "76049d91-62a3-4ac1-9dde-bf2912918cce",
+    "query_text": "According to Cifuentes, Ferrucci, and Shin (2005), what effect was considered on network stability?",
+    "epistemic_type": "constative",
+    "source_doc": "Systemic risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.564973714,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 534
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 534
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 516
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 516
+      }
+    },
+    "timestamp": "2026-03-14T15:08:39.224991",
+    "failed": false
+  },
+  {
+    "query_id": "b9064d64-9518-45df-b0b6-22d84406d532",
+    "query_text": "How is concentration risk calculated for a single bank loan?",
+    "epistemic_type": "constative",
+    "source_doc": "Concentration risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6527177745,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 537
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 537
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 498
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 498
+      }
+    },
+    "timestamp": "2026-03-14T15:08:39.649233",
+    "failed": false
+  },
+  {
+    "query_id": "ddfe415d-75b9-4b79-a8a5-dfcbc3457973",
+    "query_text": "What are some examples of market risk?",
+    "epistemic_type": "constative",
+    "source_doc": "Market risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6470357775000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 616
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 618
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 606
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 620
+      }
+    },
+    "timestamp": "2026-03-14T15:08:40.018157",
+    "failed": false
+  },
+  {
+    "query_id": "57965cfa-b1ca-4d50-a33a-dd5b60f62953",
+    "query_text": "What caused the liquidity crisis at Metallgesellschaft?",
+    "epistemic_type": "constative",
+    "source_doc": "Liquidity risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6345492119999999,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 519
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 519
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 501
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 501
+      }
+    },
+    "timestamp": "2026-03-14T15:08:40.433437",
+    "failed": false
+  },
+  {
+    "query_id": "53af5c09-9791-49b2-8340-4910e23e9d48",
+    "query_text": "What are some examples of the costs of financial distress?",
+    "epistemic_type": "constative",
+    "source_doc": "Financial distress",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6311259389999999,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 564
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 564
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 541
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 541
+      }
+    },
+    "timestamp": "2026-03-14T15:08:40.854584",
+    "failed": false
+  },
+  {
+    "query_id": "461c176c-fb5b-4ebe-80e9-ec7b72644140",
+    "query_text": "According to the arbitrage pricing theory, what constitutes a mispriced asset?",
+    "epistemic_type": "constative",
+    "source_doc": "Arbitrage pricing theory",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.6625133569999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 546
+      },
+      "B": {
+        "vtp": 0.9,
+        "vtp_detail": {
+          "precision": 0.9
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 546
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 531
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 531
+      }
+    },
+    "timestamp": "2026-03-14T15:08:41.443064",
+    "failed": false
+  },
+  {
+    "query_id": "6fc5630f-2c41-4487-b38f-75dce5d62270",
+    "query_text": "What does beta measure in finance?",
+    "epistemic_type": "constative",
+    "source_doc": "Beta (finance)",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.629958025,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 567
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 567
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 558
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 558
+      }
+    },
+    "timestamp": "2026-03-14T15:08:41.917634",
+    "failed": false
+  },
+  {
+    "query_id": "4f0d08ef-2bb3-4f87-aab2-60c590bae67b",
+    "query_text": "What is the capital asset pricing model used for?",
+    "epistemic_type": "constative",
+    "source_doc": "Capital asset pricing model",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.6488759519999998,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 12,
+        "csr": 1,
+        "n_retrieved": 585
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 12,
+        "csr": 1,
+        "n_retrieved": 585
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 16,
+        "csr": 1,
+        "n_retrieved": 557
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": 1.0,
+        "cwe": 16,
+        "csr": 1,
+        "n_retrieved": 557
+      }
+    },
+    "timestamp": "2026-03-14T15:08:42.306822",
+    "failed": false
+  },
+  {
+    "query_id": "b472048b-d0ed-44fb-b3d1-8ee44a1fab37",
+    "query_text": "When was J.H. Whitney & Company founded?",
+    "epistemic_type": "constative",
+    "source_doc": "Venture capital",
+    "source_category": "product",
+    "repetitiveness_index": 0.5563934134999999,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 659
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 660
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 653
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 653
+      }
+    },
+    "timestamp": "2026-03-14T15:08:42.707150",
+    "failed": false
+  },
+  {
+    "query_id": "b8ad24c6-43b9-4745-b251-2d362c5978aa",
+    "query_text": "What is a sovereign credit rating?",
+    "epistemic_type": "constative",
+    "source_doc": "Credit rating",
+    "source_category": "product",
+    "repetitiveness_index": 0.630859617,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 683
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 683
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 646
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 646
+      }
+    },
+    "timestamp": "2026-03-14T15:08:43.088817",
+    "failed": false
+  },
+  {
+    "query_id": "b7d64b17-4f77-4318-bff0-0882ecd41481",
+    "query_text": "How does hedge accounting mitigate profit and loss effects?",
+    "epistemic_type": "constative",
+    "source_doc": "Hedge accounting",
+    "source_category": "product",
+    "repetitiveness_index": 0.6700127615,
+    "metrics": {
+      "A": {
+        "vtp": 0.5,
+        "vtp_detail": {
+          "precision": 0.5
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 552
+      },
+      "B": {
+        "vtp": 0.5,
+        "vtp_detail": {
+          "precision": 0.5
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 552
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 525
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 525
+      }
+    },
+    "timestamp": "2026-03-14T15:08:43.524973",
+    "failed": false
+  },
+  {
+    "query_id": "d6b13686-9bbf-4cb8-85a6-6cafeb29a411",
+    "query_text": "What is credit concentration risk?",
+    "epistemic_type": "constative",
+    "source_doc": "Credit risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.650545666,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 621
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 621
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 597
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 597
+      }
+    },
+    "timestamp": "2026-03-14T15:08:43.908850",
+    "failed": false
+  },
+  {
+    "query_id": "75d8427f-fc98-4934-9ad3-37ded1be4ea5",
+    "query_text": "How is the risk weight of an asset calculated?",
+    "epistemic_type": "constative",
+    "source_doc": "Risk-weighted asset",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6512183835,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 485
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 485
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 438
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 438
+      }
+    },
+    "timestamp": "2026-03-14T15:08:44.342858",
+    "failed": false
+  },
+  {
+    "query_id": "b5a89284-4e19-4499-9f5a-a3d9927dae92",
+    "query_text": "What was the Brussels Conference of 1920?",
+    "epistemic_type": "constative",
+    "source_doc": "Bank for International Settlements",
+    "source_category": "product",
+    "repetitiveness_index": 0.5556732455000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 638
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 638
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 599
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 599
+      }
+    },
+    "timestamp": "2026-03-14T15:08:44.717142",
+    "failed": false
+  },
+  {
+    "query_id": "8b5cf0c1-d3e6-4ac3-94b0-64f85223a4dc",
+    "query_text": "Which countries have implemented the net stable funding ratio rules?",
+    "epistemic_type": "constative",
+    "source_doc": "Net stable funding ratio",
+    "source_category": "product",
+    "repetitiveness_index": 0.665481746,
+    "metrics": {
+      "A": {
+        "vtp": 0.6,
+        "vtp_detail": {
+          "precision": 0.6
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 434
+      },
+      "B": {
+        "vtp": 0.6,
+        "vtp_detail": {
+          "precision": 0.6
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 434
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 362
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 362
+      }
+    },
+    "timestamp": "2026-03-14T15:08:45.147472",
+    "failed": false
+  },
+  {
+    "query_id": "c5efcb4f-da1e-46c4-a7eb-ec0317601135",
+    "query_text": "How does settlement through a clearing house reduce exposure?",
+    "epistemic_type": "constative",
+    "source_doc": "Settlement risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6776585325,
+    "metrics": {
+      "A": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 603
+      },
+      "B": {
+        "vtp": 0.8,
+        "vtp_detail": {
+          "precision": 0.8
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 603
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 581
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 581
+      }
+    },
+    "timestamp": "2026-03-14T15:08:45.559658",
+    "failed": false
+  },
+  {
+    "query_id": "994de5f5-855f-4b6e-8c75-44ba7d2422f9",
+    "query_text": "What did ERISA do and who does it affect?",
+    "epistemic_type": "mixed",
+    "source_doc": "Venture capital",
+    "source_category": "product",
+    "repetitiveness_index": 0.5833617555,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 522
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 522
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 494
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 494
+      }
+    },
+    "timestamp": "2026-03-14T15:08:45.948733",
+    "failed": false
+  },
+  {
+    "query_id": "8bc19dc4-717d-4853-8781-e2edb09a16b6",
+    "query_text": "If an ETF undergoes liquidation, what are shareholders entitled to, and how does their ownership relate to the fund's assets?",
+    "epistemic_type": "mixed",
+    "source_doc": "Exchange-traded fund",
+    "source_category": "product",
+    "repetitiveness_index": 0.6235641165,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 689
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 689
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 679
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 683
+      }
+    },
+    "timestamp": "2026-03-14T15:08:46.368749",
+    "failed": false
+  },
+  {
+    "query_id": "87681144-a3c3-443e-b261-22ece4363225",
+    "query_text": "What benefits are permitted to be included in adjusted present value, and how are they calculated?",
+    "epistemic_type": "mixed",
+    "source_doc": "Net present value",
+    "source_category": "product",
+    "repetitiveness_index": 0.624141235,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 563
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 563
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 558
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 558
+      }
+    },
+    "timestamp": "2026-03-14T15:08:46.824660",
+    "failed": false
+  },
+  {
+    "query_id": "616863b2-070d-4b53-8845-477bece9d575",
+    "query_text": "What challenges were discussed at the Brussels Conference of 1920, and what actions were permitted as a result?",
+    "epistemic_type": "mixed",
+    "source_doc": "Bank for International Settlements",
+    "source_category": "product",
+    "repetitiveness_index": 0.556224207,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 621
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 621
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 603
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 603
+      }
+    },
+    "timestamp": "2026-03-14T15:08:47.328154",
+    "failed": false
+  },
+  {
+    "query_id": "1d5af1e8-71c1-4878-9566-e9453edab551",
+    "query_text": "What is the Tier 1 capital ratio and who regulates it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Tier 1 capital",
+    "source_category": "product",
+    "repetitiveness_index": 0.6981671900000002,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 432
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 432
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 418
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 420
+      }
+    },
+    "timestamp": "2026-03-14T15:08:47.764098",
+    "failed": false
+  },
+  {
+    "query_id": "8ff63fe7-c3de-48f2-b447-824dc762c5ce",
+    "query_text": "What are the requirements for a CDO to be classified as a collateralized loan obligation?",
+    "epistemic_type": "mixed",
+    "source_doc": "Collateralized debt obligation",
+    "source_category": "product",
+    "repetitiveness_index": 0.6636244014999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 630
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 631
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 622
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 622
+      }
+    },
+    "timestamp": "2026-03-14T15:08:48.144444",
+    "failed": false
+  },
+  {
+    "query_id": "8a79aad0-3a73-453b-ad63-581542972fac",
+    "query_text": "What is a horizontal merger and is it permitted under antitrust law?",
+    "epistemic_type": "mixed",
+    "source_doc": "Mergers and acquisitions",
+    "source_category": "product",
+    "repetitiveness_index": 0.5907408405000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 594
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 594
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 583
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 583
+      }
+    },
+    "timestamp": "2026-03-14T15:08:48.515736",
+    "failed": false
+  },
+  {
+    "query_id": "de3ee802-1425-45ed-b89e-49167e0c33a1",
+    "query_text": "What are the requirements for using the Black-Scholes model, and how does it work?",
+    "epistemic_type": "mixed",
+    "source_doc": "Black\u2013Scholes model",
+    "source_category": "product",
+    "repetitiveness_index": 0.6633814645,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 573
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 573
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 571
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 571
+      }
+    },
+    "timestamp": "2026-03-14T15:08:48.917869",
+    "failed": false
+  },
+  {
+    "query_id": "967378ab-167a-42ab-bd55-176ff96d7387",
+    "query_text": "What is the Securities Exchange Act of 1934 and what does it require?",
+    "epistemic_type": "mixed",
+    "source_doc": "United States Securities and Exchange Commission",
+    "source_category": "product",
+    "repetitiveness_index": 0.6555813315,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 684
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 684
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 662
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 662
+      }
+    },
+    "timestamp": "2026-03-14T15:08:49.297489",
+    "failed": false
+  },
+  {
+    "query_id": "34bfd1b8-57e5-4799-a88a-10d4d179a804",
+    "query_text": "Does the Basel Committee on Banking Supervision have the power to issue legally binding regulation, and if not, what is the status of the NSFR's implementation among G20 members?",
+    "epistemic_type": "mixed",
+    "source_doc": "Net stable funding ratio",
+    "source_category": "product",
+    "repetitiveness_index": 0.679352828,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 480
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 480
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 461
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 461
+      }
+    },
+    "timestamp": "2026-03-14T15:08:50.203416",
+    "failed": false
+  },
+  {
+    "query_id": "1b87eef0-eea5-4a7f-89ad-b599d1c32bdf",
+    "query_text": "What is equity risk and what regulations govern its management?",
+    "epistemic_type": "mixed",
+    "source_doc": "Market risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.635835923,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 583
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 583
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 575
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 579
+      }
+    },
+    "timestamp": "2026-03-14T15:08:50.936179",
+    "failed": false
+  },
+  {
+    "query_id": "d88d3611-1b96-4401-9536-b9b2dbacce67",
+    "query_text": "What is a test for liquidity risk and how should liquidity risk be managed?",
+    "epistemic_type": "mixed",
+    "source_doc": "Liquidity risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6596673154999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 576
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 578
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 570
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 572
+      }
+    },
+    "timestamp": "2026-03-14T15:08:51.812875",
+    "failed": false
+  },
+  {
+    "query_id": "5ff55a1e-9ca6-4bfa-abf6-8470cc6c6fa9",
+    "query_text": "What are the direct costs of bankruptcy and when do costs of financial distress occur?",
+    "epistemic_type": "mixed",
+    "source_doc": "Financial distress",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6354633639999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 633
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 633
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 626
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 626
+      }
+    },
+    "timestamp": "2026-03-14T15:08:52.702517",
+    "failed": false
+  },
+  {
+    "query_id": "45160b35-cd91-4aa7-9d15-89a5cba597c6",
+    "query_text": "What does a poor CAMELS rating indicate about a bank's risk-taking, and what are the possible ratings that indicate this?",
+    "epistemic_type": "mixed",
+    "source_doc": "Interest rate risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6341067745,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 550
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 550
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 541
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 543
+      }
+    },
+    "timestamp": "2026-03-14T15:08:53.224571",
+    "failed": false
+  },
+  {
+    "query_id": "a76d77bd-1446-4fcc-9eb4-cedae8e16730",
+    "query_text": "What did Eisenberg and Noe do in 2001 regarding structural models for financial systems, and what requirements did they set for firms owning the debt of other firms?",
+    "epistemic_type": "mixed",
+    "source_doc": "Systemic risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.624371303,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 536
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 536
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 533
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 533
+      }
+    },
+    "timestamp": "2026-03-14T15:08:53.660036",
+    "failed": false
+  },
+  {
+    "query_id": "58a49050-9d2e-45db-8bb7-de35d8195cb9",
+    "query_text": "What does the Basel Capital Accord require regarding stress tests, and what is the purpose of these tests?",
+    "epistemic_type": "mixed",
+    "source_doc": "Stress test (financial)",
+    "source_category": "risk",
+    "repetitiveness_index": 0.690025578,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 489
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 489
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 477
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 479
+      }
+    },
+    "timestamp": "2026-03-14T15:08:54.072486",
+    "failed": false
+  },
+  {
+    "query_id": "c855ef8e-2457-45db-b9e5-6ef8d442b75d",
+    "query_text": "What techniques are permitted to mitigate settlement risk, and how do they work?",
+    "epistemic_type": "mixed",
+    "source_doc": "Settlement risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6529845985,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 622
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 622
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 617
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 617
+      }
+    },
+    "timestamp": "2026-03-14T15:08:54.465817",
+    "failed": false
+  },
+  {
+    "query_id": "47437545-7d51-4dcf-acfd-e719935f96d4",
+    "query_text": "According to the Basel Committee, what capital percentage should banks hold relative to risk-weighted assets, and when was this recommendation written?",
+    "epistemic_type": "mixed",
+    "source_doc": "Risk-weighted asset",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6943023439999999,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 404
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 404
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 393
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 393
+      }
+    },
+    "timestamp": "2026-03-14T15:08:54.849635",
+    "failed": false
+  },
+  {
+    "query_id": "8b1fd295-e701-4078-9639-a8a869d03398",
+    "query_text": "According to the Basel Committee's definition, what constitutes operational risk, and does that definition include or exclude legal risk?",
+    "epistemic_type": "mixed",
+    "source_doc": "Operational risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6563907629999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 540
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 540
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 532
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 532
+      }
+    },
+    "timestamp": "2026-03-14T15:08:55.244013",
+    "failed": false
+  },
+  {
+    "query_id": "0b1cc6c7-4ce8-4567-a951-093804d63e82",
+    "query_text": "What is credit default risk and when does it occur?",
+    "epistemic_type": "mixed",
+    "source_doc": "Credit risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6874611795000002,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 663
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 663
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 657
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 657
+      }
+    },
+    "timestamp": "2026-03-14T15:08:55.711916",
+    "failed": false
+  },
+  {
+    "query_id": "9141612e-e57b-4349-afe5-44971bc42e48",
+    "query_text": "What did Senator Chris Dodd want the Federal Reserve to do, and what was his role in proposing the Dodd-Frank Act?",
+    "epistemic_type": "mixed",
+    "source_doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6744884680000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 719
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 719
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 677
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 678
+      }
+    },
+    "timestamp": "2026-03-14T15:08:56.141896",
+    "failed": false
+  },
+  {
+    "query_id": "0f314754-30a3-47d7-b09f-ea00e97e88c4",
+    "query_text": "According to Section 806 of the Sarbanes-Oxley Act, what conduct is prohibited and what are examples of securities fraud included in the protected categories?",
+    "epistemic_type": "mixed",
+    "source_doc": "Sarbanes\u2013Oxley Act",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6279744665,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 680
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 680
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 662
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 662
+      }
+    },
+    "timestamp": "2026-03-14T15:08:56.548582",
+    "failed": false
+  },
+  {
+    "query_id": "8ad1c8ad-e18d-4e2b-8d21-0164a260294f",
+    "query_text": "When did MiFID 2 come into force, and what impact did it have on the oversight of energy futures contracts traded by the Intercontinental Exchange?",
+    "epistemic_type": "mixed",
+    "source_doc": "Markets in Financial Instruments Directive 2014",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6335040894999999,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 581
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 581
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 574
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 578
+      }
+    },
+    "timestamp": "2026-03-14T15:08:56.936892",
+    "failed": false
+  },
+  {
+    "query_id": "fe31108b-23e2-45cc-89b6-05b91f27a5ff",
+    "query_text": "What information does Directive 2011/61/EU require AIFMs to provide to national supervisors, ESMA, and ESRB?",
+    "epistemic_type": "mixed",
+    "source_doc": "Alternative Investment Fund Managers Directive 2011",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6240344740000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 653
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 653
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 623
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 627
+      }
+    },
+    "timestamp": "2026-03-14T15:08:57.453331",
+    "failed": false
+  },
+  {
+    "query_id": "97b8b1f6-d907-480d-8706-23f337f08f0a",
+    "query_text": "According to Basel III, what is the bank's exposure to IRRBB, and how are banks required to calculate it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Basel III",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6678918170000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 497
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 497
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 485
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 485
+      }
+    },
+    "timestamp": "2026-03-14T15:08:57.862652",
+    "failed": false
+  },
+  {
+    "query_id": "91a1c301-0b6c-4f13-b285-0b73ee9a6cc4",
+    "query_text": "What is the formula for the total capital ratio, and is it mandatory for banks to maintain a certain level of it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Basel I",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.692853433,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 396
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 396
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 385
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 387
+      }
+    },
+    "timestamp": "2026-03-14T15:08:58.320608",
+    "failed": false
+  },
+  {
+    "query_id": "1a5d0a7c-a757-4b09-878e-947c0a04bf49",
+    "query_text": "What are the Basel III revised global standards and when were they published?",
+    "epistemic_type": "mixed",
+    "source_doc": "Basel II",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6907363535,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 457
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 457
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 436
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 438
+      }
+    },
+    "timestamp": "2026-03-14T15:08:58.696025",
+    "failed": false
+  },
+  {
+    "query_id": "5a5f045a-a451-426f-a79a-d2c6b96b9dae",
+    "query_text": "What conditions must be met according to Article 82(1) GDPR to be awarded damages, and what court case provides interpretation of the right to compensation?",
+    "epistemic_type": "mixed",
+    "source_doc": "General Data Protection Regulation",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6067566090000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 624
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 624
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 622
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 623
+      }
+    },
+    "timestamp": "2026-03-14T15:08:59.108338",
+    "failed": false
+  },
+  {
+    "query_id": "692175cb-2895-41bc-ada3-e8b2458a887a",
+    "query_text": "What is the Volcker Rule and when did regulations implementing it go into effect?",
+    "epistemic_type": "mixed",
+    "source_doc": "Volcker Rule",
+    "source_category": "regulatory",
+    "repetitiveness_index": 0.6839222704999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 637
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 637
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 614
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": true,
+          "constative_present": false
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 618
+      }
+    },
+    "timestamp": "2026-03-14T15:08:59.505212",
+    "failed": false
+  },
+  {
+    "query_id": "63db7bc5-b798-4ac3-88f5-a592196764c7",
+    "query_text": "What does beta measure, and is it required to be compared to the S&P 500?",
+    "epistemic_type": "mixed",
+    "source_doc": "Beta (finance)",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.6326100714999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 599
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 599
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 588
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 588
+      }
+    },
+    "timestamp": "2026-03-14T15:08:59.945048",
+    "failed": false
+  },
+  {
+    "query_id": "9ae925cc-ac4d-4754-9592-5721bf002617",
+    "query_text": "How does the security market line relate to expected return and what does it enable us to calculate?",
+    "epistemic_type": "mixed",
+    "source_doc": "Capital asset pricing model",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.6225503614999999,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 16,
+        "csr": 1,
+        "n_retrieved": 587
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 16,
+        "csr": 1,
+        "n_retrieved": 587
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 17,
+        "csr": 1,
+        "n_retrieved": 584
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 17,
+        "csr": 1,
+        "n_retrieved": 584
+      }
+    },
+    "timestamp": "2026-03-14T15:09:00.394695",
+    "failed": false
+  },
+  {
+    "query_id": "1b5d82de-fc1f-4ab9-8ea9-59c606deb0d0",
+    "query_text": "According to the APT, what action should an arbitrageur take when an asset's current price diverges from the price predicted by the model, and what is the basis for this action?",
+    "epistemic_type": "mixed",
+    "source_doc": "Arbitrage pricing theory",
+    "source_category": "pricing",
+    "repetitiveness_index": 0.6531824190000001,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 10,
+        "csr": 1,
+        "n_retrieved": 602
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 10,
+        "csr": 1,
+        "n_retrieved": 602
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 16,
+        "csr": 1,
+        "n_retrieved": 591
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 16,
+        "csr": 1,
+        "n_retrieved": 591
+      }
+    },
+    "timestamp": "2026-03-14T15:09:00.764903",
+    "failed": false
+  },
+  {
+    "query_id": "13cd432b-746f-454a-b0e4-86383548e3f6",
+    "query_text": "What is a concentration ratio and when is it permitted to be used?",
+    "epistemic_type": "mixed",
+    "source_doc": "Concentration risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.6003477694999999,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 508
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 508
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 499
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": 1.0,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 499
+      }
+    },
+    "timestamp": "2026-03-14T15:09:01.214071",
+    "failed": false
+  },
+  {
+    "query_id": "4fd2a6c4-9b55-4975-902c-65a4f7aad845",
+    "query_text": "What accounting standards enable hedge accounting, and what do they require for derivative financial instruments?",
+    "epistemic_type": "mixed",
+    "source_doc": "Hedge accounting",
+    "source_category": "product",
+    "repetitiveness_index": 0.661927062,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 517
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 517
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 509
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 509
+      }
+    },
+    "timestamp": "2026-03-14T15:09:01.576010",
+    "failed": false
+  },
+  {
+    "query_id": "07c2f31a-fa71-43eb-9ac6-a21618711105",
+    "query_text": "How does a sovereign credit rating affect investment decisions and what risks should be considered?",
+    "epistemic_type": "mixed",
+    "source_doc": "Credit rating",
+    "source_category": "product",
+    "repetitiveness_index": 0.646453085,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 662
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 662
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 658
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 658
+      }
+    },
+    "timestamp": "2026-03-14T15:09:01.961624",
+    "failed": false
+  },
+  {
+    "query_id": "5cb05afc-42ea-42f0-ac59-4bfd66deb4c2",
+    "query_text": "What is the process to determine the accuracy of VaR forecasts, and is this process permitted?",
+    "epistemic_type": "mixed",
+    "source_doc": "Value at risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.681423879,
+    "metrics": {
+      "A": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 577
+      },
+      "B": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 577
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 562
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 564
+      }
+    },
+    "timestamp": "2026-03-14T15:09:02.401444",
+    "failed": false
+  },
+  {
+    "query_id": "b26f826c-ef7b-4eff-9316-81516a7943f7",
+    "query_text": "What standard replaced IAS 16 and when did the replacement become effective?",
+    "epistemic_type": "mixed",
+    "source_doc": "Impaired asset",
+    "source_category": "product",
+    "repetitiveness_index": 0.6140662880000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 432
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 432
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 421
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 421
+      }
+    },
+    "timestamp": "2026-03-14T15:09:02.834152",
+    "failed": false
+  },
+  {
+    "query_id": "ab6903b0-aac7-4245-852e-20c2999db4bf",
+    "query_text": "What is transaction risk and how does denominating contracts in foreign currency affect it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Foreign exchange risk",
+    "source_category": "risk",
+    "repetitiveness_index": 0.649376066,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 600
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 600
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 598
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 1,
+        "n_retrieved": 598
+      }
+    },
+    "timestamp": "2026-03-14T15:09:03.237712",
+    "failed": false
+  },
+  {
+    "query_id": "3a3312e0-a4ca-4c6a-beb5-2787acbcc145",
+    "query_text": "What is included in retained earnings and what is excluded from it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Equity (finance)",
+    "source_category": "product",
+    "repetitiveness_index": 0.5920506725,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 459
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 459
+      },
+      "C": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 455
+      },
+      "D": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 455
+      }
+    },
+    "timestamp": "2026-03-14T15:09:03.633922",
+    "failed": false
+  },
+  {
+    "query_id": "51f98746-8bd5-470a-916d-5c411c339b2b",
+    "query_text": "Which central banks have launched a CBDC and what are the requirements for launching one?",
+    "epistemic_type": "mixed",
+    "source_doc": "Central bank digital currency",
+    "source_category": "product",
+    "repetitiveness_index": 0.6408843180000001,
+    "metrics": {
+      "A": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 637
+      },
+      "B": {
+        "vtp": 0.0,
+        "vtp_detail": {
+          "precision": 0.0,
+          "normative_present": false,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 637
+      },
+      "C": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 630
+      },
+      "D": {
+        "vtp": 1.0,
+        "vtp_detail": {
+          "precision": 1.0,
+          "normative_present": true,
+          "constative_present": true
+        },
+        "ac": null,
+        "cwe": 50,
+        "csr": 0,
+        "n_retrieved": 630
+      }
+    },
+    "timestamp": "2026-03-14T15:09:04.013027",
+    "failed": false
+  }
+]

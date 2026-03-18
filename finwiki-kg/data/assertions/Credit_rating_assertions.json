@@ -1,0 +1,2041 @@
+[
+  {
+    "assertion_id": "c0cf2c80-3d84-458a-bade-2ccef02ca736",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "A sovereign credit rating is the credit rating of a sovereign entity, such as a national government.",
+    "subject": "sovereign credit rating",
+    "predicate_type": "defines",
+    "object_text": "the credit rating of a sovereign entity, such as a national government",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A sovereign credit rating is the credit rating of a sovereign entity, such as a national government.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_rating"
+    ],
+    "entities": [
+      "sovereign entity",
+      "national government"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dec436a9-f029-4b56-b258-73b22a6cbfe7",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "The sovereign credit rating indicates the risk level of the investing environment of a country.",
+    "subject": "sovereign credit rating",
+    "predicate_type": "relates_to",
+    "object_text": "the risk level of the investing environment of a country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The sovereign credit rating indicates the risk level of the investing environment of a country.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_rating",
+      "investment_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9ee14fb7-ad33-484a-8286-04f2dd83f424",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "The sovereign credit rating is used by investors when looking to invest in particular jurisdictions.",
+    "subject": "sovereign credit rating",
+    "predicate_type": "relates_to",
+    "object_text": "used by investors when looking to invest in particular jurisdictions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The sovereign credit rating is used by investors when looking to invest in particular jurisdictions.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_rating",
+      "investment"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a60fed7-a4e4-4989-8fbc-e331eb6f291b",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "The sovereign credit rating also takes into account political risk.",
+    "subject": "sovereign credit rating",
+    "predicate_type": "relates_to",
+    "object_text": "political risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The sovereign credit rating also takes into account political risk.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_rating",
+      "political_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f13a4377-f1a7-4448-b3d0-5dfc880a2290",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "The \"country risk rankings\" table shows the ten least-risky countries for investment as of January 2018.",
+    "subject": "\"country risk rankings\" table",
+    "predicate_type": "relates_to",
+    "object_text": "the ten least-risky countries for investment",
+    "object_value": 10.0,
+    "object_unit": null,
+    "source_text": "The \"country risk rankings\" table shows the ten least-risky countries for investment as of January 2018.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "country_risk",
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "affd42dc-acd3-4cfa-866a-e4e901c1d87f",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "Ratings are further broken down into components including political risk.",
+    "subject": "Ratings",
+    "predicate_type": "relates_to",
+    "object_text": "components including political risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Ratings are further broken down into components including political risk.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_rating",
+      "political_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "296da9fa-0c55-4b78-b89a-9fd689f3c2dc",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "Ratings are further broken down into components including economic risk.",
+    "subject": "Ratings",
+    "predicate_type": "relates_to",
+    "object_text": "components including economic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Ratings are further broken down into components including economic risk.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_rating",
+      "economic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce415569-0966-44fa-a7cc-d4c16d41b96a",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "Euromoney's bi-annual country risk index monitors the political and economic stability of 185 sovereign countries.",
+    "subject": "Euromoney's bi-annual country risk index",
+    "predicate_type": "relates_to",
+    "object_text": "the political and economic stability of 185 sovereign countries",
+    "object_value": 185.0,
+    "object_unit": null,
+    "source_text": "Euromoney's bi-annual country risk index monitors the political and economic stability of 185 sovereign countries.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "country_risk",
+      "political_stability",
+      "economic_stability"
+    ],
+    "entities": [
+      "Euromoney"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8b44f32f-26ff-4a2d-aea7-4ee65151324e",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "Singapore often emerging as the least risky country since 2017.",
+    "subject": "Singapore",
+    "predicate_type": "relates_to",
+    "object_text": "the least risky country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Singapore often emerging as the least risky country since 2017.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "country_risk"
+    ],
+    "entities": [
+      "Singapore"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ccd2b5db-a7d9-4a5e-a7e2-7d81f3542588",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "Singapore is one of the only few countries in the world to achieve a AAA sovereign credit rankings from all major credit agencies.",
+    "subject": "Singapore",
+    "predicate_type": "relates_to",
+    "object_text": "one of the only few countries in the world to achieve a AAA sovereign credit rankings from all major credit agencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Singapore is one of the only few countries in the world to achieve a AAA sovereign credit rankings from all major credit agencies.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_rating"
+    ],
+    "entities": [
+      "Singapore"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "13409b4c-b9c9-4301-b06d-242203d1798f",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "Singapore is the only country in Asia to achieve a AAA sovereign credit rankings from all major credit agencies.",
+    "subject": "Singapore",
+    "predicate_type": "relates_to",
+    "object_text": "the only country in Asia to achieve a AAA sovereign credit rankings from all major credit agencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Singapore is the only country in Asia to achieve a AAA sovereign credit rankings from all major credit agencies.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_rating"
+    ],
+    "entities": [
+      "Singapore"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "33714e1e-f5e1-414a-84d8-c1f84a17ef9c",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "Results focus foremost on economics, specifically sovereign default risk or payment default risk for exporters (also known as a trade credit risk).",
+    "subject": "Results",
+    "predicate_type": "relates_to",
+    "object_text": "economics, specifically sovereign default risk or payment default risk for exporters (also known as a trade credit risk)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Results focus foremost on economics, specifically sovereign default risk or payment default risk for exporters (also known as a trade credit risk).",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economics",
+      "sovereign_default_risk",
+      "payment_default_risk",
+      "trade_credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "31b75687-2669-40c9-ab0a-72f675464134",
+    "chunk_id": "e0b7f60b-75f4-44b5-9b70-8f8819667d81",
+    "document_id": "Credit_rating",
+    "claim_text": "A. M. Best defines \"country risk\" as the risk that country-specific factors could adversely affect an insurer's ability to meet its financial obligations.",
+    "subject": "A. M. Best",
+    "predicate_type": "defines",
+    "object_text": "\"country risk\" as the risk that country-specific factors could adversely affect an insurer's ability to meet its financial obligations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A. M. Best defines \"country risk\" as the risk that country-specific factors could adversely affect an insurer's ability to meet its financial obligations.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "country_risk",
+      "financial_obligations"
+    ],
+    "entities": [
+      "A. M. Best"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15e32339-b1e0-44f3-936a-012f5cb0b012",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "Moody's rating system uses numbers and lowercase letters as well as uppercase.",
+    "subject": "Moody's rating system",
+    "predicate_type": "defines",
+    "object_text": "uses numbers and lowercase letters as well as uppercase",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Moody's rating system uses numbers and lowercase letters as well as uppercase.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "Moody's"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c0100498-9507-4b51-bb71-2821755f8a26",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "Moody's, S&P and Fitch Ratings control approximately 95% of the credit ratings business.",
+    "subject": "Moody's, S&P and Fitch Ratings",
+    "predicate_type": "relates_to",
+    "object_text": "control approximately 95% of the credit ratings business",
+    "object_value": 95.0,
+    "object_unit": "%",
+    "source_text": "Moody's, S&P and Fitch Ratings control approximately 95% of the credit ratings business.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "Moody's",
+      "S&P",
+      "Fitch Ratings"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bea0ba51-fe80-46f3-9e33-8fbe9770fb88",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "DBRS's long-term ratings scale is somewhat similar to Standard & Poor's and Fitch Ratings with the words high and low replacing the + and \u2212.",
+    "subject": "DBRS's long-term ratings scale",
+    "predicate_type": "relates_to",
+    "object_text": "somewhat similar to Standard & Poor's and Fitch Ratings with the words high and low replacing the + and \u2212",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "DBRS's long-term ratings scale is somewhat similar to Standard & Poor's and Fitch Ratings with the words high and low replacing the + and \u2212.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "DBRS",
+      "Standard & Poor's",
+      "Fitch Ratings"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1d4f3684-6323-40a9-af8f-594889e6dbee",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "S&P, Moody's, Fitch and DBRS are the only four ratings agencies that are recognized by the European Central Bank (ECB) for determining collateral requirements for banks to borrow from the central bank.",
+    "subject": "S&P, Moody's, Fitch and DBRS",
+    "predicate_type": "relates_to",
+    "object_text": "the only four ratings agencies that are recognized by the European Central Bank (ECB) for determining collateral requirements for banks to borrow from the central bank",
+    "object_value": 4.0,
+    "object_unit": null,
+    "source_text": "S&P, Moody's, Fitch and DBRS are the only four ratings agencies that are recognized by the European Central Bank (ECB) for determining collateral requirements for banks to borrow from the central bank.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "collateral"
+    ],
+    "entities": [
+      "S&P",
+      "Moody's",
+      "Fitch",
+      "DBRS",
+      "European Central Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Europe"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e916c77-7598-43d3-a28b-aa358bae184b",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "The ECB uses a first, best rule among the four agencies that have the designated ECAI status.",
+    "subject": "ECB",
+    "predicate_type": "implements",
+    "object_text": "a first, best rule among the four agencies that have the designated ECAI status",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The ECB uses a first, best rule among the four agencies that have the designated ECAI status.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "ECB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Europe"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fd085484-951e-4486-a6fa-e9927adce85b",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "The ECB takes the highest rating among the four agencies \u2013 S&P, Moody's, Fitch and DBRS \u2013 to determine haircuts and collateral requirements for borrowing.",
+    "subject": "ECB",
+    "predicate_type": "implements",
+    "object_text": "takes the highest rating among the four agencies \u2013 S&P, Moody's, Fitch and DBRS \u2013 to determine haircuts and collateral requirements for borrowing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The ECB takes the highest rating among the four agencies \u2013 S&P, Moody's, Fitch and DBRS \u2013 to determine haircuts and collateral requirements for borrowing.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "collateral"
+    ],
+    "entities": [
+      "ECB",
+      "S&P",
+      "Moody's",
+      "Fitch",
+      "DBRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Europe"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a3def64-0cae-454d-8532-32c8e0c721b3",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "Ratings in Europe have been under close scrutiny, particularly the highest ratings given to countries like Spain, Ireland and Italy, because they affect how much banks can borrow against sovereign debt they hold.",
+    "subject": "ratings",
+    "predicate_type": "relates_to",
+    "object_text": "under close scrutiny, particularly the highest ratings given to countries like Spain, Ireland and Italy, because they affect how much banks can borrow against sovereign debt they hold",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Ratings in Europe have been under close scrutiny, particularly the highest ratings given to countries like Spain, Ireland and Italy, because they affect how much banks can borrow against sovereign debt they hold.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "sovereign_debt"
+    ],
+    "entities": [
+      "Spain",
+      "Ireland",
+      "Italy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Europe"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "08f5a1ff-9249-4f9a-9eda-841b8306be0f",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "A. M. Best rates from excellent to poor in the following manner: A++, A+, A, A\u2212, B++, B+, B, B\u2212, C++, C+, C, C\u2212, D, E, F, and S.",
+    "subject": "A. M. Best",
+    "predicate_type": "defines",
+    "object_text": "rates from excellent to poor in the following manner: A++, A+, A, A\u2212, B++, B+, B, B\u2212, C++, C+, C, C\u2212, D, E, F, and S",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A. M. Best rates from excellent to poor in the following manner: A++, A+, A, A\u2212, B++, B+, B, B\u2212, C++, C+, C, C\u2212, D, E, F, and S.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "A. M. Best"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b8bef96d-0064-4cff-860b-51c16d1c7650",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "The CTRISKS rating system is as follows: CT3A, CT2A, CT1A, CT3B, CT2B, CT1B, CT3C, CT2C and CT1C.",
+    "subject": "CTRISKS rating system",
+    "predicate_type": "defines",
+    "object_text": "CT3A, CT2A, CT1A, CT3B, CT2B, CT1B, CT3C, CT2C and CT1C",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The CTRISKS rating system is as follows: CT3A, CT2A, CT1A, CT3B, CT2B, CT1B, CT3C, CT2C and CT1C.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "CTRISKS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "83b1ca63-38f9-40ee-893f-2876f62bb097",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "All these CTRISKS grades are mapped to one-year probability of default.",
+    "subject": "CTRISKS grades",
+    "predicate_type": "relates_to",
+    "object_text": "mapped to one-year probability of default",
+    "object_value": 1.0,
+    "object_unit": "year",
+    "source_text": "All these CTRISKS grades are mapped to one-year probability of default.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "default_probability"
+    ],
+    "entities": [
+      "CTRISKS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "57f8774d-1de5-45d3-99b8-6782d77f436b",
+    "chunk_id": "208ec870-cf81-4f65-aeb9-21cb6563a131",
+    "document_id": "Credit_rating",
+    "claim_text": "Under the EU Credit Rating Agency Regulation (CRAR), the European Banking Authority has developed a series of mapping tables that map ratings to the \"Credit Quality Steps\" (CQS) as set out in regulatory capital rules and map the CQS to short run and long run benchmark default rates.",
+    "subject": "European Banking Authority",
+    "predicate_type": "implements",
+    "object_text": "developed a series of mapping tables that map ratings to the \"Credit Quality Steps\" (CQS) as set out in regulatory capital rules and map the CQS to short run and long run benchmark default rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under the EU Credit Rating Agency Regulation (CRAR), the European Banking Authority has developed a series of mapping tables that map ratings to the \"Credit Quality Steps\" (CQS) as set out in regulatory capital rules and map the CQS to short run and long run benchmark default rates.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "European Banking Authority"
+    ],
+    "regulations": [
+      "CRAR"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "EU"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d7fd1e6-7150-475b-b41a-7b93a1174c72",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "Credit ratings can address a corporation's financial instruments i.e. debt security such as a bond, but also the corporations itself.",
+    "subject": "credit ratings",
+    "predicate_type": "relates_to",
+    "object_text": "a corporation's financial instruments i.e. debt security such as a bond, but also the corporations itself",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Credit ratings can address a corporation's financial instruments i.e. debt security such as a bond, but also the corporations itself.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "financial_instruments"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2cc8faa6-558b-4c82-b7c2-f345f55a24b4",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "Ratings are assigned by credit rating agencies, the largest of which are Standard & Poor's, Moody's and Fitch Ratings.",
+    "subject": "ratings",
+    "predicate_type": "governs",
+    "object_text": "assigned by credit rating agencies, the largest of which are Standard & Poor's, Moody's and Fitch Ratings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Ratings are assigned by credit rating agencies, the largest of which are Standard & Poor's, Moody's and Fitch Ratings.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "Standard & Poor's",
+      "Moody's",
+      "Fitch Ratings"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d8153bb4-0a08-4233-a88d-ccd87256dc3a",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "They use letter designations such as A, B, C.",
+    "subject": "credit rating agencies",
+    "predicate_type": "implements",
+    "object_text": "letter designations such as A, B, C",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They use letter designations such as A, B, C.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd7dcf8c-f8d1-435d-bdab-b379bb8135dc",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "Higher grades are intended to represent a lower probability of default.",
+    "subject": "higher grades",
+    "predicate_type": "relates_to",
+    "object_text": "lower probability of default",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Higher grades are intended to represent a lower probability of default.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "default_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bad29be6-c1a2-4ce5-8952-ecec73a3cad6",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its highest rating (Aaa) to had a \"cumulative default rate\" of 0.18%.",
+    "subject": "bonds with Aaa rating by Moody's",
+    "predicate_type": "relates_to",
+    "object_text": "had a \"cumulative default rate\" of 0.18%",
+    "object_value": 0.18,
+    "object_unit": "%",
+    "source_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its highest rating (Aaa) to had a \"cumulative default rate\" of 0.18%.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "default_risk"
+    ],
+    "entities": [
+      "Moody's"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d46a012e-6a3f-43c5-9235-60a55ca95976",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its next highest rating (Aa2) to had a \"cumulative default rate\" of 0.28%.",
+    "subject": "bonds with Aa2 rating by Moody's",
+    "predicate_type": "relates_to",
+    "object_text": "had a \"cumulative default rate\" of 0.28%",
+    "object_value": 0.28,
+    "object_unit": "%",
+    "source_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its next highest rating (Aa2) to had a \"cumulative default rate\" of 0.28%.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "default_risk"
+    ],
+    "entities": [
+      "Moody's"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f147e88d-cca8-4988-ae30-43c455ba43e1",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its next (Baa2) rating to had a \"cumulative default rate\" of 2.11%.",
+    "subject": "bonds with Baa2 rating by Moody's",
+    "predicate_type": "relates_to",
+    "object_text": "had a \"cumulative default rate\" of 2.11%",
+    "object_value": 2.11,
+    "object_unit": "%",
+    "source_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its next (Baa2) rating to had a \"cumulative default rate\" of 2.11%.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "default_risk"
+    ],
+    "entities": [
+      "Moody's"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05210cf6-cc34-47eb-9666-b19c1f9615a7",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its next (Ba2) rating to had a \"cumulative default rate\" of 8.82%.",
+    "subject": "bonds with Ba2 rating by Moody's",
+    "predicate_type": "relates_to",
+    "object_text": "had a \"cumulative default rate\" of 8.82%",
+    "object_value": 8.82,
+    "object_unit": "%",
+    "source_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its next (Ba2) rating to had a \"cumulative default rate\" of 8.82%.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "default_risk"
+    ],
+    "entities": [
+      "Moody's"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e6537732-47b0-46a4-bfcd-f6a8938b67d0",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its lowest it studied (B2) rating to had a \"cumulative default rate\" of 31.24%.",
+    "subject": "bonds with B2 rating by Moody's",
+    "predicate_type": "relates_to",
+    "object_text": "had a \"cumulative default rate\" of 31.24%",
+    "object_value": 31.24,
+    "object_unit": "%",
+    "source_text": "One study by Moody's claimed that over a \"5-year time horizon\" bonds it gave its lowest it studied (B2) rating to had a \"cumulative default rate\" of 31.24%.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "default_risk"
+    ],
+    "entities": [
+      "Moody's"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62b2f949-54b4-494b-b1b1-a6dc23d6200f",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "Looking at rated bonds for 1973\u201389, the authors found a AAA-rated bond paid 43 basis points over a US Treasury bond.",
+    "subject": "AAA-rated bond",
+    "predicate_type": "relates_to",
+    "object_text": "paid 43 basis points over a US Treasury bond",
+    "object_value": 43.0,
+    "object_unit": "basis points",
+    "source_text": "Looking at rated bonds for 1973\u201389, the authors found a AAA-rated bond paid 43 basis points over a US Treasury bond.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "bond_yields"
+    ],
+    "entities": [
+      "US Treasury bond"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "342d32c7-1a18-4f2b-b5a1-655837b34ead",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "A CCC-rated \"junk\" (or speculative) bond, on the other hand, paid over 7% more than a Treasury bond on average over that period.",
+    "subject": "CCC-rated \"junk\" (or speculative) bond",
+    "predicate_type": "relates_to",
+    "object_text": "paid over 7% more than a Treasury bond on average over that period",
+    "object_value": 7.0,
+    "object_unit": "%",
+    "source_text": "A CCC-rated \"junk\" (or speculative) bond, on the other hand, paid over 7% more than a Treasury bond on average over that period.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings",
+      "bond_yields"
+    ],
+    "entities": [
+      "Treasury bond"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "09d5e41e-939c-4277-9f1b-54ee0df5dd07",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "Different rating agencies may use variations of an alphabetical combination of lowercase and uppercase letters, with either plus or minus signs or numbers added to further fine-tune the rating",
+    "subject": "rating agencies",
+    "predicate_type": "permits",
+    "object_text": "use variations of an alphabetical combination of lowercase and uppercase letters, with either plus or minus signs or numbers added to further fine-tune the rating",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Different rating agencies may use variations of an alphabetical combination of lowercase and uppercase letters, with either plus or minus signs or numbers added to further fine-tune the rating",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb1b90c3-79d8-4df9-a73e-c6df21f78566",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "The Standard & Poor's rating scale uses uppercase letters and pluses and minuses.",
+    "subject": "Standard & Poor's rating scale",
+    "predicate_type": "implements",
+    "object_text": "uppercase letters and pluses and minuses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Standard & Poor's rating scale uses uppercase letters and pluses and minuses.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "Standard & Poor's"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cddb933f-3026-4994-ad98-631207cbaf3d",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "The Moody's rating system uses numbers and lowercase letters as well as uppercase.",
+    "subject": "Moody's rating system",
+    "predicate_type": "implements",
+    "object_text": "numbers and lowercase letters as well as uppercase",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Moody's rating system uses numbers and lowercase letters as well as uppercase.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "Moody's"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cdb7749b-c4fb-41e9-8457-3969943f30df",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "While Moody's, S&P and Fitch Ratings control approximately 95% of the credit ratings business, they are not the only rating agencies.",
+    "subject": "Moody's, S&P and Fitch Ratings",
+    "predicate_type": "relates_to",
+    "object_text": "control approximately 95% of the credit ratings business",
+    "object_value": 95.0,
+    "object_unit": "%",
+    "source_text": "While Moody's, S&P and Fitch Ratings control approximately 95% of the credit ratings business, they are not the only rating agencies.",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "Moody's",
+      "S&P",
+      "Fitch Ratings"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "39b12e99-3528-40d1-a4d7-e52c0397a46f",
+    "chunk_id": "780b302e-df9a-47f2-a6b5-301dcb610eb6",
+    "document_id": "Credit_rating",
+    "claim_text": "DBRS's long-term ratings scale is somewhat similar to Standard & Poor's and Fitch Ratings with",
+    "subject": "DBRS's long-term ratings scale",
+    "predicate_type": "relates_to",
+    "object_text": "somewhat similar to Standard & Poor's and Fitch Ratings with",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "DBRS's long-term ratings scale is somewhat similar to Standard & Poor's and Fitch Ratings with",
+    "source_document": "Credit rating",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "DBRS",
+      "Standard & Poor's",
+      "Fitch Ratings"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

@@ -1,0 +1,1935 @@
+[
+  {
+    "assertion_id": "7d3a5453-05ca-447a-a7d6-fdd384f35739",
+    "chunk_id": "7582aeb5-1279-4b7b-872a-4b0a8860e84a",
+    "document_id": "Deferred_tax",
+    "claim_text": "Deferred tax assets generally arise where tax relief is provided after an expense is deducted for accounting purposes.",
+    "subject": "Deferred tax assets",
+    "predicate_type": "causes",
+    "object_text": "tax relief is provided after an expense is deducted for accounting purposes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Deferred tax assets generally arise where tax relief is provided after an expense is deducted for accounting purposes.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "tax_relief",
+      "accounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fa7c01c8-4772-4122-80e4-ff7b1219f2b1",
+    "chunk_id": "7582aeb5-1279-4b7b-872a-4b0a8860e84a",
+    "document_id": "Deferred_tax",
+    "claim_text": "A company may accrue an accounting expense in relation to a provision such as bad debts, but tax relief may not be obtained until the provision is utilized.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "may accrue an accounting expense in relation to a provision such as bad debts, but tax relief may not be obtained until the provision is utilized",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A company may accrue an accounting expense in relation to a provision such as bad debts, but tax relief may not be obtained until the provision is utilized.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "tax_relief",
+      "bad_debts"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a41da54-c530-4f20-ad84-93154c4e06f0",
+    "chunk_id": "7582aeb5-1279-4b7b-872a-4b0a8860e84a",
+    "document_id": "Deferred_tax",
+    "claim_text": "A company may incur tax losses and be able to \"carry forward\" losses to reduce taxable income in future years.",
+    "subject": "company",
+    "predicate_type": "permits",
+    "object_text": "carry forward losses to reduce taxable income in future years",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A company may incur tax losses and be able to \"carry forward\" losses to reduce taxable income in future years.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax_losses",
+      "taxable_income"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "30569a16-42d6-473b-b0d5-dc5f98798ea6",
+    "chunk_id": "7582aeb5-1279-4b7b-872a-4b0a8860e84a",
+    "document_id": "Deferred_tax",
+    "claim_text": "An asset on a company's balance sheet that may be used to reduce any subsequent period's income tax expense.",
+    "subject": "asset on a company's balance sheet",
+    "predicate_type": "permits",
+    "object_text": "may be used to reduce any subsequent period's income tax expense",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An asset on a company's balance sheet that may be used to reduce any subsequent period's income tax expense.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "balance_sheet",
+      "income_tax_expense"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e6a9c409-186b-4470-b176-e9254fc015c1",
+    "chunk_id": "7582aeb5-1279-4b7b-872a-4b0a8860e84a",
+    "document_id": "Deferred_tax",
+    "claim_text": "Deferred tax assets can arise due to net loss carryover.",
+    "subject": "Deferred tax assets",
+    "predicate_type": "causes",
+    "object_text": "net loss carryover",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Deferred tax assets can arise due to net loss carryover.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "net_loss"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9118b172-7270-4c0b-8115-d1c42b5a689f",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "Management has an obligation to accurately report the true state of the company.",
+    "subject": "management",
+    "predicate_type": "requires",
+    "object_text": "an obligation to accurately report the true state of the company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Management has an obligation to accurately report the true state of the company.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial reporting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "335b9cd1-f624-43f2-b13b-f20e19d636df",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "Management has an obligation to make judgements and estimations where necessary.",
+    "subject": "management",
+    "predicate_type": "requires",
+    "object_text": "an obligation to make judgements and estimations where necessary",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Management has an obligation to make judgements and estimations where necessary.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial reporting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "044f5b41-a579-45a8-89a8-02f6e5006580",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "In the context of tax assets and liabilities, there must be a reasonable likelihood that the tax difference may be realised in future years.",
+    "subject": "tax assets and liabilities",
+    "predicate_type": "requires",
+    "object_text": "a reasonable likelihood that the tax difference may be realised in future years",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the context of tax assets and liabilities, there must be a reasonable likelihood that the tax difference may be realised in future years.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred tax",
+      "tax assets",
+      "tax liabilities"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0cf4035-f38e-48a4-9655-ae1f4de42076",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "A tax asset may appear on the company's accounts due to losses in previous years if carry-forward of tax losses is allowed.",
+    "subject": "tax asset",
+    "predicate_type": "relates_to",
+    "object_text": "may appear on the company's accounts due to losses in previous years if carry-forward of tax losses is allowed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A tax asset may appear on the company's accounts due to losses in previous years if carry-forward of tax losses is allowed.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax assets",
+      "deferred tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d813329b-28ba-4e96-8d32-14d6a1930f4c",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "A deferred tax asset should be recognised if and only if the management considered that there will be sufficient future taxable profit to use the tax loss.",
+    "subject": "deferred tax asset",
+    "predicate_type": "requires",
+    "object_text": "recognition if and only if the management considered that there will be sufficient future taxable profit to use the tax loss",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A deferred tax asset should be recognised if and only if the management considered that there will be sufficient future taxable profit to use the tax loss.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred tax",
+      "tax assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "811874a6-e7c1-4e7d-b515-7bbaf9af74fe",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "If it becomes clear that the company does not expect to make profits in future years, the value of the tax asset has been impaired.",
+    "subject": "value of the tax asset",
+    "predicate_type": "causes",
+    "object_text": "impairment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If it becomes clear that the company does not expect to make profits in future years, the value of the tax asset has been impaired.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax assets",
+      "impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4d3b8aed-6011-46a7-bf4c-c86247b8927c",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "In the estimation of management, the likelihood that this tax loss can be used in the future has significantly fallen.",
+    "subject": "likelihood that this tax loss can be used in the future",
+    "predicate_type": "relates_to",
+    "object_text": "has significantly fallen",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the estimation of management, the likelihood that this tax loss can be used in the future has significantly fallen.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax loss"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "af772865-6a71-4924-a6f5-a482244277c8",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "In cases where the carrying value of tax assets or liabilities has changed, the company may need to do a write-down.",
+    "subject": "company",
+    "predicate_type": "permits",
+    "object_text": "to do a write-down",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In cases where the carrying value of tax assets or liabilities has changed, the company may need to do a write-down.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax assets",
+      "tax liabilities",
+      "write-down"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e21c8ae3-f058-4812-b122-74d59f56c832",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "In certain cases involving in particular a fundamental error, a restatement of its financial results from previous years may be needed.",
+    "subject": "restatement of its financial results from previous years",
+    "predicate_type": "requires",
+    "object_text": "may be needed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In certain cases involving in particular a fundamental error, a restatement of its financial results from previous years may be needed.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial results",
+      "restatement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b19ef4d3-e46b-4784-b1ab-135b7780302b",
+    "chunk_id": "94bad06a-40f1-40a3-a17d-e69b398f03b1",
+    "document_id": "Deferred_tax",
+    "claim_text": "Such write-downs may involve either significant income or expenditure being recorded in the company's profit and loss for the financial year in which the write-down takes place.",
+    "subject": "write-downs",
+    "predicate_type": "relates_to",
+    "object_text": "may involve either significant income or expenditure being recorded in the company's profit and loss for the financial year in which the write-down takes place",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such write-downs may involve either significant income or expenditure being recorded in the company's profit and loss for the financial year in which the write-down takes place.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "write-down",
+      "profit and loss"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2e000774-dc65-4d3b-8a11-64e9899b2456",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "Modern accounting standards typically require that a company provides for deferred tax in accordance with either the temporary difference or timing difference approach.",
+    "subject": "Modern accounting standards",
+    "predicate_type": "requires",
+    "object_text": "that a company provides for deferred tax in accordance with either the temporary difference or timing difference approach",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modern accounting standards typically require that a company provides for deferred tax in accordance with either the temporary difference or timing difference approach.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "accounting_standards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "unknown",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7cf78ec5-de32-4112-ab90-67791a038005",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "Where a deferred tax liability or asset is recognised, the liability or asset should reduce over time (subject to new differences arising) as the temporary or timing difference reverses.",
+    "subject": "deferred tax liability or asset",
+    "predicate_type": "constrains",
+    "object_text": "the liability or asset should reduce over time (subject to new differences arising) as the temporary or timing difference reverses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Where a deferred tax liability or asset is recognised, the liability or asset should reduce over time (subject to new differences arising) as the temporary or timing difference reverses.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "unknown",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01449063-b274-4993-914e-c1ae421a0202",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "Under International Financial Reporting Standards, deferred tax should be accounted for using the principles in IAS 12: Income Taxes",
+    "subject": "deferred tax",
+    "predicate_type": "governs",
+    "object_text": "should be accounted for using the principles in IAS 12: Income Taxes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under International Financial Reporting Standards, deferred tax should be accounted for using the principles in IAS 12: Income Taxes",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "income_taxes"
+    ],
+    "entities": [
+      "International Financial Reporting Standards"
+    ],
+    "regulations": [
+      "IAS 12"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "unknown",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e01fabeb-9363-4045-8a05-0e4ce525c362",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "IAS 12: Income Taxes is similar (but not identical) to SFAS 109 under US GAAP.",
+    "subject": "IAS 12: Income Taxes",
+    "predicate_type": "relates_to",
+    "object_text": "similar (but not identical) to SFAS 109 under US GAAP",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IAS 12: Income Taxes is similar (but not identical) to SFAS 109 under US GAAP.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "income_taxes",
+      "accounting_standards"
+    ],
+    "entities": [
+      "IAS 12",
+      "SFAS 109",
+      "US GAAP"
+    ],
+    "regulations": [
+      "IAS 12",
+      "SFAS 109"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "unknown",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e1315555-731e-4058-87c2-db491e2570bd",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "Both these accounting standards require a temporary difference approach.",
+    "subject": "accounting standards",
+    "predicate_type": "requires",
+    "object_text": "a temporary difference approach",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Both these accounting standards require a temporary difference approach.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting_standards",
+      "deferred_tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "unknown",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b99e7075-1e4f-4fe9-a5b3-e72f464e21c1",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "Financial Reporting Standard 19: Deferred Tax uses timing difference approach.",
+    "subject": "Financial Reporting Standard 19: Deferred Tax",
+    "predicate_type": "implements",
+    "object_text": "timing difference approach",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial Reporting Standard 19: Deferred Tax uses timing difference approach.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "accounting_standards"
+    ],
+    "entities": [],
+    "regulations": [
+      "Financial Reporting Standard 19"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "UK"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c9035a0e-4d66-4826-ba6f-78d7a66f8268",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "NIF D-4, Impuestos a la utilidad is Mexican GAAP or NIF.",
+    "subject": "NIF D-4, Impuestos a la utilidad",
+    "predicate_type": "defines",
+    "object_text": "Mexican GAAP or NIF",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NIF D-4, Impuestos a la utilidad is Mexican GAAP or NIF.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "accounting_standards"
+    ],
+    "entities": [],
+    "regulations": [
+      "NIF D-4"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Mexico"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "be47effb-7778-4e75-8d27-21957e146e01",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "CICA Section 3465 is Canadian GAAP.",
+    "subject": "CICA Section 3465",
+    "predicate_type": "defines",
+    "object_text": "Canadian GAAP",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CICA Section 3465 is Canadian GAAP.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "accounting_standards"
+    ],
+    "entities": [],
+    "regulations": [
+      "CICA Section 3465"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Canada"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3640e7a1-6c5f-4518-a1a5-efe13f040a1c",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "Russian PBU 18 (2002) Accounting for profit tax uses timing difference approach.",
+    "subject": "Russian PBU 18 (2002) Accounting for profit tax",
+    "predicate_type": "implements",
+    "object_text": "timing difference approach",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Russian PBU 18 (2002) Accounting for profit tax uses timing difference approach.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "accounting_standards"
+    ],
+    "entities": [],
+    "regulations": [
+      "PBU 18"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Russia"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4b700308-98c2-4b02-9a63-0d77b7c6012a",
+    "chunk_id": "08630c7e-5cc9-43c6-965d-9a7d60a4b7b0",
+    "document_id": "Deferred_tax",
+    "claim_text": "AS 22 Accounting for taxes on income is INDIAN AS-Institute Of Charted Account of India.",
+    "subject": "AS 22 Accounting for taxes on income",
+    "predicate_type": "defines",
+    "object_text": "INDIAN AS-Institute Of Charted Account of India",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "AS 22 Accounting for taxes on income is INDIAN AS-Institute Of Charted Account of India.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "accounting_standards"
+    ],
+    "entities": [],
+    "regulations": [
+      "AS 22"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "India"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c88a351-87b6-4d9c-b5af-d10ae4705048",
+    "chunk_id": "1991f625-6da6-48bb-89df-6fe17e2f027e",
+    "document_id": "Deferred_tax",
+    "claim_text": "If an item in the profit and loss account is never chargeable or allowable for tax or is chargeable or allowable for tax purposes but never appears in the profit and loss account then this is a permanent difference.",
+    "subject": "item in the profit and loss account",
+    "predicate_type": "defines",
+    "object_text": "permanent difference",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If an item in the profit and loss account is never chargeable or allowable for tax or is chargeable or allowable for tax purposes but never appears in the profit and loss account then this is a permanent difference.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "profit_and_loss_account"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ef03bcd0-ed2c-4c5e-88c0-bb4ffbd78c9f",
+    "chunk_id": "1991f625-6da6-48bb-89df-6fe17e2f027e",
+    "document_id": "Deferred_tax",
+    "claim_text": "A permanent difference does not give rise to deferred tax.",
+    "subject": "permanent difference",
+    "predicate_type": "prohibits",
+    "object_text": "deferred tax",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A permanent difference does not give rise to deferred tax.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "88043b50-9b72-4779-8f48-a8efe4dd11e3",
+    "chunk_id": "1991f625-6da6-48bb-89df-6fe17e2f027e",
+    "document_id": "Deferred_tax",
+    "claim_text": "If items are chargeable or allowable for tax purposes but in different periods to when the income or expense is recognised then this gives rise to temporary differences.",
+    "subject": "items",
+    "predicate_type": "causes",
+    "object_text": "temporary differences",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If items are chargeable or allowable for tax purposes but in different periods to when the income or expense is recognised then this gives rise to temporary differences.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "320cfb37-29cd-4e65-9487-0489d26d5670",
+    "chunk_id": "1991f625-6da6-48bb-89df-6fe17e2f027e",
+    "document_id": "Deferred_tax",
+    "claim_text": "Temporary difference do give rise to potential deferred tax, but the rules on whether the deferred asset or liability is actually recognised can vary.",
+    "subject": "Temporary difference",
+    "predicate_type": "relates_to",
+    "object_text": "potential deferred tax",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Temporary difference do give rise to potential deferred tax, but the rules on whether the deferred asset or liability is actually recognised can vary.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9862321d-0ba3-486d-8414-8dbdc7e3b923",
+    "chunk_id": "1991f625-6da6-48bb-89df-6fe17e2f027e",
+    "document_id": "Deferred_tax",
+    "claim_text": "Temporary differences are usually calculated on the differences between the carrying amount of an asset or liability recognized in the statements of financial position and the amount attributed to that asset or liability for tax at the beginning and end of the year.",
+    "subject": "Temporary differences",
+    "predicate_type": "relates_to",
+    "object_text": "the differences between the carrying amount of an asset or liability recognized in the statements of financial position and the amount attributed to that asset or liability for tax at the beginning and end of the year",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Temporary differences are usually calculated on the differences between the carrying amount of an asset or liability recognized in the statements of financial position and the amount attributed to that asset or liability for tax at the beginning and end of the year.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c4e5062c-0dab-41d7-ae25-b43c8531673b",
+    "chunk_id": "1991f625-6da6-48bb-89df-6fe17e2f027e",
+    "document_id": "Deferred_tax",
+    "claim_text": "The differences in the charges to the profit and loss account compared to the amounts taxable or allowable can also be calculated and should reconcile the change in position at the beginning and end of the year.",
+    "subject": "differences in the charges to the profit and loss account",
+    "predicate_type": "relates_to",
+    "object_text": "amounts taxable or allowable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The differences in the charges to the profit and loss account compared to the amounts taxable or allowable can also be calculated and should reconcile the change in position at the beginning and end of the year.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c004eedb-ba84-4d94-9d78-89a4db4f62ee",
+    "chunk_id": "238a8551-f4f3-40bb-9ab4-6f270aa70c30",
+    "document_id": "Deferred_tax",
+    "claim_text": "The basic principle of accounting for deferred tax under a temporary difference approach can be illustrated using a common example in which a company has fixed assets that qualify for tax depreciation.",
+    "subject": "basic principle of accounting for deferred tax",
+    "predicate_type": "relates_to",
+    "object_text": "can be illustrated using a common example in which a company has fixed assets that qualify for tax depreciation under a temporary difference approach",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The basic principle of accounting for deferred tax under a temporary difference approach can be illustrated using a common example in which a company has fixed assets that qualify for tax depreciation.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax",
+      "accounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6073113c-c659-4fea-b17b-98d6446debcc",
+    "chunk_id": "238a8551-f4f3-40bb-9ab4-6f270aa70c30",
+    "document_id": "Deferred_tax",
+    "claim_text": "The following example assumes that a company purchases an asset for $1,000 which is depreciated for accounting purposes on a straight-line basis of five years of $200/year.",
+    "subject": "example",
+    "predicate_type": "relates_to",
+    "object_text": "assumes that a company purchases an asset for $1,000 which is depreciated for accounting purposes on a straight-line basis of five years of $200/year",
+    "object_value": 1000.0,
+    "object_unit": "$",
+    "source_text": "The following example assumes that a company purchases an asset for $1,000 which is depreciated for accounting purposes on a straight-line basis of five years of $200/year.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset_depreciation",
+      "accounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8a10af77-1cef-480e-a232-8e359ccb21e8",
+    "chunk_id": "238a8551-f4f3-40bb-9ab4-6f270aa70c30",
+    "document_id": "Deferred_tax",
+    "claim_text": "The company claims tax depreciation of 25% per year on a reducing balance basis.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "claims tax depreciation of 25% per year on a reducing balance basis",
+    "object_value": 25.0,
+    "object_unit": "%",
+    "source_text": "The company claims tax depreciation of 25% per year on a reducing balance basis.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax_depreciation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2ba3cbc7-4d17-402e-bb5b-ebe078cb185e",
+    "chunk_id": "238a8551-f4f3-40bb-9ab4-6f270aa70c30",
+    "document_id": "Deferred_tax",
+    "claim_text": "The applicable rate of corporate income tax is assumed to be 35%, and the net value is subtracted.",
+    "subject": "applicable rate of corporate income tax",
+    "predicate_type": "relates_to",
+    "object_text": "is assumed to be 35%, and the net value is subtracted",
+    "object_value": 35.0,
+    "object_unit": "%",
+    "source_text": "The applicable rate of corporate income tax is assumed to be 35%, and the net value is subtracted.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate_income_tax"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b77951ba-0e61-4e54-973a-5e34404fdcb2",
+    "chunk_id": "238a8551-f4f3-40bb-9ab4-6f270aa70c30",
+    "document_id": "Deferred_tax",
+    "claim_text": "As the tax value, or tax base, is lower than the accounting value, or book value, in years 1 and 2, the company should recognize a deferred tax liability.",
+    "subject": "company",
+    "predicate_type": "requires",
+    "object_text": "recognize a deferred tax liability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As the tax value, or tax base, is lower than the accounting value, or book value, in years 1 and 2, the company should recognize a deferred tax liability.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax_liability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "88d31a41-3254-49e3-acaa-05132bad0277",
+    "chunk_id": "238a8551-f4f3-40bb-9ab4-6f270aa70c30",
+    "document_id": "Deferred_tax",
+    "claim_text": "This also reflects that the company has claimed tax depreciation in excess of the expense for accounting depreciation recorded in its accounts, whereas in the future the company should claim less tax depreciation in total than accounting depreciation in its accounts.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "has claimed tax depreciation in excess of the expense for accounting depreciation recorded in its accounts, whereas in the future the company should claim less tax depreciation in total than accounting depreciation in its accounts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This also reflects that the company has claimed tax depreciation in excess of the expense for accounting depreciation recorded in its accounts, whereas in the future the company should claim less tax depreciation in total than accounting depreciation in its accounts.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax_depreciation",
+      "accounting_depreciation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "210fd5f1-7175-4792-ace6-f3dd33bae14d",
+    "chunk_id": "238a8551-f4f3-40bb-9ab4-6f270aa70c30",
+    "document_id": "Deferred_tax",
+    "claim_text": "In years 3 and 4, the tax value exceeds the accounting value, therefore the company should recognise a deferred tax asset (subject to it having sufficient forecast profits so that it is able to use future tax deductions).",
+    "subject": "company",
+    "predicate_type": "requires",
+    "object_text": "recognise a deferred tax asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In years 3 and 4, the tax value exceeds the accounting value, therefore the company should recognise a deferred tax asset (subject to it having sufficient forecast profits so that it is able to use future tax deductions).",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deferred_tax_asset"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da8f4f1c-1e45-4812-932f-d106841a2768",
+    "chunk_id": "238a8551-f4f3-40bb-9ab4-6f270aa70c30",
+    "document_id": "Deferred_tax",
+    "claim_text": "This reflects that the company expects to be able to claim tax depreciation in excess of accounting depreciation.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "expects to be able to claim tax depreciation in excess of accounting depreciation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This reflects that the company expects to be able to claim tax depreciation in excess of accounting depreciation.",
+    "source_document": "Deferred tax",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax_depreciation",
+      "accounting_depreciation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  }
+]

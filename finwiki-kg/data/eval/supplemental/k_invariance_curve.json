@@ -1,0 +1,50 @@
+{
+  "status": "complete",
+  "n_queries": 40,
+  "k_values": [
+    1,
+    2,
+    3,
+    5,
+    8,
+    10,
+    15,
+    20,
+    30,
+    50,
+    75,
+    100
+  ],
+  "condition_A_vtp": [
+    0.15,
+    0.0875,
+    0.0667,
+    0.1,
+    0.1187,
+    0.125,
+    0.12,
+    0.1113,
+    0.1225,
+    0.121,
+    0.1157,
+    0.1192
+  ],
+  "condition_D_vtp": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "plateau_k_A": 1,
+  "plateau_vtp_A": 0.15,
+  "gap_at_k100": 0.8808,
+  "interpretation": "Condition A VTP plateaus at k=1 (VTP=0.150). Condition D at k=100: 1.0. Gap at k=100: 0.8808. K-invariance confirmed: validity-type gap does not close as context window grows."
+}

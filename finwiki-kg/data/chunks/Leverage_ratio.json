@@ -1,0 +1,46 @@
+[
+  {
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "sequence": 0,
+    "section_title": "History",
+    "content": "Before the 1980s, quantitative limits on bank leverage were rare. Banks in most countries had a reserve requirement, a fraction of deposits that was required to be held in liquid form, generally precious metals or government notes or deposits. This does not limit leverage. A capital requirement is a fraction of assets that is required to be funded in the form of equity or equity-like securities. Although these two are often confused, they are in fact opposite. A reserve requirement is a fraction of certain liabilities (from the right hand side of the balance sheet) that must be held as a certain kind of asset (from the left hand side of the balance sheet). A capital requirement is a fraction of assets (from the left hand side of the balance sheet) that must be held as a certain kind of liability or equity (from the right hand side of the balance sheet). Before the 1980s, regulators typically imposed judgmental capital requirements, a bank was supposed to be \"adequately capitalized,\" but these were not objective rules. National regulators began imposing formal capital requirements in the 1980s, and by 1988 most large multinational banks were held to the Basel I standard. Basel I categorized assets into five risk buckets, and mandated minimum capital requirements for each. This limits accounting leverage. If a bank is required to hold 8% capital against an asset, that is the same as an accounting leverage limit of 1/.08 or 12.5 to 1. While Basel I is generally credited with improving bank risk management it suffered from two main defects. It did not require capital for all off-balance sheet risks (there was a clumsy provisions for derivatives, but not for certain other off-balance sheet exposures) and it encouraged banks to pick the riskiest assets in each bucket (for example, the capital requirement was the same for all corporate loans, whether to solid companies or ones near bankruptcy, and the requirement for government loans was zero). Work on Basel II began in the early 1990s and it was implemented in stages beginning in 2005. Basel II attempted to limit economic leverage rather than accounting leverage. It required advanced banks to estimate the risk of their positions and allocate capital accordingly. While this is much more rational in theory, it is more subject to estimation error, both honest and opportunitistic. The poor performance of many banks during the Subprime mortgage",
+    "token_estimate": 400,
+    "title": "Leverage (finance)",
+    "url": "https://en.wikipedia.org/wiki/Leverage_(finance)",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "fb79c9b8-d521-4ed5-8bfe-5aada56e3f30",
+    "document_id": "Leverage_(finance)",
+    "sequence": 1,
+    "section_title": "History",
+    "content": "economic leverage rather than accounting leverage. It required advanced banks to estimate the risk of their positions and allocate capital accordingly. While this is much more rational in theory, it is more subject to estimation error, both honest and opportunitistic. The poor performance of many banks during the Subprime mortgage crisis led to calls to reimpose leverage limits, by which most people meant accounting leverage limits, if they understood the distinction at all. However, in view of the problems with Basel I, it seems likely that some hybrid of accounting and notional leverage will be used, and the leverage limits will be imposed in addition to, not instead of, Basel II economic leverage limits.",
+    "token_estimate": 114,
+    "title": "Leverage (finance)",
+    "url": "https://en.wikipedia.org/wiki/Leverage_(finance)",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "sequence": 2,
+    "section_title": "Risk",
+    "content": "While leverage magnifies profits when the returns from the asset more than offset the costs of borrowing, leverage may also magnify losses. A corporation that borrows too much money might face bankruptcy or default during a business downturn, while a less-leveraged corporation might survive. An investor who buys a stock on 50% margin will lose 40% if the stock declines 20%; also in this case the involved subject might be unable to refund the incurred significant total loss. Risk may depend on the volatility in value of collateral assets. Brokers may demand additional funds when the value of securities held declines. Banks may decline to renew mortgages when the value of real estate declines below the debt's principal. Even if cash flows and profits are sufficient to maintain the ongoing borrowing costs, loans may be called-in. This may happen exactly at a time when there is little market liquidity, i.e. a paucity of buyers, and sales by others are depressing prices. It means that as market price falls, leverage goes up in relation to the revised equity value, multiplying losses as prices continue to go down. This can lead to rapid ruin, for even if the underlying asset value decline is mild or temporary the debt-financing may be only short-term, and thus due for immediate repayment. The risk can be mitigated by negotiating the terms of leverage, by maintaining unused capacity for additional borrowing, and by leveraging only liquid assets which may rapidly be converted to cash. There is an implicit assumption in that account, however, which is that the underlying leveraged asset is the same as the unleveraged one. If a company borrows money to modernize, add to its product line or expand internationally, the extra trading profit from the additional diversification might more than offset the additional risk from leverage. Or if an investor uses a fraction of his or her portfolio to margin stock index futures (high risk) and puts the rest in a low-risk money-market fund, he or she might have the same volatility and expected return as an investor in an unlevered low-risk equity-index fund. Or if both long and short positions are held by a pairs-trading stock strategy the matching and off-setting economic leverage may lower overall risk levels. So while adding leverage to a given asset always adds risk, it is not the case that a levered company or investment is always riskier",
+    "token_estimate": 400,
+    "title": "Leverage (finance)",
+    "url": "https://en.wikipedia.org/wiki/Leverage_(finance)",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "e7d682ea-f4d0-43f5-a388-401f1dd574c8",
+    "document_id": "Leverage_(finance)",
+    "sequence": 3,
+    "section_title": "Risk",
+    "content": "Or if both long and short positions are held by a pairs-trading stock strategy the matching and off-setting economic leverage may lower overall risk levels. So while adding leverage to a given asset always adds risk, it is not the case that a levered company or investment is always riskier than an unlevered one. In fact, many highly levered hedge funds have less return volatility than unlevered bond funds, and normally heavily indebted low-risk public utilities are usually less risky stocks than unlevered high-risk technology companies.",
+    "token_estimate": 86,
+    "title": "Leverage (finance)",
+    "url": "https://en.wikipedia.org/wiki/Leverage_(finance)",
+    "domain": "finance"
+  }
+]

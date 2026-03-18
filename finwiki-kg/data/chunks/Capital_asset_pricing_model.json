@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "d0cd3c6e-7e34-496b-8489-1d0700594fe8",
+    "document_id": "Capital_asset_pricing_model",
+    "sequence": 0,
+    "section_title": "Formula",
+    "content": "The CAPM is a model for pricing an individual security or portfolio. For individual securities, it makes use of the security market line (SML) and its relation to expected return and systematic risk (beta) to show how the market must price individual securities in relation to their security risk class.\nThe SML enables us to calculate the reward-to-risk ratio for any security in relation to that of the overall market. Therefore, when the expected rate of return for any security is deflated by its beta coefficient, the reward-to-risk ratio for any individual security in the market is equal to the market reward-to-risk ratio, thus:\nIn equilibrium, all assets should plot directly on the SML. An asset located above the line is considered undervalued, as it offers a higher return for its level of systematic risk, while an asset below is overvalued. The slope of the SML represents the market risk premium, illustrating the trade-off between risk and return. By determining the position of a security relative to this line, investors can identify whether the expected return justifies the asset's market-related volatility.",
+    "token_estimate": 181,
+    "title": "Capital asset pricing model",
+    "url": "https://en.wikipedia.org/wiki/Capital_asset_pricing_model",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "8d0f52e2-df16-4b66-87a2-2ef8ac9140a9",
+    "document_id": "Capital_asset_pricing_model",
+    "sequence": 1,
+    "section_title": "Risk and diversification",
+    "content": "The risk of a portfolio comprises systematic risk, also known as undiversifiable risk, and unsystematic risk, which is also known as idiosyncratic risk or diversifiable risk. Systematic risk refers to the risk common to all securities\u2014i.e., market risk. Unsystematic risk is the risk associated with individual assets.\nUnsystematic risk can be diversified away to smaller levels by including a greater number of assets in the portfolio as specific risks \"average out\". The same is not possible for systematic risk within one market. Depending on the market, a portfolio of approximately 30\u201340 securities in developed markets such as the UK or US will render the portfolio sufficiently diversified such that risk exposure is limited to systematic risk only. This number may vary depending on the way securities are weighted in a portfolio which alters the overall risk contribution of each security. For example, market cap weighting means that securities of companies with larger market capitalization will take up a larger portion of the portfolio, making it effectively less diversified. In developing markets, a larger number of securities is required for diversification due to higher asset volatilities.\nA rational investor should not take on any diversifiable risk, as only non-diversifiable risks are rewarded within the scope of this model. Therefore, the required return on an asset must be linked to its contribution to overall portfolio riskiness as opposed to its \"stand alone risk\". In the CAPM context, portfolio risk is represented by higher variance\u2014i.e., less predictability. In other words, the beta of the portfolio is the defining factor in rewarding the systematic exposure taken by an investor.",
+    "token_estimate": 265,
+    "title": "Capital asset pricing model",
+    "url": "https://en.wikipedia.org/wiki/Capital_asset_pricing_model",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "8e769bd4-4c9a-4736-9864-1d006617f00c",
+    "document_id": "Capital_asset_pricing_model",
+    "sequence": 2,
+    "section_title": "Assumptions",
+    "content": "All investors:\n\nAim to maximize economic utilities (Asset quantities are given and fixed).\nAre rational and risk-averse.\nAre broadly diversified across a range of investments.\nAre price takers, i.e., they cannot influence prices.\nCan lend and borrow unlimited amounts under the risk free rate of interest.\nTrade without transaction or taxation costs.\nDeal with securities that are all highly divisible into small parcels (All assets are perfectly divisible and liquid).\nHave homogeneous expectations.\nHave all information available all at the same time.",
+    "token_estimate": 82,
+    "title": "Capital asset pricing model",
+    "url": "https://en.wikipedia.org/wiki/Capital_asset_pricing_model",
+    "domain": "banking"
+  }
+]

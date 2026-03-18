@@ -1,0 +1,391 @@
+[
+  {
+    "assertion_id": "c07f225a-fa53-49a0-9daa-8f14711be766",
+    "chunk_id": "0133829b-c8f2-4234-8321-6d16557101c1",
+    "document_id": "Financial_distress",
+    "claim_text": "A common example of a cost of financial distress is bankruptcy costs.",
+    "subject": "bankruptcy costs",
+    "predicate_type": "defines",
+    "object_text": "a common example of a cost of financial distress",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A common example of a cost of financial distress is bankruptcy costs.",
+    "source_document": "Financial distress",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bankruptcy",
+      "financial_distress"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad0474b6-3002-48ed-bb6b-65ef3703ecff",
+    "chunk_id": "0133829b-c8f2-4234-8321-6d16557101c1",
+    "document_id": "Financial_distress",
+    "claim_text": "These direct costs include auditors' fees, legal fees, management fees and other payments.",
+    "subject": "direct costs",
+    "predicate_type": "relates_to",
+    "object_text": "auditors' fees, legal fees, management fees and other payments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These direct costs include auditors' fees, legal fees, management fees and other payments.",
+    "source_document": "Financial distress",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bankruptcy",
+      "financial_distress"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ed896a68-c597-427f-a3de-59bdb334f858",
+    "chunk_id": "0133829b-c8f2-4234-8321-6d16557101c1",
+    "document_id": "Financial_distress",
+    "claim_text": "Cost of financial distress can occur even if bankruptcy is avoided (indirect costs).",
+    "subject": "Cost of financial distress",
+    "predicate_type": "relates_to",
+    "object_text": "can occur even if bankruptcy is avoided (indirect costs)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Cost of financial distress can occur even if bankruptcy is avoided (indirect costs).",
+    "source_document": "Financial distress",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bankruptcy",
+      "financial_distress"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "be7a34a0-2515-46b8-bf44-15366f8a0acc",
+    "chunk_id": "0133829b-c8f2-4234-8321-6d16557101c1",
+    "document_id": "Financial_distress",
+    "claim_text": "Financial distress in companies requires management attention",
+    "subject": "Financial distress in companies",
+    "predicate_type": "requires",
+    "object_text": "management attention",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial distress in companies requires management attention",
+    "source_document": "Financial distress",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_distress"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bcc9f076-4974-4244-8fa5-2ab1e73abfcf",
+    "chunk_id": "0133829b-c8f2-4234-8321-6d16557101c1",
+    "document_id": "Financial_distress",
+    "claim_text": "Financial distress in companies might lead to reduced attention on the operations of the company.",
+    "subject": "Financial distress in companies",
+    "predicate_type": "causes",
+    "object_text": "reduced attention on the operations of the company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial distress in companies might lead to reduced attention on the operations of the company.",
+    "source_document": "Financial distress",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_distress"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6949c060-4ee9-40ed-af5a-cf0832c49459",
+    "chunk_id": "0133829b-c8f2-4234-8321-6d16557101c1",
+    "document_id": "Financial_distress",
+    "claim_text": "Liquidity, profitability, asset productivity, activity, and solvency is major cause of corporate financial distress.",
+    "subject": "Liquidity, profitability, asset productivity, activity, and solvency",
+    "predicate_type": "causes",
+    "object_text": "major cause of corporate financial distress",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Liquidity, profitability, asset productivity, activity, and solvency is major cause of corporate financial distress.",
+    "source_document": "Financial distress",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_distress"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d9b81852-d159-43d6-92ed-b0e9973e5dcb",
+    "chunk_id": "0133829b-c8f2-4234-8321-6d16557101c1",
+    "document_id": "Financial_distress",
+    "claim_text": "Another source of indirect costs of financial distress are higher costs of capital as usually banks increase the interest rates if a state of financial distress occurs.",
+    "subject": "higher costs of capital",
+    "predicate_type": "causes",
+    "object_text": "indirect costs of financial distress",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another source of indirect costs of financial distress are higher costs of capital as usually banks increase the interest rates if a state of financial distress occurs.",
+    "source_document": "Financial distress",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_distress",
+      "cost_of_capital"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7ac946c8-97a1-4aa4-a833-f9d1c177df9a",
+    "chunk_id": "0133829b-c8f2-4234-8321-6d16557101c1",
+    "document_id": "Financial_distress",
+    "claim_text": "Banks increase the interest rates if a state of financial distress occurs.",
+    "subject": "banks",
+    "predicate_type": "causes",
+    "object_text": "increase the interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks increase the interest rates if a state of financial distress occurs.",
+    "source_document": "Financial distress",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_distress",
+      "interest_rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

@@ -1,0 +1,1008 @@
+[
+  {
+    "assertion_id": "f2100e87-88d0-4a41-afea-ca7a3e3cc130",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "An investment is recognized as impaired when there is no longer reasonable assurance that the future cash flows associated with it will be collected either in their entirety or when due.",
+    "subject": "investment",
+    "predicate_type": "classifies",
+    "object_text": "impaired",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An investment is recognized as impaired when there is no longer reasonable assurance that the future cash flows associated with it will be collected either in their entirety or when due.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment",
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "61fdc7d9-4c32-4177-b42d-86bbfe94e7ca",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "Entities look for evidence of situations that would indicate impairment.",
+    "subject": "entities",
+    "predicate_type": "requires",
+    "object_text": "evidence of situations that would indicate impairment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Entities look for evidence of situations that would indicate impairment.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d129e862-c446-4809-94c2-2ad0ca882df4",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "The entity is experiencing notable financial difficulties.",
+    "subject": "entity",
+    "predicate_type": "causes",
+    "object_text": "experiencing notable financial difficulties",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The entity is experiencing notable financial difficulties.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ee526b9a-3323-4a1f-8fe1-92327e206482",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "The entity has defaulted on or is late making interest payments or principal payments.",
+    "subject": "entity",
+    "predicate_type": "causes",
+    "object_text": "defaulted on or is late making interest payments or principal payments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The entity has defaulted on or is late making interest payments or principal payments.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "36868f06-691e-4999-ad77-1bf66b9c2b55",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "The entity is likely to undergo a major financial reorganization or enter bankruptcy.",
+    "subject": "entity",
+    "predicate_type": "causes",
+    "object_text": "likely to undergo a major financial reorganization or enter bankruptcy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The entity is likely to undergo a major financial reorganization or enter bankruptcy.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "477566d5-3b45-4d75-bf41-f80838c78ea6",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "The entity is in a market that is experiencing significant negative economic change.",
+    "subject": "entity",
+    "predicate_type": "causes",
+    "object_text": "in a market that is experiencing significant negative economic change",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The entity is in a market that is experiencing significant negative economic change.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b0b4d212-0563-4291-a5cf-7c89eb4b4118",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "Impairment Cost = Recoverable Amount - Carrying Value",
+    "subject": "Impairment Cost",
+    "predicate_type": "defines",
+    "object_text": "Recoverable Amount - Carrying Value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Impairment Cost = Recoverable Amount - Carrying Value",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "56342d79-f031-426c-8595-85b702491430",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "The carrying value is defined as the value of the asset appearing on the balance sheet.",
+    "subject": "carrying value",
+    "predicate_type": "defines",
+    "object_text": "the value of the asset appearing on the balance sheet",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The carrying value is defined as the value of the asset appearing on the balance sheet.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "08a0d33e-1992-4105-8ac9-5c446b4953cc",
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "claim_text": "The recoverable amount is the higher of either the asset's future value for the company or the amount it can be sold for, minus any transaction costs.",
+    "subject": "recoverable amount",
+    "predicate_type": "defines",
+    "object_text": "the higher of either the asset's future value for the company or the amount it can be sold for, minus any transaction costs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The recoverable amount is the higher of either the asset's future value for the company or the amount it can be sold for, minus any transaction costs.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset impairment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "08ed316b-0863-47e0-9bab-d0ececd2a9d0",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "Asset impairment was first addressed by the International Accounting Standards Board (IASB) in IAS 16.",
+    "subject": "Asset impairment",
+    "predicate_type": "governs",
+    "object_text": "first addressed by the International Accounting Standards Board (IASB) in IAS 16",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Asset impairment was first addressed by the International Accounting Standards Board (IASB) in IAS 16.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "International Accounting Standards Board",
+      "IAS 16"
+    ],
+    "regulations": [
+      "IAS 16"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9aafd7e-402b-4f00-9fc8-0a77f653fa5f",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "IAS 16 became effective in 1983.",
+    "subject": "IAS 16",
+    "predicate_type": "governs",
+    "object_text": "became effective in 1983",
+    "object_value": 1983,
+    "object_unit": null,
+    "source_text": "IAS 16 became effective in 1983.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IAS 16"
+    ],
+    "regulations": [
+      "IAS 16"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "91252e0d-a804-4666-9ffc-b13325d784b2",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "IAS 16 was replaced by IAS 36.",
+    "subject": "IAS 16",
+    "predicate_type": "supersedes",
+    "object_text": "IAS 36",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IAS 16 was replaced by IAS 36.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IAS 16",
+      "IAS 36"
+    ],
+    "regulations": [
+      "IAS 16",
+      "IAS 36"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "81b40094-e326-406f-911f-fcdb946df325",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "IAS 36 is effective July 1999.",
+    "subject": "IAS 36",
+    "predicate_type": "governs",
+    "object_text": "effective July 1999",
+    "object_value": 1999,
+    "object_unit": null,
+    "source_text": "IAS 36 is effective July 1999.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IAS 36"
+    ],
+    "regulations": [
+      "IAS 36"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "89e800c6-e327-4cc7-bae8-710a6a629ae8",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "In United States GAAP, the Financial Accounting Standards Board (FASB) introduced the concept in 1995 with the release of SFAS 121.",
+    "subject": "Financial Accounting Standards Board (FASB)",
+    "predicate_type": "governs",
+    "object_text": "introduced the concept in 1995 with the release of SFAS 121",
+    "object_value": 1995,
+    "object_unit": null,
+    "source_text": "In United States GAAP, the Financial Accounting Standards Board (FASB) introduced the concept in 1995 with the release of SFAS 121.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Financial Accounting Standards Board",
+      "SFAS 121"
+    ],
+    "regulations": [
+      "SFAS 121"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "50026a2d-3cf4-4bef-b9ac-cf96b8533de4",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "SFAS 121 was subsequently replaced by SFAS 144 in August 2001.",
+    "subject": "SFAS 121",
+    "predicate_type": "supersedes",
+    "object_text": "SFAS 144 in August 2001",
+    "object_value": 2001,
+    "object_unit": null,
+    "source_text": "SFAS 121 was subsequently replaced by SFAS 144 in August 2001.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "SFAS 121",
+      "SFAS 144"
+    ],
+    "regulations": [
+      "SFAS 121",
+      "SFAS 144"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d2b1fcc0-cc0b-4522-8791-3c06c30ed5bd",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "The IASB issued an exposure draft in November 2009 that proposed an impairment model based on expected losses rather than incurred losses for all financial assets recorded at amortised cost.",
+    "subject": "IASB",
+    "predicate_type": "governs",
+    "object_text": "issued an exposure draft in November 2009 that proposed an impairment model based on expected losses rather than incurred losses for all financial assets recorded at amortised cost",
+    "object_value": 2009,
+    "object_unit": null,
+    "source_text": "The IASB issued an exposure draft in November 2009 that proposed an impairment model based on expected losses rather than incurred losses for all financial assets recorded at amortised cost.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IASB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9ea8c751-9805-4fbf-a690-65cc8f3d397d",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "The FASB eventually decided to propose an alternative scheme in January 2011.",
+    "subject": "FASB",
+    "predicate_type": "governs",
+    "object_text": "eventually decided to propose an alternative scheme in January 2011",
+    "object_value": 2011,
+    "object_unit": null,
+    "source_text": "The FASB eventually decided to propose an alternative scheme in January 2011.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "FASB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3d9db747-8bc0-4850-9375-13628a9fc48a",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "The IASB issued a new exposure draft in January 2013, which later led to the adoption of IFRS 9 in July 2014, effective for annual periods beginning on or after January 1, 2018.",
+    "subject": "IASB",
+    "predicate_type": "governs",
+    "object_text": "issued a new exposure draft in January 2013, which later led to the adoption of IFRS 9 in July 2014, effective for annual periods beginning on or after January 1, 2018",
+    "object_value": 2013,
+    "object_unit": null,
+    "source_text": "The IASB issued a new exposure draft in January 2013, which later led to the adoption of IFRS 9 in July 2014, effective for annual periods beginning on or after January 1, 2018.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IASB",
+      "IFRS 9"
+    ],
+    "regulations": [
+      "IFRS 9"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01a016c0-6b54-4193-bb84-480d6a1ffaf2",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "IFRS 9 is effective for annual periods beginning on or after January 1, 2018.",
+    "subject": "IFRS 9",
+    "predicate_type": "governs",
+    "object_text": "effective for annual periods beginning on or after January 1, 2018",
+    "object_value": 2018,
+    "object_unit": null,
+    "source_text": "IFRS 9 is effective for annual periods beginning on or after January 1, 2018.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IFRS 9"
+    ],
+    "regulations": [
+      "IFRS 9"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "814d91b0-9305-4ce6-9bfd-302747236d8f",
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "claim_text": "The FASB is still considering the matter.",
+    "subject": "FASB",
+    "predicate_type": "governs",
+    "object_text": "still considering the matter",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FASB is still considering the matter.",
+    "source_document": "Impaired asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "FASB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "chunk_id": "49de686c-5cfd-400f-9fa2-f4321a05247a",
+    "document_id": "Yield_curve",
+    "sequence": 0,
+    "section_title": "A yield curve shows the relationship between yields and time to maturity for a set of comparable debt securities. In practice the term usually refers to curves built from a single issuer or market segment so that credit quality and other features are as similar as possible, for example the U.S. Treasury curve for government bonds.",
+    "content": "Different markets publish related curves for different purposes. Common examples include government bond curves, overnight indexed swap curves and interest rate swap curves. These families are produced by central banks and data providers from prices of instruments in each market and are kept comparable within a family by construction.\nAnalysts often summarize the curve\u2019s shape with a \u201cterm spread\u201d such as the difference between the 10-year Treasury yield and the 3-month Treasury bill rate. Central banks track these measures because a sustained inversion has historically preceded U.S. recessions and is used in simple recession-probability models.\nThe yield curve is closely related to the term structure of interest rates. Official sources distinguish several ways to summarize it, including zero-coupon or \u201cspot\u201d curves, implied forward curves and par yield curves, each derived from the same underlying prices.",
+    "token_estimate": 135,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "6384338d-c6ce-4b44-bd70-728361214cc0",
+    "document_id": "Yield_curve",
+    "sequence": 1,
+    "section_title": "Significance of slope and shape",
+    "content": "The slope is often summarised by a term spread. A common choice is the 10-year minus 3-month Treasury rates (the New York Fed\u2019s convention). Other pairs, such as 10-year minus 2-year, are also used in practice. A wider spread indicates a steeper slope. There are two common explanations for upward sloping yield curves. First, it may be that the market is anticipating a rise in the risk-free rate. If investors hold off investing now, they may receive a better rate in the future. Therefore, under the arbitrage pricing theory, investors who are willing to lock their money in now need to be compensated for the anticipated rise in rates\u2014thus the higher interest rate on long-term investments. Another explanation is that longer maturities entail greater risks for the investor (i.e. the lender). A risk premium is needed by the market, since at longer durations there is more uncertainty and a greater chance of events that impact the investment. This explanation depends on the notion that the economy faces more uncertainties in the distant future than in the near term. This effect is referred to as the liquidity spread. If the market expects more volatility in the future, even if interest rates are anticipated to decline, the increase in the risk premium can influence the spread and cause an increasing yield. The opposite situation can also occur, in which the yield curve is \"inverted\", with short-term interest rates higher than long-term. For instance, in November 2004, the yield curve for UK Government bonds was partially inverted. The yield for the 10-year bond stood at 4.68%, but was only 4.45% for the 30-year bond. The market's anticipation of falling interest rates causes such incidents. Negative liquidity premiums can also exist if long-term investors dominate the market, but the prevailing view is that a positive liquidity premium dominates, so only the anticipation of falling interest rates will cause an inverted yield curve. Strongly inverted yield curves have historically preceded economic recessions. The shape of the yield curve is influenced by supply and demand: for instance, if there is a large demand for long bonds, for instance from pension funds to match their fixed liabilities to pensioners, and not enough bonds in existence to meet this demand, then the yields on long bonds can be expected to be low, irrespective of market participants' views about future events. The yield curve may also be flat or",
+    "token_estimate": 400,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "7700bfbf-024b-4322-9af9-2c6a063200d7",
+    "document_id": "Yield_curve",
+    "sequence": 2,
+    "section_title": "Significance of slope and shape",
+    "content": "for instance from pension funds to match their fixed liabilities to pensioners, and not enough bonds in existence to meet this demand, then the yields on long bonds can be expected to be low, irrespective of market participants' views about future events. The yield curve may also be flat or hump-shaped, due to anticipated interest rates being steady, or short-term volatility outweighing long-term volatility. Yield curves continually move all the time that the markets are open, reflecting the market's reaction to news. A further \"stylized fact\" is that yield curves tend to move in parallel; i.e.: the yield curve shifts up and down as interest rate levels rise and fall, which is then referred to as a \"parallel shift\".",
+    "token_estimate": 119,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "ffeb51c9-daeb-4873-a6e5-55add43a7bf7",
+    "document_id": "Yield_curve",
+    "sequence": 3,
+    "section_title": "Types of yield curve",
+    "content": "There is no single yield curve describing the cost of money for everybody. The most important factor in determining a yield curve is the currency in which the securities are denominated. The economic position of the countries and companies using each currency is a primary factor in determining the yield curve. Different institutions borrow money at different rates, depending on their creditworthiness.\nThe yield curves corresponding to the bonds issued by governments in their own currency are called the government bond yield curve (government curve). Banks and other issuers are quoted on swap curves, which reflect interbank funding and derivatives pricing and are typically above government curves of the same currency. Market participants refer to these as the swap curve. The construction of the swap curve is described below.\nBesides the government curve and the LIBOR curve, there are corporate (company) curves. These are constructed from the yields of bonds issued by corporations. Since corporations have less creditworthiness than most governments and most large banks, these yields are typically higher. Corporate yield curves are often quoted in terms of a \"credit spread\" over the relevant swap curve. For instance the five-year yield curve point for Vodafone might be quoted as LIBOR +0.25%, where 0.25% (often written as 25 basis points or 25bps) is the credit spread.",
+    "token_estimate": 216,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "77038b4b-a76a-492e-8bc4-3371b7c74ee4",
+    "document_id": "Yield_curve",
+    "sequence": 4,
+    "section_title": "= Inverted yield curve =",
+    "content": "Under unusual circumstances, investors will settle for lower yields associated with low-risk long-term debt if they think the economy will enter a recession in the near future. For example, the S&P 500 experienced a dramatic fall in mid 2007, from which it recovered completely by early 2013. Investors who had purchased 10-year Treasuries in 2006 would have received a safe and steady yield until 2015, possibly achieving better returns than those investing in equities during that volatile period.\nEconomist Campbell Harvey's 1986 dissertation showed that an inverted yield curve accurately forecasts U.S. recessions. An inverted curve has indicated a worsening economic situation in the future eight times since 1970.\nIn addition to potentially signaling an economic decline, inverted yield curves also imply that the market believes inflation will remain low. This is because, even if there is a recession, a low bond yield will still be offset by low inflation. However, technical factors, such as a flight to quality or global economic or currency situations, may cause an increase in demand for bonds on the long end of the yield curve, causing long-term rates to fall. Falling long-term rates in the presence of rising short-term rates is known as \"Greenspan's Conundrum\".",
+    "token_estimate": 201,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "c9d0a944-ac11-4b20-85be-4023acc60136",
+    "document_id": "Yield_curve",
+    "sequence": 5,
+    "section_title": "Relationship to the business cycle",
+    "content": "The slope of the yield curve is one of the most powerful predictors of future economic growth, inflation, and recessions.\n One measure of the yield curve slope (i.e. the difference between 10-year Treasury bond rate and the 3-month Treasury bond rate) is included in the Financial Stress Index published by the St. Louis Fed. A different measure of the slope (i.e. the difference between 10-year Treasury bond rates and the federal funds rate) is incorporated into the Index of Leading Economic Indicators published by The Conference Board.\nAn inverted yield curve is often a harbinger of recession. A positively sloped yield curve is often a harbinger of inflationary growth. Work by Arturo Estrella and Tobias Adrian has established the predictive power of an inverted yield curve to signal a recession. Their models show that when the difference between short-term interest rates (they use 3-month T-bills) and long-term interest rates (10-year Treasury bonds) at the end of a federal reserve tightening cycle is negative or less than 93 basis points positive, a rise in unemployment usually occurs. The New York Fed publishes a monthly recession probability prediction derived from the yield curve and based on Estrella's work.\nAll the recessions in the US since 1970 have been preceded by an inverted yield curve (10-year vs 3-month). Over the same time frame, every occurrence of an inverted yield curve has been followed by recession as declared by the NBER business cycle dating committee. The yield curve became inverted in the first half of 2019, for the first time since 2007.\n\nEstrella and others have postulated that the yield curve affects the business cycle via the balance sheet of banks (or bank-like financial institutions). When the yield curve is inverted, banks are often caught paying more on short-term deposits (or other forms of short-term wholesale funding) than they are making on new long-term loans leading to a loss of profitability and reluctance to lend resulting in a credit crunch. When the yield curve is upward sloping, banks can profitably take-in short-term deposits and make new long-term loans so they are eager to supply credit to borrowers. This eventually leads to a credit bubble.",
+    "token_estimate": 360,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "a2507e57-9881-4d52-9d0c-63dab7948d8d",
+    "document_id": "Yield_curve",
+    "sequence": 6,
+    "section_title": "Historical development of yield curve theory",
+    "content": "On August 15, 1971, U.S. President Richard Nixon announced that the U.S. dollar would no longer be based on the gold standard, thereby ending the Bretton Woods system and initiating the era of floating exchange rates.\nFloating exchange rates made life more complicated for bond traders, including those at Salomon Brothers in New York City. Encouraged by Marty Liebowitz, traders began thinking about bond yields in new ways by the middle of the 1970s. Rather than think of each maturity (a ten-year bond, a five-year, etc.) as a separate marketplace, they began drawing a curve through all their yields. The bit nearest the present time became known as the short end\u2014yields of bonds further out became, naturally, the long end.\nAcademics had to play catch up with practitioners in this matter. One important theoretic development came from a Czech mathematician, Oldrich Vasicek, who argued in a 1977 paper that bond prices all along the curve are driven by the short end (under risk-neutral equivalent martingale measure) and accordingly by short-term interest rates. The mathematical model for Vasicek's work was given by an Ornstein\u2013Uhlenbeck process, but has since been discredited because the model predicts a positive probability that the short rate becomes negative and is inflexible in creating yield curves of different shapes. Vasicek's model has been superseded by many different models including the Hull\u2013White model (which allows for time varying parameters in the Ornstein\u2013Uhlenbeck process), the Cox\u2013Ingersoll\u2013Ross model, which is a modified Bessel process, and the Heath\u2013Jarrow\u2013Morton framework. There are also many modifications to each of these models, but see the article on short-rate model. Another modern approach is the LIBOR market model, introduced by Brace, Gatarek and Musiela in 1997 and advanced by others later. In 1996, a group of derivatives traders led by Olivier Doria (then head of swaps at Deutsche Bank) and Michele Faissola, contributed to an extension of the swap yield curves in all the major European currencies. Until then the market would give prices until 15 years maturities. The team extended the maturity of European yield curves up to 50 years (for the lira, French franc, Deutsche mark, Danish krone and many other currencies including the ecu). This innovation was a major contribution towards the issuance of long dated zero-coupon bonds and the creation of long dated mortgages.",
+    "token_estimate": 383,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "a2fe86a8-69da-4e71-944f-d00530746f49",
+    "document_id": "Yield_curve",
+    "sequence": 7,
+    "section_title": "Effect on bond prices",
+    "content": "There is a time dimension to the analysis of bond values. A 10-year bond at purchase becomes a 9-year bond a year later, and the year after it becomes an 8-year bond, etc. Each year the bond moves incrementally closer to maturity, resulting in lower volatility and shorter duration and demanding a lower interest rate when the yield curve is rising. Since falling rates create increasing prices, the value of a bond initially will rise as the lower rates of the shorter maturity become its new market rate. Because a bond is always anchored by its final maturity, the price at some point must change direction and fall to par value at redemption.\nA bond's market value at different times in its life can be calculated. When the yield curve is steep, the bond is predicted to have a large capital gain in the first years before falling in price later. When the yield curve is flat, the capital gain is predicted to be much less, and there is little variability in the bond's total returns over time.\nAs market rates of interest increase or decrease, the impact is rarely the same at each point along the yield curve, i.e. the curve rarely moves up or down in parallel. Because longer-term bonds have a larger duration, a rise in rates will cause a larger capital loss for them, than for short-term bonds. But almost always, the long maturity's rate will change much less, flattening the yield curve. The greater change in rates at the short end will offset to some extent the advantage provided by the shorter bond's lower duration.\nLong duration bonds tend to be mean reverting, meaning that they readily gravitate to a long-run average. The middle of the curve (5\u201310 years) will see the greatest percentage gain in yields if there is anticipated inflation even if interest rates have not changed. The long-end does not move quite as much percentage-wise because of the mean reverting properties.\nThe yearly 'total return' from the bond is a) the sum of the coupon's yield plus b) the capital gain from the changing valuation as it slides down the yield curve and c) any capital gain or loss from changing interest rates at that point in the yield curve.",
+    "token_estimate": 378,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "8f4c63ff-fee8-4c95-a658-f78614f7caa3",
+    "document_id": "Yield_curve",
+    "sequence": 8,
+    "section_title": "Books",
+    "content": "J H M Darbyshire (2017). Pricing and Trading Interest Rate Derivatives (2nd ed. 2017 ed.). Aitch and Dee Ltd. ISBN 978-0995455528.\nLeif B.G. Andersen & Vladimir V. Piterbarg (2010). Interest Rate Modeling. Atlantic Financial Press. ISBN 978-0-9844221-0-4.\nJessica James & Nick Webber (2001). Interest Rate Modelling. John Wiley & Sons. ISBN 978-0-471-97523-6.\nRiccardo Rebonato (1998). Interest-Rate Option Models. John Wiley & Sons. ISBN 978-0-471-97958-6.\nNicholas Dunbar (2000). Inventing Money. John Wiley & Sons. ISBN 978-0-471-89999-0.\nN. Anderson, F. Breedon, M. Deacon, A. Derry and M. Murphy (1996). Estimating and Interpreting the Yield Curve. John Wiley & Sons. ISBN 978-0-471-96207-6.{{cite book}}:  CS1 maint: multiple names: authors list (link)\nAndrew J.G. Cairns (2004). Interest Rate Models \u2013 An Introduction. Princeton University Press. ISBN 978-0-691-11894-9.\nJohn C. Hull (1989). Options, Futures and Other Derivatives. Prentice Hall. ISBN 978-0-13-015822-2. See in particular the section Theories of the term structure (section 4.7 in the fourth edition).\nDamiano Brigo; Fabio Mercurio (2001). Interest Rate Models \u2013 Theory and Practice. Springer. ISBN 978-3-540-41772-9.\nDonald R. van Deventer; Kenji Imai; Mark Mesler (2004). Advanced Financial Risk Management, An Integrated Approach to Credit Risk and Interest Rate Risk Management. John Wiley & Sons. ISBN 978-0-470-82126-8.",
+    "token_estimate": 196,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "f832e41a-ce2f-435a-bf90-f6a1554da591",
+    "document_id": "Yield_curve",
+    "sequence": 9,
+    "section_title": "Articles",
+    "content": "Ruben D Cohen (2006) \"A VaR-Based Model for the Yield Curve [download]\" Wilmott Magazine, May Issue.\nLin Chen (1996). Stochastic Mean and Stochastic Volatility \u2013 A Three-Factor Model of the Term Structure of Interest Rates and Its Application to the Pricing of Interest Rate Derivatives. Blackwell Publishers.\nPaul F. Cwik (2005) \"The Inverted Yield Curve and the Economic Downturn [download]\" New Perspectives on Political Economy, Volume 1, Number 1, 2005, pp. 1\u201337.\nRoger J.-B. Wets, Stephen W. Bianchi, \"Term and Volatility Structures\" in Stavros A. Zenios & William T. Ziemba (2006). Handbook of Asset and Liability Management, Volume 1. North-Holland. ISBN 978-0-444-50875-1.\nHagan, P.; West, G. (June 2006). \"Interpolation Methods for Curve Construction\" (PDF). Applied Mathematical Finance. 13 (2): 89\u2013129. CiteSeerX 10.1.1.529.9594. doi:10.1080/13504860500396032. S2CID 17232942.\nRise in Rates Jolts Markets \u2013 Fed's Effort to Revive Economy Is Complicated by Fresh Jump in Borrowing Costs author = Liz Rappaport. Wall Street Journal. May 28, 2009. p. A.1",
+    "token_estimate": 156,
+    "title": "Yield curve",
+    "url": "https://en.wikipedia.org/wiki/Yield_curve",
+    "domain": "finance"
+  }
+]

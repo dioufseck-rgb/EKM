@@ -1,0 +1,294 @@
+[
+  {
+    "assertion_id": "8a0c7dc4-8838-47f7-8c5e-3fef826c5cdd",
+    "chunk_id": "971d8c2d-5e1f-4cb5-8cda-9a12494ca06a",
+    "document_id": "Dividend_discount_model",
+    "claim_text": "The presumption of a steady and perpetual growth rate less than the cost of capital may not be reasonable.",
+    "subject": "presumption of a steady and perpetual growth rate less than the cost of capital",
+    "predicate_type": "constrains",
+    "object_text": "reasonableness",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The presumption of a steady and perpetual growth rate less than the cost of capital may not be reasonable.",
+    "source_document": "Dividend discount model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2e46f066-1a6a-4397-a26e-156b4acf3357",
+    "chunk_id": "971d8c2d-5e1f-4cb5-8cda-9a12494ca06a",
+    "document_id": "Dividend_discount_model",
+    "claim_text": "If the stock does not currently pay a dividend, like many growth stocks, more general versions of the discounted dividend model must be used to value the stock.",
+    "subject": "more general versions of the discounted dividend model",
+    "predicate_type": "requires",
+    "object_text": "use to value the stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the stock does not currently pay a dividend, like many growth stocks, more general versions of the discounted dividend model must be used to value the stock.",
+    "source_document": "Dividend discount model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "948a96e0-c3d4-4013-af64-4653a27885a5",
+    "chunk_id": "971d8c2d-5e1f-4cb5-8cda-9a12494ca06a",
+    "document_id": "Dividend_discount_model",
+    "claim_text": "One common technique is to assume that the Modigliani\u2013Miller hypothesis of dividend irrelevance is true, and therefore replace the stock's dividend D with E earnings per share.",
+    "subject": "technique",
+    "predicate_type": "implements",
+    "object_text": "assume that the Modigliani\u2013Miller hypothesis of dividend irrelevance is true, and therefore replace the stock's dividend D with E earnings per share",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One common technique is to assume that the Modigliani\u2013Miller hypothesis of dividend irrelevance is true, and therefore replace the stock's dividend D with E earnings per share.",
+    "source_document": "Dividend discount model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Modigliani\u2013Miller hypothesis"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d5f7cb0b-bd83-4e9d-a421-a81394e0c552",
+    "chunk_id": "971d8c2d-5e1f-4cb5-8cda-9a12494ca06a",
+    "document_id": "Dividend_discount_model",
+    "claim_text": "This requires the use of earnings growth rather than dividend growth, which might be different.",
+    "subject": "replacing the stock's dividend D with E earnings per share",
+    "predicate_type": "requires",
+    "object_text": "the use of earnings growth rather than dividend growth",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This requires the use of earnings growth rather than dividend growth, which might be different.",
+    "source_document": "Dividend discount model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac4eae43-6adb-4456-b0b9-37e027ce681b",
+    "chunk_id": "971d8c2d-5e1f-4cb5-8cda-9a12494ca06a",
+    "document_id": "Dividend_discount_model",
+    "claim_text": "This approach is especially useful for computing the residual value of future periods.",
+    "subject": "This approach",
+    "predicate_type": "relates_to",
+    "object_text": "computing the residual value of future periods",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This approach is especially useful for computing the residual value of future periods.",
+    "source_document": "Dividend discount model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "185c1589-bba0-4f7e-8406-bd1a7c41c537",
+    "chunk_id": "971d8c2d-5e1f-4cb5-8cda-9a12494ca06a",
+    "document_id": "Dividend_discount_model",
+    "claim_text": "The stock price resulting from the Gordon model is sensitive to the growth rate g chosen.",
+    "subject": "stock price resulting from the Gordon model",
+    "predicate_type": "relates_to",
+    "object_text": "sensitive to the growth rate g chosen",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The stock price resulting from the Gordon model is sensitive to the growth rate g chosen.",
+    "source_document": "Dividend discount model",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Gordon model"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

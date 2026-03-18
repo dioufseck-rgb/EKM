@@ -1,0 +1,802 @@
+[
+  {
+    "assertion_id": "cd3596a9-3ac9-4910-87c4-85beb47458cd",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "It provides an easier approach to compare banks across different geographies",
+    "subject": "it",
+    "predicate_type": "relates_to",
+    "object_text": "an easier approach to compare banks across different geographies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It provides an easier approach to compare banks across different geographies",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "818e7606-a7d8-41bb-8273-9b36e3a7a356",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "Off-balance-sheet exposures can be easily included in capital adequacy calculations",
+    "subject": "off-balance-sheet exposures",
+    "predicate_type": "relates_to",
+    "object_text": "easily included in capital adequacy calculations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Off-balance-sheet exposures can be easily included in capital adequacy calculations",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1e99f2ef-b18c-4e3f-a608-4751251e0487",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "Banks are not deterred from carrying low risk liquid assets in their books",
+    "subject": "banks",
+    "predicate_type": "relates_to",
+    "object_text": "not deterred from carrying low risk liquid assets in their books",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks are not deterred from carrying low risk liquid assets in their books",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "828fa25e-6aff-4f6e-b124-30cafa168688",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "Different classes of assets have different risk weights associated with them.",
+    "subject": "different classes of assets",
+    "predicate_type": "relates_to",
+    "object_text": "different risk weights associated with them",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Different classes of assets have different risk weights associated with them.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e45f380-d97b-44d9-b535-728e422919e0",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "The calculation of risk weights is dependent on whether the bank has adopted the standardized or IRB approach under the Basel II framework.",
+    "subject": "calculation of risk weights",
+    "predicate_type": "relates_to",
+    "object_text": "dependent on whether the bank has adopted the standardized or IRB approach under the Basel II framework",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The calculation of risk weights is dependent on whether the bank has adopted the standardized or IRB approach under the Basel II framework.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "basel"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cbfa9854-a375-4f77-8a0d-ef9350d47c9f",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "Some assets, such as debentures, are assigned a higher risk than others, such as cash or government securities/bonds.",
+    "subject": "some assets, such as debentures",
+    "predicate_type": "relates_to",
+    "object_text": "assigned a higher risk than others, such as cash or government securities/bonds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some assets, such as debentures, are assigned a higher risk than others, such as cash or government securities/bonds.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ef5ca629-b956-4c54-883b-cfe9aeb4c7d1",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "Weighting assets according to their level of risk primarily adjusts for assets that are less risky by allowing banks to discount lower-risk assets.",
+    "subject": "weighting assets according to their level of risk",
+    "predicate_type": "relates_to",
+    "object_text": "primarily adjusts for assets that are less risky by allowing banks to discount lower-risk assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Weighting assets according to their level of risk primarily adjusts for assets that are less risky by allowing banks to discount lower-risk assets.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6a91fb97-fa7e-404e-acb7-bee224c4fdd6",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "Government debt is allowed a 0% \"risk weighting\".",
+    "subject": "government debt",
+    "predicate_type": "relates_to",
+    "object_text": "allowed a 0% \"risk weighting\"",
+    "object_value": 0.0,
+    "object_unit": "%",
+    "source_text": "Government debt is allowed a 0% \"risk weighting\".",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "government debt"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da048364-72fb-4dde-9cc7-3f7529d32246",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "Government debt is subtracted from total assets for purposes of calculating the CAR.",
+    "subject": "government debt",
+    "predicate_type": "relates_to",
+    "object_text": "subtracted from total assets for purposes of calculating the CAR",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Government debt is subtracted from total assets for purposes of calculating the CAR.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital adequacy",
+      "government debt"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7dadc951-84a1-4e70-9f09-e126ed1e256d",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "A document was written in 1988 by the Basel Committee on Banking Supervision which recommends certain standards and regulations for banks.",
+    "subject": "document",
+    "predicate_type": "governs",
+    "object_text": "recommends certain standards and regulations for banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A document was written in 1988 by the Basel Committee on Banking Supervision which recommends certain standards and regulations for banks.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ab563b4c-1bc6-4c82-a981-ca0138078610",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "This was called Basel I.",
+    "subject": "document",
+    "predicate_type": "defines",
+    "object_text": "Basel I",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This was called Basel I.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11f2594a-3b63-4cf4-a055-dcc325b4e06c",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "The Committee came out with a revised framework known as Basel II.",
+    "subject": "Committee",
+    "predicate_type": "governs",
+    "object_text": "revised framework known as Basel II",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Committee came out with a revised framework known as Basel II.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "98be4808-fe2e-48af-b3ec-d79bdce4a555",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "The main recommendation of this document is that banks should hold enough capital to equal at least 8% of its risk-weighted assets.",
+    "subject": "document",
+    "predicate_type": "requires",
+    "object_text": "banks should hold enough capital to equal at least 8% of its risk-weighted assets",
+    "object_value": 8.0,
+    "object_unit": "%",
+    "source_text": "The main recommendation of this document is that banks should hold enough capital to equal at least 8% of its risk-weighted assets.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk-weighted assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62ba4f43-919d-4dd1-a835-cb6f00398344",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "The committee has published another revised framework known as Basel III.",
+    "subject": "committee",
+    "predicate_type": "governs",
+    "object_text": "another revised framework known as Basel III",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The committee has published another revised framework known as Basel III.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a1f37805-2955-4a44-8242-63b5dc5e5ada",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "The calculation of the amount of risk-weighted assets depends on which revision of the Basel Accord is being followed by the financial institution.",
+    "subject": "calculation of the amount of risk-weighted assets",
+    "predicate_type": "relates_to",
+    "object_text": "depends on which revision of the Basel Accord is being followed by the financial institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The calculation of the amount of risk-weighted assets depends on which revision of the Basel Accord is being followed by the financial institution.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk-weighted assets",
+      "basel"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel Accord"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2cda2de-c812-484f-9bd3-20134b43b76b",
+    "chunk_id": "005c1b81-e29e-4346-aa14-a8ef0d0e1ab8",
+    "document_id": "Risk-weighted_asset",
+    "claim_text": "Most countries have implemented some version of this regulation.",
+    "subject": "most countries",
+    "predicate_type": "implements",
+    "object_text": "some version of this regulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Most countries have implemented some version of this regulation.",
+    "source_document": "Risk-weighted asset",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  }
+]

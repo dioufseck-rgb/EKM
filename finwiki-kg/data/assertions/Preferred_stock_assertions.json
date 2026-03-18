@@ -1,0 +1,4995 @@
+[
+  {
+    "assertion_id": "9a57285e-daba-4b84-a227-91bc238d7159",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Nigeria, preferred shares make up a small percentage of a company's stock.",
+    "subject": "preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "a small percentage of a company's stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Nigeria, preferred shares make up a small percentage of a company's stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ba4d0ff-31d0-4fd8-aca3-ff523950f9a3",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Nigeria, preferred shares have no voting rights except in cases where they are not paid dividends.",
+    "subject": "preferred shares",
+    "predicate_type": "prohibits",
+    "object_text": "voting rights",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Nigeria, preferred shares have no voting rights except in cases where they are not paid dividends.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred stock",
+      "voting rights"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41ed8313-81b4-4508-a8c3-236ccfbad336",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Nigeria, owners of preferred shares are entitled to a greater percentage of company profits.",
+    "subject": "owners of preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "entitled to a greater percentage of company profits",
+    "object_value": null,
+    "object_unit": "%",
+    "source_text": "In Nigeria, owners of preferred shares are entitled to a greater percentage of company profits.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred stock",
+      "company profits"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "264cae0d-38ce-46ed-9067-f57934199ad1",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Czech Republic, preferred stock cannot be more than 50 percent of total equity.",
+    "subject": "preferred stock",
+    "predicate_type": "constrains",
+    "object_text": "cannot be more than 50 percent of total equity",
+    "object_value": 50.0,
+    "object_unit": "%",
+    "source_text": "In Czech Republic, preferred stock cannot be more than 50 percent of total equity.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred stock",
+      "equity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a88c7d42-4106-478b-9e75-0e72c2373549",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In France, by a law enacted in June 2004, France allows the creation of preferred shares.",
+    "subject": "France",
+    "predicate_type": "permits",
+    "object_text": "the creation of preferred shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In France, by a law enacted in June 2004, France allows the creation of preferred shares.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03c8222b-bfce-4174-9465-fcc5c5569143",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In South Africa, dividends from preference shares are not taxable as income when held by individuals.",
+    "subject": "dividends from preference shares",
+    "predicate_type": "prohibits",
+    "object_text": "taxable as income",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In South Africa, dividends from preference shares are not taxable as income when held by individuals.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "preference shares",
+      "taxation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2ac4e8f7-1b7b-4bf9-accd-5d6c7728c1db",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Brazil, up to 50 percent of the capital stock of a company may be composed of preferred stock.",
+    "subject": "capital stock of a company",
+    "predicate_type": "permits",
+    "object_text": "up to 50 percent may be composed of preferred stock",
+    "object_value": 50.0,
+    "object_unit": "%",
+    "source_text": "In Brazil, up to 50 percent of the capital stock of a company may be composed of preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital stock",
+      "preferred stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ba7e61c6-3b50-4f73-8a3b-014c5b480183",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Brazil, the preferred stock will have at least one less right than the common stock.",
+    "subject": "preferred stock",
+    "predicate_type": "constrains",
+    "object_text": "will have at least one less right than the common stock",
+    "object_value": 1.0,
+    "object_unit": null,
+    "source_text": "In Brazil, the preferred stock will have at least one less right than the common stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred stock",
+      "common stock",
+      "rights"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f8794f3f-8e09-4e8c-85cb-e079380dd54a",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Brazil, the preferred stock will have a preference in receiving dividends.",
+    "subject": "preferred stock",
+    "predicate_type": "relates_to",
+    "object_text": "will have a preference in receiving dividends",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Brazil, the preferred stock will have a preference in receiving dividends.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred stock",
+      "dividends"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "26542072-4d3c-4cb7-9ab5-f75fd8989d41",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Russia, no more than 25% of capital may be preferred stock.",
+    "subject": "capital",
+    "predicate_type": "constrains",
+    "object_text": "no more than 25% may be preferred stock",
+    "object_value": 25.0,
+    "object_unit": "%",
+    "source_text": "In Russia, no more than 25% of capital may be preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital",
+      "preferred stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "04a7affe-5c86-4687-b2be-9c189fc7b549",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Russia, voting rights are limited, but if dividends are not fully paid, shareholders obtain full voting rights.",
+    "subject": "voting rights",
+    "predicate_type": "constrains",
+    "object_text": "limited",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Russia, voting rights are limited, but if dividends are not fully paid, shareholders obtain full voting rights.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "voting rights"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "82e864a8-1528-453c-ae04-b3e642d5f998",
+    "chunk_id": "cd00fde8-2515-42c5-9c43-512d22bea1a8",
+    "document_id": "Preferred_stock",
+    "claim_text": "In Russia, if dividends are not fully paid, shareholders obtain full voting rights.",
+    "subject": "shareholders",
+    "predicate_type": "relates_to",
+    "object_text": "obtain full voting rights",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Russia, if dividends are not fully paid, shareholders obtain full voting rights.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "shareholders",
+      "voting rights"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4398ec45-9a8a-4354-8886-df7e3e6994fc",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "Preferred stock may or may not have a fixed liquidation value (or par value) associated with it.",
+    "subject": "Preferred stock",
+    "predicate_type": "relates_to",
+    "object_text": "fixed liquidation value (or par value)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preferred stock may or may not have a fixed liquidation value (or par value) associated with it.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "liquidation_value"
+    ],
+    "entities": [
+      "Preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b9659e0-2c7c-47c2-9ba1-821d38d78da6",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "This represents the amount of capital that was contributed to the corporation when the shares were first issued.",
+    "subject": "fixed liquidation value (or par value)",
+    "predicate_type": "defines",
+    "object_text": "the amount of capital that was contributed to the corporation when the shares were first issued",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This represents the amount of capital that was contributed to the corporation when the shares were first issued.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital",
+      "preferred_stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3977eb2d-c1da-452a-841e-f8e48e74c493",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "Preferred stock has a claim on liquidation proceeds of a stock corporation equal to its par (or liquidation) value, unless otherwise negotiated.",
+    "subject": "Preferred stock",
+    "predicate_type": "relates_to",
+    "object_text": "a claim on liquidation proceeds of a stock corporation equal to its par (or liquidation) value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preferred stock has a claim on liquidation proceeds of a stock corporation equal to its par (or liquidation) value, unless otherwise negotiated.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "liquidation"
+    ],
+    "entities": [
+      "Preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfb39637-2740-41b4-93c5-6dea49052a35",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "This claim is senior to that of common stock, which has only a residual claim.",
+    "subject": "claim of preferred stock on liquidation proceeds",
+    "predicate_type": "relates_to",
+    "object_text": "senior to that of common stock, which has only a residual claim",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This claim is senior to that of common stock, which has only a residual claim.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "common_stock",
+      "liquidation"
+    ],
+    "entities": [
+      "Preferred stock",
+      "Common stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "97628d08-fe1e-4f7a-b43a-b82da413c47f",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "Almost all preferred shares have a negotiated, fixed-dividend amount.",
+    "subject": "preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "a negotiated, fixed-dividend amount",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Almost all preferred shares have a negotiated, fixed-dividend amount.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "dividends"
+    ],
+    "entities": [
+      "Preferred shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "308d7520-e7e8-48fc-bdc4-8419c206d3ac",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "The dividend is usually specified as a percentage of the par value or as a fixed amount (for example, Pacific Gas & Electric 6% Series A Preferred).",
+    "subject": "dividend",
+    "predicate_type": "relates_to",
+    "object_text": "specified as a percentage of the par value or as a fixed amount",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The dividend is usually specified as a percentage of the par value or as a fixed amount (for example, Pacific Gas & Electric 6% Series A Preferred).",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "par_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0ea83492-355f-47b3-84f8-ad74bc63de5c",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "Sometimes, dividends on preferred shares may be negotiated as floating; they may change according to a benchmark interest-rate index (such as LIBOR).",
+    "subject": "dividends on preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "may be negotiated as floating; they may change according to a benchmark interest-rate index (such as LIBOR)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sometimes, dividends on preferred shares may be negotiated as floating; they may change according to a benchmark interest-rate index (such as LIBOR).",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "preferred_stock",
+      "interest_rates"
+    ],
+    "entities": [
+      "Preferred shares",
+      "LIBOR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b9c352d5-a272-493b-98d0-fbfe05cae193",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "Some preferred shares have special voting rights to approve extraordinary events (such as the issuance of new shares or approval of the acquisition of a company) or to elect directors, but most preferred shares have no voting rights associated with them.",
+    "subject": "preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "special voting rights to approve extraordinary events (such as the issuance of new shares or approval of the acquisition of a company) or to elect directors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some preferred shares have special voting rights to approve extraordinary events (such as the issuance of new shares or approval of the acquisition of a company) or to elect directors, but most preferred shares have no voting rights associated with them.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "voting_rights"
+    ],
+    "entities": [
+      "Preferred shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7187a73f-1f79-46a5-84a2-86490757d7fe",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "most preferred shares have no voting rights associated with them.",
+    "subject": "preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "no voting rights associated with them",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "most preferred shares have no voting rights associated with them.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "voting_rights"
+    ],
+    "entities": [
+      "Preferred shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7fce1367-3713-4734-89ad-37d571f04ae2",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "However, cumulative preferred shares may gain voting rights when the preferred dividends are in arrears for a substantial time; such provisions are sometimes required by corporate law or stock exchange listing rules.",
+    "subject": "cumulative preferred shares",
+    "predicate_type": "permits",
+    "object_text": "gain voting rights when the preferred dividends are in arrears for a substantial time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "However, cumulative preferred shares may gain voting rights when the preferred dividends are in arrears for a substantial time; such provisions are sometimes required by corporate law or stock exchange listing rules.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "voting_rights",
+      "dividends"
+    ],
+    "entities": [
+      "Preferred shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "749950a9-37ae-4b40-a9f1-e49309c0770f",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "such provisions are sometimes required by corporate law or stock exchange listing rules.",
+    "subject": "provisions for cumulative preferred shares gaining voting rights",
+    "predicate_type": "requires",
+    "object_text": "by corporate law or stock exchange listing rules",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "such provisions are sometimes required by corporate law or stock exchange listing rules.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "voting_rights",
+      "corporate_law",
+      "stock_exchange"
+    ],
+    "entities": [
+      "Preferred shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "21fad9b1-2662-4013-bd03-6545266f2b68",
+    "chunk_id": "b57f5273-9383-4b41-9664-cf4bc6903010",
+    "document_id": "Preferred_stock",
+    "claim_text": "Preferred shares in the U.S. normally carry a call provision, enabling the issuing corporation to repurchase the share at its (usually limited) discretion.",
+    "subject": "Preferred shares in the U.S.",
+    "predicate_type": "relates_to",
+    "object_text": "carry a call provision, enabling the issuing corporation to repurchase the share at its (usually limited) discretion",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preferred shares in the U.S. normally carry a call provision, enabling the issuing corporation to repurchase the share at its (usually limited) discretion.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "call_provision"
+    ],
+    "entities": [
+      "Preferred shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7bdd3b06-d50c-4ebb-9a7c-f83a6157e31f",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "A straight preferred does not participate in future earnings and dividend growth of the company, or growth in the price of the common stock.",
+    "subject": "straight preferred",
+    "predicate_type": "prohibits",
+    "object_text": "participation in future earnings and dividend growth of the company, or growth in the price of the common stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A straight preferred does not participate in future earnings and dividend growth of the company, or growth in the price of the common stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "dividends"
+    ],
+    "entities": [
+      "straight preferred",
+      "common stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bd940308-3790-41cb-a407-cdea4b407dbe",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "A bond has greater security than the preferred and has a maturity date at which the principal is to be repaid.",
+    "subject": "bond",
+    "predicate_type": "relates_to",
+    "object_text": "greater security than the preferred and has a maturity date at which the principal is to be repaid",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A bond has greater security than the preferred and has a maturity date at which the principal is to be repaid.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bonds",
+      "preferred_stock"
+    ],
+    "entities": [
+      "bond",
+      "preferred"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b5ff7982-2551-4bca-8677-a50befced767",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "The preferred has less security protection than the bond.",
+    "subject": "preferred",
+    "predicate_type": "relates_to",
+    "object_text": "less security protection than the bond",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The preferred has less security protection than the bond.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "bonds"
+    ],
+    "entities": [
+      "preferred",
+      "bond"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "44f768ff-2cc9-4d4a-8d84-d02071798bc3",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "The potential increase in the market price of the common (and its dividends, paid from future growth of the company) is lacking for the preferred.",
+    "subject": "preferred",
+    "predicate_type": "prohibits",
+    "object_text": "potential increase in the market price of the common (and its dividends, paid from future growth of the company)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The potential increase in the market price of the common (and its dividends, paid from future growth of the company) is lacking for the preferred.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "common_stock",
+      "dividends"
+    ],
+    "entities": [
+      "preferred",
+      "common"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "13e48ae6-3e08-4ba2-bf3c-bd76f6691c27",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "The preferred receives better equity credit at rating agencies than straight debt.",
+    "subject": "preferred",
+    "predicate_type": "relates_to",
+    "object_text": "better equity credit at rating agencies than straight debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The preferred receives better equity credit at rating agencies than straight debt.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "credit_rating"
+    ],
+    "entities": [
+      "preferred",
+      "straight debt",
+      "rating agencies"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9bba6e27-b9a8-423e-8b5d-ae3e021ab10d",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "Certain types of preferred stock qualify as Tier 1 capital.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "Tier 1 capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Certain types of preferred stock qualify as Tier 1 capital.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "Tier 1 capital"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce1860bb-3bc2-4a9b-9cad-a122fd5c90fd",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "This allows financial institutions to satisfy regulatory requirements without diluting common shareholders.",
+    "subject": "qualifying as Tier 1 capital",
+    "predicate_type": "permits",
+    "object_text": "financial institutions to satisfy regulatory requirements without diluting common shareholders",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This allows financial institutions to satisfy regulatory requirements without diluting common shareholders.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "regulatory_compliance"
+    ],
+    "entities": [
+      "financial institutions",
+      "common shareholders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "b035e2df-a777-4867-89f3-bb173d8b1e34",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "Through preferred stock, financial institutions are able to gain leverage while receiving Tier 1 equity credit.",
+    "subject": "financial institutions",
+    "predicate_type": "permits",
+    "object_text": "gain leverage while receiving Tier 1 equity credit through preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Through preferred stock, financial institutions are able to gain leverage while receiving Tier 1 equity credit.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "financial_leverage",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "financial institutions",
+      "preferred stock",
+      "Tier 1 equity credit"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9efab1c-7909-49b4-92d9-73d97f7554f9",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "If an investor paid par ($100) today for a typical straight preferred, such an investment would give a current yield of just over six percent.",
+    "subject": "typical straight preferred",
+    "predicate_type": "relates_to",
+    "object_text": "investment would give a current yield of just over six percent if an investor paid par ($100) today",
+    "object_value": 6.0,
+    "object_unit": "%",
+    "source_text": "If an investor paid par ($100) today for a typical straight preferred, such an investment would give a current yield of just over six percent.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "yield"
+    ],
+    "entities": [
+      "straight preferred"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "996f6635-7e2d-4190-8168-2724da26659b",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "If, in a few years, 10-year Treasuries were to yield more than 13 percent to maturity (as they did in 1981) these preferreds would yield at least 13 percent.",
+    "subject": "preferreds",
+    "predicate_type": "relates_to",
+    "object_text": "would yield at least 13 percent if, in a few years, 10-year Treasuries were to yield more than 13 percent to maturity (as they did in 1981)",
+    "object_value": 13.0,
+    "object_unit": "%",
+    "source_text": "If, in a few years, 10-year Treasuries were to yield more than 13 percent to maturity (as they did in 1981) these preferreds would yield at least 13 percent.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "treasuries",
+      "yield"
+    ],
+    "entities": [
+      "preferreds",
+      "10-year Treasuries"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "558923f2-2d71-45b2-98e8-f840807e8076",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "Since the rate of dividend is fixed, this would reduce their market price to $46, a 54-percent loss.",
+    "subject": "fixed dividend rate",
+    "predicate_type": "causes",
+    "object_text": "reduction of market price to $46, a 54-percent loss",
+    "object_value": 46.0,
+    "object_unit": "$",
+    "source_text": "Since the rate of dividend is fixed, this would reduce their market price to $46, a 54-percent loss.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "market_price"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dda8a5a9-ecb3-4f8b-ade4-e5d84dfd8e0d",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "The difference between straight preferreds and Treasuries (or any investment-grade Federal-agency or corporate bond) is that the bonds would move up to par as their maturity date approaches.",
+    "subject": "bonds",
+    "predicate_type": "relates_to",
+    "object_text": "would move up to par as their maturity date approaches",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The difference between straight preferreds and Treasuries (or any investment-grade Federal-agency or corporate bond) is that the bonds would move up to par as their maturity date approaches.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bonds",
+      "preferred_stock"
+    ],
+    "entities": [
+      "straight preferreds",
+      "Treasuries",
+      "investment-grade Federal-agency or corporate bond"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b717f691-644b-4908-8afe-cf0042830cce",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "The straight preferred (having no maturity date) might remain at these $40 levels (or lower) for a long time.",
+    "subject": "straight preferred",
+    "predicate_type": "relates_to",
+    "object_text": "might remain at these $40 levels (or lower) for a long time",
+    "object_value": 40.0,
+    "object_unit": "$",
+    "source_text": "The straight preferred (having no maturity date) might remain at these $40 levels (or lower) for a long time.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "straight preferred"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7b719bb1-404e-4993-a3c5-4e65bdc2c29d",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "Straight preferreds yield about 2 percent more than 10-year Treasuries.",
+    "subject": "straight preferreds",
+    "predicate_type": "relates_to",
+    "object_text": "yield about 2 percent more than 10-year Treasuries",
+    "object_value": 2.0,
+    "object_unit": "%",
+    "source_text": "Straight preferreds yield about 2 percent more than 10-year Treasuries.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "yield"
+    ],
+    "entities": [
+      "straight preferreds",
+      "10-year Treasuries"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2c7a0c9a-adb1-4ebd-8380-895f26b2e505",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "Straight preferreds rank ahead of common stock in case of bankruptcy.",
+    "subject": "straight preferreds",
+    "predicate_type": "relates_to",
+    "object_text": "rank ahead of common stock in case of bankruptcy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Straight preferreds rank ahead of common stock in case of bankruptcy.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "bankruptcy"
+    ],
+    "entities": [
+      "straight preferreds",
+      "common stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a6de137b-3c6f-43a2-82d8-94566f597cf8",
+    "chunk_id": "7cc699b3-33f4-4df9-9e78-eab303ad1c08",
+    "document_id": "Preferred_stock",
+    "claim_text": "Dividends are taxable at a maximum rate of 15% rather than at ordinary-income rates (as with bond interest).",
+    "subject": "dividends",
+    "predicate_type": "constrains",
+    "object_text": "taxable at a maximum rate of 15% rather than at ordinary-income rates (as with bond interest)",
+    "object_value": 15.0,
+    "object_unit": "%",
+    "source_text": "Dividends are taxable at a maximum rate of 15% rather than at ordinary-income rates (as with bond interest).",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "taxation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "684da6cc-4145-4b9c-86ea-13e8fe28cccf",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "Preferred shares are more common in private or pre-public companies.",
+    "subject": "Preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "more common in private or pre-public companies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preferred shares are more common in private or pre-public companies.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "private_companies",
+      "pre-public_companies"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "945b17cc-c4e8-4470-8f80-0c67b7ca4d89",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "It is useful to distinguish between the control of and the economic interest in the company.",
+    "subject": "distinguishing between the control of and the economic interest in the company",
+    "predicate_type": "relates_to",
+    "object_text": "useful",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is useful to distinguish between the control of and the economic interest in the company.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate_governance",
+      "economic_interest"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "10a2988f-add0-46f9-a4ae-da662bda4011",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "Government regulations and the rules of stock exchanges may either encourage or discourage the issuance of publicly traded preferred shares.",
+    "subject": "Government regulations and the rules of stock exchanges",
+    "predicate_type": "relates_to",
+    "object_text": "may either encourage or discourage the issuance of publicly traded preferred shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Government regulations and the rules of stock exchanges may either encourage or discourage the issuance of publicly traded preferred shares.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b8f2c46-8cc0-426d-90e5-2f6d7f4a914a",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "In many countries, banks are encouraged to issue preferred stock as a source of Tier 1 capital.",
+    "subject": "banks",
+    "predicate_type": "relates_to",
+    "object_text": "encouraged to issue preferred stock as a source of Tier 1 capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In many countries, banks are encouraged to issue preferred stock as a source of Tier 1 capital.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "tier_1_capital"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "071b3343-d822-4c1e-81f6-1efbf028376b",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "A company may issue several classes of preferred stock.",
+    "subject": "company",
+    "predicate_type": "permits",
+    "object_text": "issue several classes of preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A company may issue several classes of preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c5ac781e-5f30-4cb0-938d-1371844978bf",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "A company raising venture capital or other funding may undergo several rounds of financing, with each round receiving separate rights and having a separate class of preferred stock.",
+    "subject": "company raising venture capital or other funding",
+    "predicate_type": "relates_to",
+    "object_text": "may undergo several rounds of financing, with each round receiving separate rights and having a separate class of preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A company raising venture capital or other funding may undergo several rounds of financing, with each round receiving separate rights and having a separate class of preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "venture_capital",
+      "preferred_stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2e82eed-ca57-43a2-8383-99249cb6df8c",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "Such a company might have \"Series A Preferred\", \"Series B Preferred\", \"Series C Preferred\", and corresponding shares of common stock.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "might have \"Series A Preferred\", \"Series B Preferred\", \"Series C Preferred\", and corresponding shares of common stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such a company might have \"Series A Preferred\", \"Series B Preferred\", \"Series C Preferred\", and corresponding shares of common stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "common_stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a9884794-763a-4907-b348-0b55307fd8f3",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "Typically, company founders and employees receive common stock, while venture capital investors receive preferred shares, often with a liquidation preference.",
+    "subject": "company founders and employees",
+    "predicate_type": "relates_to",
+    "object_text": "receive common stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Typically, company founders and employees receive common stock, while venture capital investors receive preferred shares, often with a liquidation preference.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "common_stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "00f21ec3-5837-4c2e-a5ca-dc9425b32147",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "venture capital investors receive preferred shares, often with a liquidation preference.",
+    "subject": "venture capital investors",
+    "predicate_type": "relates_to",
+    "object_text": "receive preferred shares, often with a liquidation preference",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "venture capital investors receive preferred shares, often with a liquidation preference.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "liquidation_preference"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8ae9a615-bfa2-41a6-a124-4a0ceabad9a4",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "The preferred shares are typically converted to common shares with the completion of an initial public offering or acquisition.",
+    "subject": "preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "typically converted to common shares with the completion of an initial public offering or acquisition",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The preferred shares are typically converted to common shares with the completion of an initial public offering or acquisition.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "common_stock",
+      "ipo",
+      "acquisition"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9ca39c01-4427-48a6-879f-3957d23a5a0b",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "An additional advantage of issuing preferred shares to investors but common shares to employees is the ability to retain a lower 409(a) valuation for common shares and thus a lower strike price for incentive stock options.",
+    "subject": "issuing preferred shares to investors but common shares to employees",
+    "predicate_type": "causes",
+    "object_text": "ability to retain a lower 409(a) valuation for common shares and thus a lower strike price for incentive stock options",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An additional advantage of issuing preferred shares to investors but common shares to employees is the ability to retain a lower 409(a) valuation for common shares and thus a lower strike price for incentive stock options.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "common_stock",
+      "409(a)_valuation",
+      "incentive_stock_options"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ef3f4107-24f0-4bfe-9a45-02e062e7fc2d",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "This allows employees to receive more gains on their stock.",
+    "subject": "This",
+    "predicate_type": "causes",
+    "object_text": "allows employees to receive more gains on their stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This allows employees to receive more gains on their stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "employee_stock_options"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "27f5f8a5-0a2e-49c6-871b-69dcd6453dda",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "In the United States, there are two types of preferred stocks: straight preferreds and convertible preferreds.",
+    "subject": "preferred stocks",
+    "predicate_type": "classifies",
+    "object_text": "straight preferreds and convertible preferreds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the United States, there are two types of preferred stocks: straight preferreds and convertible preferreds.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "United States"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "09c5ec29-0c7f-4cd6-8335-c5792f9944fa",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "Straight preferreds are issued in perpetuity (although some are subject to call by the issuer, under certain conditions) and pay a stipulated dividend rate to the holder.",
+    "subject": "Straight preferreds",
+    "predicate_type": "relates_to",
+    "object_text": "issued in perpetuity (although some are subject to call by the issuer, under certain conditions) and pay a stipulated dividend rate to the holder",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Straight preferreds are issued in perpetuity (although some are subject to call by the issuer, under certain conditions) and pay a stipulated dividend rate to the holder.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "straight_preferred_stock",
+      "dividends"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "caf7ccb5-ff13-4aa7-bd3f-3c7cfc4fbab8",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "Convertible preferreds\u2014in addition to the foregoing features of a straight preferred\u2014contain a provision by which the holder may convert the preferred into the common stock of the company (or sometimes, into the common stock of an affiliated company) under certain conditions (among which may be the specification of a future date when conversion may begin, a certain number of common shares per preferred share, or a certain price per share for the common stock).",
+    "subject": "Convertible preferreds",
+    "predicate_type": "relates_to",
+    "object_text": "contain a provision by which the holder may convert the preferred into the common stock of the company (or sometimes, into the common stock of an affiliated company) under certain conditions (among which may be the specification of a future date when conversion may begin, a certain number of common shares per preferred share, or a certain price per share for the common stock)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Convertible preferreds\u2014in addition to the foregoing features of a straight preferred\u2014contain a provision by which the holder may convert the preferred into the common stock of the company (or sometimes, into the common stock of an affiliated company) under certain conditions (among which may be the specification of a future date when conversion may begin, a certain number of common shares per preferred share, or a certain price per share for the common stock).",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "convertible_preferred_stock",
+      "common_stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59d9532c-fda0-4338-aa4d-c7d380c238d2",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "There are income-tax advantages generally available to corporations investing in preferred stocks in the United States.",
+    "subject": "corporations investing in preferred stocks",
+    "predicate_type": "relates_to",
+    "object_text": "income-tax advantages generally available",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are income-tax advantages generally available to corporations investing in preferred stocks in the United States.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "taxation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "United States"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0abd7ed7-9158-42fb-89d3-cd3171ca62d4",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "But for individuals, a straight preferred stock, a hybrid between a bond and a stock, bears some disadvantages of each type of securities without enjoying the advantages of either.",
+    "subject": "straight preferred stock",
+    "predicate_type": "relates_to",
+    "object_text": "bears some disadvantages of each type of securities without enjoying the advantages of either",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "But for individuals, a straight preferred stock, a hybrid between a bond and a stock, bears some disadvantages of each type of securities without enjoying the advantages of either.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "straight_preferred_stock",
+      "bonds",
+      "securities"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "22935544-b5df-489d-ad49-1c27dcdd8905",
+    "chunk_id": "f6a75e2e-3b0c-4d22-bf28-ed50a055b3d4",
+    "document_id": "Preferred_stock",
+    "claim_text": "Like a bond, a straight preferred does not participate in future earnings and dividend growth of the company, or growth in the price of the common stock.",
+    "subject": "straight preferred",
+    "predicate_type": "relates_to",
+    "object_text": "does not participate in future earnings and dividend growth of the company, or growth in the price of the common stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Like a bond, a straight preferred does not participate in future earnings and dividend growth of the company, or growth in the price of the common stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "straight_preferred_stock",
+      "bonds",
+      "dividends",
+      "common_stock"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "89cb8902-77a5-41de-b047-36a9bff23b05",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "Preferred stocks offer a company an alternative form of financing\u2014for example through pension led funding.",
+    "subject": "Preferred stocks",
+    "predicate_type": "relates_to",
+    "object_text": "an alternative form of financing\u2014for example through pension led funding",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preferred stocks offer a company an alternative form of financing\u2014for example through pension led funding.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financing"
+    ],
+    "entities": [
+      "Preferred stocks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "12a1a8d5-ab19-41f8-b39b-f2a005782f4c",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "In some cases, a company can defer dividends by going into arrears with a little penalty or risk to its credit rating.",
+    "subject": "company",
+    "predicate_type": "permits",
+    "object_text": "defer dividends by going into arrears with a little penalty or risk to its credit rating",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In some cases, a company can defer dividends by going into arrears with a little penalty or risk to its credit rating.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "credit rating"
+    ],
+    "entities": [
+      "company"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "807b5468-aa79-4f80-823a-b0230c3d9104",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "Such action could hurt the company meeting the terms of its financing contract.",
+    "subject": "deferring dividends",
+    "predicate_type": "causes",
+    "object_text": "hurt the company meeting the terms of its financing contract",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such action could hurt the company meeting the terms of its financing contract.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financing"
+    ],
+    "entities": [
+      "company"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d8bdf325-a9fc-476b-ab7c-a37e2f24a8fa",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "With traditional debt, payments are required.",
+    "subject": "traditional debt",
+    "predicate_type": "requires",
+    "object_text": "payments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "With traditional debt, payments are required.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt",
+      "payments"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a44f1747-a293-4375-a499-8f1c9d4753ac",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "A missed payment would put the company in default.",
+    "subject": "missed payment",
+    "predicate_type": "causes",
+    "object_text": "put the company in default",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A missed payment would put the company in default.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "default",
+      "payments"
+    ],
+    "entities": [
+      "company"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4487eb6-ef81-422a-86b0-952c137f2cb5",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "Companies use preferred shares as a means of preventing hostile takeovers.",
+    "subject": "Companies",
+    "predicate_type": "relates_to",
+    "object_text": "use preferred shares as a means of preventing hostile takeovers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Companies use preferred shares as a means of preventing hostile takeovers.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hostile takeovers",
+      "preferred shares"
+    ],
+    "entities": [
+      "Companies"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6372997e-e2e5-40bb-8576-dea4b7503330",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "Companies create preferred shares with a poison pill (or forced-exchange or conversion features) that is exercised upon a change in control.",
+    "subject": "Companies",
+    "predicate_type": "relates_to",
+    "object_text": "create preferred shares with a poison pill (or forced-exchange or conversion features) that is exercised upon a change in control",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Companies create preferred shares with a poison pill (or forced-exchange or conversion features) that is exercised upon a change in control.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred shares",
+      "poison pill",
+      "change in control"
+    ],
+    "entities": [
+      "Companies"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1fe2286-8c0d-4f29-9dc8-e299769e14f6",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "Some corporations contain provisions in their charters authorizing the issuance of preferred stock whose terms and conditions may be determined by the board of directors when issued.",
+    "subject": "corporations",
+    "predicate_type": "permits",
+    "object_text": "issuance of preferred stock whose terms and conditions may be determined by the board of directors when issued",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some corporations contain provisions in their charters authorizing the issuance of preferred stock whose terms and conditions may be determined by the board of directors when issued.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred stock",
+      "corporate charter"
+    ],
+    "entities": [
+      "corporations"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b520383d-4536-4565-8875-0f1220b9c053",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "These \"blank checks\" are often used as a takeover defence.",
+    "subject": "\"blank checks\"",
+    "predicate_type": "relates_to",
+    "object_text": "often used as a takeover defence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These \"blank checks\" are often used as a takeover defence.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "takeover defence"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9e098413-63c4-4991-ab64-f74f9b5d25c4",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "They may be assigned very high liquidation value (which must be redeemed in the event of a change of control), or may have great super-voting powers.",
+    "subject": "\"blank checks\"",
+    "predicate_type": "relates_to",
+    "object_text": "may be assigned very high liquidation value (which must be redeemed in the event of a change of control), or may have great super-voting powers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They may be assigned very high liquidation value (which must be redeemed in the event of a change of control), or may have great super-voting powers.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidation value",
+      "super-voting powers",
+      "change of control"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f1b8753-fea6-4e31-958f-00781a73c720",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "When a corporation goes bankrupt, there may be enough money to repay holders of preferred issues known as \"senior\" but not enough money for \"junior\" issues.",
+    "subject": "corporation",
+    "predicate_type": "relates_to",
+    "object_text": "when a corporation goes bankrupt, there may be enough money to repay holders of preferred issues known as \"senior\" but not enough money for \"junior\" issues",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When a corporation goes bankrupt, there may be enough money to repay holders of preferred issues known as \"senior\" but not enough money for \"junior\" issues.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bankruptcy",
+      "preferred issues"
+    ],
+    "entities": [
+      "corporation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "656c1b5a-ddef-446d-ad8a-db2983eeb756",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "When preferred shares are first issued, their governing document may contain protective provisions preventing the issuance of new preferred shares with a senior claim.",
+    "subject": "governing document",
+    "predicate_type": "constrains",
+    "object_text": "preventing the issuance of new preferred shares with a senior claim",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When preferred shares are first issued, their governing document may contain protective provisions preventing the issuance of new preferred shares with a senior claim.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred shares",
+      "protective provisions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f6d6ac00-b2b2-4021-a51e-4b87f3d80eda",
+    "chunk_id": "e92823ad-7c8c-4df7-add3-03a63a9c0702",
+    "document_id": "Preferred_stock",
+    "claim_text": "Individual series of preferred shares may have a senior, pari-passu (equal), or junior relationship with other series issued by the same corporation.",
+    "subject": "Individual series of preferred shares",
+    "predicate_type": "relates_to",
+    "object_text": "may have a senior, pari-passu (equal), or junior relationship with other series issued by the same corporation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Individual series of preferred shares may have a senior, pari-passu (equal), or junior relationship with other series issued by the same corporation.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred shares"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "619bcea7-dd6e-4186-a37c-04677a62572d",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "In addition to straight preferred stock, there is diversity in the preferred stock market.",
+    "subject": "preferred stock market",
+    "predicate_type": "relates_to",
+    "object_text": "diversity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In addition to straight preferred stock, there is diversity in the preferred stock market.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1206b1a0-d535-4e41-b349-03d2d4455912",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include prior preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "prior preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include prior preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "prior preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "572d3835-c8d5-4fe3-ae53-c934beb4dac1",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include preference preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "preference preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include preference preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "preference preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f671cee-2968-41e3-a364-f4c82455ddec",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include convertible preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "convertible preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include convertible preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "convertible preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1ad2dda3-3d9a-49a6-a0bf-3dd6f0a305cf",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include cumulative preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "cumulative preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include cumulative preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "cumulative preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fd756073-3a33-49d7-85ea-ec0edf7ecd3e",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include non-cumulative preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "non-cumulative preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include non-cumulative preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "non-cumulative preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e97dad8a-2dd8-406f-8972-bf3c74736f83",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include exchangeable preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "exchangeable preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include exchangeable preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "exchangeable preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "146e1ab5-606b-4360-8fdd-94d221bb5570",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include participating preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "participating preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include participating preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "participating preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "18c97d8f-e06f-4d92-b36c-1f80115de356",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include perpetual preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "perpetual preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include perpetual preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "perpetual preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2d2f80ee-0851-447e-a3ce-40d483c59748",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Additional types of preferred stock include putable preferred stock.",
+    "subject": "preferred stock",
+    "predicate_type": "classifies",
+    "object_text": "putable preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additional types of preferred stock include putable preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock",
+      "putable preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d0ce99e7-8762-438a-9b42-ccf930e7fc00",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "If the company has only enough money to meet the dividend schedule on one of the preferred issues, it makes the payments on the prior preferred.",
+    "subject": "company",
+    "predicate_type": "requires",
+    "object_text": "makes the payments on the prior preferred",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the company has only enough money to meet the dividend schedule on one of the preferred issues, it makes the payments on the prior preferred.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "preferred_stock"
+    ],
+    "entities": [
+      "prior preferred"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "34b601a0-0c0d-4544-96ad-e721f554683b",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Prior preferreds have less credit risk than other preferred stocks.",
+    "subject": "prior preferreds",
+    "predicate_type": "relates_to",
+    "object_text": "less credit risk than other preferred stocks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Prior preferreds have less credit risk than other preferred stocks.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "preferred_stock"
+    ],
+    "entities": [
+      "prior preferreds",
+      "preferred stocks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "51a36ca1-667c-4d76-8dc8-b972e2fd594d",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Prior preferreds usually offer a lower yield.",
+    "subject": "prior preferreds",
+    "predicate_type": "relates_to",
+    "object_text": "a lower yield",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Prior preferreds usually offer a lower yield.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "yield",
+      "preferred_stock"
+    ],
+    "entities": [
+      "prior preferreds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7582210-7124-4fa4-b46f-ec3ce5312e39",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Preference preferred issues receive preference over all other classes of the company's preferred (except for prior preferred).",
+    "subject": "Preference preferred issues",
+    "predicate_type": "relates_to",
+    "object_text": "receive preference over all other classes of the company's preferred (except for prior preferred)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preference preferred issues receive preference over all other classes of the company's preferred (except for prior preferred).",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "Preference preferred issues",
+      "prior preferred"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1de3c2b7-1959-4943-bac5-278753e6102c",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "If the company issues more than one issue of preference preferred, the issues are ranked by seniority.",
+    "subject": "issues of preference preferred",
+    "predicate_type": "requires",
+    "object_text": "are ranked by seniority",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the company issues more than one issue of preference preferred, the issues are ranked by seniority.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preference preferred"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05d57c20-639b-4dca-9bfd-ab1590424f94",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Convertible preferred issues are preferred issues that holders can exchange for a predetermined number of the company's common-stock shares.",
+    "subject": "Convertible preferred issues",
+    "predicate_type": "defines",
+    "object_text": "preferred issues that holders can exchange for a predetermined number of the company's common-stock shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Convertible preferred issues are preferred issues that holders can exchange for a predetermined number of the company's common-stock shares.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "convertible_securities"
+    ],
+    "entities": [
+      "Convertible preferred issues",
+      "common-stock shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a7ff0a40-482d-4dd3-a8d3-aa9a75a4b516",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "This exchange may occur at any time the investor chooses, regardless of the market price of the common stock.",
+    "subject": "exchange",
+    "predicate_type": "permits",
+    "object_text": "occur at any time the investor chooses, regardless of the market price of the common stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This exchange may occur at any time the investor chooses, regardless of the market price of the common stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "convertible_securities"
+    ],
+    "entities": [
+      "common stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9f802701-4a8d-4ba5-ac19-76569f7c18ae",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "It is a one-way deal; one cannot convert the common stock back to preferred stock.",
+    "subject": "conversion",
+    "predicate_type": "prohibits",
+    "object_text": "convert the common stock back to preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is a one-way deal; one cannot convert the common stock back to preferred stock.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "convertible_securities"
+    ],
+    "entities": [
+      "common stock",
+      "preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e1bf8fc6-b3cf-4ad7-bcb3-6506ee4a6b5e",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "If the dividend is not paid, it will accumulate for future payment.",
+    "subject": "dividend",
+    "predicate_type": "requires",
+    "object_text": "accumulate for future payment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the dividend is not paid, it will accumulate for future payment.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce53cedd-9027-4974-8f01-298f492bd412",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Dividends for non-cumulative preferred stock will not accumulate if they are unpaid.",
+    "subject": "Dividends for non-cumulative preferred stock",
+    "predicate_type": "prohibits",
+    "object_text": "will not accumulate if they are unpaid",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dividends for non-cumulative preferred stock will not accumulate if they are unpaid.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "preferred_stock"
+    ],
+    "entities": [
+      "non-cumulative preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d7b9b0f-3770-4ea8-bf61-79788c620726",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Non-cumulative preferred stock is very common in TRuPS and bank preferred stock, since under BIS rules preferred stock must be non-cumulative if it is to be included in Tier 1 capital.",
+    "subject": "Non-cumulative preferred stock",
+    "predicate_type": "relates_to",
+    "object_text": "very common in TRuPS and bank preferred stock, since under BIS rules preferred stock must be non-cumulative if it is to be included in Tier 1 capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Non-cumulative preferred stock is very common in TRuPS and bank preferred stock, since under BIS rules preferred stock must be non-cumulative if it is to be included in Tier 1 capital.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "TRuPS",
+      "bank preferred stock",
+      "BIS",
+      "Tier 1 capital"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3572eb96-fb69-4e46-b3f1-08a4b41e7af6",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Exchangeable preferred stock carries an embedded option to be exchanged for some other security.",
+    "subject": "Exchangeable preferred stock",
+    "predicate_type": "defines",
+    "object_text": "carries an embedded option to be exchanged for some other security",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Exchangeable preferred stock carries an embedded option to be exchanged for some other security.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "Exchangeable preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d53b7024-ef2a-4fb5-bbbb-d4e2159ab326",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Participating preferred issues offer holders the opportunity to receive extra dividends if the company achieves predetermined financial goals.",
+    "subject": "Participating preferred issues",
+    "predicate_type": "relates_to",
+    "object_text": "offer holders the opportunity to receive extra dividends if the company achieves predetermined financial goals",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Participating preferred issues offer holders the opportunity to receive extra dividends if the company achieves predetermined financial goals.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "preferred_stock"
+    ],
+    "entities": [
+      "Participating preferred issues"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aedc2973-de0c-4faa-97dd-020eb18a2765",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Investors who purchased participating preferred stocks receive their regular dividend regardless of company performance (assuming the company does well enough to make its annual dividend payments).",
+    "subject": "Investors who purchased participating preferred stocks",
+    "predicate_type": "relates_to",
+    "object_text": "receive their regular dividend regardless of company performance (assuming the company does well enough to make its annual dividend payments)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investors who purchased participating preferred stocks receive their regular dividend regardless of company performance (assuming the company does well enough to make its annual dividend payments).",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends",
+      "preferred_stock"
+    ],
+    "entities": [
+      "participating preferred stocks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "204db51d-66fe-4c1a-9d2a-de59f6cdda14",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "If the company achieves predetermined sales, earnings or profitability goals, the investors receive an additional dividend.",
+    "subject": "investors",
+    "predicate_type": "relates_to",
+    "object_text": "receive an additional dividend",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the company achieves predetermined sales, earnings or profitability goals, the investors receive an additional dividend.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "dividends"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6a5ab03a-66df-48a5-b60c-3f6f8f95705e",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Perpetual preferred stock has no fixed date on which invested capital will be returned to the shareholder (although there are redemption privileges held by the corporation).",
+    "subject": "Perpetual preferred stock",
+    "predicate_type": "defines",
+    "object_text": "has no fixed date on which invested capital will be returned to the shareholder (although there are redemption privileges held by the corporation)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Perpetual preferred stock has no fixed date on which invested capital will be returned to the shareholder (although there are redemption privileges held by the corporation).",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "Perpetual preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd81d791-c018-4c90-96eb-75d6af511161",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Most preferred stock is issued without a redemption date.",
+    "subject": "preferred stock",
+    "predicate_type": "relates_to",
+    "object_text": "issued without a redemption date",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Most preferred stock is issued without a redemption date.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "38e754c5-9410-485b-9ef3-b2d2a3608bb5",
+    "chunk_id": "7559eecf-6ed1-4c6a-a547-ddc9a7d377ab",
+    "document_id": "Preferred_stock",
+    "claim_text": "Putable preferred issues have a \"put\" privilege, whereby the holder may (under certain conditions) force the issuer to redeem shares.",
+    "subject": "Putable preferred issues",
+    "predicate_type": "defines",
+    "object_text": "have a \"put\" privilege, whereby the holder may (under certain conditions) force the issuer to redeem shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Putable preferred issues have a \"put\" privilege, whereby the holder may (under certain conditions) force the issuer to redeem shares.",
+    "source_document": "Preferred stock",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preferred_stock"
+    ],
+    "entities": [
+      "Putable preferred issues"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

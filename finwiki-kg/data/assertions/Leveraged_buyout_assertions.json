@@ -1,0 +1,6074 @@
+[
+  {
+    "assertion_id": "1dfeb773-4282-4100-9cd2-80746d6fca07",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "A secondary buyout is the leveraged buyout of a company already owned by a private equity sponsor.",
+    "subject": "secondary buyout",
+    "predicate_type": "defines",
+    "object_text": "the leveraged buyout of a company already owned by a private equity sponsor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A secondary buyout is the leveraged buyout of a company already owned by a private equity sponsor.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "leveraged buyout"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "14a44a55-768b-4ba0-a245-eec4ef33876f",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "A secondary buyout will often provide a realization event for the selling private equity owner(s) and its limited partner investors.",
+    "subject": "secondary buyout",
+    "predicate_type": "causes",
+    "object_text": "a realization event for the selling private equity owner(s) and its limited partner investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A secondary buyout will often provide a realization event for the selling private equity owner(s) and its limited partner investors.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "849e0151-92f0-4c93-b944-73ba34013846",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Secondary buyouts have become a common part of the private equity ecosystem.",
+    "subject": "secondary buyouts",
+    "predicate_type": "relates_to",
+    "object_text": "a common part of the private equity ecosystem",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Secondary buyouts have become a common part of the private equity ecosystem.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "19026261-0551-4261-841d-92f59699457d",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Secondary buyouts typically represent 25% to 35% of all leverage buyouts.",
+    "subject": "secondary buyouts",
+    "predicate_type": "relates_to",
+    "object_text": "25% to 35% of all leverage buyouts",
+    "object_value": 25.0,
+    "object_unit": "%",
+    "source_text": "Secondary buyouts typically represent 25% to 35% of all leverage buyouts.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "leveraged buyout"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3e0eae23-17bc-4cd5-9ac0-a24b296f6ca6",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Secondary buyouts have led to faster realizations than an initial public offering.",
+    "subject": "secondary buyouts",
+    "predicate_type": "causes",
+    "object_text": "faster realizations than an initial public offering",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Secondary buyouts have led to faster realizations than an initial public offering.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment",
+      "IPO"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c1fd8fde-c2c9-4623-9db2-724d22808617",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "An initial public offering often takes months to prepare.",
+    "subject": "initial public offering",
+    "predicate_type": "requires",
+    "object_text": "months to prepare",
+    "object_value": null,
+    "object_unit": "months",
+    "source_text": "An initial public offering often takes months to prepare.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "IPO"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9691e4a8-f4a0-4bab-8ba1-764eba555290",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "An initial public offering requires years after the IPO to realize the remaining public shares.",
+    "subject": "initial public offering",
+    "predicate_type": "requires",
+    "object_text": "years after the IPO to realize the remaining public shares",
+    "object_value": null,
+    "object_unit": "years",
+    "source_text": "An initial public offering requires years after the IPO to realize the remaining public shares.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "IPO"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2f5510eb-91fb-4372-b172-a207db821659",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The sale to another private equity sponsor may be less complex than the sale to a strategic corporate acquiror which could face regulatory scrutiny or challenges financing the purchase.",
+    "subject": "sale to another private equity sponsor",
+    "predicate_type": "relates_to",
+    "object_text": "less complex than the sale to a strategic corporate acquiror which could face regulatory scrutiny or challenges financing the purchase",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The sale to another private equity sponsor may be less complex than the sale to a strategic corporate acquiror which could face regulatory scrutiny or challenges financing the purchase.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "M&A"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6843de13-ddc5-4dc0-8631-e410f3c971cb",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Secondaries typically involve the acquisition of portfolios of private equity assets including limited partnership stakes and direct investments in corporate securities.",
+    "subject": "secondaries",
+    "predicate_type": "relates_to",
+    "object_text": "the acquisition of portfolios of private equity assets including limited partnership stakes and direct investments in corporate securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Secondaries typically involve the acquisition of portfolios of private equity assets including limited partnership stakes and direct investments in corporate securities.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb2fd683-7918-422f-9d8c-c364d8ee0496",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "A private equity sponsor creates a \"continuation fund\" to acquire a company from one of its own funds.",
+    "subject": "private equity sponsor",
+    "predicate_type": "relates_to",
+    "object_text": "creates a \"continuation fund\" to acquire a company from one of its own funds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A private equity sponsor creates a \"continuation fund\" to acquire a company from one of its own funds.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "888d72e6-9102-406d-941c-4e5c1b8737ce",
+    "chunk_id": "4dc58cb7-9c93-4caa-8f62-19076914b1f8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "GP-led Secondaries has brought together elements of secondary buyouts and management buyouts.",
+    "subject": "GP-led Secondaries",
+    "predicate_type": "relates_to",
+    "object_text": "has brought together elements of secondary buyouts and management buyouts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "GP-led Secondaries has brought together elements of secondary buyouts and management buyouts.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8c2e8112-e3b8-4366-afa7-05ac49ed5f91",
+    "chunk_id": "7cce552a-642d-4412-bc7f-89e867a76da9",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "To the extent that public shareholders are protected, insiders and secured lenders become the primary targets of fraudulent transfer actions.",
+    "subject": "insiders and secured lenders",
+    "predicate_type": "causes",
+    "object_text": "become the primary targets of fraudulent transfer actions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To the extent that public shareholders are protected, insiders and secured lenders become the primary targets of fraudulent transfer actions.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fraudulent transfer",
+      "shareholders",
+      "lenders"
+    ],
+    "entities": [
+      "insiders",
+      "secured lenders",
+      "public shareholders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "20daa924-5771-4105-bee2-b0f8959a27ea",
+    "chunk_id": "7cce552a-642d-4412-bc7f-89e867a76da9",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In certain cases, instead of declaring insolvency, the company negotiates a debt restructuring with its lenders.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "negotiates a debt restructuring with its lenders",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In certain cases, instead of declaring insolvency, the company negotiates a debt restructuring with its lenders.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt restructuring",
+      "insolvency"
+    ],
+    "entities": [
+      "lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "12e05d8c-9ffb-4050-bdcf-576a2e48d193",
+    "chunk_id": "7cce552a-642d-4412-bc7f-89e867a76da9",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The financial restructuring might entail that the equity owners inject some more money in the company and the lenders waive parts of their claims.",
+    "subject": "financial restructuring",
+    "predicate_type": "relates_to",
+    "object_text": "the equity owners inject some more money in the company and the lenders waive parts of their claims",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The financial restructuring might entail that the equity owners inject some more money in the company and the lenders waive parts of their claims.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial restructuring",
+      "equity",
+      "debt"
+    ],
+    "entities": [
+      "equity owners",
+      "lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5444dbf9-7101-4ba8-883b-c5aa3ffcf5e3",
+    "chunk_id": "7cce552a-642d-4412-bc7f-89e867a76da9",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In other situations, the lenders inject new money and assume the equity of the company, with the present equity owners losing their shares and investment.",
+    "subject": "lenders",
+    "predicate_type": "relates_to",
+    "object_text": "inject new money and assume the equity of the company, with the present equity owners losing their shares and investment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In other situations, the lenders inject new money and assume the equity of the company, with the present equity owners losing their shares and investment.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "equity",
+      "investment"
+    ],
+    "entities": [
+      "lenders",
+      "equity owners"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ddf22fe6-6f1a-4724-b433-b45b605f487d",
+    "chunk_id": "7cce552a-642d-4412-bc7f-89e867a76da9",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The operations of the company are not affected by the financial restructuring.",
+    "subject": "operations of the company",
+    "predicate_type": "prohibits",
+    "object_text": "affected by the financial restructuring",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The operations of the company are not affected by the financial restructuring.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial restructuring",
+      "operations"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5b894aa1-e614-4e09-af7e-da402cfa272a",
+    "chunk_id": "7cce552a-642d-4412-bc7f-89e867a76da9",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Nonetheless, the financial restructuring requires significant management attention and may lead to customers losing faith in the company.",
+    "subject": "financial restructuring",
+    "predicate_type": "requires",
+    "object_text": "significant management attention",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Nonetheless, the financial restructuring requires significant management attention and may lead to customers losing faith in the company.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial restructuring",
+      "management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b900d8f-847e-4a83-b1a2-b02bba321691",
+    "chunk_id": "db7e4f3c-4677-4b14-994f-d74b1b0c10f5",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Seller notes (or vendor loans) can also happen when the seller uses part of the sale to give the purchaser a loan.",
+    "subject": "Seller notes (or vendor loans)",
+    "predicate_type": "relates_to",
+    "object_text": "when the seller uses part of the sale to give the purchaser a loan",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Seller notes (or vendor loans) can also happen when the seller uses part of the sale to give the purchaser a loan.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout",
+      "loans"
+    ],
+    "entities": [
+      "Seller notes",
+      "vendor loans"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "97afe1ed-5fc5-43a2-a1c6-0d9186653c96",
+    "chunk_id": "db7e4f3c-4677-4b14-994f-d74b1b0c10f5",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In LBOs, the only collateral is the company's assets and cash flows.",
+    "subject": "LBOs",
+    "predicate_type": "defines",
+    "object_text": "the only collateral is the company's assets and cash flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In LBOs, the only collateral is the company's assets and cash flows.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout",
+      "collateral"
+    ],
+    "entities": [
+      "LBOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0b6375be-a580-4b3c-bd38-58b367bdd8cf",
+    "chunk_id": "db7e4f3c-4677-4b14-994f-d74b1b0c10f5",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The financial sponsor can treat their investment as common equity, preferred equity, or other securities.",
+    "subject": "financial sponsor",
+    "predicate_type": "permits",
+    "object_text": "treat their investment as common equity, preferred equity, or other securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The financial sponsor can treat their investment as common equity, preferred equity, or other securities.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout",
+      "investment"
+    ],
+    "entities": [
+      "financial sponsor",
+      "common equity",
+      "preferred equity"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "740baf0d-b575-42d6-97fb-2dad4f531875",
+    "chunk_id": "db7e4f3c-4677-4b14-994f-d74b1b0c10f5",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Preferred equity pays dividends and has priority over common equity.",
+    "subject": "Preferred equity",
+    "predicate_type": "relates_to",
+    "object_text": "pays dividends and has priority over common equity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preferred equity pays dividends and has priority over common equity.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "equity",
+      "dividends"
+    ],
+    "entities": [
+      "Preferred equity",
+      "common equity"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4d82f1f-c2a1-44fc-9e2f-7ac4d1d80c39",
+    "chunk_id": "db7e4f3c-4677-4b14-994f-d74b1b0c10f5",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Another key benefit to the equity investor in a leveraged buyout is the tax deductibility of interest payments on the acquisition financing which can offset the company's earnings and reduce the corporate income tax.",
+    "subject": "tax deductibility of interest payments on the acquisition financing",
+    "predicate_type": "causes",
+    "object_text": "offset the company's earnings and reduce the corporate income tax",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another key benefit to the equity investor in a leveraged buyout is the tax deductibility of interest payments on the acquisition financing which can offset the company's earnings and reduce the corporate income tax.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax",
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "equity investor",
+      "interest payments",
+      "acquisition financing"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ee49ae2-20fe-4b90-b024-15ea5e0676be",
+    "chunk_id": "db7e4f3c-4677-4b14-994f-d74b1b0c10f5",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The interest income on the interest payments are taxed at ordinary income rates rather than capital gains rates",
+    "subject": "interest income on the interest payments",
+    "predicate_type": "governs",
+    "object_text": "taxed at ordinary income rates rather than capital gains rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The interest income on the interest payments are taxed at ordinary income rates rather than capital gains rates",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax",
+      "interest_income"
+    ],
+    "entities": [
+      "interest payments"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "303831d7-b4d2-4fa2-9000-10160805919b",
+    "chunk_id": "db7e4f3c-4677-4b14-994f-d74b1b0c10f5",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The allocation of taxes is shifted from the borrower to the lender.",
+    "subject": "allocation of taxes",
+    "predicate_type": "causes",
+    "object_text": "shifted from the borrower to the lender",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The allocation of taxes is shifted from the borrower to the lender.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax",
+      "borrowing",
+      "lending"
+    ],
+    "entities": [
+      "borrower",
+      "lender"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "910e7dea-38dc-44c4-a127-200c573cb6c0",
+    "chunk_id": "db7e4f3c-4677-4b14-994f-d74b1b0c10f5",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The total income tax generated from the company's earnings is often higher than it would be if less leverage were used.",
+    "subject": "total income tax generated from the company's earnings",
+    "predicate_type": "relates_to",
+    "object_text": "often higher than it would be if less leverage were used",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The total income tax generated from the company's earnings is often higher than it would be if less leverage were used.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax",
+      "leverage"
+    ],
+    "entities": [
+      "company's earnings"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e5ff3cf-383a-4e40-92f6-40a689cb17b3",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "As with all companies, a proportion of companies acquired in leveraged buyouts will experience financial challenges and given the higher debt-to-equity ratio of LBO targets, these financial challenges can result in default.",
+    "subject": "companies acquired in leveraged buyouts",
+    "predicate_type": "causes",
+    "object_text": "default",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As with all companies, a proportion of companies acquired in leveraged buyouts will experience financial challenges and given the higher debt-to-equity ratio of LBO targets, these financial challenges can result in default.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyouts",
+      "financial_challenges",
+      "default"
+    ],
+    "entities": [
+      "LBO targets"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b78435a9-5671-49f3-b1a3-f212a636be60",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Especially in the leveraged buyouts of the 1980s in which debt-to-equity ratios often exceeded 9 to 1, defaults occurred at notable levels.",
+    "subject": "leveraged buyouts of the 1980s",
+    "predicate_type": "causes",
+    "object_text": "defaults occurred at notable levels",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Especially in the leveraged buyouts of the 1980s in which debt-to-equity ratios often exceeded 9 to 1, defaults occurred at notable levels.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyouts",
+      "defaults"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59aa08c4-2df8-4c2c-b35f-4deeb2d41407",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Robert Campeau's 1988 buyout of Federated Department Stores and the 1986 buyout of the Revco drug stores were well documented failures that resulted in bankruptcy.",
+    "subject": "Robert Campeau's 1988 buyout of Federated Department Stores and the 1986 buyout of the Revco drug stores",
+    "predicate_type": "causes",
+    "object_text": "bankruptcy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Robert Campeau's 1988 buyout of Federated Department Stores and the 1986 buyout of the Revco drug stores were well documented failures that resulted in bankruptcy.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyouts",
+      "bankruptcy"
+    ],
+    "entities": [
+      "Robert Campeau",
+      "Federated Department Stores",
+      "Revco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aedd4e16-f54e-4db8-83c6-31c60ed5ead2",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The failure of the Federated buyout was a result of excessive debt financing, comprising about 97% of the total consideration, which led to large interest payments that exceeded the company's operating cash flow.",
+    "subject": "Federated buyout",
+    "predicate_type": "causes",
+    "object_text": "large interest payments that exceeded the company's operating cash flow",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The failure of the Federated buyout was a result of excessive debt financing, comprising about 97% of the total consideration, which led to large interest payments that exceeded the company's operating cash flow.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyouts",
+      "debt_financing",
+      "interest_payments",
+      "cash_flow"
+    ],
+    "entities": [
+      "Federated"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "84d89277-9d35-4a0c-a466-f13e158e6cbb",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Many LBOs of the boom period 2005\u20132007 were also financed with too high a debt burden, however default rates were significantly below the expectations of market observers given the proximate onset of the 2008 financial crisis.",
+    "subject": "LBOs of the boom period 2005\u20132007",
+    "predicate_type": "relates_to",
+    "object_text": "financed with too high a debt burden",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many LBOs of the boom period 2005\u20132007 were also financed with too high a debt burden, however default rates were significantly below the expectations of market observers given the proximate onset of the 2008 financial crisis.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyouts",
+      "debt_burden",
+      "default_rates",
+      "financial_crisis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5790df33-5c04-411d-bf8f-eb871562a31f",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The inability to repay debt in an LBO can be caused by initial overpricing of the target firm and/or its assets.",
+    "subject": "inability to repay debt in an LBO",
+    "predicate_type": "causes",
+    "object_text": "initial overpricing of the target firm and/or its assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The inability to repay debt in an LBO can be caused by initial overpricing of the target firm and/or its assets.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyouts",
+      "debt_repayment",
+      "overpricing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d98dba34-2f1a-4525-b91d-f91e5d402aea",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Over-optimistic forecasts of the revenues of the target company may also lead to financial distress after acquisition.",
+    "subject": "Over-optimistic forecasts of the revenues of the target company",
+    "predicate_type": "causes",
+    "object_text": "financial distress after acquisition",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Over-optimistic forecasts of the revenues of the target company may also lead to financial distress after acquisition.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "revenue_forecasts",
+      "financial_distress",
+      "acquisitions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "668e1544-1a9d-405f-b5b1-aff11562628f",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Some courts have found that in certain situations, LBO debt constitutes a fraudulent transfer under U.S. insolvency law if it is determined to be the cause of the acquired firm's failure.",
+    "subject": "LBO debt",
+    "predicate_type": "classifies",
+    "object_text": "fraudulent transfer under U.S. insolvency law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some courts have found that in certain situations, LBO debt constitutes a fraudulent transfer under U.S. insolvency law if it is determined to be the cause of the acquired firm's failure.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyouts",
+      "debt",
+      "fraudulent_transfer",
+      "insolvency_law"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb5c28f4-0b5e-4786-ac4c-6c8bb3fc8bcc",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The outcome of litigation attacking a leveraged buyout as a fraudulent transfer will generally turn on the financial condition of the target at the time of the transaction \u2013 that is, whether the risk of failure was substantial and known at the time of the LBO, or whether subsequent unforeseeable events led to the failure.",
+    "subject": "outcome of litigation attacking a leveraged buyout as a fraudulent transfer",
+    "predicate_type": "relates_to",
+    "object_text": "financial condition of the target at the time of the transaction",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The outcome of litigation attacking a leveraged buyout as a fraudulent transfer will generally turn on the financial condition of the target at the time of the transaction \u2013 that is, whether the risk of failure was substantial and known at the time of the LBO, or whether subsequent unforeseeable events led to the failure.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyouts",
+      "litigation",
+      "fraudulent_transfer",
+      "financial_condition"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dc6eaf5c-fe87-4e15-a864-0fec5ca8f5c9",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In addition, the Bankruptcy Code includes a so-called \"safe harbor\" provision, preventing bankruptcy trustees from recovering settlement payments to the bought-out shareholders.",
+    "subject": "Bankruptcy Code",
+    "predicate_type": "permits",
+    "object_text": "safe harbor provision, preventing bankruptcy trustees from recovering settlement payments to the bought-out shareholders",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In addition, the Bankruptcy Code includes a so-called \"safe harbor\" provision, preventing bankruptcy trustees from recovering settlement payments to the bought-out shareholders.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bankruptcy",
+      "safe_harbor",
+      "settlement_payments"
+    ],
+    "entities": [
+      "Bankruptcy Code"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e87d3553-a83c-4838-af76-e32b7d8e7e12",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In 2009, the U.S. Court of Appeals for the Sixth Circuit held that such settlement payments could not be avoided, irrespective of whether they occurred in an LBO of a public or private company.",
+    "subject": "U.S. Court of Appeals for the Sixth Circuit",
+    "predicate_type": "prohibits",
+    "object_text": "avoidance of settlement payments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2009, the U.S. Court of Appeals for the Sixth Circuit held that such settlement payments could not be avoided, irrespective of whether they occurred in an LBO of a public or private company.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "settlement_payments",
+      "leveraged_buyouts"
+    ],
+    "entities": [
+      "U.S. Court of Appeals for the Sixth Circuit"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "86cdcfde-856a-463a-8332-d34f516c428b",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "To the extent that public shareholders are protected, insiders and secured lenders become the primary targets of fraudulent transfer actions.",
+    "subject": "insiders and secured lenders",
+    "predicate_type": "classifies",
+    "object_text": "primary targets of fraudulent transfer actions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To the extent that public shareholders are protected, insiders and secured lenders become the primary targets of fraudulent transfer actions.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "shareholders",
+      "fraudulent_transfer"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "647f5779-3518-42c1-bc18-7770b23118a9",
+    "chunk_id": "10d71d34-1a88-4dea-8389-fe40c70a8159",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In certain cases, instead of declaring insolvency, the company negotiates a debt restructuring with its lenders.",
+    "subject": "company",
+    "predicate_type": "permits",
+    "object_text": "negotiates a debt restructuring with its lenders instead of declaring insolvency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In certain cases, instead of declaring insolvency, the company negotiates a debt restructuring with its lenders.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insolvency",
+      "debt_restructuring"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15e1aa91-64b2-4441-93fd-64e63dc450e5",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In 1989, KKR closed in on a $31.1 billion takeover of RJR Nabisco.",
+    "subject": "KKR",
+    "predicate_type": "relates_to",
+    "object_text": "takeover of RJR Nabisco",
+    "object_value": 31100000000.0,
+    "object_unit": "$",
+    "source_text": "In 1989, KKR closed in on a $31.1 billion takeover of RJR Nabisco.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "KKR",
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c693fbc-c187-49ad-9967-070993e15890",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "It was, at that time and for over 17 years following, the largest leveraged buyout in history.",
+    "subject": "takeover of RJR Nabisco",
+    "predicate_type": "relates_to",
+    "object_text": "largest leveraged buyout in history",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It was, at that time and for over 17 years following, the largest leveraged buyout in history.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17eef2c7-9322-4cec-9f2e-929f4d60418e",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "KKR would eventually prevail in acquiring RJR Nabisco at $109 per share, marking a dramatic increase from the original announcement that Shearson Lehman Hutton would take RJR Nabisco private at $75 per share.",
+    "subject": "KKR",
+    "predicate_type": "relates_to",
+    "object_text": "acquiring RJR Nabisco at $109 per share",
+    "object_value": 109.0,
+    "object_unit": "$",
+    "source_text": "KKR would eventually prevail in acquiring RJR Nabisco at $109 per share, marking a dramatic increase from the original announcement that Shearson Lehman Hutton would take RJR Nabisco private at $75 per share.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "KKR",
+      "RJR Nabisco",
+      "Shearson Lehman Hutton"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfe16fe0-c0e4-4f88-9613-81e9739af4de",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Shearson Lehman Hutton would take RJR Nabisco private at $75 per share.",
+    "subject": "Shearson Lehman Hutton",
+    "predicate_type": "relates_to",
+    "object_text": "take RJR Nabisco private at $75 per share",
+    "object_value": 75.0,
+    "object_unit": "$",
+    "source_text": "Shearson Lehman Hutton would take RJR Nabisco private at $75 per share.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "Shearson Lehman Hutton",
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "26e4b1f1-3bf1-49f1-b0b6-3330a6ccc07d",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "KKR quickly introduced a tender offer to obtain RJR Nabisco for $90 per share.",
+    "subject": "KKR",
+    "predicate_type": "relates_to",
+    "object_text": "introduced a tender offer to obtain RJR Nabisco for $90 per share",
+    "object_value": 90.0,
+    "object_unit": "$",
+    "source_text": "KKR quickly introduced a tender offer to obtain RJR Nabisco for $90 per share.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "KKR",
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6b9e38b8-02a0-4e15-b724-983e46828409",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "RJR's management team, working with Shearson Lehman and Salomon Brothers, submitted a bid of $112.",
+    "subject": "RJR's management team",
+    "predicate_type": "relates_to",
+    "object_text": "submitted a bid of $112",
+    "object_value": 112.0,
+    "object_unit": "$",
+    "source_text": "RJR's management team, working with Shearson Lehman and Salomon Brothers, submitted a bid of $112.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "RJR",
+      "Shearson Lehman",
+      "Salomon Brothers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0809b3a6-b4ba-4a70-a5a9-83b730a270a8",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "KKR's final bid of $109 was ultimately accepted by the board of directors of RJR Nabisco.",
+    "subject": "KKR's final bid",
+    "predicate_type": "relates_to",
+    "object_text": "was ultimately accepted by the board of directors of RJR Nabisco",
+    "object_value": 109.0,
+    "object_unit": "$",
+    "source_text": "KKR's final bid of $109 was ultimately accepted by the board of directors of RJR Nabisco.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "KKR",
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "82768f1f-f09c-4d8d-9d8f-52585a77b7fd",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "At $31.1 billion of transaction value, RJR Nabisco was the largest leveraged buyout in history until the 2007 buyout of TXU Energy by KKR and Texas Pacific Group.",
+    "subject": "RJR Nabisco",
+    "predicate_type": "relates_to",
+    "object_text": "was the largest leveraged buyout in history until the 2007 buyout of TXU Energy by KKR and Texas Pacific Group",
+    "object_value": 31100000000.0,
+    "object_unit": "$",
+    "source_text": "At $31.1 billion of transaction value, RJR Nabisco was the largest leveraged buyout in history until the 2007 buyout of TXU Energy by KKR and Texas Pacific Group.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "RJR Nabisco",
+      "TXU Energy",
+      "KKR",
+      "Texas Pacific Group"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d1807864-bde1-45ff-9e39-9570aa332d7a",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "At $31.1 billion of transaction value, RJR Nabisco was the largest leveraged buyout in history.",
+    "subject": "RJR Nabisco",
+    "predicate_type": "relates_to",
+    "object_text": "was the largest leveraged buyout in history",
+    "object_value": 31100000000.0,
+    "object_unit": "$",
+    "source_text": "At $31.1 billion of transaction value, RJR Nabisco was the largest leveraged buyout in history.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "834f37d3-422e-4046-a5f9-28b11827e65c",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In 2006 and 2007, a number of leveraged buyout transactions were completed that for the first time surpassed the RJR Nabisco leveraged buyout in terms of nominal purchase price.",
+    "subject": "leveraged buyout transactions",
+    "predicate_type": "relates_to",
+    "object_text": "surpassed the RJR Nabisco leveraged buyout in terms of nominal purchase price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2006 and 2007, a number of leveraged buyout transactions were completed that for the first time surpassed the RJR Nabisco leveraged buyout in terms of nominal purchase price.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e4de35f5-e034-4b54-85ce-024c023c53bf",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Adjusted for inflation, none of the leveraged buyouts of the 2006\u20132007 period surpassed RJR Nabisco.",
+    "subject": "leveraged buyouts of the 2006\u20132007 period",
+    "predicate_type": "relates_to",
+    "object_text": "did not surpass RJR Nabisco",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Adjusted for inflation, none of the leveraged buyouts of the 2006\u20132007 period surpassed RJR Nabisco.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3d655b10-2c93-4460-9b98-d3b0e1436127",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "By the end of the 1980s the excesses of the buyout market were beginning to show, with the bankruptcy of several large buyouts including Robert Campeau's 1988 buyout of Federated Department Stores, the 1986 buyout of the Revco drug stores, Walter Industries, FEB Trucking and Eaton Leonard.",
+    "subject": "excesses of the buyout market",
+    "predicate_type": "causes",
+    "object_text": "bankruptcy of several large buyouts including Robert Campeau's 1988 buyout of Federated Department Stores, the 1986 buyout of the Revco drug stores, Walter Industries, FEB Trucking and Eaton Leonard",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By the end of the 1980s the excesses of the buyout market were beginning to show, with the bankruptcy of several large buyouts including Robert Campeau's 1988 buyout of Federated Department Stores, the 1986 buyout of the Revco drug stores, Walter Industries, FEB Trucking and Eaton Leonard.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions",
+      "bankruptcy"
+    ],
+    "entities": [
+      "Robert Campeau",
+      "Federated Department Stores",
+      "Revco",
+      "Walter Industries",
+      "FEB Trucking",
+      "Eaton Leonard"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b01e3bd4-c8e5-4729-80a5-1eff53bbb0ca",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "the RJR Nabisco deal was showing signs of strain, leading to a recapitalization in 1990 that involved the contribution of $1.7 billion of new equity from KKR.",
+    "subject": "RJR Nabisco deal",
+    "predicate_type": "causes",
+    "object_text": "recapitalization in 1990 that involved the contribution of $1.7 billion of new equity from KKR",
+    "object_value": 1700000000.0,
+    "object_unit": "$",
+    "source_text": "the RJR Nabisco deal was showing signs of strain, leading to a recapitalization in 1990 that involved the contribution of $1.7 billion of new equity from KKR.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions",
+      "capitalization"
+    ],
+    "entities": [
+      "RJR Nabisco",
+      "KKR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "91241436-c151-4b1c-ab19-cda3e668a0a1",
+    "chunk_id": "e7a07579-bc31-4a9f-9005-ecd94c5fc8e0",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Drexel Burnham Lambert was the investment bank most responsible for the boom in private equity during the 1980s due to its leadership in the issuance of high-yield debt.",
+    "subject": "Drexel Burnham Lambert",
+    "predicate_type": "relates_to",
+    "object_text": "was the investment bank most responsible for the boom in private equity during the 1980s due to its leadership in the issuance of high-yield debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Drexel Burnham Lambert was the investment bank most responsible for the boom in private equity during the 1980s due to its leadership in the issuance of high-yield debt.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "high-yield debt"
+    ],
+    "entities": [
+      "Drexel Burnham Lambert"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3e413e74-e9a3-4d64-9523-220d8e36aa4a",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The expected rebound in the market after Labor Day 2007 did not materialize.",
+    "subject": "rebound in the market",
+    "predicate_type": "causes",
+    "object_text": "did not materialize",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The expected rebound in the market after Labor Day 2007 did not materialize.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market conditions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "63271d51-981d-48c7-a5c1-dbc2847cc58d",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The lack of market confidence prevented deals from pricing.",
+    "subject": "lack of market confidence",
+    "predicate_type": "causes",
+    "object_text": "prevented deals from pricing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The lack of market confidence prevented deals from pricing.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market conditions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f3833c54-846f-4b6a-a66e-154040d81495",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Major lenders including Citigroup and UBS AG announced major writedowns due to credit losses.",
+    "subject": "Major lenders including Citigroup and UBS AG",
+    "predicate_type": "causes",
+    "object_text": "announced major writedowns due to credit losses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Major lenders including Citigroup and UBS AG announced major writedowns due to credit losses.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit risk",
+      "financial reporting"
+    ],
+    "entities": [
+      "Citigroup",
+      "UBS AG"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eacdd74b-0cd1-4d0f-acef-df40e4d2677c",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The leveraged finance markets came to a near standstill.",
+    "subject": "leveraged finance markets",
+    "predicate_type": "causes",
+    "object_text": "came to a near standstill",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The leveraged finance markets came to a near standstill.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market conditions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "14202835-0e97-4186-a608-117d93c4795c",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Lending standards had tightened.",
+    "subject": "lending standards",
+    "predicate_type": "causes",
+    "object_text": "had tightened",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lending standards had tightened.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "lending"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f35bb984-1717-4701-8231-a75c93f592bf",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The era of \"mega-buyouts\" had come to an end.",
+    "subject": "era of \"mega-buyouts\"",
+    "predicate_type": "causes",
+    "object_text": "had come to an end",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The era of \"mega-buyouts\" had come to an end.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "74d0dd21-b982-44b3-8fff-0269d6d913c4",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Private equity continues to be a large and active asset class.",
+    "subject": "private equity",
+    "predicate_type": "relates_to",
+    "object_text": "continues to be a large and active asset class",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Private equity continues to be a large and active asset class.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "beb2c2b0-d3fe-4644-9fde-48e9300df0c0",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Private-equity firms, with hundreds of billions of dollars of committed capital from investors are looking to deploy capital in new and different transactions.",
+    "subject": "private-equity firms",
+    "predicate_type": "relates_to",
+    "object_text": "with hundreds of billions of dollars of committed capital from investors are looking to deploy capital in new and different transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Private-equity firms, with hundreds of billions of dollars of committed capital from investors are looking to deploy capital in new and different transactions.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8b8f9e66-d67e-4a9f-ae83-b16fac0940ac",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Electronic Arts announced it was being taken private for $55bn.",
+    "subject": "Electronic Arts",
+    "predicate_type": "relates_to",
+    "object_text": "announced it was being taken private for $55bn",
+    "object_value": 55.0,
+    "object_unit": "bn",
+    "source_text": "Electronic Arts announced it was being taken private for $55bn.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "Electronic Arts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "31865f81-03ba-4f03-876e-b63e50497837",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The consortium of buyers include Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Jared Kushner's Affinity Partners.",
+    "subject": "consortium of buyers",
+    "predicate_type": "relates_to",
+    "object_text": "include Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Jared Kushner's Affinity Partners",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The consortium of buyers include Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Jared Kushner's Affinity Partners.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity"
+    ],
+    "entities": [
+      "Saudi Arabia's Public Investment Fund",
+      "Silver Lake",
+      "Jared Kushner's Affinity Partners"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae5a7696-c2f1-4b68-9016-eb7a4223b6e5",
+    "chunk_id": "eaea17c3-3df7-4375-a097-001331c19177",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In September 2025, Electronic Arts announced it was being taken private for $55bn, the biggest leveraged buyout in history.",
+    "subject": "Electronic Arts",
+    "predicate_type": "relates_to",
+    "object_text": "biggest leveraged buyout in history",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In September 2025, Electronic Arts announced it was being taken private for $55bn, the biggest leveraged buyout in history.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions"
+    ],
+    "entities": [
+      "Electronic Arts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b6b7f252-e118-40ed-b629-26fa7288c883",
+    "chunk_id": "22042067-e938-413d-9f6a-cfe261a2c6a4",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In January 1982, William E. Simon and a group of investors acquired Gibson Greetings for $80 million.",
+    "subject": "William E. Simon and a group of investors",
+    "predicate_type": "causes",
+    "object_text": "acquired Gibson Greetings for $80 million",
+    "object_value": 80000000.0,
+    "object_unit": "$",
+    "source_text": "In January 1982, William E. Simon and a group of investors acquired Gibson Greetings for $80 million.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "William E. Simon",
+      "Gibson Greetings"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "10bba9a2-2b29-480f-a5d7-5d2b6202d4b6",
+    "chunk_id": "22042067-e938-413d-9f6a-cfe261a2c6a4",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Only $1 million was rumored to have been contributed by the investors.",
+    "subject": "investors",
+    "predicate_type": "causes",
+    "object_text": "contributed $1 million",
+    "object_value": 1000000.0,
+    "object_unit": "$",
+    "source_text": "Only $1 million was rumored to have been contributed by the investors.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4133144c-bc04-487a-90ba-5b7bc7c9d260",
+    "chunk_id": "22042067-e938-413d-9f6a-cfe261a2c6a4",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Gibson completed a $290 million IPO by mid-1983.",
+    "subject": "Gibson",
+    "predicate_type": "causes",
+    "object_text": "completed a $290 million IPO",
+    "object_value": 290000000.0,
+    "object_unit": "$",
+    "source_text": "Gibson completed a $290 million IPO by mid-1983.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "ipo",
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "Gibson"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bdf171e5-5ecd-4f93-94e8-f662a4783e9b",
+    "chunk_id": "22042067-e938-413d-9f6a-cfe261a2c6a4",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Simon made approximately $66 million.",
+    "subject": "Simon",
+    "predicate_type": "causes",
+    "object_text": "made approximately $66 million",
+    "object_value": 66000000.0,
+    "object_unit": "$",
+    "source_text": "Simon made approximately $66 million.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "Simon"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ffa708c8-6288-466c-a3c6-02713ad142a4",
+    "chunk_id": "22042067-e938-413d-9f6a-cfe261a2c6a4",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Between 1980 and 1990, there were 180 leveraged buyouts involving firms with an aggregate book value of $39.2 billion.",
+    "subject": "leveraged buyouts",
+    "predicate_type": "relates_to",
+    "object_text": "180 leveraged buyouts involving firms with an aggregate book value of $39.2 billion",
+    "object_value": 39200000000.0,
+    "object_unit": "$",
+    "source_text": "Between 1980 and 1990, there were 180 leveraged buyouts involving firms with an aggregate book value of $39.2 billion.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b700fa1a-b7a8-4bad-b585-935cf9c6343a",
+    "chunk_id": "22042067-e938-413d-9f6a-cfe261a2c6a4",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In 1989, KKR closed in on a $31.1 billion takeover of RJR Nabisco.",
+    "subject": "KKR",
+    "predicate_type": "causes",
+    "object_text": "closed in on a $31.1 billion takeover of RJR Nabisco",
+    "object_value": 31100000000.0,
+    "object_unit": "$",
+    "source_text": "In 1989, KKR closed in on a $31.1 billion takeover of RJR Nabisco.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "KKR",
+      "RJR Nabisco"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2fe50215-e6cc-4ab1-b87f-88d6b0e32949",
+    "chunk_id": "05e96ea6-7aa3-4171-998a-9f69a7305522",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "a recapitalization in 1990 that involved the contribution of $1.7 billion of new equity from KKR.",
+    "subject": "recapitalization",
+    "predicate_type": "relates_to",
+    "object_text": "contribution of $1.7 billion of new equity from KKR",
+    "object_value": 1700000000.0,
+    "object_unit": "$",
+    "source_text": "a recapitalization in 1990 that involved the contribution of $1.7 billion of new equity from KKR.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "recapitalization"
+    ],
+    "entities": [
+      "KKR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d4b47f56-ef0a-41d1-8ca9-be46c4f845bb",
+    "chunk_id": "05e96ea6-7aa3-4171-998a-9f69a7305522",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Drexel Burnham Lambert was the investment bank most responsible for the boom in private equity during the 1980s due to its leadership in the issuance of high-yield debt.",
+    "subject": "Drexel Burnham Lambert",
+    "predicate_type": "relates_to",
+    "object_text": "the investment bank most responsible for the boom in private equity during the 1980s due to its leadership in the issuance of high-yield debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Drexel Burnham Lambert was the investment bank most responsible for the boom in private equity during the 1980s due to its leadership in the issuance of high-yield debt.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment banking",
+      "high-yield debt"
+    ],
+    "entities": [
+      "Drexel Burnham Lambert"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f0e5c6e6-2529-416f-bacd-0627c15113a4",
+    "chunk_id": "05e96ea6-7aa3-4171-998a-9f69a7305522",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Drexel reached an agreement with the government in which it pleaded nolo contendere (no contest) to six felonies \u2013 three counts of stock parking and three counts of stock manipulation.",
+    "subject": "Drexel",
+    "predicate_type": "relates_to",
+    "object_text": "reached an agreement with the government in which it pleaded nolo contendere (no contest) to six felonies \u2013 three counts of stock parking and three counts of stock manipulation",
+    "object_value": 6.0,
+    "object_unit": null,
+    "source_text": "Drexel reached an agreement with the government in which it pleaded nolo contendere (no contest) to six felonies \u2013 three counts of stock parking and three counts of stock manipulation.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities law",
+      "stock parking",
+      "stock manipulation"
+    ],
+    "entities": [
+      "Drexel"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b2f963c-6986-4c29-bd3d-7b0dbeb74926",
+    "chunk_id": "05e96ea6-7aa3-4171-998a-9f69a7305522",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "It also agreed to pay a fine of $650 million \u2013 at the time, the largest fine ever levied under securities laws.",
+    "subject": "Drexel",
+    "predicate_type": "requires",
+    "object_text": "pay a fine of $650 million",
+    "object_value": 650000000.0,
+    "object_unit": "$",
+    "source_text": "It also agreed to pay a fine of $650 million \u2013 at the time, the largest fine ever levied under securities laws.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities law",
+      "fines"
+    ],
+    "entities": [
+      "Drexel"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e982627c-df51-4ec1-ab49-6d7eb651a884",
+    "chunk_id": "05e96ea6-7aa3-4171-998a-9f69a7305522",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Milken left the firm after his own indictment in March 1989.",
+    "subject": "Milken",
+    "predicate_type": "relates_to",
+    "object_text": "left the firm after his own indictment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Milken left the firm after his own indictment in March 1989.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "personnel",
+      "indictment"
+    ],
+    "entities": [
+      "Milken"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9044dc21-2fb6-4a2c-b79b-3e50118d48be",
+    "chunk_id": "05e96ea6-7aa3-4171-998a-9f69a7305522",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "On February 13, 1990, after being advised by United States Secretary of the Treasury Nicholas F. Brady, the U.S. Securities and Exchange Commission (SEC), the New York Stock Exchange, and the Federal Reserve, Drexel Burnham Lambert officially filed for Chapter 11 bankruptcy protection.",
+    "subject": "Drexel Burnham Lambert",
+    "predicate_type": "relates_to",
+    "object_text": "officially filed for Chapter 11 bankruptcy protection",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On February 13, 1990, after being advised by United States Secretary of the Treasury Nicholas F. Brady, the U.S. Securities and Exchange Commission (SEC), the New York Stock Exchange, and the Federal Reserve, Drexel Burnham Lambert officially filed for Chapter 11 bankruptcy protection.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bankruptcy"
+    ],
+    "entities": [
+      "Drexel Burnham Lambert",
+      "United States Secretary of the Treasury Nicholas F. Brady",
+      "U.S. Securities and Exchange Commission",
+      "SEC",
+      "New York Stock Exchange",
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b87688ab-aa4e-4e4d-b85d-f743320f1cf3",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "A leveraged buyout is characterized by the extensive use of debt financing to acquire a company.",
+    "subject": "leveraged buyout",
+    "predicate_type": "defines",
+    "object_text": "extensive use of debt financing to acquire a company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A leveraged buyout is characterized by the extensive use of debt financing to acquire a company.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout",
+      "debt_financing",
+      "mergers_and_acquisitions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8a415b8a-c397-4e0e-b440-9819e16cff3c",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "This financing structure enables private equity firms and financial sponsors to control businesses while investing a relatively small portion of their own equity.",
+    "subject": "financing structure",
+    "predicate_type": "permits",
+    "object_text": "private equity firms and financial sponsors to control businesses while investing a relatively small portion of their own equity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This financing structure enables private equity firms and financial sponsors to control businesses while investing a relatively small portion of their own equity.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private_equity",
+      "financial_sponsors",
+      "equity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "96e762c4-b8ab-47eb-8018-e75cf5b4c3b5",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The acquired company\u2019s assets and future cash flows serve as collateral for the debt, making lenders more willing to provide financing.",
+    "subject": "acquired company\u2019s assets and future cash flows",
+    "predicate_type": "causes",
+    "object_text": "lenders more willing to provide financing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The acquired company\u2019s assets and future cash flows serve as collateral for the debt, making lenders more willing to provide financing.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "collateral",
+      "debt_financing",
+      "lending"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d9cc408-26c6-4a21-a347-d591bcab43b4",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "LBOs rely on a significant proportion of debt, typically ranging between 50% and 90% of the total purchase price.",
+    "subject": "LBOs",
+    "predicate_type": "requires",
+    "object_text": "significant proportion of debt, typically ranging between 50% and 90% of the total purchase price",
+    "object_value": 50.0,
+    "object_unit": "%",
+    "source_text": "LBOs rely on a significant proportion of debt, typically ranging between 50% and 90% of the total purchase price.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt_financing",
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "LBO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "09dddf12-2e87-4f68-9362-45c8fb6f406e",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The remaining portion is financed through equity capital from the financial sponsor.",
+    "subject": "remaining portion",
+    "predicate_type": "relates_to",
+    "object_text": "financed through equity capital from the financial sponsor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The remaining portion is financed through equity capital from the financial sponsor.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "equity_capital",
+      "financial_sponsor"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2614f782-03d7-4cef-97b7-baa20df5ff71",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Ideal LBO candidates generate consistent operating cash flows to meet debt obligations.",
+    "subject": "Ideal LBO candidates",
+    "predicate_type": "requires",
+    "object_text": "generate consistent operating cash flows to meet debt obligations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Ideal LBO candidates generate consistent operating cash flows to meet debt obligations.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cash_flow",
+      "debt_obligations",
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "LBO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4ae4ef6-dfe1-4f11-9019-8f55f423925f",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Businesses with recurring revenue, high customer retention, and strong profit margins are prime targets.",
+    "subject": "Businesses with recurring revenue, high customer retention, and strong profit margins",
+    "predicate_type": "classifies",
+    "object_text": "prime targets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Businesses with recurring revenue, high customer retention, and strong profit margins are prime targets.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "revenue",
+      "customer_retention",
+      "profit_margin"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e2d24358-d4d6-4058-bd3a-4ff2288a48a9",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Companies with tangible assets, such as real estate, inventory, and equipment, provide lenders with security, reducing credit risk.",
+    "subject": "Companies with tangible assets, such as real estate, inventory, and equipment",
+    "predicate_type": "causes",
+    "object_text": "lenders with security, reducing credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Companies with tangible assets, such as real estate, inventory, and equipment, provide lenders with security, reducing credit risk.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tangible_assets",
+      "credit_risk",
+      "lending"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c0f0ff5d-6451-4319-a897-233913b433cf",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Financial sponsors aim to improve profitability through cost-cutting measures, operational restructuring, and revenue growth strategies.",
+    "subject": "Financial sponsors",
+    "predicate_type": "relates_to",
+    "object_text": "improve profitability through cost-cutting measures, operational restructuring, and revenue growth strategies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial sponsors aim to improve profitability through cost-cutting measures, operational restructuring, and revenue growth strategies.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "profitability",
+      "cost_cutting",
+      "revenue_growth"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae1a70fd-391b-45cd-9e36-625a3409b8f6",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Interest payments on LBO debt are typically tax-deductible, reducing the overall tax burden and improving post-tax cash flows.",
+    "subject": "Interest payments on LBO debt",
+    "predicate_type": "causes",
+    "object_text": "reducing the overall tax burden and improving post-tax cash flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest payments on LBO debt are typically tax-deductible, reducing the overall tax burden and improving post-tax cash flows.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_payments",
+      "tax_deductible",
+      "cash_flow"
+    ],
+    "entities": [
+      "LBO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0c0be9a-6683-4d34-b137-b819463cecba",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Private equity firms plan exit strategies before acquiring a company.",
+    "subject": "Private equity firms",
+    "predicate_type": "relates_to",
+    "object_text": "plan exit strategies before acquiring a company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Private equity firms plan exit strategies before acquiring a company.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private_equity",
+      "exit_strategy",
+      "mergers_and_acquisitions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "16724262-695e-4189-90f8-6f92c7908350",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Common exit options include an initial public offering (IPO), strategic sale, secondary buyout (SBO), or recapitalization.",
+    "subject": "exit options",
+    "predicate_type": "classifies",
+    "object_text": "initial public offering (IPO), strategic sale, secondary buyout (SBO), or recapitalization",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Common exit options include an initial public offering (IPO), strategic sale, secondary buyout (SBO), or recapitalization.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "exit_strategy",
+      "ipo",
+      "strategic_sale",
+      "recapitalization"
+    ],
+    "entities": [
+      "IPO",
+      "SBO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e06ae549-364f-48ad-b59b-b2d1eb92118e",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Debt volumes of up to 100% of a purchase price have been provided to companies with very stable and secured cash flows, such as real estate portfolios with rental income secured by long-term rental agreements.",
+    "subject": "Debt volumes",
+    "predicate_type": "permits",
+    "object_text": "up to 100% of a purchase price have been provided to companies with very stable and secured cash flows, such as real estate portfolios with rental income secured by long-term rental agreements",
+    "object_value": 100.0,
+    "object_unit": "%",
+    "source_text": "Debt volumes of up to 100% of a purchase price have been provided to companies with very stable and secured cash flows, such as real estate portfolios with rental income secured by long-term rental agreements.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt_financing",
+      "cash_flow",
+      "real_estate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "201c671a-4b38-4429-9aec-73911063bf3f",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Typically, debt of 40\u201360% of the purchase price may be offered.",
+    "subject": "debt",
+    "predicate_type": "permits",
+    "object_text": "40\u201360% of the purchase price may be offered",
+    "object_value": 40.0,
+    "object_unit": "%",
+    "source_text": "Typically, debt of 40\u201360% of the purchase price may be offered.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt_financing",
+      "purchase_price"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3d16910e-1212-428a-8935-558d64f522c1",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Debt ratios vary significantly among regions and target industries.",
+    "subject": "Debt ratios",
+    "predicate_type": "relates_to",
+    "object_text": "vary significantly among regions and target industries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Debt ratios vary significantly among regions and target industries.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt_ratio",
+      "regional_variations",
+      "industry_variations"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "de20e269-d4d5-466a-bb6b-e2929e1f997f",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Debt for an acquisition comes in two types: senior and junior.",
+    "subject": "Debt for an acquisition",
+    "predicate_type": "classifies",
+    "object_text": "senior and junior",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Debt for an acquisition comes in two types: senior and junior.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt_financing",
+      "senior_debt",
+      "junior_debt"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b4cf85dd-2c8d-4341-874f-0e291f57e0bf",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Senior debt is secured with the target company's assets and has lower interest rates.",
+    "subject": "Senior debt",
+    "predicate_type": "relates_to",
+    "object_text": "secured with the target company's assets and has lower interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Senior debt is secured with the target company's assets and has lower interest rates.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "senior_debt",
+      "secured_debt",
+      "interest_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4280011-6f07-486e-bf4c-ee98afedf2da",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Junior debt has no security interests and higher interest rates.",
+    "subject": "Junior debt",
+    "predicate_type": "relates_to",
+    "object_text": "no security interests and higher interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Junior debt has no security interests and higher interest rates.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "junior_debt",
+      "interest_rate",
+      "security_interest"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "31c185e0-10ab-4b68-ae4c-256aa1eef145",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In big purchases, debt and equity can come from more than one party.",
+    "subject": "big purchases",
+    "predicate_type": "permits",
+    "object_text": "debt and equity can come from more than one party",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In big purchases, debt and equity can come from more than one party.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt_financing",
+      "equity",
+      "mergers_and_acquisitions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9e95b9f9-392e-4b7b-8fd8-4b2feacc511d",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Banks can also syndicate debt, meaning they sell pieces of the debt to other banks.",
+    "subject": "Banks",
+    "predicate_type": "permits",
+    "object_text": "syndicate debt, meaning they sell pieces of the debt to other banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks can also syndicate debt, meaning they sell pieces of the debt to other banks.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt_syndication",
+      "banking"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f0b23394-a247-4158-847a-50ca18c72f22",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Seller notes (or vendor loans) can also happen when the seller uses part of the sale to give the purchaser a loan.",
+    "subject": "Seller notes (or vendor loans)",
+    "predicate_type": "relates_to",
+    "object_text": "happen when the seller uses part of the sale to give the purchaser a loan",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Seller notes (or vendor loans) can also happen when the seller uses part of the sale to give the purchaser a loan.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "seller_financing",
+      "vendor_loan"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3079fd5a-c186-4249-908b-e04796262730",
+    "chunk_id": "bb8fa843-6963-4ba8-bf73-c9dd1062b70d",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In LBOs, the only collateral is the company's assets and cash flows.",
+    "subject": "LBOs",
+    "predicate_type": "constrains",
+    "object_text": "the only collateral is the company's assets and cash flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In LBOs, the only collateral is the company's assets and cash flows.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "collateral",
+      "company_assets",
+      "cash_flow"
+    ],
+    "entities": [
+      "LBO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ecde7eb8-7993-4f85-9300-81bbe9adca00",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The first leveraged buyout may have been the purchase by McLean Industries, Inc. of Pan-Atlantic Steamship Company in January 1955 and Waterman Steamship Corporation in May 1955.",
+    "subject": "The purchase by McLean Industries, Inc. of Pan-Atlantic Steamship Company and Waterman Steamship Corporation",
+    "predicate_type": "classifies",
+    "object_text": "the first leveraged buyout",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The first leveraged buyout may have been the purchase by McLean Industries, Inc. of Pan-Atlantic Steamship Company in January 1955 and Waterman Steamship Corporation in May 1955.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "McLean Industries, Inc.",
+      "Pan-Atlantic Steamship Company",
+      "Waterman Steamship Corporation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0b36884-8ae2-450d-a4e4-f1adb5f475b6",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Under the terms of that transaction, McLean borrowed $42 million.",
+    "subject": "McLean",
+    "predicate_type": "relates_to",
+    "object_text": "borrowed $42 million",
+    "object_value": 42.0,
+    "object_unit": "million",
+    "source_text": "Under the terms of that transaction, McLean borrowed $42 million.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "McLean"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3bcc4002-db30-4497-bdba-0a728ebac2b0",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Under the terms of that transaction, McLean raised an additional $7 million through an issue of preferred stock.",
+    "subject": "McLean",
+    "predicate_type": "relates_to",
+    "object_text": "raised an additional $7 million through an issue of preferred stock",
+    "object_value": 7.0,
+    "object_unit": "million",
+    "source_text": "Under the terms of that transaction, McLean raised an additional $7 million through an issue of preferred stock.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "McLean"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0624b7d1-36c7-4c00-83d4-99157c342db9",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "When the deal closed, $20 million of Waterman cash and assets were used to retire $20 million of the loan debt.",
+    "subject": "Waterman cash and assets",
+    "predicate_type": "relates_to",
+    "object_text": "used to retire $20 million of the loan debt",
+    "object_value": 20.0,
+    "object_unit": "million",
+    "source_text": "When the deal closed, $20 million of Waterman cash and assets were used to retire $20 million of the loan debt.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "Waterman"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7b42ce6-bd41-4887-8850-6a6d403732ba",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Lewis Cullman's acquisition of Orkin Exterminating Company in 1964 is among the first significant leveraged buyout transactions.",
+    "subject": "Lewis Cullman's acquisition of Orkin Exterminating Company",
+    "predicate_type": "classifies",
+    "object_text": "among the first significant leveraged buyout transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lewis Cullman's acquisition of Orkin Exterminating Company in 1964 is among the first significant leveraged buyout transactions.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "Lewis Cullman",
+      "Orkin Exterminating Company"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e9bb33d5-3070-490b-9e75-0586f4596861",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The leveraged buyout boom of the 1980s was conceived in the 1960s by a number of corporate financiers, most notably Jerome Kohlberg, Jr. and later his prot\u00e9g\u00e9 Henry Kravis.",
+    "subject": "The leveraged buyout boom of the 1980s",
+    "predicate_type": "relates_to",
+    "object_text": "was conceived in the 1960s by a number of corporate financiers, most notably Jerome Kohlberg, Jr. and later his prot\u00e9g\u00e9 Henry Kravis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The leveraged buyout boom of the 1980s was conceived in the 1960s by a number of corporate financiers, most notably Jerome Kohlberg, Jr. and later his prot\u00e9g\u00e9 Henry Kravis.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "Jerome Kohlberg, Jr.",
+      "Henry Kravis"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "399cff47-e1b5-4a6a-a496-953f32a888b0",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Working for Bear Stearns at the time, Kohlberg and Kravis, along with Kravis' cousin George Roberts, began a series of what they described as \"bootstrap\" investments.",
+    "subject": "Kohlberg and Kravis, along with Kravis' cousin George Roberts",
+    "predicate_type": "relates_to",
+    "object_text": "began a series of what they described as \"bootstrap\" investments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Working for Bear Stearns at the time, Kohlberg and Kravis, along with Kravis' cousin George Roberts, began a series of what they described as \"bootstrap\" investments.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "Bear Stearns",
+      "Kohlberg",
+      "Kravis",
+      "George Roberts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "358a520c-be97-4137-9b4e-be0ae3243577",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In the following years, the three Bear Stearns bankers would complete a series of buyouts including Stern Metals (1965), Incom (a division of Rockwood International, 1971), Cobblers Industries (1971), and Boren Clay (1973) as well as Thompson Wire, Eagle Motors and Barrows through their investment in Stern Metals.",
+    "subject": "the three Bear Stearns bankers",
+    "predicate_type": "relates_to",
+    "object_text": "would complete a series of buyouts including Stern Metals (1965), Incom (a division of Rockwood International, 1971), Cobblers Industries (1971), and Boren Clay (1973) as well as Thompson Wire, Eagle Motors and Barrows through their investment in Stern Metals",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the following years, the three Bear Stearns bankers would complete a series of buyouts including Stern Metals (1965), Incom (a division of Rockwood International, 1971), Cobblers Industries (1971), and Boren Clay (1973) as well as Thompson Wire, Eagle Motors and Barrows through their investment in Stern Metals.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "Bear Stearns",
+      "Stern Metals",
+      "Incom",
+      "Rockwood International",
+      "Cobblers Industries",
+      "Boren Clay",
+      "Thompson Wire",
+      "Eagle Motors",
+      "Barrows"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "50b936b9-9c4a-40af-9462-be1758ed2908",
+    "chunk_id": "77902b58-cfca-43c6-ba71-414e2d2c64e8",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "By 1976, tensions had built up between Bear Stearns and Kohlberg, Kravis and Roberts leading to their departure and the formation of Kohlberg Kravis Roberts in that year.",
+    "subject": "tensions",
+    "predicate_type": "causes",
+    "object_text": "departure and the formation of Kohlberg Kravis Roberts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By 1976, tensions had built up between Bear Stearns and Kohlberg, Kravis and Roberts leading to their departure and the formation of Kohlberg Kravis Roberts in that year.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged_buyout"
+    ],
+    "entities": [
+      "Bear Stearns",
+      "Kohlberg",
+      "Kravis",
+      "Roberts",
+      "Kohlberg Kravis Roberts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c49a4fb8-e9b3-4d90-8e3d-2a377b0f2269",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The combination of decreasing interest rates, loosening lending standards, and regulatory changes for publicly traded companies (specifically the Sarbanes\u2013Oxley Act) would set the stage for the largest boom the private equity industry had seen.",
+    "subject": "combination of decreasing interest rates, loosening lending standards, and regulatory changes for publicly traded companies (specifically the Sarbanes\u2013Oxley Act)",
+    "predicate_type": "causes",
+    "object_text": "largest boom the private equity industry had seen",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The combination of decreasing interest rates, loosening lending standards, and regulatory changes for publicly traded companies (specifically the Sarbanes\u2013Oxley Act) would set the stage for the largest boom the private equity industry had seen.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "market conditions"
+    ],
+    "entities": [
+      "Sarbanes\u2013Oxley Act"
+    ],
+    "regulations": [
+      "Sarbanes\u2013Oxley Act"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a24c6a94-e8a6-4822-99d4-2e12ae5e4198",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Marked by the buyout of Dex Media in 2002, large multibillion-dollar U.S. buyouts could once again obtain significant high yield debt financing from various banks and larger transactions could be completed.",
+    "subject": "large multibillion-dollar U.S. buyouts",
+    "predicate_type": "permits",
+    "object_text": "obtain significant high yield debt financing from various banks and larger transactions could be completed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Marked by the buyout of Dex Media in 2002, large multibillion-dollar U.S. buyouts could once again obtain significant high yield debt financing from various banks and larger transactions could be completed.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged buyouts",
+      "debt financing"
+    ],
+    "entities": [
+      "Dex Media"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "49e1ca0f-93bc-4418-80a2-953ffba35c45",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "By 2004 and 2005, major buyouts were once again becoming common, including the acquisitions of Toys \"R\" Us, The Hertz Corporation, Metro-Goldwyn-Mayer and SunGard in 2005.",
+    "subject": "major buyouts",
+    "predicate_type": "relates_to",
+    "object_text": "once again becoming common, including the acquisitions of Toys \"R\" Us, The Hertz Corporation, Metro-Goldwyn-Mayer and SunGard in 2005",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By 2004 and 2005, major buyouts were once again becoming common, including the acquisitions of Toys \"R\" Us, The Hertz Corporation, Metro-Goldwyn-Mayer and SunGard in 2005.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged buyouts"
+    ],
+    "entities": [
+      "Toys \"R\" Us",
+      "The Hertz Corporation",
+      "Metro-Goldwyn-Mayer",
+      "SunGard"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "56395829-67d8-4795-a96a-a70f607bf0ff",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "As 2005 ended and 2006 began, new \"largest buyout\" records were set and surpassed several times with nine of the top ten buyouts at the end of 2007 having been announced in an 18-month window from the beginning of 2006 through the middle of 2007.",
+    "subject": "new \"largest buyout\" records",
+    "predicate_type": "relates_to",
+    "object_text": "were set and surpassed several times with nine of the top ten buyouts at the end of 2007 having been announced in an 18-month window from the beginning of 2006 through the middle of 2007",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As 2005 ended and 2006 began, new \"largest buyout\" records were set and surpassed several times with nine of the top ten buyouts at the end of 2007 having been announced in an 18-month window from the beginning of 2006 through the middle of 2007.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged buyouts"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e3871fda-da07-4119-b8bb-3f7c2bdabb05",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In 2006, private-equity firms bought 654 U.S. companies for $375 billion, representing 18 times the level of transactions closed in 2003.",
+    "subject": "private-equity firms",
+    "predicate_type": "relates_to",
+    "object_text": "bought 654 U.S. companies for $375 billion, representing 18 times the level of transactions closed in 2003",
+    "object_value": 375.0,
+    "object_unit": "billion",
+    "source_text": "In 2006, private-equity firms bought 654 U.S. companies for $375 billion, representing 18 times the level of transactions closed in 2003.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "mergers and acquisitions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1f5470ff-c5bd-4816-bee3-ad428a294b65",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "U.S.-based private-equity firms raised $215.4 billion in investor commitments to 322 funds in 2006, surpassing the previous record set in 2000 by 22% and 33% higher than the 2005 fundraising total.",
+    "subject": "U.S.-based private-equity firms",
+    "predicate_type": "relates_to",
+    "object_text": "raised $215.4 billion in investor commitments to 322 funds in 2006, surpassing the previous record set in 2000 by 22% and 33% higher than the 2005 fundraising total",
+    "object_value": 215.4,
+    "object_unit": "billion",
+    "source_text": "U.S.-based private-equity firms raised $215.4 billion in investor commitments to 322 funds in 2006, surpassing the previous record set in 2000 by 22% and 33% higher than the 2005 fundraising total.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "fundraising"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "add17d67-6a10-4ffd-a32a-21ffe3c83849",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The following year, despite the onset of turmoil in the credit markets in the summer, saw yet another record year of fundraising with $302 billion of investor commitments to 415 funds.",
+    "subject": "year following 2006",
+    "predicate_type": "relates_to",
+    "object_text": "saw yet another record year of fundraising with $302 billion of investor commitments to 415 funds",
+    "object_value": 302.0,
+    "object_unit": "billion",
+    "source_text": "The following year, despite the onset of turmoil in the credit markets in the summer, saw yet another record year of fundraising with $302 billion of investor commitments to 415 funds.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fundraising",
+      "credit markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15ea8feb-79ed-42b1-a31a-1084e60dabd4",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Among the mega-buyouts completed during the 2006 to 2007 boom were: EQ Office, HCA, Alliance Boots and TXU.",
+    "subject": "mega-buyouts",
+    "predicate_type": "relates_to",
+    "object_text": "completed during the 2006 to 2007 boom were: EQ Office, HCA, Alliance Boots and TXU",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Among the mega-buyouts completed during the 2006 to 2007 boom were: EQ Office, HCA, Alliance Boots and TXU.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged buyouts"
+    ],
+    "entities": [
+      "EQ Office",
+      "HCA",
+      "Alliance Boots",
+      "TXU"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "57ad17aa-5956-40ac-a707-7e3a4e02b705",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "In July 2007, turmoil that had been affecting the mortgage markets spilled over into the leveraged finance and high-yield debt markets.",
+    "subject": "turmoil",
+    "predicate_type": "causes",
+    "object_text": "spilled over into the leveraged finance and high-yield debt markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In July 2007, turmoil that had been affecting the mortgage markets spilled over into the leveraged finance and high-yield debt markets.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mortgage markets",
+      "leveraged finance",
+      "high-yield debt"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e4bf59d-bf44-4df5-a987-a82e69abb48f",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "The markets had been highly robust during the first six months of 2007, with highly issuer friendly developments including PIK and PIK Toggle (interest is \"Payable In Kind\") and covenant light debt widely available to finance large leveraged buyouts.",
+    "subject": "markets",
+    "predicate_type": "relates_to",
+    "object_text": "had been highly robust during the first six months of 2007, with highly issuer friendly developments including PIK and PIK Toggle (interest is \"Payable In Kind\") and covenant light debt widely available to finance large leveraged buyouts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The markets had been highly robust during the first six months of 2007, with highly issuer friendly developments including PIK and PIK Toggle (interest is \"Payable In Kind\") and covenant light debt widely available to finance large leveraged buyouts.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leveraged buyouts",
+      "debt financing"
+    ],
+    "entities": [
+      "PIK",
+      "PIK Toggle"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "63c228ca-4a4e-4ce4-8d29-e1b561cbb0c4",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "July and August saw a notable slowdown in issuance levels in the high yield and leveraged loan markets with only few issuers accessing the market.",
+    "subject": "issuance levels",
+    "predicate_type": "relates_to",
+    "object_text": "notable slowdown in the high yield and leveraged loan markets with only few issuers accessing the market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "July and August saw a notable slowdown in issuance levels in the high yield and leveraged loan markets with only few issuers accessing the market.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "high yield",
+      "leveraged loans"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e230f52-9741-48f5-ada9-1a06357131c3",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "Uncertain market conditions led to a significant widening of yield spreads, which coupled with the typical summer slowdown led many companies and investment banks to put their plans to issue debt on hold until the autumn.",
+    "subject": "uncertain market conditions",
+    "predicate_type": "causes",
+    "object_text": "significant widening of yield spreads, which coupled with the typical summer slowdown led many companies and investment banks to put their plans to issue debt on hold until the autumn",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Uncertain market conditions led to a significant widening of yield spreads, which coupled with the typical summer slowdown led many companies and investment banks to put their plans to issue debt on hold until the autumn.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market conditions",
+      "yield spreads",
+      "debt issuance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2ebf6a6-c8f2-4999-94c5-0e87988d8686",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "However, the expected rebound in the market after Labor Day 2007 did not materialize and the lack of market confidence prevented deals from pricing.",
+    "subject": "expected rebound in the market",
+    "predicate_type": "relates_to",
+    "object_text": "did not materialize and the lack of market confidence prevented deals from pricing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "However, the expected rebound in the market after Labor Day 2007 did not materialize and the lack of market confidence prevented deals from pricing.",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market conditions",
+      "market confidence"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8c4c08b5-a664-47a7-8f9c-4b0997c4e2c2",
+    "chunk_id": "6d21225c-814b-4e56-9e57-98fa1ff12827",
+    "document_id": "Leveraged_buyout",
+    "claim_text": "By the end of September, the full extent of the credit situation became obvious as major lenders including Citigroup",
+    "subject": "full extent of the credit situation",
+    "predicate_type": "relates_to",
+    "object_text": "became obvious as major lenders including Citigroup",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By the end of September, the full extent of the credit situation became obvious as major lenders including Citigroup",
+    "source_document": "Leveraged buyout",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit markets"
+    ],
+    "entities": [
+      "Citigroup"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

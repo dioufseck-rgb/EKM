@@ -1,0 +1,68 @@
+[
+  {
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "sequence": 0,
+    "section_title": "Overview",
+    "content": "The Monte Carlo method encompasses any technique of statistical sampling employed to approximate solutions to quantitative problems. Essentially, the Monte Carlo method solves a problem by directly simulating the underlying (physical) process and then calculating the (average) result of the process. This very general approach is valid in areas such as physics, chemistry, computer science etc. In finance, the Monte Carlo method is used to simulate the various sources of uncertainty that affect the value of the instrument, portfolio or investment in question, and to then calculate a representative value given these possible values of the underlying inputs. (\"Covering all conceivable real world contingencies in proportion to their likelihood.\") In terms of financial theory, this, essentially, is an application of risk neutral valuation; see also risk neutrality. Applications: In Corporate Finance, project finance and real options analysis, Monte Carlo Methods are used by financial analysts who wish to construct \"stochastic\" or probabilistic financial models as opposed to the traditional static and deterministic models. Here, in order to analyze the characteristics of a project\u2019s net present value (NPV), the cash flow components that are (heavily) impacted by uncertainty are modeled, incorporating any correlation between these, mathematically reflecting their \"random characteristics\". Then, these results are combined in a histogram of NPV (i.e. the project\u2019s probability distribution), and the average NPV of the potential investment \u2013 as well as its volatility and other sensitivities \u2013 is observed. This distribution allows, for example, for an estimate of the probability that the project has a net present value greater than zero (or any other value). See further under Corporate finance. In valuing an option on equity, the simulation generates several thousand possible (but random) price paths for the underlying share, with the associated exercise value (i.e. \"payoff\") of the option for each path. These payoffs are then averaged and discounted to today, and this result is the value of the option today. Note that whereas equity options are more commonly valued using other pricing models such as lattice based models, for path dependent exotic derivatives \u2013 such as Asian options \u2013 simulation is the valuation method most commonly employed; see Monte Carlo methods for option pricing for discussion as to further \u2013 and more complex \u2013 option modelling. To value fixed income instruments and interest rate derivatives the underlying source of uncertainty which is simulated is the short rate \u2013 the annualized interest rate at",
+    "token_estimate": 400,
+    "title": "Monte Carlo methods in finance",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "sequence": 1,
+    "section_title": "Overview",
+    "content": "method most commonly employed; see Monte Carlo methods for option pricing for discussion as to further \u2013 and more complex \u2013 option modelling. To value fixed income instruments and interest rate derivatives the underlying source of uncertainty which is simulated is the short rate \u2013 the annualized interest rate at which an entity can borrow money for a given period of time; see Short-rate model. For example, for bonds, and bond options, under each possible evolution of interest rates we observe a different yield curve and a different resultant bond price. To determine the bond value, these bond prices are then averaged; to value the bond option, as for equity options, the corresponding exercise values are averaged and present valued. A similar approach is used in valuing swaps, swaptions, and convertible bonds. As for equity, for path dependent interest rate derivatives \u2013 such as CMOs \u2013 simulation is the primary technique employed; (Note that \"to create realistic interest rate simulations\" Multi-factor short-rate models are sometimes employed.) Monte Carlo Methods are used for portfolio evaluation. Here, for each sample, the correlated behaviour of the factors impacting the component instruments is simulated over time, the resultant value of each instrument is calculated, and the portfolio value is then observed. As for corporate finance, above, the various portfolio values are then combined in a histogram, and the statistical characteristics of the portfolio are observed, and the portfolio assessed as required. Here analysts may apply Principal component analysis, where through dimensionality reduction, a limited set of factors may be simulated instead of each of the individual sources of uncertainty. A similar approach is used in calculating value at risk,,or \"VaR\", an estimate of how much a position, \"desk\", or other area might lose with a given probability (or confidence level) and in a set time period. A typical application of VaR is in investment banking, where the bank holds economic \u201crisk capital\u201d corresponding to the estimated number; see Financial risk management \u00a7 Banking. VaR is also used in portfolio risk management, where, as above, simulation allows the fund manager to estimate losses at a given horizon and confidence level, and to then hedge as / if appropriate. Post crisis, banks will make various \u201cvaluation adjustments\u201d - collectively XVA - when assessing the value of derivative contracts that they have entered into. The purpose of these is twofold: primarily to hedge for possible losses due",
+    "token_estimate": 400,
+    "title": "Monte Carlo methods in finance",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "sequence": 2,
+    "section_title": "Overview",
+    "content": "given horizon and confidence level, and to then hedge as / if appropriate. Post crisis, banks will make various \u201cvaluation adjustments\u201d - collectively XVA - when assessing the value of derivative contracts that they have entered into. The purpose of these is twofold: primarily to hedge for possible losses due to the other parties' failures to pay amounts due on the derivative contracts (credit valuation adjustment); but also to determine (and hedge) the amount of capital required under the bank capital adequacy rules. These are calculated under a simulation framework as the risk-neutral expectation value of the possible loss or other impact. See Credit valuation adjustment \u00a7 Calculation. Structurers use simulation to estimate the likely payout - and possibility of losses - of their bespoke structured note or other structured product, typically comprising several component securities. Monte Carlo Methods are used for personal financial planning. For instance, by simulating the overall market, the chances of a 401(k) allowing for retirement on a target income can be calculated. As appropriate, the worker in question can then take greater risks with the retirement portfolio or start saving more money. Discrete event simulation can be used in evaluating a proposed capital investment's impact on existing operations. Here, a \"current state\" model is constructed. Once operating correctly, having been tested and validated against historical data, the simulation is altered to reflect the proposed capital investment. This \"future state\" model is then used to assess the investment, by evaluating the improvement in performance (i.e. return) relative to the cost (via histogram as above); it may also be used in stress testing the design. See Discrete event simulation \u00a7 Evaluating capital investment decisions. Although Monte Carlo methods provide flexibility, and can handle multiple sources of uncertainty, the use of these techniques is nevertheless not always appropriate. In general, simulation methods are preferred to other valuation techniques only when there are several state variables (i.e. several sources of uncertainty). These techniques are also of limited use in valuing American style derivatives. See below.",
+    "token_estimate": 336,
+    "title": "Monte Carlo methods in finance",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "sequence": 3,
+    "section_title": "Level of complexity",
+    "content": "Many problems in mathematical finance entail the computation of a particular integral (for instance the problem of finding the arbitrage-free value of a particular derivative). In many cases these integrals can be valued analytically, and in still more cases they can be valued using numerical integration, or computed using a partial differential equation (PDE).  However, when the number of dimensions (or degrees of freedom) in the problem is large, PDEs and numerical integrals become intractable, and in these cases Monte Carlo methods often give better results.\nFor more than three or four state variables, formulae such as Black\u2013Scholes (i.e. analytic solutions) do not exist, while other numerical methods such as the Binomial options pricing model  and finite difference methods  face several difficulties and are not practical.  In these cases, Monte Carlo methods converge to the solution more quickly than numerical methods, require less memory and are easier to program. For simpler situations, however, simulation is not the better solution because it is very time-consuming and computationally intensive.\nMonte Carlo methods can deal with derivatives which have path dependent payoffs in a fairly straightforward manner. On the other hand, Finite Difference (PDE) solvers struggle with path dependence.",
+    "token_estimate": 196,
+    "title": "Monte Carlo methods in finance",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "455a12ee-1bdc-4325-ba22-5823413300a8",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "sequence": 4,
+    "section_title": "= Control variate method =",
+    "content": "It is also natural to use a control variate. Let us suppose that we wish to obtain the Monte Carlo value of a derivative H, but know the value analytically of a similar derivative I. Then H* = (Value of H according to Monte Carlo) + B*[(Value of I analytically) \u2212 (Value of I according to same Monte Carlo paths)] is a better estimate, where B is covar(H,I)/var(H).\nThe intuition behind that technique, when applied to derivatives, is the following: note that the source of the variance of a derivative will be directly dependent on the risks (e.g. delta, vega) of this derivative. This is because any error on, say, the estimator for the forward value of an underlier, will generate a corresponding error depending on the delta of the derivative with respect to this forward value. The simplest example to demonstrate this consists in comparing the error when pricing an at-the-money call and an at-the-money straddle (i.e. call+put), which has a much lower delta.\nTherefore, a standard way of choosing the derivative I consists in choosing a replicating portfolios of options for H. In practice, one will price H without variance reduction, calculate deltas and vegas, and then use a combination of calls and puts that have the same deltas and vegas as control variate.",
+    "token_estimate": 216,
+    "title": "Monte Carlo methods in finance",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "sequence": 5,
+    "section_title": "Books",
+    "content": "Damiano Brigo, Fabio Mercurio (2001). Interest Rate Models - Theory and Practice with Smile, Inflation and Credit (2nd ed. 2006 ed.). Springer Verlag. ISBN 978-3-540-22149-4.\nDaniel J. Duffy & Joerg Kienitz (2009). Monte Carlo Frameworks: Building Customisable High-performance C++ Applications. Wiley. ISBN 978-0470060698.\nBruno Dupire (1998). Monte Carlo:methodologies and applications for pricing and risk management. Risk.\nPaul Glasserman (2003). Monte Carlo methods in financial engineering. Springer-Verlag. ISBN 0-387-00451-3.\nJohn C. Hull (2000). Options, futures and other derivatives (4th ed.). Prentice Hall. ISBN 0-13-015822-4.\nPeter Jaeckel (2002). Monte Carlo methods in finance. John Wiley and Sons. ISBN 0-471-49741-X.\nPeter E. Kloeden & Eckhard Platen (1992). Numerical Solution of Stochastic Differential Equations. Springer - Verlag.\nDessislava Pachamanova and Frank J. Fabozzi (2010). Simulation and Optimization in Finance: Modeling with MATLAB, @Risk, or VBA. John Wiley and Sons. ISBN 978-0-470-37189-3.",
+    "token_estimate": 137,
+    "title": "Monte Carlo methods in finance",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance",
+    "domain": "finance"
+  }
+]

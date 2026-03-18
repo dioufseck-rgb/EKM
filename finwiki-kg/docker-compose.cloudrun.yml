@@ -1,0 +1,45 @@
+version: "3.9"
+
+# Cloud Run variant — databases on GCE VM (internal VPC), only api + ui deployed here.
+# Set DB URLs to internal GCE VM IPs before deploying.
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.api
+    environment:
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      POSTGRES_URL: ${POSTGRES_URL}      # e.g. postgresql://finwiki:finwiki@10.x.x.x:5432/finwiki
+      QDRANT_URL: ${QDRANT_URL}          # e.g. http://10.x.x.x:6333
+      NEO4J_URL: ${NEO4J_URL}            # e.g. bolt://10.x.x.x:7687
+      NEO4J_USER: ${NEO4J_USER}
+      NEO4J_PASSWORD: ${NEO4J_PASSWORD}
+      COST_CEILING_USD: ${COST_CEILING_USD:-9.50}
+      COST_OVERRIDE: ${COST_OVERRIDE:-false}
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+    ports:
+      - "8000:8000"
+    # Cloud Run: 2 vCPU, 4GB memory, min 1 instance
+    deploy:
+      resources:
+        limits:
+          cpus: "2"
+          memory: 4G
+
+  ui:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.ui
+    environment:
+      API_URL: ${API_URL:-http://api:8000}
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    # Cloud Run: 1 vCPU, 2GB memory, min 1 instance
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 2G

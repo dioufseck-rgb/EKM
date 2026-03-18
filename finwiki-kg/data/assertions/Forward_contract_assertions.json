@@ -1,0 +1,2562 @@
+[
+  {
+    "assertion_id": "277cc055-b719-447c-8332-d7684e80844a",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "For liquid assets (\"tradeables\"), spot\u2013forward parity provides the link between the spot market and the forward market.",
+    "subject": "spot\u2013forward parity",
+    "predicate_type": "relates_to",
+    "object_text": "the link between the spot market and the forward market for liquid assets (\"tradeables\")",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For liquid assets (\"tradeables\"), spot\u2013forward parity provides the link between the spot market and the forward market.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "financial markets"
+    ],
+    "entities": [
+      "spot market",
+      "forward market"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "767380e2-26db-4016-9e45-095df3bb2504",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "Spot\u2013forward parity describes the relationship between the spot and forward price of the underlying asset in a forward contract.",
+    "subject": "spot\u2013forward parity",
+    "predicate_type": "defines",
+    "object_text": "the relationship between the spot and forward price of the underlying asset in a forward contract",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Spot\u2013forward parity describes the relationship between the spot and forward price of the underlying asset in a forward contract.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "financial markets"
+    ],
+    "entities": [
+      "forward contract"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15a566ce-5f62-46a9-9a1f-e47a3f3e30f1",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "The overall effect can be described as the cost of carry.",
+    "subject": "overall effect",
+    "predicate_type": "defines",
+    "object_text": "the cost of carry",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The overall effect can be described as the cost of carry.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "financial markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01855288-19e9-439f-8166-21a65d80cbdb",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "The effect can be broken down into different components.",
+    "subject": "effect",
+    "predicate_type": "relates_to",
+    "object_text": "different components",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The effect can be broken down into different components.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "financial markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e5b86b0-3a3c-46ac-ba2c-97645ed223f4",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "The asset pays income.",
+    "subject": "asset",
+    "predicate_type": "relates_to",
+    "object_text": "pays income",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The asset pays income.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "financial markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "be3d06a5-6458-43a3-9fe0-a5261734d87d",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "The asset pays income on a discrete basis.",
+    "subject": "asset",
+    "predicate_type": "relates_to",
+    "object_text": "pays income on a discrete basis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The asset pays income on a discrete basis.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "financial markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c2601577-2bfa-4eba-83fd-b8c61d0108db",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "The asset pays income on a continuous basis.",
+    "subject": "asset",
+    "predicate_type": "relates_to",
+    "object_text": "pays income on a continuous basis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The asset pays income on a continuous basis.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "financial markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c513ec10-ae47-4a12-ba37-c9359f1efcf7",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "The asset incurs storage costs.",
+    "subject": "asset",
+    "predicate_type": "relates_to",
+    "object_text": "incurs storage costs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The asset incurs storage costs.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "financial markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "86cb882f-8352-46c9-94ef-116dbd13a41b",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "An investment asset is an asset held primarily for investment purposes (e.g. gold, financial securities).",
+    "subject": "investment asset",
+    "predicate_type": "defines",
+    "object_text": "an asset held primarily for investment purposes (e.g. gold, financial securities)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An investment asset is an asset held primarily for investment purposes (e.g. gold, financial securities).",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "gold",
+      "financial securities"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0a82e841-ab91-4a69-8605-8f48ceb76779",
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "claim_text": "A consumption asset is an asset held primarily for consumption (e.g. oil, iron ore etc.).",
+    "subject": "consumption asset",
+    "predicate_type": "defines",
+    "object_text": "an asset held primarily for consumption (e.g. oil, iron ore etc.)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A consumption asset is an asset held primarily for consumption (e.g. oil, iron ore etc.).",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "oil",
+      "iron ore"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9d4d6cd5-0fd6-46f8-948a-fafab328393e",
+    "chunk_id": "16925e57-1016-4dc0-9a87-0c444a0923e0",
+    "document_id": "Forward_contract",
+    "claim_text": "In a currency forward, the notional amounts of currencies are specified.",
+    "subject": "currency forward",
+    "predicate_type": "defines",
+    "object_text": "the notional amounts of currencies are specified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In a currency forward, the notional amounts of currencies are specified.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency",
+      "derivatives"
+    ],
+    "entities": [
+      "currency forward"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "456a524c-4fe8-4cb3-ba92-06f005260462",
+    "chunk_id": "16925e57-1016-4dc0-9a87-0c444a0923e0",
+    "document_id": "Forward_contract",
+    "claim_text": "A contract to buy $100 million Canadian dollars equivalent to, say US$75.2 million at the current rate.",
+    "subject": "contract",
+    "predicate_type": "relates_to",
+    "object_text": "buy $100 million Canadian dollars equivalent to, say US$75.2 million at the current rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A contract to buy $100 million Canadian dollars equivalent to, say US$75.2 million at the current rate.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency",
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "83a61c95-a167-4bee-a0da-657b0c96973d",
+    "chunk_id": "16925e57-1016-4dc0-9a87-0c444a0923e0",
+    "document_id": "Forward_contract",
+    "claim_text": "These two amounts are called the notional amount(s).",
+    "subject": "two amounts",
+    "predicate_type": "defines",
+    "object_text": "the notional amount(s)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These two amounts are called the notional amount(s).",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency",
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c15fe451-61eb-4863-a3b5-56449f71e3f4",
+    "chunk_id": "16925e57-1016-4dc0-9a87-0c444a0923e0",
+    "document_id": "Forward_contract",
+    "claim_text": "The cost or margin requirement to command or open such a contract is considerably less than that amount.",
+    "subject": "cost or margin requirement",
+    "predicate_type": "relates_to",
+    "object_text": "considerably less than that amount",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The cost or margin requirement to command or open such a contract is considerably less than that amount.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "margin",
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d94de462-f850-4bd0-a3c3-f605c542745d",
+    "chunk_id": "16925e57-1016-4dc0-9a87-0c444a0923e0",
+    "document_id": "Forward_contract",
+    "claim_text": "The notional amount or reference amount may be a large number.",
+    "subject": "notional amount or reference amount",
+    "predicate_type": "relates_to",
+    "object_text": "may be a large number",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The notional amount or reference amount may be a large number.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "75670312-a2d5-42a4-a2d1-0ce37e88c7e5",
+    "chunk_id": "16925e57-1016-4dc0-9a87-0c444a0923e0",
+    "document_id": "Forward_contract",
+    "claim_text": "The leverage is typical in derivative contracts.",
+    "subject": "leverage",
+    "predicate_type": "relates_to",
+    "object_text": "typical in derivative contracts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The leverage is typical in derivative contracts.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "83d664e0-635e-47f6-808f-688dbb1f734d",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "Forward contracts are very similar to futures contracts, except they are not exchange-traded, or defined on standardized assets.",
+    "subject": "Forward contracts",
+    "predicate_type": "relates_to",
+    "object_text": "futures contracts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Forward contracts are very similar to futures contracts, except they are not exchange-traded, or defined on standardized assets.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [
+      "Forward contracts",
+      "futures contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e9078279-57e3-4e7e-8791-86425f380c9f",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "Forwards also typically have no interim partial settlements or \"true-ups\" in margin requirements like futures",
+    "subject": "Forwards",
+    "predicate_type": "prohibits",
+    "object_text": "interim partial settlements or \"true-ups\" in margin requirements like futures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Forwards also typically have no interim partial settlements or \"true-ups\" in margin requirements like futures",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [
+      "Forwards",
+      "futures"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "89c28026-64a0-42b6-8599-3bca3ad8f093",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "the parties do not exchange additional property securing the party at gain and the entire unrealized gain or loss builds up while the contract is open.",
+    "subject": "parties",
+    "predicate_type": "prohibits",
+    "object_text": "exchange additional property securing the party at gain and the entire unrealized gain or loss builds up while the contract is open",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "the parties do not exchange additional property securing the party at gain and the entire unrealized gain or loss builds up while the contract is open.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "61a34a69-df86-4c4b-8c4d-dcda830bda47",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "forward contracts have a significant counterparty risk",
+    "subject": "forward contracts",
+    "predicate_type": "relates_to",
+    "object_text": "significant counterparty risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "forward contracts have a significant counterparty risk",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "counterparty_risk"
+    ],
+    "entities": [
+      "forward contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "179eeed0-623b-4382-bfbf-b0751ea1099c",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "forward contracts are not readily available to retail investors.",
+    "subject": "forward contracts",
+    "predicate_type": "prohibits",
+    "object_text": "readily available to retail investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "forward contracts are not readily available to retail investors.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [
+      "forward contracts",
+      "retail investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aaad7966-2599-437a-af16-cca91c1e8391",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "forward contracts specification can be customized and may include mark-to-market and daily margin calls.",
+    "subject": "forward contracts specification",
+    "predicate_type": "permits",
+    "object_text": "customized and may include mark-to-market and daily margin calls",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "forward contracts specification can be customized and may include mark-to-market and daily margin calls.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [
+      "forward contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "08e92ac8-46ac-44cc-a206-882b638e5092",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "Having no upfront cashflows is one of the advantages of a forward contract compared to its futures counterpart.",
+    "subject": "forward contract",
+    "predicate_type": "relates_to",
+    "object_text": "advantage of a forward contract compared to its futures counterpart",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Having no upfront cashflows is one of the advantages of a forward contract compared to its futures counterpart.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [
+      "forward contract",
+      "futures"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9717ecfa-e7d7-424f-aaaa-1ccdff82aa5f",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "Especially when the forward contract is denominated in a foreign currency, not having to post (or receive) daily settlements simplifies cashflow management.",
+    "subject": "forward contract",
+    "predicate_type": "causes",
+    "object_text": "simplifies cashflow management",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Especially when the forward contract is denominated in a foreign currency, not having to post (or receive) daily settlements simplifies cashflow management.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "cashflow_management"
+    ],
+    "entities": [
+      "forward contract"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62921f26-3ae6-42ea-bcb8-049b09d1e4f6",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "it is very difficult to close out one's position, that is to rescind the forward contract compared to the futures markets",
+    "subject": "forward contract",
+    "predicate_type": "constrains",
+    "object_text": "close out one's position",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "it is very difficult to close out one's position, that is to rescind the forward contract compared to the futures markets",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [
+      "forward contract",
+      "futures markets"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3068770a-779d-44fd-bc5c-b78595459f0a",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "while being long in a forward contract, entering short into another forward contract might cancel out delivery obligations but adds to credit risk exposure as there are now three parties involved.",
+    "subject": "entering short into another forward contract",
+    "predicate_type": "causes",
+    "object_text": "adds to credit risk exposure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "while being long in a forward contract, entering short into another forward contract might cancel out delivery obligations but adds to credit risk exposure as there are now three parties involved.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "credit_risk"
+    ],
+    "entities": [
+      "forward contract"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "682af905-c0b6-4030-b9e9-fc1d6460a165",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "Closing out a contract almost always involves reaching out to the counterparty.",
+    "subject": "Closing out a contract",
+    "predicate_type": "requires",
+    "object_text": "reaching out to the counterparty",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Closing out a contract almost always involves reaching out to the counterparty.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f27202ee-5de6-4055-92a6-25393ed0d2fa",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "forwards (especially Forward Rate Agreements) need convexity adjustments, that is a drift term that accounts for future rate changes.",
+    "subject": "forwards",
+    "predicate_type": "requires",
+    "object_text": "convexity adjustments, that is a drift term that accounts for future rate changes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "forwards (especially Forward Rate Agreements) need convexity adjustments, that is a drift term that accounts for future rate changes.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [
+      "forwards",
+      "Forward Rate Agreements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b45cc939-e5b9-4a81-b3c6-ced83bf9adb4",
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "claim_text": "a forward contract's risk changes when rates change.",
+    "subject": "forward contract",
+    "predicate_type": "relates_to",
+    "object_text": "risk changes when rates change",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "a forward contract's risk changes when rates change.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "risk_management"
+    ],
+    "entities": [
+      "forward contract"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "464d78a5-aaf9-4ff8-a97c-609e5c57c80b",
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "claim_text": "Outright prices, as opposed to premium points or forward points, are quoted in absolute price units.",
+    "subject": "Outright prices",
+    "predicate_type": "defines",
+    "object_text": "quoted in absolute price units",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Outright prices, as opposed to premium points or forward points, are quoted in absolute price units.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "pricing"
+    ],
+    "entities": [
+      "Outright prices",
+      "premium points",
+      "forward points"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "260ef1c7-577d-4d59-9a0d-8ac6da9028d6",
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "claim_text": "Outrights are used in markets where there is no (unitary) spot price or rate for reference, or where the spot price (rate) is not easily accessible.",
+    "subject": "Outrights",
+    "predicate_type": "implements",
+    "object_text": "used in markets where there is no (unitary) spot price or rate for reference, or where the spot price (rate) is not easily accessible",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Outrights are used in markets where there is no (unitary) spot price or rate for reference, or where the spot price (rate) is not easily accessible.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_structure",
+      "pricing"
+    ],
+    "entities": [
+      "Outrights",
+      "spot price",
+      "spot rate"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "918ee7d8-f726-48ce-9ffc-a50d802776b4",
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "claim_text": "In markets with easily accessible spot prices or basis rates, forwards are usually quoted using premium points or forward points.",
+    "subject": "forwards",
+    "predicate_type": "implements",
+    "object_text": "usually quoted using premium points or forward points in markets with easily accessible spot prices or basis rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In markets with easily accessible spot prices or basis rates, forwards are usually quoted using premium points or forward points.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "pricing"
+    ],
+    "entities": [
+      "forwards",
+      "premium points",
+      "forward points",
+      "spot prices",
+      "basis rates"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "87cc5bf9-79f3-408b-98a0-83e367fc5587",
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "claim_text": "The Foreign exchange market and OIS market are markets with easily accessible spot prices or basis rates.",
+    "subject": "Foreign exchange market and OIS market",
+    "predicate_type": "classifies",
+    "object_text": "markets with easily accessible spot prices or basis rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Foreign exchange market and OIS market are markets with easily accessible spot prices or basis rates.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_structure"
+    ],
+    "entities": [
+      "Foreign exchange market",
+      "OIS market",
+      "spot prices",
+      "basis rates"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5022b7d1-2dbc-49bd-aab2-83db01066e81",
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "claim_text": "Forwards are quoted as the difference in pips between the outright price and the spot price for FX.",
+    "subject": "Forwards",
+    "predicate_type": "defines",
+    "object_text": "quoted as the difference in pips between the outright price and the spot price for FX",
+    "object_value": null,
+    "object_unit": "pips",
+    "source_text": "Forwards are quoted as the difference in pips between the outright price and the spot price for FX.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "pricing"
+    ],
+    "entities": [
+      "Forwards",
+      "outright price",
+      "spot price",
+      "FX"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d190d2a0-6514-4de3-ac72-575354702deb",
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "claim_text": "Forwards are quoted as the difference in basis points between the forward rate and the basis rate for interest rate swaps and forward rate agreements.",
+    "subject": "Forwards",
+    "predicate_type": "defines",
+    "object_text": "quoted as the difference in basis points between the forward rate and the basis rate for interest rate swaps and forward rate agreements",
+    "object_value": null,
+    "object_unit": "basis points",
+    "source_text": "Forwards are quoted as the difference in basis points between the forward rate and the basis rate for interest rate swaps and forward rate agreements.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "pricing"
+    ],
+    "entities": [
+      "Forwards",
+      "forward rate",
+      "basis rate",
+      "interest rate swaps",
+      "forward rate agreements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c1829e75-e123-4cf9-8e55-f9fe54ce5c17",
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "claim_text": "The term outright is used in the futures markets in a similar way but is contrasted with futures spreads instead of premium points.",
+    "subject": "The term outright",
+    "predicate_type": "relates_to",
+    "object_text": "used in the futures markets in a similar way but is contrasted with futures spreads instead of premium points",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The term outright is used in the futures markets in a similar way but is contrasted with futures spreads instead of premium points.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "terminology"
+    ],
+    "entities": [
+      "outright",
+      "futures markets",
+      "futures spreads",
+      "premium points"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c6de0ea1-91b2-4bfd-b7c4-010803ae1ddf",
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "claim_text": "The use of the term outright in futures markets is more than just a quoting convention, and in particular involves the simultaneous transaction in two outright futures.",
+    "subject": "The use of the term outright in futures markets",
+    "predicate_type": "relates_to",
+    "object_text": "more than just a quoting convention, and in particular involves the simultaneous transaction in two outright futures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The use of the term outright in futures markets is more than just a quoting convention, and in particular involves the simultaneous transaction in two outright futures.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "terminology"
+    ],
+    "entities": [
+      "outright",
+      "futures markets",
+      "outright futures"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b264fa6-29e5-43a2-a6a3-7b8ce27018f6",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Alice currently owns a $100,000 house that she wishes to sell a year from now.",
+    "subject": "Alice",
+    "predicate_type": "relates_to",
+    "object_text": "owns a $100,000 house that she wishes to sell a year from now",
+    "object_value": 100000.0,
+    "object_unit": "$",
+    "source_text": "Alice currently owns a $100,000 house that she wishes to sell a year from now.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "forward_contract"
+    ],
+    "entities": [
+      "Alice"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d195639f-64dc-4f76-b05e-9b6938090cde",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Bob wants to buy a house a year from now.",
+    "subject": "Bob",
+    "predicate_type": "relates_to",
+    "object_text": "wants to buy a house a year from now",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bob wants to buy a house a year from now.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "forward_contract"
+    ],
+    "entities": [
+      "Bob"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e2a2f0a-d2d9-48e9-b2df-6c1ae2d23304",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Alice and Bob have entered into a forward contract.",
+    "subject": "Alice and Bob",
+    "predicate_type": "relates_to",
+    "object_text": "entered into a forward contract",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Alice and Bob have entered into a forward contract.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "forward_contract"
+    ],
+    "entities": [
+      "Alice",
+      "Bob"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b4499b3e-10f5-4501-bd76-9182b7cbb218",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Bob is said to have entered a long forward contract because he is buying the underlying.",
+    "subject": "Bob",
+    "predicate_type": "relates_to",
+    "object_text": "is said to have entered a long forward contract because he is buying the underlying",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bob is said to have entered a long forward contract because he is buying the underlying.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "forward_contract"
+    ],
+    "entities": [
+      "Bob"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e57f21aa-4938-47d6-afe3-dfda4c5f753e",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Alice will have the short forward contract.",
+    "subject": "Alice",
+    "predicate_type": "relates_to",
+    "object_text": "will have the short forward contract",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Alice will have the short forward contract.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "forward_contract"
+    ],
+    "entities": [
+      "Alice"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dd069436-be2f-4124-995c-87d9b214fb1d",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Bob will make a profit of $6,000 because Alice is obliged to sell to Bob for only $104,000.",
+    "subject": "Bob",
+    "predicate_type": "causes",
+    "object_text": "make a profit of $6,000",
+    "object_value": 6000.0,
+    "object_unit": "$",
+    "source_text": "Bob will make a profit of $6,000 because Alice is obliged to sell to Bob for only $104,000.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "forward_contract"
+    ],
+    "entities": [
+      "Bob",
+      "Alice"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e26110b9-cd65-4f11-a9c0-53e29a469f57",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Alice has made a potential loss of $6,000, and an actual profit of $4,000.",
+    "subject": "Alice",
+    "predicate_type": "relates_to",
+    "object_text": "made a potential loss of $6,000, and an actual profit of $4,000",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Alice has made a potential loss of $6,000, and an actual profit of $4,000.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "forward_contract"
+    ],
+    "entities": [
+      "Alice"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e4e14db1-c188-478b-abe6-c55068013b24",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "The similar situation works among currency forwards, in which one party opens a forward contract to buy or sell a currency (e.g. a contract to buy Canadian dollars) to expire/settle at a future date, as they do not wish to be exposed to exchange rate/currency risk over a period of time.",
+    "subject": "currency forwards",
+    "predicate_type": "relates_to",
+    "object_text": "one party opens a forward contract to buy or sell a currency (e.g. a contract to buy Canadian dollars) to expire/settle at a future date, as they do not wish to be exposed to exchange rate/currency risk over a period of time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The similar situation works among currency forwards, in which one party opens a forward contract to buy or sell a currency (e.g. a contract to buy Canadian dollars) to expire/settle at a future date, as they do not wish to be exposed to exchange rate/currency risk over a period of time.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency_forwards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e48eeaa-d5ad-4b48-8e99-41a58078faab",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "As the exchange rate between U.S. dollars and Canadian dollars fluctuates between the trade date and the earlier of the date at which the contract is closed or the expiration date, one party gains and the counterparty loses as one currency strengthens against the other.",
+    "subject": "exchange rate between U.S. dollars and Canadian dollars",
+    "predicate_type": "causes",
+    "object_text": "one party gains and the counterparty loses as one currency strengthens against the other",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As the exchange rate between U.S. dollars and Canadian dollars fluctuates between the trade date and the earlier of the date at which the contract is closed or the expiration date, one party gains and the counterparty loses as one currency strengthens against the other.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency_forwards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "29308426-049e-4882-8e38-46aed790886a",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Sometimes, the buy forward is opened because the investor will actually need Canadian dollars at a future date such as to pay a debt owed that is denominated in Canadian dollars.",
+    "subject": "buy forward",
+    "predicate_type": "relates_to",
+    "object_text": "opened because the investor will actually need Canadian dollars at a future date such as to pay a debt owed that is denominated in Canadian dollars",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sometimes, the buy forward is opened because the investor will actually need Canadian dollars at a future date such as to pay a debt owed that is denominated in Canadian dollars.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency_forwards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2a82b82f-04f2-4588-ada9-44665121fbc2",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "Other times, the party opening a forward does so, not because they need Canadian dollars nor because they are hedging currency risk, but because they are speculating on the currency, expecting the exchange rate to move favorably to generate a gain on closing the contract.",
+    "subject": "party opening a forward",
+    "predicate_type": "relates_to",
+    "object_text": "speculating on the currency, expecting the exchange rate to move favorably to generate a gain on closing the contract",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other times, the party opening a forward does so, not because they need Canadian dollars nor because they are hedging currency risk, but because they are speculating on the currency, expecting the exchange rate to move favorably to generate a gain on closing the contract.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency_forwards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ab2cf43-5ca8-45f1-af82-2907d3354430",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "In a currency forward, the notional amounts of currencies are specified.",
+    "subject": "currency forward",
+    "predicate_type": "relates_to",
+    "object_text": "the notional amounts of currencies are specified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In a currency forward, the notional amounts of currencies are specified.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency_forwards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "db40ccc5-f432-424b-9138-dd65b1fa3059",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "A contract to buy $100 million Canadian dollars is equivalent to US$75.2 million at the current rate.",
+    "subject": "contract to buy $100 million Canadian dollars",
+    "predicate_type": "relates_to",
+    "object_text": "equivalent to US$75.2 million at the current rate",
+    "object_value": 75200000.0,
+    "object_unit": "US$",
+    "source_text": "A contract to buy $100 million Canadian dollars is equivalent to US$75.2 million at the current rate.",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency_forwards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dae84f55-2005-42f0-97f3-7f2c26dd87ef",
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "claim_text": "$100 million Canadian dollars and US$75.2 million are called the notional amount(s).",
+    "subject": "$100 million Canadian dollars and US$75.2 million",
+    "predicate_type": "defines",
+    "object_text": "the notional amount(s)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "$100 million Canadian dollars and US$75.2 million are called the notional amount(s).",
+    "source_document": "Forward contract",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency_forwards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

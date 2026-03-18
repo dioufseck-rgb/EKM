@@ -1,0 +1,4809 @@
+[
+  {
+    "assertion_id": "9f77627b-b564-47ce-a163-8674ec7e9a52",
+    "chunk_id": "d42d8d06-86d1-414d-946a-a7a17083ca11",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The U.S. translation procedures differentiate foreign subsidiaries by functional currency, not subsidiary characterization.",
+    "subject": "U.S. translation procedures",
+    "predicate_type": "classifies",
+    "object_text": "foreign subsidiaries by functional currency, not subsidiary characterization",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The U.S. translation procedures differentiate foreign subsidiaries by functional currency, not subsidiary characterization.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "translation procedures"
+    ],
+    "entities": [
+      "foreign subsidiaries"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "738776a3-8b6f-4e56-a875-571d04555d11",
+    "chunk_id": "d42d8d06-86d1-414d-946a-a7a17083ca11",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If a firm translates by the temporal method, a zero net exposed position is called fiscal balance.",
+    "subject": "zero net exposed position",
+    "predicate_type": "defines",
+    "object_text": "fiscal balance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a firm translates by the temporal method, a zero net exposed position is called fiscal balance.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "temporal method",
+      "fiscal balance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "003d736c-15b0-4da4-945c-2c03c99f5814",
+    "chunk_id": "d42d8d06-86d1-414d-946a-a7a17083ca11",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The temporal method cannot be achieved by the current-rate method.",
+    "subject": "temporal method",
+    "predicate_type": "prohibits",
+    "object_text": "be achieved by the current-rate method",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The temporal method cannot be achieved by the current-rate method.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "temporal method",
+      "current-rate method"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2bec643a-d7b3-427a-a46d-df967d364722",
+    "chunk_id": "d42d8d06-86d1-414d-946a-a7a17083ca11",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Total assets will have to be matched by an equal amount of debt.",
+    "subject": "Total assets",
+    "predicate_type": "requires",
+    "object_text": "be matched by an equal amount of debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Total assets will have to be matched by an equal amount of debt.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "assets",
+      "debt"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "84195e09-1212-4b1e-b9a2-3a60b156d451",
+    "chunk_id": "d42d8d06-86d1-414d-946a-a7a17083ca11",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The equity section of the balance sheet must be translated at historical exchange rates.",
+    "subject": "equity section of the balance sheet",
+    "predicate_type": "requires",
+    "object_text": "be translated at historical exchange rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The equity section of the balance sheet must be translated at historical exchange rates.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "equity",
+      "balance sheet",
+      "historical exchange rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cca0d334-4831-452f-b56b-a5371f0d390e",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A firm has economic risk (also known as forecast risk) to the degree that its market value is influenced by unexpected exchange-rate fluctuations, which can severely affect the firm's market share with regard to its competitors, the firm's future cash flows, and ultimately the firm's value.",
+    "subject": "firm",
+    "predicate_type": "relates_to",
+    "object_text": "economic risk to the degree that its market value is influenced by unexpected exchange-rate fluctuations, which can severely affect the firm's market share with regard to its competitors, the firm's future cash flows, and ultimately the firm's value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A firm has economic risk (also known as forecast risk) to the degree that its market value is influenced by unexpected exchange-rate fluctuations, which can severely affect the firm's market share with regard to its competitors, the firm's future cash flows, and ultimately the firm's value.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "exchange rates",
+      "market value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eb0bacfa-d4e8-4fba-805f-ea80be5dbd75",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Economic risk can affect the present value of future cash flows.",
+    "subject": "Economic risk",
+    "predicate_type": "causes",
+    "object_text": "affect the present value of future cash flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Economic risk can affect the present value of future cash flows.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "cash flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e377a421-05af-4596-8218-b46f2ba746d0",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "An example of an economic risk would be a shift in exchange rates that influences the demand for a good sold in a foreign country.",
+    "subject": "shift in exchange rates",
+    "predicate_type": "causes",
+    "object_text": "influences the demand for a good sold in a foreign country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An example of an economic risk would be a shift in exchange rates that influences the demand for a good sold in a foreign country.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "exchange rates",
+      "demand"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c5256989-b78e-4d13-97c3-72039663142a",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Another example of an economic risk is the possibility that macroeconomic conditions will influence an investment in a foreign country.",
+    "subject": "macroeconomic conditions",
+    "predicate_type": "causes",
+    "object_text": "influence an investment in a foreign country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another example of an economic risk is the possibility that macroeconomic conditions will influence an investment in a foreign country.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "macroeconomic conditions",
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3e90e948-4ed3-4f56-a52b-79caea175834",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Macroeconomic conditions include exchange rates, government regulations, and political stability.",
+    "subject": "Macroeconomic conditions",
+    "predicate_type": "defines",
+    "object_text": "exchange rates, government regulations, and political stability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Macroeconomic conditions include exchange rates, government regulations, and political stability.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "macroeconomic conditions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1609d41b-ee86-40e7-8501-b48e59f1a57c",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "When financing an investment or a project, a company's operating costs, debt obligations, and the ability to predict economically unsustainable circumstances should be thoroughly calculated in order to produce adequate revenues in covering those economic risks.",
+    "subject": "company's operating costs, debt obligations, and the ability to predict economically unsustainable circumstances",
+    "predicate_type": "requires",
+    "object_text": "thoroughly calculated in order to produce adequate revenues in covering those economic risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When financing an investment or a project, a company's operating costs, debt obligations, and the ability to predict economically unsustainable circumstances should be thoroughly calculated in order to produce adequate revenues in covering those economic risks.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "investment",
+      "debt obligations",
+      "operating costs"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "60d6420c-9cb0-4eb9-9c24-83e3f4d116d4",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "International investments are associated with significantly higher economic risk levels as compared to domestic investments.",
+    "subject": "International investments",
+    "predicate_type": "relates_to",
+    "object_text": "significantly higher economic risk levels as compared to domestic investments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "International investments are associated with significantly higher economic risk levels as compared to domestic investments.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "26c8083e-b0ab-4a62-b1cc-f59c5334245a",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "In international firms, economic risk heavily affects not only investors but also bondholders and shareholders, especially when dealing with the sale and purchase of foreign government bonds.",
+    "subject": "economic risk",
+    "predicate_type": "causes",
+    "object_text": "heavily affects not only investors but also bondholders and shareholders, especially when dealing with the sale and purchase of foreign government bonds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In international firms, economic risk heavily affects not only investors but also bondholders and shareholders, especially when dealing with the sale and purchase of foreign government bonds.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "investors",
+      "bondholders",
+      "shareholders"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce38a999-25f2-4f9c-84eb-35bfc53ccc3c",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "However, economic risk can also create opportunities and profits for investors globally.",
+    "subject": "economic risk",
+    "predicate_type": "causes",
+    "object_text": "create opportunities and profits for investors globally",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "However, economic risk can also create opportunities and profits for investors globally.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f6a9dfbe-6b37-4e38-adaa-ab544ed36e01",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "When investing in foreign bonds, investors can profit from the fluctuation of the foreign-exchange markets and interest rates in different countries.",
+    "subject": "investors",
+    "predicate_type": "permits",
+    "object_text": "profit from the fluctuation of the foreign-exchange markets and interest rates in different countries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When investing in foreign bonds, investors can profit from the fluctuation of the foreign-exchange markets and interest rates in different countries.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "foreign bonds",
+      "foreign-exchange markets",
+      "interest rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "78df9899-621c-4a55-a20b-6a4312610699",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Investors should always be aware of possible changes by the foreign regulatory authorities.",
+    "subject": "Investors",
+    "predicate_type": "requires",
+    "object_text": "always be aware of possible changes by the foreign regulatory authorities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investors should always be aware of possible changes by the foreign regulatory authorities.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "regulatory changes"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "80a2bf32-8998-4439-b60e-7502930d0e0a",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Changing laws and regulations regarding sizes, types, timing, credit quality, and disclosures of bonds will immediately and directly affect investments in foreign countries.",
+    "subject": "Changing laws and regulations regarding sizes, types, timing, credit quality, and disclosures of bonds",
+    "predicate_type": "causes",
+    "object_text": "immediately and directly affect investments in foreign countries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Changing laws and regulations regarding sizes, types, timing, credit quality, and disclosures of bonds will immediately and directly affect investments in foreign countries.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "laws",
+      "regulations"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "42209689-5eef-440d-a81c-b30f86d2a0cd",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "For example, if a central bank in a foreign country raises interest rates or the legislature increases taxes, the return on investment will be significantly impacted.",
+    "subject": "return on investment",
+    "predicate_type": "relates_to",
+    "object_text": "will be significantly impacted if a central bank in a foreign country raises interest rates or the legislature increases taxes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For example, if a central bank in a foreign country raises interest rates or the legislature increases taxes, the return on investment will be significantly impacted.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "interest rates",
+      "taxes"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da3d7449-5380-453b-8681-c7634ced2f32",
+    "chunk_id": "7aea74b3-5ca7-402a-bee6-3de00b5cdc47",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "As a result, economic risk can be reduced by utilizing various analytical and predictive tools",
+    "subject": "economic risk",
+    "predicate_type": "relates_to",
+    "object_text": "can be reduced by utilizing various analytical and predictive tools",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As a result, economic risk can be reduced by utilizing various analytical and predictive tools",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic risk",
+      "analytical tools",
+      "predictive tools"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "45b5a2ac-37c8-4b5b-91be-efdb31ce730e",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Firms with exposure to foreign-exchange risk may use a number of hedging strategies to reduce that risk.",
+    "subject": "firms with exposure to foreign-exchange risk",
+    "predicate_type": "permits",
+    "object_text": "a number of hedging strategies to reduce that risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Firms with exposure to foreign-exchange risk may use a number of hedging strategies to reduce that risk.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eae1865c-c317-403f-9aba-271c2318cd50",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Transaction exposure can be reduced either with the use of money markets, foreign exchange derivatives\u2014such as forward contracts, options, futures contracts, and swaps\u2014or with operational techniques such as currency invoicing, leading and lagging of receipts and payments, and exposure netting.",
+    "subject": "transaction exposure",
+    "predicate_type": "relates_to",
+    "object_text": "the use of money markets, foreign exchange derivatives\u2014such as forward contracts, options, futures contracts, and swaps\u2014or with operational techniques such as currency invoicing, leading and lagging of receipts and payments, and exposure netting",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Transaction exposure can be reduced either with the use of money markets, foreign exchange derivatives\u2014such as forward contracts, options, futures contracts, and swaps\u2014or with operational techniques such as currency invoicing, leading and lagging of receipts and payments, and exposure netting.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "forward contracts",
+      "options",
+      "futures contracts",
+      "swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dd7327de-f4c2-4398-9c52-b41a82973972",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Each hedging strategy comes with its own benefits that may make it more suitable than another, based on the nature of the business and risks it may encounter.",
+    "subject": "each hedging strategy",
+    "predicate_type": "relates_to",
+    "object_text": "its own benefits that may make it more suitable than another, based on the nature of the business and risks it may encounter",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Each hedging strategy comes with its own benefits that may make it more suitable than another, based on the nature of the business and risks it may encounter.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a088d4f2-a0af-4411-9caa-60cc90293de3",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Forward and futures contracts serve similar purposes: they both allow transactions that take place in the future\u2014for a specified price at a specified rate\u2014that offset otherwise adverse exchange fluctuations.",
+    "subject": "forward and futures contracts",
+    "predicate_type": "relates_to",
+    "object_text": "transactions that take place in the future\u2014for a specified price at a specified rate\u2014that offset otherwise adverse exchange fluctuations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Forward and futures contracts serve similar purposes: they both allow transactions that take place in the future\u2014for a specified price at a specified rate\u2014that offset otherwise adverse exchange fluctuations.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "forward contracts",
+      "futures contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3766f715-e779-4e64-9b6f-fe705c7de5c3",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Forward contracts are more flexible, to an extent, because they can be customized to specific transactions, whereas futures come in standard amounts and are based on certain commodities or assets, such as other currencies.",
+    "subject": "forward contracts",
+    "predicate_type": "relates_to",
+    "object_text": "more flexible, to an extent, because they can be customized to specific transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Forward contracts are more flexible, to an extent, because they can be customized to specific transactions, whereas futures come in standard amounts and are based on certain commodities or assets, such as other currencies.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "forward contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fe2aca02-3012-45c1-8fa2-967af790c9b6",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "futures come in standard amounts and are based on certain commodities or assets, such as other currencies.",
+    "subject": "futures",
+    "predicate_type": "relates_to",
+    "object_text": "standard amounts and are based on certain commodities or assets, such as other currencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "futures come in standard amounts and are based on certain commodities or assets, such as other currencies.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "futures"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "be6a04b0-f49d-4800-a0ca-8d07a953ffa5",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Because futures are only available for certain currencies and time periods, they cannot entirely mitigate risk, because there is always the chance that exchange rates will move in your favor.",
+    "subject": "futures",
+    "predicate_type": "constrains",
+    "object_text": "cannot entirely mitigate risk, because there is always the chance that exchange rates will move in your favor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Because futures are only available for certain currencies and time periods, they cannot entirely mitigate risk, because there is always the chance that exchange rates will move in your favor.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "futures"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "52085aa1-59fe-4870-82c6-5748bc2aa812",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "the standardization of futures can be a part of what makes them attractive to some: they are well-regulated and are traded only on exchanges.",
+    "subject": "the standardization of futures",
+    "predicate_type": "relates_to",
+    "object_text": "a part of what makes them attractive to some: they are well-regulated and are traded only on exchanges",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "the standardization of futures can be a part of what makes them attractive to some: they are well-regulated and are traded only on exchanges.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "futures"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "29a5ba85-eb34-4903-a332-7c0495331215",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Two popular and inexpensive methods companies can use to minimize potential losses is hedging with options and forward contracts.",
+    "subject": "hedging with options and forward contracts",
+    "predicate_type": "implements",
+    "object_text": "Two popular and inexpensive methods companies can use to minimize potential losses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Two popular and inexpensive methods companies can use to minimize potential losses is hedging with options and forward contracts.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "options",
+      "forward contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e4e111f1-d478-4e74-9eef-ed7ee19bbda9",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If a company decides to purchase an option, it is able to set a rate that is \"at-worst\" for the transaction.",
+    "subject": "a company",
+    "predicate_type": "permits",
+    "object_text": "set a rate that is \"at-worst\" for the transaction",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a company decides to purchase an option, it is able to set a rate that is \"at-worst\" for the transaction.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "953a30ff-946e-4a54-9ac4-86b81a684b73",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If the option expires and it's out-of-the-money, the company is able to execute the transaction in the open market at a favorable rate.",
+    "subject": "the company",
+    "predicate_type": "permits",
+    "object_text": "execute the transaction in the open market at a favorable rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the option expires and it's out-of-the-money, the company is able to execute the transaction in the open market at a favorable rate.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e51baf60-e078-4b82-b646-c61ebc991db6",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If a company decides to take out a forward contract, it will set a specific currency rate for a set date in the future.",
+    "subject": "a company",
+    "predicate_type": "relates_to",
+    "object_text": "set a specific currency rate for a set date in the future",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a company decides to take out a forward contract, it will set a specific currency rate for a set date in the future.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [
+      "forward contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "29bc4643-8817-4244-9022-6687f14055ed",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Currency invoicing refers to the practice of invoicing transactions in the currency that benefits the firm.",
+    "subject": "Currency invoicing",
+    "predicate_type": "defines",
+    "object_text": "the practice of invoicing transactions in the currency that benefits the firm",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Currency invoicing refers to the practice of invoicing transactions in the currency that benefits the firm.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5c498faa-dfb4-4627-86d1-e8c75a703936",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "This does not necessarily eliminate foreign exchange risk, but rather moves its burden from one party to another.",
+    "subject": "Currency invoicing",
+    "predicate_type": "relates_to",
+    "object_text": "moves its burden from one party to another",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This does not necessarily eliminate foreign exchange risk, but rather moves its burden from one party to another.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "239459b1-f3b0-4919-a346-efbfefd9e37b",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A firm can invoice its imports from another country in its home currency, which would move the risk to the exporter and away from itself.",
+    "subject": "A firm",
+    "predicate_type": "permits",
+    "object_text": "invoice its imports from another country in its home currency, which would move the risk to the exporter and away from itself",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A firm can invoice its imports from another country in its home currency, which would move the risk to the exporter and away from itself.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f95e4144-5ea4-4481-b7cf-4ed2ce980d8f",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "This technique may not be as simple as it sounds; if the exporter's currency is more volatile than that of the importer, the firm would want to avoid invoicing in that currency.",
+    "subject": "This technique",
+    "predicate_type": "relates_to",
+    "object_text": "may not be as simple as it sounds; if the exporter's currency is more volatile than that of the importer, the firm would want to avoid invoicing in that currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This technique may not be as simple as it sounds; if the exporter's currency is more volatile than that of the importer, the firm would want to avoid invoicing in that currency.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1838a6b4-c163-47ea-a547-4057337a7514",
+    "chunk_id": "7f48d17b-c2aa-479e-87f2-9a4766dc1245",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If both the importer and exporter want to avoid using their own currencies, it is also fairly common to",
+    "subject": "it",
+    "predicate_type": "relates_to",
+    "object_text": "fairly common to",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If both the importer and exporter want to avoid using their own currencies, it is also fairly common to",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "foreign exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9e341ef3-2258-41ec-b202-23d064eadb05",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Companies will often participate in a transaction involving more than one currency.",
+    "subject": "companies",
+    "predicate_type": "relates_to",
+    "object_text": "participation in a transaction involving more than one currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Companies will often participate in a transaction involving more than one currency.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange",
+      "international transactions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5c22f3b0-6d11-4e3d-83cd-2bf1452b01b2",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Companies have to translate foreign currencies involved into their domestic currency in order to meet the legal and accounting standards of processing these transactions.",
+    "subject": "companies",
+    "predicate_type": "requires",
+    "object_text": "translate foreign currencies involved into their domestic currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Companies have to translate foreign currencies involved into their domestic currency in order to meet the legal and accounting standards of processing these transactions.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency translation",
+      "accounting standards",
+      "legal standards"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d79b07d6-a673-45e1-b29c-73bfef688e60",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A firm has transaction risk whenever it has contractual cash flows (receivables and payables) whose values are subject to unanticipated changes in exchange rates due to a contract being denominated in a foreign currency.",
+    "subject": "firm",
+    "predicate_type": "defines",
+    "object_text": "transaction risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A firm has transaction risk whenever it has contractual cash flows (receivables and payables) whose values are subject to unanticipated changes in exchange rates due to a contract being denominated in a foreign currency.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "transaction risk",
+      "foreign exchange risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e9f451fc-a520-400f-a941-f35b1888f7ac",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "To realize the domestic value of its foreign-denominated cash flows, the firm must exchange, or translate, the foreign currency for domestic.",
+    "subject": "firm",
+    "predicate_type": "requires",
+    "object_text": "exchange, or translate, the foreign currency for domestic",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To realize the domestic value of its foreign-denominated cash flows, the firm must exchange, or translate, the foreign currency for domestic.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency translation",
+      "foreign exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "72d89d09-88ce-4f77-bc9d-4bf9362f0bb9",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "When firms negotiate contracts with set prices and delivery dates in the face of a volatile foreign exchange market, with rates constantly fluctuating between initiating a transaction and its settlement, or payment, those firms face the risk of significant loss.",
+    "subject": "firms",
+    "predicate_type": "relates_to",
+    "object_text": "risk of significant loss",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When firms negotiate contracts with set prices and delivery dates in the face of a volatile foreign exchange market, with rates constantly fluctuating between initiating a transaction and its settlement, or payment, those firms face the risk of significant loss.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "financial risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c15b8af1-542c-43c9-a949-4c7d8c912baa",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Businesses have the goal of making all monetary transactions profitable ones, and the currency markets must thus be carefully observed.",
+    "subject": "businesses",
+    "predicate_type": "relates_to",
+    "object_text": "goal of making all monetary transactions profitable ones",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Businesses have the goal of making all monetary transactions profitable ones, and the currency markets must thus be carefully observed.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "profitability",
+      "currency markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c0e00327-8465-4c2d-bb89-d74e7867dca7",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The currency markets must thus be carefully observed.",
+    "subject": "currency markets",
+    "predicate_type": "requires",
+    "object_text": "careful observation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The currency markets must thus be carefully observed.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9263e5ff-f98a-4a54-ad34-178917955ca0",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Applying public accounting rules causes firms with transnational risks to be impacted by a process known as \"re-measurement\".",
+    "subject": "public accounting rules",
+    "predicate_type": "causes",
+    "object_text": "firms with transnational risks to be impacted by a process known as \"re-measurement\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Applying public accounting rules causes firms with transnational risks to be impacted by a process known as \"re-measurement\".",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "re-measurement",
+      "accounting standards",
+      "transnational risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9a1e6a84-c15a-41c8-9147-bc4c7d78096f",
+    "chunk_id": "4eb39ac8-1467-47e3-92a2-7b6736b21218",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The current value of contractual cash flows are remeasured on each balance sheet.",
+    "subject": "current value of contractual cash flows",
+    "predicate_type": "relates_to",
+    "object_text": "remeasured on each balance sheet",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The current value of contractual cash flows are remeasured on each balance sheet.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "re-measurement",
+      "balance sheet"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "94ce0006-8453-4e23-9b6b-97aef99f4e96",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Translation exposure is largely dependent on the translation methods required by accounting standards of the home country.",
+    "subject": "Translation exposure",
+    "predicate_type": "relates_to",
+    "object_text": "translation methods required by accounting standards of the home country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Translation exposure is largely dependent on the translation methods required by accounting standards of the home country.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk",
+      "accounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8a5d81af-8cab-4501-8168-46013bc7bf44",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The United States Federal Accounting Standards Board specifies when and where to use certain methods.",
+    "subject": "United States Federal Accounting Standards Board",
+    "predicate_type": "governs",
+    "object_text": "when and where to use certain methods",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The United States Federal Accounting Standards Board specifies when and where to use certain methods.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "United States Federal Accounting Standards Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "United States"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da5770e0-2ffd-4a9b-badb-cd65b8031abc",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Firms can manage translation exposure by performing a balance sheet hedge, since translation exposure arises from discrepancies between net assets and net liabilities solely from exchange rate differences.",
+    "subject": "Firms",
+    "predicate_type": "permits",
+    "object_text": "manage translation exposure by performing a balance sheet hedge",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Firms can manage translation exposure by performing a balance sheet hedge, since translation exposure arises from discrepancies between net assets and net liabilities solely from exchange rate differences.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0a92ed9a-a716-4a8b-91ae-a9ee0c849abe",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Translation exposure arises from discrepancies between net assets and net liabilities solely from exchange rate differences.",
+    "subject": "Translation exposure",
+    "predicate_type": "causes",
+    "object_text": "discrepancies between net assets and net liabilities solely from exchange rate differences",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Translation exposure arises from discrepancies between net assets and net liabilities solely from exchange rate differences.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cae6e922-7999-462b-88cc-58d97a3e0031",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A firm could acquire an appropriate amount of exposed assets or liabilities to balance any outstanding discrepancy.",
+    "subject": "firm",
+    "predicate_type": "permits",
+    "object_text": "acquire an appropriate amount of exposed assets or liabilities to balance any outstanding discrepancy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A firm could acquire an appropriate amount of exposed assets or liabilities to balance any outstanding discrepancy.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c5a26b5-5b39-43b4-98ff-440ad66ea801",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Foreign exchange derivatives may also be used to hedge against translation exposure.",
+    "subject": "Foreign exchange derivatives",
+    "predicate_type": "permits",
+    "object_text": "hedge against translation exposure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Foreign exchange derivatives may also be used to hedge against translation exposure.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk",
+      "hedging"
+    ],
+    "entities": [
+      "Foreign exchange derivatives"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad299374-eb9b-4cdb-a6e5-c18714ab8864",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A common technique to hedge translation risk is called balance-sheet hedging, which involves speculating on the forward market in hopes that a cash profit will be realized to offset a non-cash loss from translation.",
+    "subject": "balance-sheet hedging",
+    "predicate_type": "defines",
+    "object_text": "a common technique to hedge translation risk which involves speculating on the forward market in hopes that a cash profit will be realized to offset a non-cash loss from translation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A common technique to hedge translation risk is called balance-sheet hedging, which involves speculating on the forward market in hopes that a cash profit will be realized to offset a non-cash loss from translation.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "32c03bed-9ade-4aae-829f-1e99e8430afd",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "This requires an equal amount of exposed foreign currency assets and liabilities on the firm's consolidated balance sheet.",
+    "subject": "balance-sheet hedging",
+    "predicate_type": "requires",
+    "object_text": "an equal amount of exposed foreign currency assets and liabilities on the firm's consolidated balance sheet",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This requires an equal amount of exposed foreign currency assets and liabilities on the firm's consolidated balance sheet.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b48512cd-4791-461f-ab9b-5d0c5fb4b6ea",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If this is achieved for each foreign currency, the net translation exposure will be zero.",
+    "subject": "net translation exposure",
+    "predicate_type": "relates_to",
+    "object_text": "zero",
+    "object_value": 0.0,
+    "object_unit": null,
+    "source_text": "If this is achieved for each foreign currency, the net translation exposure will be zero.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b80c04d4-5820-4984-9ca7-52629240bb9d",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A change in the exchange rates will change the value of exposed liabilities to an equal degree but opposite to the change in the value of exposed assets.",
+    "subject": "change in the exchange rates",
+    "predicate_type": "causes",
+    "object_text": "change the value of exposed liabilities to an equal degree but opposite to the change in the value of exposed assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A change in the exchange rates will change the value of exposed liabilities to an equal degree but opposite to the change in the value of exposed assets.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bcaea44d-ff8e-41a2-9078-1ae314a8d61a",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Companies can also attempt to hedge translation risk by purchasing currency swaps or futures contracts.",
+    "subject": "Companies",
+    "predicate_type": "permits",
+    "object_text": "hedge translation risk by purchasing currency swaps or futures contracts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Companies can also attempt to hedge translation risk by purchasing currency swaps or futures contracts.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk",
+      "hedging"
+    ],
+    "entities": [
+      "currency swaps",
+      "futures contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1e14584b-f01f-4486-975c-19e11a7e79f0",
+    "chunk_id": "5f02c2d9-be55-4f7a-8328-e394ac976f70",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Companies can also request clients to pay in the company's domestic currency, whereby the risk is transferred to the client.",
+    "subject": "Companies",
+    "predicate_type": "permits",
+    "object_text": "request clients to pay in the company's domestic currency, whereby the risk is transferred to the client",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Companies can also request clients to pay in the company's domestic currency, whereby the risk is transferred to the client.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a1d1b293-7377-4eb9-970e-263969e311e6",
+    "chunk_id": "ebed0dab-009c-401b-b1c2-f953368bdddc",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Investments in foreign countries will immediately and directly affect investments in foreign countries.",
+    "subject": "Investments in foreign countries",
+    "predicate_type": "causes",
+    "object_text": "immediate and direct affect",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investments in foreign countries will immediately and directly affect investments in foreign countries.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_investment"
+    ],
+    "entities": [
+      "foreign countries"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f36844c-8e07-4ad8-805e-c5b81b14b721",
+    "chunk_id": "ebed0dab-009c-401b-b1c2-f953368bdddc",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If a central bank in a foreign country raises interest rates, the return on investment will be significantly impacted.",
+    "subject": "return on investment",
+    "predicate_type": "causes",
+    "object_text": "significant impact",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a central bank in a foreign country raises interest rates, the return on investment will be significantly impacted.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rates",
+      "investment_returns"
+    ],
+    "entities": [
+      "central bank",
+      "foreign country"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "53178748-ca81-4b30-8f63-867b58841fe2",
+    "chunk_id": "ebed0dab-009c-401b-b1c2-f953368bdddc",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If the legislature increases taxes, the return on investment will be significantly impacted.",
+    "subject": "return on investment",
+    "predicate_type": "causes",
+    "object_text": "significant impact",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the legislature increases taxes, the return on investment will be significantly impacted.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "taxation",
+      "investment_returns"
+    ],
+    "entities": [
+      "legislature"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "71eaf675-ce5a-4f1a-b893-dd58f06d6d8c",
+    "chunk_id": "ebed0dab-009c-401b-b1c2-f953368bdddc",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Economic risk can be reduced by utilizing various analytical and predictive tools that consider the diversification of time, exchange rates, and economic development in multiple countries, which offer different currencies, instruments, and industries.",
+    "subject": "Economic risk",
+    "predicate_type": "causes",
+    "object_text": "reduction by utilizing various analytical and predictive tools that consider the diversification of time, exchange rates, and economic development in multiple countries, which offer different currencies, instruments, and industries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Economic risk can be reduced by utilizing various analytical and predictive tools that consider the diversification of time, exchange rates, and economic development in multiple countries, which offer different currencies, instruments, and industries.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "economic_risk"
+    ],
+    "entities": [
+      "multiple countries"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9829cf05-4cce-49fa-b012-5450f73d6d69",
+    "chunk_id": "ebed0dab-009c-401b-b1c2-f953368bdddc",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "In a macroeconomic model, major risks include changes in GDP, exchange-rate fluctuations, and commodity-price and stock-market fluctuations.",
+    "subject": "major risks",
+    "predicate_type": "relates_to",
+    "object_text": "changes in GDP, exchange-rate fluctuations, and commodity-price and stock-market fluctuations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In a macroeconomic model, major risks include changes in GDP, exchange-rate fluctuations, and commodity-price and stock-market fluctuations.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "macroeconomics",
+      "risk_management"
+    ],
+    "entities": [
+      "GDP",
+      "exchange-rate",
+      "commodity-price",
+      "stock-market"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c012fa19-aa61-406d-a238-2900a1a60465",
+    "chunk_id": "ebed0dab-009c-401b-b1c2-f953368bdddc",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Before initiating an investment, a firm should consider the stability of the investing sector that influences the exchange-rate changes.",
+    "subject": "firm",
+    "predicate_type": "requires",
+    "object_text": "consideration of the stability of the investing sector that influences the exchange-rate changes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Before initiating an investment, a firm should consider the stability of the investing sector that influences the exchange-rate changes.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "risk_management"
+    ],
+    "entities": [
+      "firm",
+      "investing sector",
+      "exchange-rate"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f46e6e12-7285-4a26-9904-d976f17d2d9c",
+    "chunk_id": "ebed0dab-009c-401b-b1c2-f953368bdddc",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A service sector is less likely to have inventory swings and exchange-rate changes as compared to a large consumer sector.",
+    "subject": "service sector",
+    "predicate_type": "relates_to",
+    "object_text": "less likelihood to have inventory swings and exchange-rate changes as compared to a large consumer sector",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A service sector is less likely to have inventory swings and exchange-rate changes as compared to a large consumer sector.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic_sectors",
+      "risk_management"
+    ],
+    "entities": [
+      "service sector",
+      "consumer sector"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2d491c5-9e4c-45e8-847d-d40d448c90f3",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If the exporter's currency is more volatile than that of the importer, the firm would want to avoid invoicing in that currency.",
+    "subject": "firm",
+    "predicate_type": "governs",
+    "object_text": "avoid invoicing in that currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the exporter's currency is more volatile than that of the importer, the firm would want to avoid invoicing in that currency.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "currency volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4738eb5-c2c9-47f5-9bdc-b76413473c6b",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If both the importer and exporter want to avoid using their own currencies, it is also fairly common to conduct the exchange using a third, more stable currency.",
+    "subject": "importer and exporter",
+    "predicate_type": "permits",
+    "object_text": "conduct the exchange using a third, more stable currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If both the importer and exporter want to avoid using their own currencies, it is also fairly common to conduct the exchange using a third, more stable currency.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "currency exchange"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da1831e2-76e1-4303-885d-944077fab3d3",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If a firm looks to leading and lagging as a hedge, it must exercise extreme caution.",
+    "subject": "firm",
+    "predicate_type": "requires",
+    "object_text": "exercise extreme caution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a firm looks to leading and lagging as a hedge, it must exercise extreme caution.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23495196-392d-4219-86f3-aaab93e48897",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Leading and lagging refer to the movement of cash inflows or outflows either forward or backward in time.",
+    "subject": "Leading and lagging",
+    "predicate_type": "defines",
+    "object_text": "the movement of cash inflows or outflows either forward or backward in time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Leading and lagging refer to the movement of cash inflows or outflows either forward or backward in time.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "cash flow management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ee89825-3170-4a78-b71a-586919e8519b",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "This delay would be termed lagging.",
+    "subject": "delay",
+    "predicate_type": "defines",
+    "object_text": "lagging",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This delay would be termed lagging.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "cash flow management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6de9cd06-d435-486a-b52f-1a87dd7547d8",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If the receipt date were moved sooner, this would be termed leading the payment.",
+    "subject": "receipt date",
+    "predicate_type": "defines",
+    "object_text": "leading the payment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the receipt date were moved sooner, this would be termed leading the payment.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "cash flow management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0b6a4301-3029-4686-8884-2b928651f6b5",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Natural hedging is an efficient form of hedging because it will reduce the margin that is taken by banks when businesses exchange currencies.",
+    "subject": "Natural hedging",
+    "predicate_type": "causes",
+    "object_text": "reduce the margin that is taken by banks when businesses exchange currencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Natural hedging is an efficient form of hedging because it will reduce the margin that is taken by banks when businesses exchange currencies.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e6b12b97-19ed-4c2b-b242-cb0594ab85bf",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Natural hedging is an efficient form of hedging.",
+    "subject": "Natural hedging",
+    "predicate_type": "classifies",
+    "object_text": "efficient form of hedging",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Natural hedging is an efficient form of hedging.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b10b1ca-ca8b-4b6b-81c6-96147aebc0c9",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Natural hedging is a form of hedging that is easy to understand.",
+    "subject": "Natural hedging",
+    "predicate_type": "classifies",
+    "object_text": "form of hedging that is easy to understand",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Natural hedging is a form of hedging that is easy to understand.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "54bd4350-12b3-48b1-acf8-d8183add1b53",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "To enforce the netting, there will be a systematic-approach requirement, as well as a real-time look at exposure and a platform for initiating the process, which, along with the foreign cash flow uncertainty, can make the procedure seem more difficult.",
+    "subject": "netting",
+    "predicate_type": "requires",
+    "object_text": "a systematic-approach requirement, as well as a real-time look at exposure and a platform for initiating the process",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To enforce the netting, there will be a systematic-approach requirement, as well as a real-time look at exposure and a platform for initiating the process, which, along with the foreign cash flow uncertainty, can make the procedure seem more difficult.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "netting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6625cfc8-80b0-42ae-8d89-55aadb700cfe",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Having a back-up plan, such as foreign-currency accounts, will be helpful in this process.",
+    "subject": "back-up plan",
+    "predicate_type": "relates_to",
+    "object_text": "helpful in this process",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Having a back-up plan, such as foreign-currency accounts, will be helpful in this process.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "foreign currency accounts"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bf0bedd0-5877-4421-971b-b09e90ba68f0",
+    "chunk_id": "7ca9af1f-90a7-4d90-b347-fc9bf38cc6e6",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The companies that deal with inflows and outflows in the same currency will experience efficiencies and a reduction in risk by calculating the net of the inflows and outflows, and using foreign-currency account balances that will pay in part for some or all of the exposure.",
+    "subject": "companies that deal with inflows and outflows in the same currency",
+    "predicate_type": "causes",
+    "object_text": "efficiencies and a reduction in risk by calculating the net of the inflows and outflows, and using foreign-currency account balances that will pay in part for some or all of the exposure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The companies that deal with inflows and outflows in the same currency will experience efficiencies and a reduction in risk by calculating the net of the inflows and outflows, and using foreign-currency account balances that will pay in part for some or all of the exposure.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign exchange risk",
+      "risk reduction"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "77cf317d-2938-4445-985f-fbcdbeed01eb",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A firm's translation risk is the extent to which its financial reporting is affected by exchange-rate movements.",
+    "subject": "firm's translation risk",
+    "predicate_type": "defines",
+    "object_text": "the extent to which its financial reporting is affected by exchange-rate movements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A firm's translation risk is the extent to which its financial reporting is affected by exchange-rate movements.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk",
+      "financial_reporting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2061c711-23ae-4c43-af33-4393b82d4bb8",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "All firms generally must prepare consolidated financial statements for reporting purposes.",
+    "subject": "firms",
+    "predicate_type": "requires",
+    "object_text": "prepare consolidated financial statements for reporting purposes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All firms generally must prepare consolidated financial statements for reporting purposes.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_reporting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a09d4796-6767-426f-9abe-00199e9663ac",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The consolidation process for multinationals entails translating foreign assets and liabilities, or the financial statements of foreign subsidiaries, from foreign to domestic currency.",
+    "subject": "consolidation process for multinationals",
+    "predicate_type": "requires",
+    "object_text": "translating foreign assets and liabilities, or the financial statements of foreign subsidiaries, from foreign to domestic currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The consolidation process for multinationals entails translating foreign assets and liabilities, or the financial statements of foreign subsidiaries, from foreign to domestic currency.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_reporting",
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c94fa084-4526-444e-8e38-e17b8a4367c2",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Translation risk may not affect a firm's cash flows.",
+    "subject": "translation risk",
+    "predicate_type": "relates_to",
+    "object_text": "may not affect a firm's cash flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Translation risk may not affect a firm's cash flows.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "37b75aff-321e-40a7-87fb-630ae2ed7084",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Translation risk could have a significant impact on a firm's reported earnings and therefore its stock price.",
+    "subject": "translation risk",
+    "predicate_type": "causes",
+    "object_text": "a significant impact on a firm's reported earnings and therefore its stock price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Translation risk could have a significant impact on a firm's reported earnings and therefore its stock price.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c6d56789-d288-48ac-90f1-ebd46cd69239",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Translation risk deals with the risk to a company's equities, assets, liabilities, or income, any of which can change in value due to fluctuating foreign exchange rates when a portion is denominated in a foreign currency.",
+    "subject": "translation risk",
+    "predicate_type": "relates_to",
+    "object_text": "the risk to a company's equities, assets, liabilities, or income, any of which can change in value due to fluctuating foreign exchange rates when a portion is denominated in a foreign currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Translation risk deals with the risk to a company's equities, assets, liabilities, or income, any of which can change in value due to fluctuating foreign exchange rates when a portion is denominated in a foreign currency.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8b3e18e3-90c0-4208-b51f-d261c642beab",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A company doing business in a foreign country will eventually have to exchange its host country's currency back into their domestic currency.",
+    "subject": "company doing business in a foreign country",
+    "predicate_type": "requires",
+    "object_text": "eventually have to exchange its host country's currency back into their domestic currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A company doing business in a foreign country will eventually have to exchange its host country's currency back into their domestic currency.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a064261e-2b65-418d-be17-f1d05b0a80ed",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "When exchange rates appreciate or depreciate, significant, difficult-to-predict changes in the value of the foreign currency can occur.",
+    "subject": "exchange rates",
+    "predicate_type": "causes",
+    "object_text": "significant, difficult-to-predict changes in the value of the foreign currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When exchange rates appreciate or depreciate, significant, difficult-to-predict changes in the value of the foreign currency can occur.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5461d6a9-f4d7-4c00-86c9-749e5f6fc23e",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "U.S. companies must translate Euro, Pound, Yen, etc., statements into U.S. dollars.",
+    "subject": "U.S. companies",
+    "predicate_type": "requires",
+    "object_text": "translate Euro, Pound, Yen, etc., statements into U.S. dollars",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "U.S. companies must translate Euro, Pound, Yen, etc., statements into U.S. dollars.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "US"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cfecd6fd-44d8-47bd-bb6c-58f14a458031",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A foreign subsidiary's income statement and balance sheet are the two financial statements that must be translated.",
+    "subject": "foreign subsidiary",
+    "predicate_type": "requires",
+    "object_text": "income statement and balance sheet must be translated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A foreign subsidiary's income statement and balance sheet are the two financial statements that must be translated.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_reporting",
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1888f980-e703-4e28-aa60-35b9e4dd837b",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A subsidiary doing business in the host country usually follows that country's prescribed translation method, which may vary, depending on the subsidiary's business operations.",
+    "subject": "subsidiary doing business in the host country",
+    "predicate_type": "relates_to",
+    "object_text": "usually follows that country's prescribed translation method, which may vary, depending on the subsidiary's business operations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A subsidiary doing business in the host country usually follows that country's prescribed translation method, which may vary, depending on the subsidiary's business operations.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e769f508-17f0-4aaf-a454-6f64ef1ebfe7",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Subsidiaries can be characterized as either an integrated or a self-sustaining foreign entity.",
+    "subject": "subsidiaries",
+    "predicate_type": "classifies",
+    "object_text": "either an integrated or a self-sustaining foreign entity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Subsidiaries can be characterized as either an integrated or a self-sustaining foreign entity.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f8075be-a7ee-43a4-bce6-699f24b44cfc",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "An integrated foreign entity operates as an extension of the parent company, with cash flows and business operations that are highly interrelated with those of the parent.",
+    "subject": "integrated foreign entity",
+    "predicate_type": "defines",
+    "object_text": "operates as an extension of the parent company, with cash flows and business operations that are highly interrelated with those of the parent",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An integrated foreign entity operates as an extension of the parent company, with cash flows and business operations that are highly interrelated with those of the parent.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90803abf-730d-4df6-b202-f78974de8047",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "A self-sustaining foreign entity operates in its local economic environment, independent of the parent company.",
+    "subject": "self-sustaining foreign entity",
+    "predicate_type": "defines",
+    "object_text": "operates in its local economic environment, independent of the parent company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A self-sustaining foreign entity operates in its local economic environment, independent of the parent company.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cbe9013b-f1f1-460a-ba75-0f4e454836cf",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Both integrated and self-sustaining foreign entities operate use functional currency, which is the currency of the primary economic environment in which the subsidiary operates and in which day-to-day operations are transacted.",
+    "subject": "integrated and self-sustaining foreign entities",
+    "predicate_type": "relates_to",
+    "object_text": "use functional currency, which is the currency of the primary economic environment in which the subsidiary operates and in which day-to-day operations are transacted",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Both integrated and self-sustaining foreign entities operate use functional currency, which is the currency of the primary economic environment in which the subsidiary operates and in which day-to-day operations are transacted.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8ee951b0-2669-4ea4-a25b-7c0e8661e675",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Management must evaluate the nature of its foreign subsidiaries to determine the appropriate functional currency for each.",
+    "subject": "management",
+    "predicate_type": "requires",
+    "object_text": "evaluate the nature of its foreign subsidiaries to determine the appropriate functional currency for each",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Management must evaluate the nature of its foreign subsidiaries to determine the appropriate functional currency for each.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c8491205-4e25-4afe-bb52-7471bb6c00bc",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "There are three translation methods: current-rate method, temporal method, and U.S. translation procedures.",
+    "subject": "translation methods",
+    "predicate_type": "classifies",
+    "object_text": "current-rate method, temporal method, and U.S. translation procedures",
+    "object_value": 3.0,
+    "object_unit": null,
+    "source_text": "There are three translation methods: current-rate method, temporal method, and U.S. translation procedures.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "096c1fbe-e5cb-4619-a074-5f41281b8305",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Under the current-rate method, all financial statement line items are translated at the \"current\" exchange rate.",
+    "subject": "current-rate method",
+    "predicate_type": "relates_to",
+    "object_text": "all financial statement line items are translated at the \"current\" exchange rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under the current-rate method, all financial statement line items are translated at the \"current\" exchange rate.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bd178ee0-a7ea-419a-9d3c-8999a13fb7fd",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "Under the temporal method, specific assets and liabilities are translated at exchange rates consistent with the timing of the item's creation.",
+    "subject": "temporal method",
+    "predicate_type": "relates_to",
+    "object_text": "specific assets and liabilities are translated at exchange rates consistent with the timing of the item's creation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under the temporal method, specific assets and liabilities are translated at exchange rates consistent with the timing of the item's creation.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5e4ba3cf-4cd1-4551-9373-153672da90b5",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "The U.S. translation procedures differentiate foreign subsidiaries by functional currency, not subsidiary characterization.",
+    "subject": "U.S. translation procedures",
+    "predicate_type": "relates_to",
+    "object_text": "differentiate foreign subsidiaries by functional currency, not subsidiary characterization",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The U.S. translation procedures differentiate foreign subsidiaries by functional currency, not subsidiary characterization.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "US"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4de3ecef-7623-4afa-b6ec-95a6c84e63db",
+    "chunk_id": "cccf41fa-5ce1-4395-ac55-69aabfb92fc9",
+    "document_id": "Foreign_exchange_risk",
+    "claim_text": "If a firm translates by the temporal method, a zero net exposed position is called fiscal balance.",
+    "subject": "zero net exposed position",
+    "predicate_type": "defines",
+    "object_text": "fiscal balance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a firm translates by the temporal method, a zero net exposed position is called fiscal balance.",
+    "source_document": "Foreign exchange risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "foreign_exchange_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

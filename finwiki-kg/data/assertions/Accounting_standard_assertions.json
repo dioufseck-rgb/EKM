@@ -1,0 +1,1369 @@
+[
+  {
+    "assertion_id": "feb9e244-409b-4aa5-819f-82384d20363f",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Canada uses Generally Accepted Accounting Principles (Canada).",
+    "subject": "Canada",
+    "predicate_type": "implements",
+    "object_text": "Generally Accepted Accounting Principles (Canada)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Canada uses Generally Accepted Accounting Principles (Canada).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Generally Accepted Accounting Principles"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c5a7cebb-3220-43af-a54d-b184cbd416fd",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "China uses Chinese Accounting Standards (Zh\u014dnggu\u00f3 q\u01d0y\u00e8 ku\u00e0ij\u00ec zh\u01d4nz\u00e9 \u4e2d\u56fd\u4f01\u4e1a\u4f1a\u8ba1\u51c6\u5219).",
+    "subject": "China",
+    "predicate_type": "implements",
+    "object_text": "Chinese Accounting Standards (Zh\u014dnggu\u00f3 q\u01d0y\u00e8 ku\u00e0ij\u00ec zh\u01d4nz\u00e9 \u4e2d\u56fd\u4f01\u4e1a\u4f1a\u8ba1\u51c6\u5219)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "China uses Chinese Accounting Standards (Zh\u014dnggu\u00f3 q\u01d0y\u00e8 ku\u00e0ij\u00ec zh\u01d4nz\u00e9 \u4e2d\u56fd\u4f01\u4e1a\u4f1a\u8ba1\u51c6\u5219).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Chinese Accounting Standards"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a9dd9cf-f51a-4e84-b208-6cc517f3a7f7",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "France uses Generally Accepted Accounting Practice (Plan Comptable G\u00e9n\u00e9ral).",
+    "subject": "France",
+    "predicate_type": "implements",
+    "object_text": "Generally Accepted Accounting Practice (Plan Comptable G\u00e9n\u00e9ral)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "France uses Generally Accepted Accounting Practice (Plan Comptable G\u00e9n\u00e9ral).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Generally Accepted Accounting Practice"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad78e36e-01fb-4df0-8c92-2e83d80daafe",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Germany uses Generally Accepted Accounting Practice (Grunds\u00e4tze ordnungsm\u00e4\u00dfiger Buchf\u00fchrung).",
+    "subject": "Germany",
+    "predicate_type": "implements",
+    "object_text": "Generally Accepted Accounting Practice (Grunds\u00e4tze ordnungsm\u00e4\u00dfiger Buchf\u00fchrung)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Germany uses Generally Accepted Accounting Practice (Grunds\u00e4tze ordnungsm\u00e4\u00dfiger Buchf\u00fchrung).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Generally Accepted Accounting Practice"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "84a672f4-ab3b-4993-9891-98bc8ef53aa8",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Indian Accounting Standards (Ind_AS) can be used by any company governed by the rules and regulations of the Companies Act 2013.",
+    "subject": "company",
+    "predicate_type": "permits",
+    "object_text": "use of Indian Accounting Standards (Ind_AS)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Indian Accounting Standards (Ind_AS) can be used by any company governed by the rules and regulations of the Companies Act 2013.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Indian Accounting Standards",
+      "Companies Act 2013"
+    ],
+    "regulations": [
+      "Companies Act 2013"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "40aa50e2-e6d0-4293-89a3-0b1d89fab301",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Generally Accepted Accounting Principles (USA) are used by foreign and multinational companies in India.",
+    "subject": "foreign and multinational companies",
+    "predicate_type": "implements",
+    "object_text": "Generally Accepted Accounting Principles (USA)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Generally Accepted Accounting Principles (USA) are used by foreign and multinational companies in India.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Generally Accepted Accounting Principles"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6474c95f-8128-4a35-a058-561bdc03d659",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Italy uses Principi contabili nazionali.",
+    "subject": "Italy",
+    "predicate_type": "implements",
+    "object_text": "Principi contabili nazionali",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Italy uses Principi contabili nazionali.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Principi contabili nazionali"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "70d984b7-3702-4146-8117-be2dc9f50890",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Luxembourg uses Luxembourg Generally Accepted Accounting Principles (Lux GAAP).",
+    "subject": "Luxembourg",
+    "predicate_type": "implements",
+    "object_text": "Luxembourg Generally Accepted Accounting Principles (Lux GAAP)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Luxembourg uses Luxembourg Generally Accepted Accounting Principles (Lux GAAP).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Luxembourg Generally Accepted Accounting Principles"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "19b0f815-7968-43cc-9849-8cac07511a9f",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Nepal uses Nepal Financial Reporting Standards.",
+    "subject": "Nepal",
+    "predicate_type": "implements",
+    "object_text": "Nepal Financial Reporting Standards",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Nepal uses Nepal Financial Reporting Standards.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Nepal Financial Reporting Standards"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0c07b7fb-65e6-4a6e-962d-88337fa1f7d4",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Russia uses Russian GAAP.",
+    "subject": "Russia",
+    "predicate_type": "implements",
+    "object_text": "Russian GAAP",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Russia uses Russian GAAP.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Russian GAAP"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b70fa2bb-4e7c-4781-9093-c157b37e4ead",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Sweden uses BAS (accounting).",
+    "subject": "Sweden",
+    "predicate_type": "implements",
+    "object_text": "BAS (accounting)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sweden uses BAS (accounting).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "BAS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "af48b5ea-33df-485a-85b0-545201dbaead",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Switzerland uses Swiss GAAP FER (Fachempfehlungen zur Rechnungslegung).",
+    "subject": "Switzerland",
+    "predicate_type": "implements",
+    "object_text": "Swiss GAAP FER (Fachempfehlungen zur Rechnungslegung)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Switzerland uses Swiss GAAP FER (Fachempfehlungen zur Rechnungslegung).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Swiss GAAP FER"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a9638468-a765-40c0-b868-17a9afdc78ca",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Turkey uses Uniform Accounting Plan (Turkey).",
+    "subject": "Turkey",
+    "predicate_type": "implements",
+    "object_text": "Uniform Accounting Plan (Turkey)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Turkey uses Uniform Accounting Plan (Turkey).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Uniform Accounting Plan"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5dcf8948-51ae-4421-995e-34a9c8f4da52",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "United Kingdom uses Generally Accepted Accounting Practice (UK).",
+    "subject": "United Kingdom",
+    "predicate_type": "implements",
+    "object_text": "Generally Accepted Accounting Practice (UK)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "United Kingdom uses Generally Accepted Accounting Practice (UK).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Generally Accepted Accounting Practice"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fa7348d3-f2a1-4fee-ab7a-64b2e3e96a3c",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "United States uses Generally Accepted Accounting Principles (United States).",
+    "subject": "United States",
+    "predicate_type": "implements",
+    "object_text": "Generally Accepted Accounting Principles (United States)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "United States uses Generally Accepted Accounting Principles (United States).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Generally Accepted Accounting Principles"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "263136c2-38b7-40d9-b8c5-3b728a41fecd",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Domestic firms typically report in this format.",
+    "subject": "Domestic firms",
+    "predicate_type": "requires",
+    "object_text": "report in Generally Accepted Accounting Principles (United States) format",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Domestic firms typically report in this format.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Generally Accepted Accounting Principles"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b64713c8-3568-471e-8d04-621609bbb6ff",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Foreign firms that trade in the U.S. typically report in IFRS format.",
+    "subject": "Foreign firms",
+    "predicate_type": "requires",
+    "object_text": "report in IFRS format",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Foreign firms that trade in the U.S. typically report in IFRS format.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IFRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "daf015cd-a1a0-48b7-b682-aa5fcf854f0a",
+    "chunk_id": "c3427a98-7a35-47a3-bec6-3e81738f051d",
+    "document_id": "Accounting_standard",
+    "claim_text": "Statutory accounting principles are used by insurance companies in the US.",
+    "subject": "insurance companies",
+    "predicate_type": "implements",
+    "object_text": "Statutory accounting principles",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Statutory accounting principles are used by insurance companies in the US.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "Statutory accounting principles"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "400cf191-00f2-485c-9c5a-7070e9d43e84",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "Many countries use or are converging on the International Financial Reporting Standards (IFRS).",
+    "subject": "Many countries",
+    "predicate_type": "implements",
+    "object_text": "International Financial Reporting Standards (IFRS)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many countries use or are converging on the International Financial Reporting Standards (IFRS).",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "International Financial Reporting Standards",
+      "IFRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "64945a87-b523-469c-b85a-5eb43f1f30d0",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "The International Financial Reporting Standards (IFRS) were established and are maintained by the International Accounting Standards Board.",
+    "subject": "International Financial Reporting Standards (IFRS)",
+    "predicate_type": "governs",
+    "object_text": "established and are maintained by the International Accounting Standards Board",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The International Financial Reporting Standards (IFRS) were established and are maintained by the International Accounting Standards Board.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "International Financial Reporting Standards",
+      "IFRS",
+      "International Accounting Standards Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d1ea1fe8-726e-4ff5-813d-a1f4f33fdf9a",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "In some countries, local accounting principles are applied for regular companies but listed or large companies must conform to IFRS, so statutory reporting is comparable internationally.",
+    "subject": "listed or large companies",
+    "predicate_type": "requires",
+    "object_text": "conform to IFRS",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In some countries, local accounting principles are applied for regular companies but listed or large companies must conform to IFRS, so statutory reporting is comparable internationally.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IFRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aa4b978b-07c8-4074-8f5e-b36df1bdc472",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "All listed and grouped EU companies have been required to use IFRS since 2005.",
+    "subject": "All listed and grouped EU companies",
+    "predicate_type": "requires",
+    "object_text": "use IFRS",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All listed and grouped EU companies have been required to use IFRS since 2005.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IFRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "EU"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01fa4a13-b84a-41af-a9a3-39843493ce83",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "Canada moved to IFRS in 2009.",
+    "subject": "Canada",
+    "predicate_type": "implements",
+    "object_text": "IFRS",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Canada moved to IFRS in 2009.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IFRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Canada"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c90d6938-8665-418c-b357-f13907ce5d97",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "Taiwan moved to IFRS in 2013.",
+    "subject": "Taiwan",
+    "predicate_type": "implements",
+    "object_text": "IFRS",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Taiwan moved to IFRS in 2013.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IFRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Taiwan"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "04c07f1f-8e2e-41a8-9489-a6b50aada24a",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "Other countries are adopting local versions of IFRS.",
+    "subject": "Other countries",
+    "predicate_type": "implements",
+    "object_text": "local versions of IFRS",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other countries are adopting local versions of IFRS.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "IFRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4916113b-14f3-4fa0-a62d-2f8f45f350cd",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "The SEC published a statement of continued support for a single set of high-quality, globally accepted accounting standards.",
+    "subject": "SEC",
+    "predicate_type": "governs",
+    "object_text": "published a statement of continued support for a single set of high-quality, globally accepted accounting standards",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The SEC published a statement of continued support for a single set of high-quality, globally accepted accounting standards.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "SEC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "United States"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "942bb81f-5970-4096-a6d2-6ab35c9d8bee",
+    "chunk_id": "71d40d79-378d-4d73-aa17-c233ebf38d7e",
+    "document_id": "Accounting_standard",
+    "claim_text": "The SEC acknowledged that IFRS is best positioned to serve this role.",
+    "subject": "SEC",
+    "predicate_type": "governs",
+    "object_text": "acknowledged that IFRS is best positioned to serve this role",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The SEC acknowledged that IFRS is best positioned to serve this role.",
+    "source_document": "Accounting standard",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "SEC",
+      "IFRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "United States"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

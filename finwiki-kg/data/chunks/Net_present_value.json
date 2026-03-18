@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "8b4ef558-6dd9-48dd-9848-7f98db9bf0c5",
+    "document_id": "Net_present_value",
+    "sequence": 0,
+    "section_title": "Net present value (NPV), also known as net present worth (NPW) is a method for assessing whether future amounts of money are worth more or less than the cost of an investment made today. It is widely used in finance, economics, and project evaluation to judge whether a planned activity is expected to create value. NPV works by converting future cash flows into their \u201cpresent value,\u201d recognising that money available now is generally more valuable than the same amount received later. This adjustment reflects factors such as interest rates, inflation, and the opportunity to use money for other purposes.",
+    "content": "An investment typically has a positive NPV when the present value of its expected future benefits exceeds its initial cost, indicating that it is likely to be financially worthwhile. A negative NPV suggests the opposite. Because it summarises expected gains and losses in a single figure, NPV is a central tool for comparing alternative projects and making informed financial decisions.\nNet Present Value measures the value of an asset that has cashflow by adding up the present value of all the future cash flows that asset will generate. The present value of a cash flow depends on the interval of time between now and the cash flow because of the time value of money (which includes the annual effective discount rate). It provides a method for evaluating and comparing capital projects or financial products with cash flows spread over time, as in loans, investments, payouts from insurance contracts plus many other applications.\nTime value of money dictates that time affects the value of cash flows. For example, a lender may offer 99 cents for the promise of receiving $1.00 a month from now, but the promise to receive that same dollar 20 years in the future would be worth much less today to that same person (lender), even if the payback in both cases was equally certain. This decrease in the current value of future cash flows is based on a chosen rate of return (or discount rate).  If for example there exists a time series of identical cash flows, the cash flow in the present is the most valuable, with each future cash flow becoming less valuable than the previous cash flow. A cash flow today is more valuable than an identical cash flow in the future because a present flow can be invested immediately and begin earning returns, while a future flow cannot.",
+    "token_estimate": 305,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "sequence": 1,
+    "section_title": "How NPV is determined",
+    "content": "NPV is determined by calculating the costs (negative cash flows) and benefits (positive cash flows) for each period of an investment. After the cash flow for each period is calculated, the present value (PV) of each one is achieved by discounting its future value (see Formula) at a periodic rate of return (the rate of return dictated by the market). NPV is the sum of all the discounted future cash flows.\nBecause of its simplicity, NPV is a useful tool to determine whether a project or investment will result in a net profit or a loss. A positive NPV results in profit, while a negative NPV results in a loss. The NPV measures the excess or shortfall of cash flows, in present value terms, above the cost of funds. In a theoretical situation of unlimited capital budgeting, a company should pursue every investment with a positive NPV. However, in practical terms a company's capital constraints limit investments to projects with the highest NPV whose cost cash flows, or initial cash investment, do not exceed the company's capital. NPV is a central tool in discounted cash flow (DCF) analysis and is a standard method for using the time value of money to appraise long-term projects. It is widely used throughout economics, financial analysis, and financial accounting.\nIn the case when all future cash flows are positive, or incoming (such as the principal and coupon payment of a bond) the only outflow of cash is the purchase price, the NPV is simply the PV of future cash flows minus the purchase price (which is its own PV). NPV can be described as the \"difference amount\" between the sums of discounted cash inflows and cash outflows. It compares the present value of money today to the present value of money in the future, taking inflation and returns into account.\nThe NPV of a sequence of cash flows takes as input the cash flows and a discount rate or discount curve and outputs a present value, which is the current fair price. The converse process in discounted cash flow (DCF) analysis takes a sequence of cash flows and a price as input and as output the discount rate, or internal rate of return (IRR) which would yield the given price as NPV. This rate, called the yield, is widely used in bond trading.",
+    "token_estimate": 389,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "sequence": 2,
+    "section_title": "The discount rate",
+    "content": "The rate used to discount future cash flows to the present value is a key variable of this process.\nA firm's weighted average cost of capital (after tax) is often used, but many people believe that it is appropriate to use higher discount rates to adjust for risk, opportunity cost, or other factors. A variable discount rate with higher rates applied to cash flows occurring further along the time span might be used to reflect the yield curve premium for long-term debt.\nAnother approach to choosing the discount rate factor is to decide the rate which the capital needed for the project could return if invested in an alternative venture. If, for example, the capital required for Project A can earn 5% elsewhere, use this discount rate in the NPV calculation to allow a direct comparison to be made between Project A and the alternative. Related to this concept is to use the firm's reinvestment rate. Re-investment rate can be defined as the rate of return for the firm's investments on average. When analyzing projects in a capital constrained environment, it may be appropriate to use the reinvestment rate rather than the firm's weighted average cost of capital as the discount factor. It reflects opportunity cost of investment, rather than the possibly lower cost of capital.\nAn NPV calculated using variable discount rates (if they are known for the duration of the investment) may better reflect the situation than one calculated from a constant discount rate for the entire investment duration. Refer to the tutorial article written by Samuel Baker for more detailed relationship between the NPV and the discount rate.\nFor some professional investors, their investment funds are committed to target a specified rate of return. In such cases, that rate of return should be selected as the discount rate for the NPV calculation. In this way, a direct comparison can be made between the profitability of the project and the desired rate of return.\nTo some extent, the selection of the discount rate is dependent on the use to which it will be put. If the intent is simply to determine whether a project will add value to the company, using the firm's weighted average cost of capital may be appropriate. If trying to decide between alternative investments in order to maximize the value of the firm, the corporate reinvestment rate would probably be a better choice.",
+    "token_estimate": 399,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "sequence": 3,
+    "section_title": "Use in decision making",
+    "content": "NPV is an indicator of how much value an investment or project adds to the firm. With a particular project, if \n  \n    \n      \n        \n          R\n          \n            t\n          \n        \n      \n    \n    {\\displaystyle R_{t}}\n  \n is a positive value, the project is in the status of positive cash inflow in the time of t. If \n  \n    \n      \n        \n          R\n          \n            t\n          \n        \n      \n    \n    {\\displaystyle R_{t}}\n  \n is a negative value, the project is in the status of discounted cash outflow in the time of t. Appropriately risked projects with a positive NPV could be accepted. This does not necessarily mean that they should be undertaken since NPV at the cost of capital may not account for opportunity cost, i.e., comparison with other available investments. In financial theory, if there is a choice between two mutually exclusive alternatives, the one yielding the higher NPV should be selected. A positive net present value indicates that the projected earnings generated by a project or investment (in present dollars) exceeds the anticipated costs (also in present dollars). This concept is the basis for the Net Present Value Rule, which dictates that the only investments that should be made are those with positive NPVs.\nAn investment with a positive NPV is profitable, but one with a negative NPV will not necessarily result in a net loss: it is just that the internal rate of return of the project falls below the required rate of return.",
+    "token_estimate": 223,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "4004c287-9a02-420a-9256-532833ea5f9d",
+    "document_id": "Net_present_value",
+    "sequence": 4,
+    "section_title": "Advantages",
+    "content": "The NPV includes all relevant time and cash flows for the project by considering the time value of money, which is consistent with the goal of wealth maximization by creating the highest wealth for shareholders.\nThe NPV formula accounts for cash flow timing patterns and size differences for each project, and provides an easy, unambiguous dollar value comparison of different investment options.\nThe NPV can be easily calculated using modern spreadsheets, under the assumption that the discount rate and future cash flows are known. For a firm considering investing in multiple projects, the NPV has the benefit of being additive. That is, the NPVs of different projects may be aggregated to calculate the highest wealth creation, based on the available capital that can be invested by a firm.",
+    "token_estimate": 128,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "sequence": 5,
+    "section_title": "Common pitfalls",
+    "content": "If, for example, the Rt are generally negative late in the project (e.g., an industrial or mining project might have clean-up and restoration costs), then at that stage the company owes money, so a high discount rate is not cautious but too optimistic. Some people see this as a problem with NPV. A way to avoid this problem is to include explicit provision for financing any losses after the initial investment, that is, explicitly calculate the cost of financing such losses. Another common pitfall is to adjust for risk by adding a premium to the discount rate. Whilst a bank might charge a higher rate of interest for a risky project, that does not mean that this is a valid approach to adjusting a net present value for risk, although it can be a reasonable approximation in some specific cases. One reason such an approach may not work well can be seen from the following: if some risk is incurred resulting in some losses, then a discount rate in the NPV will reduce the effect of such losses below their true financial cost. A rigorous approach to risk requires identifying and valuing risks explicitly, e.g., by actuarial or Monte Carlo techniques, and explicitly calculating the cost of financing any losses incurred. Yet another issue can result from the compounding of the risk premium. R is a composite of the risk free rate and the risk premium. As a result, future cash flows are discounted by both the risk-free rate as well as the risk premium and this effect is compounded by each subsequent cash flow. This compounding results in a much lower NPV than might be otherwise calculated. The certainty equivalent model can be used to account for the risk premium without compounding its effect on present value. Another issue with relying on NPV is that it does not provide an overall picture of the gain or loss of executing a certain project. To see a percentage gain relative to the investments for the project, usually, Internal rate of return or other efficiency measures are used as a complement to NPV. Non-specialist users frequently make the error of computing NPV based on cash flows after interest. This is wrong because it double counts the time value of money. Free cash flow should be used as the basis for NPV computations. When using Microsoft's Excel, the \"=NPV(...)\" formula makes two assumptions",
+    "token_estimate": 400,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "sequence": 6,
+    "section_title": "Common pitfalls",
+    "content": "NPV. Non-specialist users frequently make the error of computing NPV based on cash flows after interest. This is wrong because it double counts the time value of money. Free cash flow should be used as the basis for NPV computations. When using Microsoft's Excel, the \"=NPV(...)\" formula makes two assumptions that result in an incorrect solution. The first is that the amount of time between each item in the input array is constant and equidistant (e.g., 30 days of time between item 1 and item 2) which may not always be correct based on the cash flow that is being discounted. The second item is that the function will assume the item in the first position of the array is period 1 not period zero. This then results in incorrectly discounting all array items by one extra period. The easiest fix to both of these errors is to use the \"=XNPV(...)\" formula.",
+    "token_estimate": 152,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "sequence": 7,
+    "section_title": "History",
+    "content": "Net present value as a valuation methodology dates at least to the 19th century. Karl Marx refers to NPV as fictitious capital, and the calculation as \"capitalising,\" writing:\n\nThe forming of a fictitious capital is called capitalising. Every periodically repeated income is capitalised by calculating it on the average rate of interest, as an income which would be realised by a capital at this rate of interest.\nIn mainstream neo-classical economics, NPV was formalized and popularized by Irving Fisher, in his 1907 The Rate of Interest and became included in textbooks from the 1950s onwards, starting in finance texts.",
+    "token_estimate": 99,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "sequence": 8,
+    "section_title": "Alternative capital budgeting methods",
+    "content": "Adjusted present value (APV): adjusted present value, is the net present value of a project if financed solely by ownership equity plus the present value of all the benefits of financing.\nAccounting rate of return (ARR): a ratio similar to IRR and MIRR\nCost-benefit analysis: which includes issues other than cash, such as time savings.\nInternal rate of return (IRR): which calculates the rate of return of a project while disregarding the absolute amount of money to be gained.\nModified internal rate of return (MIRR): similar to IRR, but it makes explicit assumptions about the reinvestment of the cash flows. Sometimes it is called Growth Rate of Return.\nPayback period: which measures the time required for the cash inflows to equal the original outlay. It measures risk, not return.\nReal option: which attempts to value managerial flexibility that is assumed away in NPV.\nEquivalent annual cost (EAC): a capital budgeting technique that is useful in comparing two or more projects with different lifespans.",
+    "token_estimate": 163,
+    "title": "Net present value",
+    "url": "https://en.wikipedia.org/wiki/Net_present_value",
+    "domain": "finance"
+  }
+]

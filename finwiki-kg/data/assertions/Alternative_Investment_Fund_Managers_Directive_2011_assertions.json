@@ -1,0 +1,2564 @@
+[
+  {
+    "assertion_id": "c47c68bb-80c0-41f2-9882-c07b17da5bce",
+    "chunk_id": "ecc2e102-4942-424a-b6cd-746f68b308ec",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "For the purposes of the directive, marketing is defined as any offering or placement (sale) of an AIF at the initiative of the AIFM, or on behalf of the AIFM, to investors domiciled in the EU.",
+    "subject": "marketing",
+    "predicate_type": "defines",
+    "object_text": "any offering or placement (sale) of an AIF at the initiative of the AIFM, or on behalf of the AIFM, to investors domiciled in the EU",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For the purposes of the directive, marketing is defined as any offering or placement (sale) of an AIF at the initiative of the AIFM, or on behalf of the AIFM, to investors domiciled in the EU.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "marketing",
+      "alternative investment funds"
+    ],
+    "entities": [
+      "AIF",
+      "AIFM",
+      "EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bd0845b0-6ca5-4496-b536-9463a37cf955",
+    "chunk_id": "ecc2e102-4942-424a-b6cd-746f68b308ec",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Member state laws and rules determine whether a fund is engaged in marketing for purposes of the directive.",
+    "subject": "Member state laws and rules",
+    "predicate_type": "governs",
+    "object_text": "whether a fund is engaged in marketing for purposes of the directive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Member state laws and rules determine whether a fund is engaged in marketing for purposes of the directive.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "marketing",
+      "alternative investment funds"
+    ],
+    "entities": [
+      "fund"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "af9f6b2b-6e32-4274-a6c8-1b725a5fec24",
+    "chunk_id": "ecc2e102-4942-424a-b6cd-746f68b308ec",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "EU funds managed by EU managers may be marketed across the EU under the passport of Directive 2011/61/EU, provided the manager complies with all of the requirements of the directive.",
+    "subject": "EU funds managed by EU managers",
+    "predicate_type": "permits",
+    "object_text": "marketed across the EU under the passport of Directive 2011/61/EU",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "EU funds managed by EU managers may be marketed across the EU under the passport of Directive 2011/61/EU, provided the manager complies with all of the requirements of the directive.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "marketing",
+      "alternative investment funds"
+    ],
+    "entities": [
+      "EU",
+      "EU funds",
+      "EU managers"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5e051db6-23ca-4371-8e73-48935a5f923c",
+    "chunk_id": "ecc2e102-4942-424a-b6cd-746f68b308ec",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "EU or non-EU funds managed by non-EU managers may currently be marketed within the EU only under national private placement regimes, as non-EU managers cannot obtain the marketing passport.",
+    "subject": "EU or non-EU funds managed by non-EU managers",
+    "predicate_type": "permits",
+    "object_text": "marketed within the EU only under national private placement regimes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "EU or non-EU funds managed by non-EU managers may currently be marketed within the EU only under national private placement regimes, as non-EU managers cannot obtain the marketing passport.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "marketing",
+      "alternative investment funds"
+    ],
+    "entities": [
+      "EU",
+      "non-EU funds",
+      "non-EU managers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d19e26d4-458c-4e9c-ac1a-96312128e4e7",
+    "chunk_id": "ecc2e102-4942-424a-b6cd-746f68b308ec",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Non-EU managers cannot obtain the marketing passport.",
+    "subject": "non-EU managers",
+    "predicate_type": "prohibits",
+    "object_text": "obtain the marketing passport",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Non-EU managers cannot obtain the marketing passport.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "marketing",
+      "alternative investment funds"
+    ],
+    "entities": [
+      "non-EU managers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f70e678-4add-4b91-a9f1-a1ae0da3213b",
+    "chunk_id": "ecc2e102-4942-424a-b6cd-746f68b308ec",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Non-EU funds managed by EU managers may only be marketed under the private placement regimes.",
+    "subject": "non-EU funds managed by EU managers",
+    "predicate_type": "permits",
+    "object_text": "marketed under the private placement regimes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Non-EU funds managed by EU managers may only be marketed under the private placement regimes.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "marketing",
+      "alternative investment funds"
+    ],
+    "entities": [
+      "non-EU funds",
+      "EU managers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "95f32ee1-442c-42e4-9751-9f0646c35e39",
+    "chunk_id": "ecc2e102-4942-424a-b6cd-746f68b308ec",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Funds marketed under national private placement regimes are subject to compliance with certain provisions of Directive 2011/61/EU related to reporting, regulatory co-operation agreements, and the jurisdiction of the fund and the manager not being listed as a \"non-cooperative country and territory\" by the Financial Action Task Force (FATF).",
+    "subject": "Funds marketed under national private placement regimes",
+    "predicate_type": "requires",
+    "object_text": "compliance with certain provisions of Directive 2011/61/EU related to reporting, regulatory co-operation agreements, and the jurisdiction of the fund and the manager not being listed as a \"non-cooperative country and territory\" by the Financial Action Task Force (FATF)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Funds marketed under national private placement regimes are subject to compliance with certain provisions of Directive 2011/61/EU related to reporting, regulatory co-operation agreements, and the jurisdiction of the fund and the manager not being listed as a \"non-cooperative country and territory\" by the Financial Action Task Force (FATF).",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "marketing",
+      "alternative investment funds",
+      "reporting",
+      "regulatory cooperation"
+    ],
+    "entities": [
+      "Financial Action Task Force",
+      "FATF",
+      "fund",
+      "manager"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8977229d-5239-497b-ad76-ab45bce7fe0b",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Directive 2011/61/EU was prompted as part of a wider regulatory effort undertaken by G20 nations following the 2008 financial crisis.",
+    "subject": "Directive 2011/61/EU",
+    "predicate_type": "causes",
+    "object_text": "prompted as part of a wider regulatory effort undertaken by G20 nations following the 2008 financial crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Directive 2011/61/EU was prompted as part of a wider regulatory effort undertaken by G20 nations following the 2008 financial crisis.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "financial crisis"
+    ],
+    "entities": [
+      "Directive 2011/61/EU",
+      "G20"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "000be92b-943b-4dde-aef8-49f54e017afc",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Provisions of Directive 2011/61/EU include increasing transparency by AIFMs.",
+    "subject": "Provisions of Directive 2011/61/EU",
+    "predicate_type": "implements",
+    "object_text": "increasing transparency by AIFMs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Provisions of Directive 2011/61/EU include increasing transparency by AIFMs.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "transparency"
+    ],
+    "entities": [
+      "Directive 2011/61/EU",
+      "AIFMs"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6713401b-c7e6-4980-a509-9a190e9efafa",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Provisions of Directive 2011/61/EU include assuring that national supervisors, the European Securities and Markets Authority (ESMA), and the European Systemic Risk Board (ESRB) have the information they need to monitor financial systems in the EU.",
+    "subject": "Provisions of Directive 2011/61/EU",
+    "predicate_type": "implements",
+    "object_text": "assuring that national supervisors, the European Securities and Markets Authority (ESMA), and the European Systemic Risk Board (ESRB) have the information they need to monitor financial systems in the EU",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Provisions of Directive 2011/61/EU include assuring that national supervisors, the European Securities and Markets Authority (ESMA), and the European Systemic Risk Board (ESRB) have the information they need to monitor financial systems in the EU.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial stability",
+      "supervision"
+    ],
+    "entities": [
+      "Directive 2011/61/EU",
+      "European Securities and Markets Authority",
+      "ESMA",
+      "European Systemic Risk Board",
+      "ESRB"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e68046fb-cbec-4614-a505-e40e389589f8",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Directive 2011/61/EU is intended to protect investors.",
+    "subject": "Directive 2011/61/EU",
+    "predicate_type": "implements",
+    "object_text": "intended to protect investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Directive 2011/61/EU is intended to protect investors.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investor protection"
+    ],
+    "entities": [
+      "Directive 2011/61/EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e8c9a505-129c-45c0-9837-8d180f5994c9",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "AIFMs had become very significant actors in the European financial system, managing a large quantity of assets on behalf of pension funds and other investors.",
+    "subject": "AIFMs",
+    "predicate_type": "relates_to",
+    "object_text": "very significant actors in the European financial system, managing a large quantity of assets on behalf of pension funds and other investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "AIFMs had become very significant actors in the European financial system, managing a large quantity of assets on behalf of pension funds and other investors.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset management"
+    ],
+    "entities": [
+      "AIFMs",
+      "European financial system",
+      "pension funds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "871b1b80-83cd-493b-80d2-2c351e32f066",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "AIFMs were accounting for a significant proportion of trading activity in financial markets.",
+    "subject": "AIFMs",
+    "predicate_type": "relates_to",
+    "object_text": "accounting for a significant proportion of trading activity in financial markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "AIFMs were accounting for a significant proportion of trading activity in financial markets.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "trading"
+    ],
+    "entities": [
+      "AIFMs",
+      "financial markets"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7afc6c36-70ff-4bfa-a2b6-3e2b6b5d354e",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "AIFMs were constituting an important source of counterparty risk for other market participants.",
+    "subject": "AIFMs",
+    "predicate_type": "relates_to",
+    "object_text": "constituting an important source of counterparty risk for other market participants",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "AIFMs were constituting an important source of counterparty risk for other market participants.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "counterparty risk"
+    ],
+    "entities": [
+      "AIFMs",
+      "market participants"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d4a37c2d-242d-4027-800f-6eb40320df79",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "AIFMs had contributed to the build-up of leverage in the financial system.",
+    "subject": "AIFMs",
+    "predicate_type": "causes",
+    "object_text": "contributed to the build-up of leverage in the financial system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "AIFMs had contributed to the build-up of leverage in the financial system.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage"
+    ],
+    "entities": [
+      "AIFMs",
+      "financial system"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f1f1188-30c7-4f73-a1ab-a196cf57bd40",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The consequences of the build-up of leverage in the financial system for the stability of financial markets became apparent when leverage in the hedge fund sector was rapidly unwound during the crisis.",
+    "subject": "consequences of the build-up of leverage in the financial system",
+    "predicate_type": "relates_to",
+    "object_text": "for the stability of financial markets became apparent when leverage in the hedge fund sector was rapidly unwound during the crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The consequences of the build-up of leverage in the financial system for the stability of financial markets became apparent when leverage in the hedge fund sector was rapidly unwound during the crisis.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial stability",
+      "leverage",
+      "hedge funds"
+    ],
+    "entities": [
+      "financial system",
+      "financial markets",
+      "hedge fund sector"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1e0108d9-ca7c-491e-8720-86099754b626",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The adoption of the directive means that hedge funds and private equity will no longer operate in a regulatory void outside the scope of supervisors.",
+    "subject": "adoption of the directive",
+    "predicate_type": "causes",
+    "object_text": "hedge funds and private equity will no longer operate in a regulatory void outside the scope of supervisors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The adoption of the directive means that hedge funds and private equity will no longer operate in a regulatory void outside the scope of supervisors.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "hedge funds",
+      "private equity"
+    ],
+    "entities": [
+      "hedge funds",
+      "private equity",
+      "supervisors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e68f8c8a-9579-4223-ba2c-03da0f315d0d",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The new regime brings transparency and security to the way these funds are managed and operate.",
+    "subject": "new regime",
+    "predicate_type": "implements",
+    "object_text": "brings transparency and security to the way these funds are managed and operate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The new regime brings transparency and security to the way these funds are managed and operate.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "transparency",
+      "security"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d75a307-47bf-49d1-8420-74e35fc04b6a",
+    "chunk_id": "4b45abc1-96f7-4d63-a8cb-fd975d21b701",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The new regime adds to the overall stability of our financial system.",
+    "subject": "new regime",
+    "predicate_type": "causes",
+    "object_text": "adds to the overall stability of our financial system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The new regime adds to the overall stability of our financial system.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial stability"
+    ],
+    "entities": [
+      "financial system"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfcd7efc-4c54-4d89-bdef-f20bcf0c0dfc",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The directive came into force on 21 July 2011.",
+    "subject": "The directive",
+    "predicate_type": "causes",
+    "object_text": "came into force",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The directive came into force on 21 July 2011.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b0b862f4-2f7b-4f71-806a-908207afeaf8",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "On 16 November 2011, ESMA issued technical advice to the European Commission (EC) on possible implementation measures for Directive 2011/61/EU.",
+    "subject": "ESMA",
+    "predicate_type": "relates_to",
+    "object_text": "issued technical advice to the European Commission (EC) on possible implementation measures for Directive 2011/61/EU",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 16 November 2011, ESMA issued technical advice to the European Commission (EC) on possible implementation measures for Directive 2011/61/EU.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_reporting"
+    ],
+    "entities": [
+      "ESMA",
+      "European Commission",
+      "Directive 2011/61/EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bb7b228e-05d4-47cb-943f-e624ce4417d3",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "On 19 December 2012, the EC added a series of new regulations to supplement the text.",
+    "subject": "the EC",
+    "predicate_type": "relates_to",
+    "object_text": "added a series of new regulations to supplement the text",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 19 December 2012, the EC added a series of new regulations to supplement the text.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_reporting"
+    ],
+    "entities": [
+      "EC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b7b5a61d-bc12-4be7-ab94-0557f35ed05c",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "EU member states were required to write Directive 2011/61/EU into national law by no later than 22 July 2013.",
+    "subject": "EU member states",
+    "predicate_type": "requires",
+    "object_text": "write Directive 2011/61/EU into national law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "EU member states were required to write Directive 2011/61/EU into national law by no later than 22 July 2013.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_compliance"
+    ],
+    "entities": [
+      "Directive 2011/61/EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e91f93a2-9cc3-4d6e-ba70-6754ebda05f1",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "As of July 2014, not every EU member state had transposed Directive 2011/61/EU into national law.",
+    "subject": "EU member state",
+    "predicate_type": "relates_to",
+    "object_text": "not every EU member state had transposed Directive 2011/61/EU into national law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As of July 2014, not every EU member state had transposed Directive 2011/61/EU into national law.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_compliance"
+    ],
+    "entities": [
+      "Directive 2011/61/EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0ea6642e-0653-49d2-accd-50cb5af1bc5c",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Some, but not all, member states provided for a one-year transition period, beginning 22 July 2013, before AIFMs would become subject to the requirements of Directive 2011/61/EU.",
+    "subject": "member states",
+    "predicate_type": "relates_to",
+    "object_text": "provided for a one-year transition period, beginning 22 July 2013, before AIFMs would become subject to the requirements of Directive 2011/61/EU",
+    "object_value": 1.0,
+    "object_unit": "year",
+    "source_text": "Some, but not all, member states provided for a one-year transition period, beginning 22 July 2013, before AIFMs would become subject to the requirements of Directive 2011/61/EU.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_compliance"
+    ],
+    "entities": [
+      "AIFMs",
+      "Directive 2011/61/EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d73f2dcc-367e-4ad8-9907-6c43462f99c4",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Commission Delegated Regulation (EU) No 231/2013 is on exemptions, general operating conditions, depositaries, leverage, transparency and supervision.",
+    "subject": "Commission Delegated Regulation (EU) No 231/2013",
+    "predicate_type": "relates_to",
+    "object_text": "on exemptions, general operating conditions, depositaries, leverage, transparency and supervision",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Commission Delegated Regulation (EU) No 231/2013 is on exemptions, general operating conditions, depositaries, leverage, transparency and supervision.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "exemptions",
+      "operating_conditions",
+      "transparency",
+      "supervision"
+    ],
+    "entities": [
+      "Commission Delegated Regulation (EU) No 231/2013"
+    ],
+    "regulations": [
+      "Commission Delegated Regulation (EU) No 231/2013"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cbd3dd98-b93b-49f1-bcd0-fa98cc9fc67e",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Commission Implementing Regulation (EU) No 447/2013 is on opt-in AIFMs.",
+    "subject": "Commission Implementing Regulation (EU) No 447/2013",
+    "predicate_type": "relates_to",
+    "object_text": "on opt-in AIFMs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Commission Implementing Regulation (EU) No 447/2013 is on opt-in AIFMs.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Commission Implementing Regulation (EU) No 447/2013",
+      "AIFMs"
+    ],
+    "regulations": [
+      "Commission Implementing Regulation (EU) No 447/2013"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7be18ce6-0574-4555-9bd6-e6429b77e20a",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Commission Implementing Regulation (EU) No 448/2013 is on the procedure for establishing the member state of reference for non-EU fund managers.",
+    "subject": "Commission Implementing Regulation (EU) No 448/2013",
+    "predicate_type": "relates_to",
+    "object_text": "on the procedure for establishing the member state of reference for non-EU fund managers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Commission Implementing Regulation (EU) No 448/2013 is on the procedure for establishing the member state of reference for non-EU fund managers.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Commission Implementing Regulation (EU) No 448/2013"
+    ],
+    "regulations": [
+      "Commission Implementing Regulation (EU) No 448/2013"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1a3db05d-731e-40da-83ef-fdb7b498d315",
+    "chunk_id": "f883b2ee-dd27-4b97-b3ab-ea6f123f5ede",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The European Securities and Markets Authority has also issued a number of guidelines to national competent authorities including on key concepts of Directive 2011/61/EU and remuneration.",
+    "subject": "The European Securities and Markets Authority",
+    "predicate_type": "relates_to",
+    "object_text": "issued a number of guidelines to national competent authorities including on key concepts of Directive 2011/61/EU and remuneration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The European Securities and Markets Authority has also issued a number of guidelines to national competent authorities including on key concepts of Directive 2011/61/EU and remuneration.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "remuneration"
+    ],
+    "entities": [
+      "European Securities and Markets Authority",
+      "Directive 2011/61/EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c3844b6c-ab7c-417f-ae07-9b62407fa521",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Special requirements apply to AIFMs using leverage.",
+    "subject": "AIFMs",
+    "predicate_type": "requires",
+    "object_text": "special requirements when using leverage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Special requirements apply to AIFMs using leverage.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "regulation"
+    ],
+    "entities": [
+      "AIFMs"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "feea197a-cf57-4432-9980-21cc11e49dc7",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "AIFMs are required to disclose the extent of the leverage employed within their funds.",
+    "subject": "AIFMs",
+    "predicate_type": "requires",
+    "object_text": "to disclose the extent of the leverage employed within their funds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "AIFMs are required to disclose the extent of the leverage employed within their funds.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "disclosure"
+    ],
+    "entities": [
+      "AIFMs"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cfbeeb32-90d2-44ee-95c3-51ea6d7ed56b",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "AIFMs are required to prove that leverage in any fund has been limited to a reasonable amount.",
+    "subject": "AIFMs",
+    "predicate_type": "requires",
+    "object_text": "to prove that leverage in any fund has been limited to a reasonable amount",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "AIFMs are required to prove that leverage in any fund has been limited to a reasonable amount.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "regulation"
+    ],
+    "entities": [
+      "AIFMs"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "96ffbc37-97a7-4d40-8caa-fefda04b7265",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The scope of Directive 2011/61/EU requirements that apply to AIFMs are different, depending on whether the AIFM is engaged in portfolio or risk management activities within the EU or markets its funds to EU investors.",
+    "subject": "Directive 2011/61/EU",
+    "predicate_type": "relates_to",
+    "object_text": "requirements that apply to AIFMs are different, depending on whether the AIFM is engaged in portfolio or risk management activities within the EU or markets its funds to EU investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The scope of Directive 2011/61/EU requirements that apply to AIFMs are different, depending on whether the AIFM is engaged in portfolio or risk management activities within the EU or markets its funds to EU investors.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "portfolio management",
+      "risk management"
+    ],
+    "entities": [
+      "AIFMs",
+      "EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "53ad64fd-f81c-426e-ab98-1e1c7e3e288f",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Each fund can only have one AIFM.",
+    "subject": "fund",
+    "predicate_type": "constrains",
+    "object_text": "only have one AIFM",
+    "object_value": 1.0,
+    "object_unit": null,
+    "source_text": "Each fund can only have one AIFM.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fund management"
+    ],
+    "entities": [
+      "AIFM"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0b49ca05-4605-447d-a637-11c3cbc73127",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The AIFM can delegate certain functions to other entities.",
+    "subject": "AIFM",
+    "predicate_type": "permits",
+    "object_text": "delegate certain functions to other entities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The AIFM can delegate certain functions to other entities.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "delegation"
+    ],
+    "entities": [
+      "AIFM"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "edc283d9-4219-451d-b221-dafefc1d5efd",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "EU AIFMs became subject to all of the provisions of Directive 2011/61/EU once it was implemented at the EU member state level.",
+    "subject": "EU AIFMs",
+    "predicate_type": "requires",
+    "object_text": "subject to all of the provisions of Directive 2011/61/EU once it was implemented at the EU member state level",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "EU AIFMs became subject to all of the provisions of Directive 2011/61/EU once it was implemented at the EU member state level.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "AIFMs",
+      "EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "909c13b8-c970-4c7c-a317-13598fa1653a",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Authorised fund managers located within the EU are permitted to market their EU funds to professional investors in any EU member state under what Directive 2011/61/EU calls a passport.",
+    "subject": "Authorised fund managers located within the EU",
+    "predicate_type": "permits",
+    "object_text": "to market their EU funds to professional investors in any EU member state under what Directive 2011/61/EU calls a passport",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Authorised fund managers located within the EU are permitted to market their EU funds to professional investors in any EU member state under what Directive 2011/61/EU calls a passport.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fund marketing"
+    ],
+    "entities": [
+      "EU",
+      "professional investors"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "28582970-5b2d-49b6-ac09-4a2ba95f033c",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The reporting requirements of Directive 2011/61/EU apply to all AIFMs who manage or market alternative funds within the EU.",
+    "subject": "reporting requirements of Directive 2011/61/EU",
+    "predicate_type": "requires",
+    "object_text": "apply to all AIFMs who manage or market alternative funds within the EU",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The reporting requirements of Directive 2011/61/EU apply to all AIFMs who manage or market alternative funds within the EU.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting"
+    ],
+    "entities": [
+      "AIFMs",
+      "EU"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f108d28a-1a7e-457e-bfa8-501f6800111e",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "To fulfill the reporting requirements, AIFMs must file an Annex IV report within 30 days of the end of the applicable reporting period, which is determined by the amount of an AIFM's assets under management.",
+    "subject": "AIFMs",
+    "predicate_type": "requires",
+    "object_text": "file an Annex IV report within 30 days of the end of the applicable reporting period, which is determined by the amount of an AIFM's assets under management",
+    "object_value": 30.0,
+    "object_unit": "days",
+    "source_text": "To fulfill the reporting requirements, AIFMs must file an Annex IV report within 30 days of the end of the applicable reporting period, which is determined by the amount of an AIFM's assets under management.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting"
+    ],
+    "entities": [
+      "AIFMs",
+      "Annex IV"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f015171f-00c7-4d04-a663-4e2da543ccae",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Reporting periods range from quarterly to half-yearly to annually.",
+    "subject": "reporting periods",
+    "predicate_type": "classifies",
+    "object_text": "range from quarterly to half-yearly to annually",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Reporting periods range from quarterly to half-yearly to annually.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting"
+    ],
+    "entities": [],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9c50969a-6080-47c6-b52c-71386808c499",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "The Annex IV report is a government regulatory document comprising 41 questions, analysing a fund's investment portfolios, exposures, leverage ratios, liquidity and risk analysis.",
+    "subject": "Annex IV report",
+    "predicate_type": "defines",
+    "object_text": "a government regulatory document comprising 41 questions, analysing a fund's investment portfolios, exposures, leverage ratios, liquidity and risk analysis",
+    "object_value": 41.0,
+    "object_unit": "questions",
+    "source_text": "The Annex IV report is a government regulatory document comprising 41 questions, analysing a fund's investment portfolios, exposures, leverage ratios, liquidity and risk analysis.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting"
+    ],
+    "entities": [
+      "Annex IV"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "665a574b-d80f-4304-a242-ca1bf7f2330c",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "In chapter V, section 2, articles 26\u201330, additional obligations apply for AIFs acquiring controlling influence in non-listed companies.",
+    "subject": "chapter V, section 2, articles 26\u201330",
+    "predicate_type": "requires",
+    "object_text": "additional obligations apply for AIFs acquiring controlling influence in non-listed companies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In chapter V, section 2, articles 26\u201330, additional obligations apply for AIFs acquiring controlling influence in non-listed companies.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate governance"
+    ],
+    "entities": [
+      "AIFs"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6fb67786-cef2-47e3-a8a0-8127118ae2d6",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "This is essentially directed at private equity firms, and partly aims to stop asset stripping.",
+    "subject": "chapter V, section 2, articles 26\u201330",
+    "predicate_type": "relates_to",
+    "object_text": "essentially directed at private equity firms, and partly aims to stop asset stripping",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This is essentially directed at private equity firms, and partly aims to stop asset stripping.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "asset stripping"
+    ],
+    "entities": [
+      "private equity firms"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17781ca3-1d7e-4397-a0b3-d7f49dac3b01",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Article 26(5) defines \"control\" as holding over 50% of voting rights, including as a \u2018club deal\u2019.",
+    "subject": "Article 26(5)",
+    "predicate_type": "defines",
+    "object_text": "\"control\" as holding over 50% of voting rights, including as a \u2018club deal\u2019",
+    "object_value": 50.0,
+    "object_unit": "%",
+    "source_text": "Article 26(5) defines \"control\" as holding over 50% of voting rights, including as a \u2018club deal\u2019.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate governance"
+    ],
+    "entities": [],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "491e5b17-4b71-4c20-858c-ac0af0fe942a",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "This was watered down from 30% in the draft (formerly in article 26(1)(a)).",
+    "subject": "Article 26(5)",
+    "predicate_type": "supersedes",
+    "object_text": "30% in the draft (formerly in article 26(1)(a))",
+    "object_value": 30.0,
+    "object_unit": "%",
+    "source_text": "This was watered down from 30% in the draft (formerly in article 26(1)(a)).",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate governance"
+    ],
+    "entities": [],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "99d431bf-2fe9-4ada-8742-18f5ec597a85",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Article 27(1) states that funds have to notify investee companies and shareholders when they acquire control.",
+    "subject": "Article 27(1)",
+    "predicate_type": "requires",
+    "object_text": "funds have to notify investee companies and shareholders when they acquire control",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Article 27(1) states that funds have to notify investee companies and shareholders when they acquire control.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate governance"
+    ],
+    "entities": [
+      "funds"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "db88d6c7-598f-4910-a41d-760fe130be16",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Article 28(4) requires them to disclose the acquisition to stakeholder groups including employees or representatives via the investee's board.",
+    "subject": "Article 28(4)",
+    "predicate_type": "requires",
+    "object_text": "them to disclose the acquisition to stakeholder groups including employees or representatives via the investee's board",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Article 28(4) requires them to disclose the acquisition to stakeholder groups including employees or representatives via the investee's board.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate governance"
+    ],
+    "entities": [],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "36d552b6-1615-47d6-8f64-f49be3372bc7",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Article 29 places an obligation on the central Private Equity management company (rather than an investee companies) to give information on operational and financial developments in firm's annual reports.",
+    "subject": "Article 29",
+    "predicate_type": "requires",
+    "object_text": "an obligation on the central Private Equity management company (rather than an investee companies) to give information on operational and financial developments in firm's annual reports",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Article 29 places an obligation on the central Private Equity management company (rather than an investee companies) to give information on operational and financial developments in firm's annual reports.",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate governance"
+    ],
+    "entities": [
+      "Private Equity management company"
+    ],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a09292d5-b908-430a-a7b1-7c9a66078976",
+    "chunk_id": "a160ab58-1f25-45a1-8bc7-213b29d64382",
+    "document_id": "Alternative_Investment_Fund_Managers_Directive_2011",
+    "claim_text": "Article 30 lists distribution requirements, which are intended to prevent asset stripping in the first 24 months from acquiring control).",
+    "subject": "Article 30",
+    "predicate_type": "requires",
+    "object_text": "distribution requirements, which are intended to prevent asset stripping in the first 24 months from acquiring control",
+    "object_value": 24.0,
+    "object_unit": "months",
+    "source_text": "Article 30 lists distribution requirements, which are intended to prevent asset stripping in the first 24 months from acquiring control).",
+    "source_document": "Alternative Investment Fund Managers Directive 2011",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate governance"
+    ],
+    "entities": [],
+    "regulations": [
+      "Directive 2011/61/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

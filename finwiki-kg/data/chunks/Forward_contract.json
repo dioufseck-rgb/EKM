@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_id": "d4917e95-ed1a-454a-b9d8-24e54714e518",
+    "document_id": "Forward_contract",
+    "sequence": 0,
+    "section_title": "How a forward contract works",
+    "content": "Suppose that Bob wants to buy a house a year from now. At the same time, suppose that Alice currently owns a $100,000 house that she wishes to sell a year from now. Both parties could enter into a forward contract with each other. Suppose that they both agree on the sale price in one year's time of $104,000 (more below on why the sale price should be this amount). Alice and Bob have entered into a forward contract. Bob, because he is buying the underlying, is said to have entered a long forward contract. Conversely, Alice will have the short forward contract. At the end of one year, suppose that the current market valuation of Alice's house is $110,000. Then, because Alice is obliged to sell to Bob for only $104,000, Bob will make a profit of $6,000. To see why this is so, one needs only to recognize that Bob can buy from Alice for $104,000 and immediately sell to the market for $110,000. Bob has made the difference in profit. In contrast, Alice has made a potential loss of $6,000, and an actual profit of $4,000. The similar situation works among currency forwards, in which one party opens a forward contract to buy or sell a currency (e.g. a contract to buy Canadian dollars) to expire/settle at a future date, as they do not wish to be exposed to exchange rate/currency risk over a period of time. As the exchange rate between U.S. dollars and Canadian dollars fluctuates between the trade date and the earlier of the date at which the contract is closed or the expiration date, one party gains and the counterparty loses as one currency strengthens against the other. Sometimes, the buy forward is opened because the investor will actually need Canadian dollars at a future date such as to pay a debt owed that is denominated in Canadian dollars. Other times, the party opening a forward does so, not because they need Canadian dollars nor because they are hedging currency risk, but because they are speculating on the currency, expecting the exchange rate to move favorably to generate a gain on closing the contract. In a currency forward, the notional amounts of currencies are specified (ex: a contract to buy $100 million Canadian dollars equivalent to, say US$75.2 million at the current rate\u2014these two amounts are called the notional amount(s)). While the notional",
+    "token_estimate": 400,
+    "title": "Forward contract",
+    "url": "https://en.wikipedia.org/wiki/Forward_contract",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "16925e57-1016-4dc0-9a87-0c444a0923e0",
+    "document_id": "Forward_contract",
+    "sequence": 1,
+    "section_title": "How a forward contract works",
+    "content": "to move favorably to generate a gain on closing the contract. In a currency forward, the notional amounts of currencies are specified (ex: a contract to buy $100 million Canadian dollars equivalent to, say US$75.2 million at the current rate\u2014these two amounts are called the notional amount(s)). While the notional amount or reference amount may be a large number, the cost or margin requirement to command or open such a contract is considerably less than that amount, which refers to the leverage created, which is typical in derivative contracts.",
+    "token_estimate": 89,
+    "title": "Forward contract",
+    "url": "https://en.wikipedia.org/wiki/Forward_contract",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "c420fb77-dda8-434d-9451-f4523b4df627",
+    "document_id": "Forward_contract",
+    "sequence": 2,
+    "section_title": "Spot\u2013forward parity",
+    "content": "For liquid assets (\"tradeables\"), spot\u2013forward parity provides the link between the spot market and the forward market. It describes the relationship between the spot and forward price of the underlying asset in a forward contract. While the overall effect can be described as the cost of carry, this effect can be broken down into different components, specifically whether the asset:\n\npays income, and if so whether this is on a discrete or continuous basis\nincurs storage costs\nis regarded as\nan investment asset, i.e. an asset held primarily for investment purposes (e.g. gold, financial securities);\nor a consumption asset, i.e. an asset held primarily for consumption (e.g. oil, iron ore etc.)",
+    "token_estimate": 111,
+    "title": "Forward contract",
+    "url": "https://en.wikipedia.org/wiki/Forward_contract",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "27974740-4413-43fe-ac5f-bbd80c89c950",
+    "document_id": "Forward_contract",
+    "sequence": 3,
+    "section_title": "Futures versus Forwards",
+    "content": "Forward contracts are very similar to futures contracts, except they are not exchange-traded, or defined on standardized assets. Forwards also typically have no interim partial settlements or \"true-ups\" in margin requirements like futures, that is the parties do not exchange additional property securing the party at gain and the entire unrealized gain or loss builds up while the contract is open. Therefore, forward contracts have a significant counterparty risk which is also the reason why they are not readily available to retail investors.  However, being traded over the counter (OTC), forward contracts specification can be customized and may include mark-to-market and daily margin calls.\nHaving no upfront cashflows is one of the advantages of a forward contract compared to its futures counterpart. Especially when the forward contract is denominated in a foreign currency, not having to post (or receive) daily settlements simplifies cashflow management.\nCompared to the futures markets it is very difficult to close out one's position, that is to rescind the forward contract. For instance while being long in a forward contract, entering short into another forward contract might cancel out delivery obligations but adds to credit risk exposure as there are now three parties involved. Closing out a contract almost always involves reaching out to the counterparty.\nCompared to their futures counterparts, forwards (especially Forward Rate Agreements) need convexity adjustments, that is a drift term that accounts for future rate changes.  In futures contracts, this risk remains constant whereas a forward contract's risk changes when rates change.",
+    "token_estimate": 250,
+    "title": "Forward contract",
+    "url": "https://en.wikipedia.org/wiki/Forward_contract",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "b876f26b-c8ef-4aa3-a366-1c8fa709c634",
+    "document_id": "Forward_contract",
+    "sequence": 4,
+    "section_title": "Outright versus Premium",
+    "content": "Outright prices, as opposed to premium points or forward points, are quoted in absolute price units. Outrights are used in markets where there is no (unitary) spot price or rate for reference, or where the spot price (rate) is not easily accessible.\nConversely, in markets with easily accessible spot prices or basis rates, in particular the Foreign exchange market and OIS market, forwards are usually quoted using premium points or forward points. That is using the spot price or basis rate as reference forwards are quoted as the difference in pips between the outright price and the spot price for FX, or the difference in basis points between the forward rate and the basis rate for interest rate swaps and forward rate agreements.\nNote: The term outright is used in the futures markets in a similar way but is contrasted with futures spreads instead of premium points, which is more than just a quoting convention, and in particular involves the simultaneous transaction in two outright futures.",
+    "token_estimate": 166,
+    "title": "Forward contract",
+    "url": "https://en.wikipedia.org/wiki/Forward_contract",
+    "domain": "finance"
+  }
+]

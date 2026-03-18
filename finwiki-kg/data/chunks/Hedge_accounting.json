@@ -1,0 +1,24 @@
+[
+  {
+    "chunk_id": "89aed88a-9e7d-4606-95cb-5e60b70c2b4f",
+    "document_id": "Hedge_accounting",
+    "sequence": 0,
+    "section_title": "Necessity",
+    "content": "All entities are exposed to some form of market risk. For example, gold mines are exposed to the price of gold, airlines to the price of jet fuel, borrowers to interest rates, and importers and exporters to exchange\nrate risks.\nMany financial institutions and corporate businesses (entities) use derivative financial instruments to hedge their exposure to different risks (for example interest rate risk, foreign exchange risk, commodity risk, etc.).\nAccounting for derivative financial instruments under International Accounting Standards is covered by IAS39 (Financial Instrument: Recognition and Measurement).\nIAS39 requires that all derivatives are marked-to-market with changes in the mark-to-market being taken to the profit and loss account.  For many entities this would result in a significant amount of profit and loss volatility arising from the use of derivatives.\nAn entity can mitigate the profit and loss effect arising from derivatives used for hedging, through an optional part of IAS39 relating to hedge accounting.",
+    "token_estimate": 153,
+    "title": "Hedge accounting",
+    "url": "https://en.wikipedia.org/wiki/Hedge_accounting",
+    "domain": "accounting"
+  },
+  {
+    "chunk_id": "8c2e75ca-5dda-43ee-9c77-ad60c0729a99",
+    "document_id": "Hedge_accounting",
+    "sequence": 1,
+    "section_title": "Foreign currency exposure",
+    "content": "A specific type of hedging transaction that entities can engage in aims to manage foreign currency exposure.  These hedges are undertaken for the economic aim of reducing potential loss from fluctuations in foreign exchange rates. However, not all hedges are designated for special accounting treatment. Accounting standards enable hedge accounting for three different designated forex hedges: \n\nA cash flow hedge may be designated for a highly probable forecasted transaction, a firm commitment (not recorded on the balance sheet), foreign currency cash flows of a recognized asset or liability, or a forecasted intercompany transaction.\nA fair value hedge may be designated for a firm commitment (not recorded) or foreign currency cash flows of a recognized asset or liability.\nA net investment hedge may be designated for the net investment in a foreign operation.",
+    "token_estimate": 132,
+    "title": "Hedge accounting",
+    "url": "https://en.wikipedia.org/wiki/Hedge_accounting",
+    "domain": "accounting"
+  }
+]

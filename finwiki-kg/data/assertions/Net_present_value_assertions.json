@@ -1,0 +1,4809 @@
+[
+  {
+    "assertion_id": "581a54b0-575a-4bb2-9ec0-64d57e6a8659",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Adjusted present value is the net present value of a project if financed solely by ownership equity plus the present value of all the benefits of financing.",
+    "subject": "Adjusted present value (APV)",
+    "predicate_type": "defines",
+    "object_text": "the net present value of a project if financed solely by ownership equity plus the present value of all the benefits of financing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Adjusted present value is the net present value of a project if financed solely by ownership equity plus the present value of all the benefits of financing.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Adjusted present value"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "97ca3660-c138-4331-ab6c-9fb8102b50b9",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Accounting rate of return is a ratio similar to IRR and MIRR",
+    "subject": "Accounting rate of return (ARR)",
+    "predicate_type": "relates_to",
+    "object_text": "a ratio similar to IRR and MIRR",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Accounting rate of return is a ratio similar to IRR and MIRR",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Accounting rate of return",
+      "IRR",
+      "MIRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41cf5791-3587-4191-9509-7cc69c794099",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Cost-benefit analysis includes issues other than cash, such as time savings.",
+    "subject": "Cost-benefit analysis",
+    "predicate_type": "defines",
+    "object_text": "which includes issues other than cash, such as time savings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Cost-benefit analysis includes issues other than cash, such as time savings.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Cost-benefit analysis"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "45668393-8e30-453d-a3d1-8784f86d2c84",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Internal rate of return calculates the rate of return of a project while disregarding the absolute amount of money to be gained.",
+    "subject": "Internal rate of return (IRR)",
+    "predicate_type": "defines",
+    "object_text": "which calculates the rate of return of a project while disregarding the absolute amount of money to be gained",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Internal rate of return calculates the rate of return of a project while disregarding the absolute amount of money to be gained.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Internal rate of return"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a3c27fc9-0033-4c25-91f3-75c541d01afc",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Modified internal rate of return is similar to IRR, but it makes explicit assumptions about the reinvestment of the cash flows.",
+    "subject": "Modified internal rate of return (MIRR)",
+    "predicate_type": "relates_to",
+    "object_text": "similar to IRR, but it makes explicit assumptions about the reinvestment of the cash flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modified internal rate of return is similar to IRR, but it makes explicit assumptions about the reinvestment of the cash flows.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Modified internal rate of return",
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cbae77f0-8743-473c-9d00-80a7b1f08e60",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Modified internal rate of return is sometimes called Growth Rate of Return.",
+    "subject": "Modified internal rate of return (MIRR)",
+    "predicate_type": "defines",
+    "object_text": "sometimes called Growth Rate of Return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modified internal rate of return is sometimes called Growth Rate of Return.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Modified internal rate of return",
+      "Growth Rate of Return"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ca0c3168-c884-4997-9aaf-4a7639f590f3",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Payback period measures the time required for the cash inflows to equal the original outlay.",
+    "subject": "Payback period",
+    "predicate_type": "defines",
+    "object_text": "which measures the time required for the cash inflows to equal the original outlay",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Payback period measures the time required for the cash inflows to equal the original outlay.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Payback period"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3c07a253-91e6-4966-b231-0458a1b4bd87",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Payback period measures risk, not return.",
+    "subject": "Payback period",
+    "predicate_type": "relates_to",
+    "object_text": "measures risk, not return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Payback period measures risk, not return.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Payback period"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bdad9bf8-5616-48f5-b965-d080a0427b70",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Real option attempts to value managerial flexibility that is assumed away in NPV.",
+    "subject": "Real option",
+    "predicate_type": "defines",
+    "object_text": "which attempts to value managerial flexibility that is assumed away in NPV",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Real option attempts to value managerial flexibility that is assumed away in NPV.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Real option",
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b8dded23-fd18-49cc-a5f8-b71204d6cde3",
+    "chunk_id": "45157660-7a05-4857-88de-e12700bfe87b",
+    "document_id": "Net_present_value",
+    "claim_text": "Equivalent annual cost is a capital budgeting technique that is useful in comparing two or more projects with different lifespans.",
+    "subject": "Equivalent annual cost (EAC)",
+    "predicate_type": "defines",
+    "object_text": "a capital budgeting technique that is useful in comparing two or more projects with different lifespans",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Equivalent annual cost is a capital budgeting technique that is useful in comparing two or more projects with different lifespans.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Equivalent annual cost"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d05163a2-4bdc-4a8e-9101-2706b4111eb9",
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "claim_text": "Net present value as a valuation methodology dates at least to the 19th century.",
+    "subject": "Net present value",
+    "predicate_type": "relates_to",
+    "object_text": "a valuation methodology dates at least to the 19th century",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Net present value as a valuation methodology dates at least to the 19th century.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Net present value"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1d1b844d-94d4-4241-9ae8-1ad40d7724bc",
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "claim_text": "Karl Marx refers to NPV as fictitious capital.",
+    "subject": "Karl Marx",
+    "predicate_type": "relates_to",
+    "object_text": "NPV as fictitious capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Karl Marx refers to NPV as fictitious capital.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "NPV",
+      "Karl Marx"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da79b0e7-936b-4a91-af3c-e5adecb611f6",
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "claim_text": "Karl Marx refers to the calculation as \"capitalising.\"",
+    "subject": "Karl Marx",
+    "predicate_type": "relates_to",
+    "object_text": "the calculation as \"capitalising\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Karl Marx refers to the calculation as \"capitalising.\"",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "Karl Marx"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65742f95-6040-49e6-83f2-24946fd88a98",
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "claim_text": "The forming of a fictitious capital is called capitalising.",
+    "subject": "forming of a fictitious capital",
+    "predicate_type": "defines",
+    "object_text": "capitalising",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The forming of a fictitious capital is called capitalising.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "815d3d59-38ed-4fdc-9da8-b79d6743c309",
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "claim_text": "Every periodically repeated income is capitalised by calculating it on the average rate of interest, as an income which would be realised by a capital at this rate of interest.",
+    "subject": "Every periodically repeated income",
+    "predicate_type": "relates_to",
+    "object_text": "capitalised by calculating it on the average rate of interest, as an income which would be realised by a capital at this rate of interest",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Every periodically repeated income is capitalised by calculating it on the average rate of interest, as an income which would be realised by a capital at this rate of interest.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "339f9df4-60ab-4686-839f-19fcc7a95abf",
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "claim_text": "In mainstream neo-classical economics, NPV was formalized and popularized by Irving Fisher.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "formalized and popularized by Irving Fisher",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In mainstream neo-classical economics, NPV was formalized and popularized by Irving Fisher.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "NPV",
+      "Irving Fisher"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "207df6f1-cf13-4e79-80dd-83f2683b5e54",
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV was formalized and popularized by Irving Fisher in his 1907 The Rate of Interest.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "formalized and popularized by Irving Fisher in his 1907 The Rate of Interest",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV was formalized and popularized by Irving Fisher in his 1907 The Rate of Interest.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "NPV",
+      "Irving Fisher",
+      "The Rate of Interest"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9ad18e0c-2dd3-4ea3-941e-72f0dce36bd7",
+    "chunk_id": "4f9aa921-0636-4e39-a861-8ad879592685",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV became included in textbooks from the 1950s onwards, starting in finance texts.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "included in textbooks from the 1950s onwards, starting in finance texts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV became included in textbooks from the 1950s onwards, starting in finance texts.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7758fd00-fc42-429f-b80f-3eabd85b02fd",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV is an indicator of how much value an investment or project adds to the firm.",
+    "subject": "NPV",
+    "predicate_type": "defines",
+    "object_text": "an indicator of how much value an investment or project adds to the firm",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV is an indicator of how much value an investment or project adds to the firm.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "project valuation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8dbb45bf-5ee3-4df7-8b2e-b85d5192bd9d",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "If R_t is a positive value, the project is in the status of positive cash inflow in the time of t.",
+    "subject": "project",
+    "predicate_type": "relates_to",
+    "object_text": "positive cash inflow in the time of t",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If R_t is a positive value, the project is in the status of positive cash inflow in the time of t.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cash flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d9298a35-1b61-4666-a7ed-a6b7e6e96351",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "If R_t is a negative value, the project is in the status of discounted cash outflow in the time of t.",
+    "subject": "project",
+    "predicate_type": "relates_to",
+    "object_text": "discounted cash outflow in the time of t",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If R_t is a negative value, the project is in the status of discounted cash outflow in the time of t.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cash flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f1be59e3-b2c2-4232-8773-85d1d30d9285",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "Appropriately risked projects with a positive NPV could be accepted.",
+    "subject": "Appropriately risked projects",
+    "predicate_type": "permits",
+    "object_text": "be accepted",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Appropriately risked projects with a positive NPV could be accepted.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment decisions"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9358c94d-3378-4077-8deb-b1fb389895ed",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV at the cost of capital may not account for opportunity cost.",
+    "subject": "NPV at the cost of capital",
+    "predicate_type": "relates_to",
+    "object_text": "may not account for opportunity cost",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV at the cost of capital may not account for opportunity cost.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "opportunity cost"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d903bdd2-f8c0-4cd1-98d9-03d13ba98c72",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "If there is a choice between two mutually exclusive alternatives, the one yielding the higher NPV should be selected.",
+    "subject": "alternative",
+    "predicate_type": "requires",
+    "object_text": "the one yielding the higher NPV should be selected",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If there is a choice between two mutually exclusive alternatives, the one yielding the higher NPV should be selected.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment decisions"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "be6dd1dd-8345-4ce6-b740-313709b94f74",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "A positive net present value indicates that the projected earnings generated by a project or investment (in present dollars) exceeds the anticipated costs (also in present dollars).",
+    "subject": "positive net present value",
+    "predicate_type": "relates_to",
+    "object_text": "the projected earnings generated by a project or investment (in present dollars) exceeds the anticipated costs (also in present dollars)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A positive net present value indicates that the projected earnings generated by a project or investment (in present dollars) exceeds the anticipated costs (also in present dollars).",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings",
+      "costs"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "43dfb3ea-9df9-4976-adf5-e5fc536b8d6b",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "The Net Present Value Rule dictates that the only investments that should be made are those with positive NPVs.",
+    "subject": "Net Present Value Rule",
+    "predicate_type": "requires",
+    "object_text": "the only investments that should be made are those with positive NPVs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Net Present Value Rule dictates that the only investments that should be made are those with positive NPVs.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment decisions"
+    ],
+    "entities": [
+      "Net Present Value Rule",
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "399ea186-8f6c-40c8-965a-9a5cec4464ab",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "An investment with a positive NPV is profitable.",
+    "subject": "investment",
+    "predicate_type": "relates_to",
+    "object_text": "profitable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An investment with a positive NPV is profitable.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "profitability"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce811a47-39c1-4bff-8fe5-00afe61f51df",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "An investment with a negative NPV will not necessarily result in a net loss.",
+    "subject": "investment",
+    "predicate_type": "relates_to",
+    "object_text": "will not necessarily result in a net loss",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An investment with a negative NPV will not necessarily result in a net loss.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "loss"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9a573a4-71b3-493c-b60d-7ee2aeafaa11",
+    "chunk_id": "2a280a01-2bfc-4f2c-9620-9451b2534036",
+    "document_id": "Net_present_value",
+    "claim_text": "The internal rate of return of the project falls below the required rate of return.",
+    "subject": "internal rate of return of the project",
+    "predicate_type": "relates_to",
+    "object_text": "falls below the required rate of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The internal rate of return of the project falls below the required rate of return.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "internal rate of return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "ac669c62-6d71-4aba-9704-12520e50ce15",
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "claim_text": "Non-specialist users frequently make the error of computing NPV based on cash flows after interest.",
+    "subject": "Non-specialist users",
+    "predicate_type": "causes",
+    "object_text": "error of computing NPV based on cash flows after interest",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Non-specialist users frequently make the error of computing NPV based on cash flows after interest.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "NPV calculation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6a0d1f9a-84f0-4104-8102-7681eebfc235",
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "claim_text": "Computing NPV based on cash flows after interest is wrong because it double counts the time value of money.",
+    "subject": "Computing NPV based on cash flows after interest",
+    "predicate_type": "prohibits",
+    "object_text": "double counts the time value of money",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Computing NPV based on cash flows after interest is wrong because it double counts the time value of money.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "NPV calculation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2fc60b45-a998-4a66-bf19-ea3e09c1a16e",
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "claim_text": "Free cash flow should be used as the basis for NPV computations.",
+    "subject": "Free cash flow",
+    "predicate_type": "requires",
+    "object_text": "basis for NPV computations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Free cash flow should be used as the basis for NPV computations.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "NPV calculation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "588f21ca-fea8-4324-aa4b-f959b401d177",
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "claim_text": "The \"=NPV(...)\" formula makes two assumptions that result in an incorrect solution.",
+    "subject": "\"=NPV(...)\" formula",
+    "predicate_type": "causes",
+    "object_text": "two assumptions that result in an incorrect solution",
+    "object_value": 2.0,
+    "object_unit": null,
+    "source_text": "The \"=NPV(...)\" formula makes two assumptions that result in an incorrect solution.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "NPV calculation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "860dd710-d6fe-4164-9929-bdda0fe3a588",
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "claim_text": "The amount of time between each item in the input array is constant and equidistant.",
+    "subject": "amount of time between each item in the input array",
+    "predicate_type": "constrains",
+    "object_text": "constant and equidistant",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The amount of time between each item in the input array is constant and equidistant.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "NPV calculation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "722a052a-7552-4215-8a53-ca7f5cbdef45",
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "claim_text": "The function will assume the item in the first position of the array is period 1 not period zero.",
+    "subject": "function",
+    "predicate_type": "constrains",
+    "object_text": "the item in the first position of the array is period 1 not period zero",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The function will assume the item in the first position of the array is period 1 not period zero.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "NPV calculation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "820f8934-7d53-456b-bea2-b39dbfb3ba47",
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "claim_text": "This then results in incorrectly discounting all array items by one extra period.",
+    "subject": "function",
+    "predicate_type": "causes",
+    "object_text": "incorrectly discounting all array items by one extra period",
+    "object_value": 1.0,
+    "object_unit": "period",
+    "source_text": "This then results in incorrectly discounting all array items by one extra period.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "NPV calculation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67356589-b374-490e-95c4-6e59f467375f",
+    "chunk_id": "fc858339-c7d3-44e8-93a7-2eb68b995b96",
+    "document_id": "Net_present_value",
+    "claim_text": "The easiest fix to both of these errors is to use the \"=XNPV(...)\" formula.",
+    "subject": "\"=XNPV(...)\" formula",
+    "predicate_type": "implements",
+    "object_text": "easiest fix to both of these errors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The easiest fix to both of these errors is to use the \"=XNPV(...)\" formula.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "NPV calculation"
+    ],
+    "entities": [
+      "XNPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "479846e4-6bda-4d93-8e15-63c017be92a4",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "The rate used to discount future cash flows to the present value is a key variable of this process.",
+    "subject": "rate used to discount future cash flows to the present value",
+    "predicate_type": "defines",
+    "object_text": "key variable of this process",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The rate used to discount future cash flows to the present value is a key variable of this process.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a576a1a0-964c-4a1c-a4d6-0cafaa0f8967",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "A firm's weighted average cost of capital (after tax) is often used as discount rate.",
+    "subject": "firm's weighted average cost of capital (after tax)",
+    "predicate_type": "implements",
+    "object_text": "discount rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A firm's weighted average cost of capital (after tax) is often used as discount rate.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ccc256b1-e518-4325-a12a-9df9af8795a9",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "Many people believe that it is appropriate to use higher discount rates to adjust for risk, opportunity cost, or other factors.",
+    "subject": "higher discount rates",
+    "predicate_type": "implements",
+    "object_text": "adjust for risk, opportunity cost, or other factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many people believe that it is appropriate to use higher discount rates to adjust for risk, opportunity cost, or other factors.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "457ed383-8637-4269-9b92-71f55783de3b",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "A variable discount rate with higher rates applied to cash flows occurring further along the time span might be used to reflect the yield curve premium for long-term debt.",
+    "subject": "variable discount rate with higher rates applied to cash flows occurring further along the time span",
+    "predicate_type": "implements",
+    "object_text": "reflect the yield curve premium for long-term debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A variable discount rate with higher rates applied to cash flows occurring further along the time span might be used to reflect the yield curve premium for long-term debt.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9688d638-0bcd-494f-95df-980a3dbe31c7",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "Another approach to choosing the discount rate factor is to decide the rate which the capital needed for the project could return if invested in an alternative venture.",
+    "subject": "approach to choosing the discount rate factor",
+    "predicate_type": "defines",
+    "object_text": "decide the rate which the capital needed for the project could return if invested in an alternative venture",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another approach to choosing the discount rate factor is to decide the rate which the capital needed for the project could return if invested in an alternative venture.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b84ee7bb-e4eb-4669-95df-c125efc4e65b",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "If, for example, the capital required for Project A can earn 5% elsewhere, use this discount rate in the NPV calculation to allow a direct comparison to be made between Project A and the alternative.",
+    "subject": "discount rate",
+    "predicate_type": "implements",
+    "object_text": "allow a direct comparison to be made between Project A and the alternative",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If, for example, the capital required for Project A can earn 5% elsewhere, use this discount rate in the NPV calculation to allow a direct comparison to be made between Project A and the alternative.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [
+      "Project A"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1fd2b1a3-2a3f-4890-996f-84655dc69460",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "Re-investment rate can be defined as the rate of return for the firm's investments on average.",
+    "subject": "Re-investment rate",
+    "predicate_type": "defines",
+    "object_text": "the rate of return for the firm's investments on average",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Re-investment rate can be defined as the rate of return for the firm's investments on average.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reinvestment_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b612aa2-b4de-45c6-b175-d7ee2c5011bc",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "When analyzing projects in a capital constrained environment, it may be appropriate to use the reinvestment rate rather than the firm's weighted average cost of capital as the discount factor.",
+    "subject": "reinvestment rate",
+    "predicate_type": "implements",
+    "object_text": "discount factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When analyzing projects in a capital constrained environment, it may be appropriate to use the reinvestment rate rather than the firm's weighted average cost of capital as the discount factor.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "586b1b7a-6316-48c8-b9bd-255d7148dfac",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "It reflects opportunity cost of investment, rather than the possibly lower cost of capital.",
+    "subject": "reinvestment rate",
+    "predicate_type": "relates_to",
+    "object_text": "reflects opportunity cost of investment, rather than the possibly lower cost of capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It reflects opportunity cost of investment, rather than the possibly lower cost of capital.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reinvestment_rate",
+      "opportunity_cost"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a8f9e233-e75b-42c5-bcc3-906772f23fdb",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "An NPV calculated using variable discount rates may better reflect the situation than one calculated from a constant discount rate for the entire investment duration.",
+    "subject": "NPV calculated using variable discount rates",
+    "predicate_type": "relates_to",
+    "object_text": "better reflect the situation than one calculated from a constant discount rate for the entire investment duration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An NPV calculated using variable discount rates may better reflect the situation than one calculated from a constant discount rate for the entire investment duration.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d9c7a5d1-a0de-4366-bb83-6f6e39f37692",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "For some professional investors, their investment funds are committed to target a specified rate of return.",
+    "subject": "investment funds",
+    "predicate_type": "constrains",
+    "object_text": "target a specified rate of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For some professional investors, their investment funds are committed to target a specified rate of return.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_funds",
+      "rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e721be86-5a0d-44b7-9c22-9ed3e847a440",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "In such cases, that rate of return should be selected as the discount rate for the NPV calculation.",
+    "subject": "rate of return",
+    "predicate_type": "implements",
+    "object_text": "discount rate for the NPV calculation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In such cases, that rate of return should be selected as the discount rate for the NPV calculation.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "873a877a-f679-43d1-a4f1-08b1dcb87a2e",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "In this way, a direct comparison can be made between the profitability of the project and the desired rate of return.",
+    "subject": "discount rate",
+    "predicate_type": "relates_to",
+    "object_text": "a direct comparison can be made between the profitability of the project and the desired rate of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In this way, a direct comparison can be made between the profitability of the project and the desired rate of return.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2f1f1303-cde6-4055-853c-42f41bfa5cd2",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "If the intent is simply to determine whether a project will add value to the company, using the firm's weighted average cost of capital may be appropriate.",
+    "subject": "firm's weighted average cost of capital",
+    "predicate_type": "implements",
+    "object_text": "determine whether a project will add value to the company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the intent is simply to determine whether a project will add value to the company, using the firm's weighted average cost of capital may be appropriate.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f7867725-1dd5-4cec-a456-99336c891ae4",
+    "chunk_id": "02607e02-3058-4552-b887-6dae120db635",
+    "document_id": "Net_present_value",
+    "claim_text": "If trying to decide between alternative investments in order to maximize the value of the firm, the corporate reinvestment rate would probably be a better choice.",
+    "subject": "corporate reinvestment rate",
+    "predicate_type": "implements",
+    "object_text": "decide between alternative investments in order to maximize the value of the firm",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If trying to decide between alternative investments in order to maximize the value of the firm, the corporate reinvestment rate would probably be a better choice.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discount_rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb44d5c5-636e-4cea-a95e-b8018e4d8a2b",
+    "chunk_id": "8b4ef558-6dd9-48dd-9848-7f98db9bf0c5",
+    "document_id": "Net_present_value",
+    "claim_text": "An investment typically has a positive NPV when the present value of its expected future benefits exceeds its initial cost, indicating that it is likely to be financially worthwhile.",
+    "subject": "investment",
+    "predicate_type": "relates_to",
+    "object_text": "positive NPV when the present value of its expected future benefits exceeds its initial cost, indicating that it is likely to be financially worthwhile",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An investment typically has a positive NPV when the present value of its expected future benefits exceeds its initial cost, indicating that it is likely to be financially worthwhile.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "investment_analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "00b115e1-ff80-4ecc-a150-7985f54cac07",
+    "chunk_id": "8b4ef558-6dd9-48dd-9848-7f98db9bf0c5",
+    "document_id": "Net_present_value",
+    "claim_text": "A negative NPV suggests the opposite.",
+    "subject": "negative NPV",
+    "predicate_type": "relates_to",
+    "object_text": "suggests the opposite",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A negative NPV suggests the opposite.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "investment_analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2530e83-8fae-4c25-a013-a2ca2c210ddf",
+    "chunk_id": "8b4ef558-6dd9-48dd-9848-7f98db9bf0c5",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV is a central tool for comparing alternative projects and making informed financial decisions.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "a central tool for comparing alternative projects and making informed financial decisions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV is a central tool for comparing alternative projects and making informed financial decisions.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "investment_analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0783056a-175d-4c56-b6aa-1cd952a2f722",
+    "chunk_id": "8b4ef558-6dd9-48dd-9848-7f98db9bf0c5",
+    "document_id": "Net_present_value",
+    "claim_text": "Net Present Value measures the value of an asset that has cashflow by adding up the present value of all the future cash flows that asset will generate.",
+    "subject": "Net Present Value",
+    "predicate_type": "defines",
+    "object_text": "the value of an asset that has cashflow by adding up the present value of all the future cash flows that asset will generate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Net Present Value measures the value of an asset that has cashflow by adding up the present value of all the future cash flows that asset will generate.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3659221d-b2c4-4e8b-9f52-0ceca739fd1b",
+    "chunk_id": "8b4ef558-6dd9-48dd-9848-7f98db9bf0c5",
+    "document_id": "Net_present_value",
+    "claim_text": "The present value of a cash flow depends on the interval of time between now and the cash flow because of the time value of money.",
+    "subject": "present value of a cash flow",
+    "predicate_type": "relates_to",
+    "object_text": "depends on the interval of time between now and the cash flow because of the time value of money",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The present value of a cash flow depends on the interval of time between now and the cash flow because of the time value of money.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "present_value",
+      "cash_flow",
+      "time_value_of_money"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f72a2753-51df-4719-bd80-31b8ab3c36a9",
+    "chunk_id": "8b4ef558-6dd9-48dd-9848-7f98db9bf0c5",
+    "document_id": "Net_present_value",
+    "claim_text": "Time value of money dictates that time affects the value of cash flows.",
+    "subject": "Time value of money",
+    "predicate_type": "causes",
+    "object_text": "time affects the value of cash flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Time value of money dictates that time affects the value of cash flows.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "time_value_of_money",
+      "cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4d00622f-c2b4-4a6c-aea8-7d6ecbe9bdfe",
+    "chunk_id": "8b4ef558-6dd9-48dd-9848-7f98db9bf0c5",
+    "document_id": "Net_present_value",
+    "claim_text": "A cash flow today is more valuable than an identical cash flow in the future because a present flow can be invested immediately and begin earning returns, while a future flow cannot.",
+    "subject": "cash flow today",
+    "predicate_type": "relates_to",
+    "object_text": "more valuable than an identical cash flow in the future because a present flow can be invested immediately and begin earning returns, while a future flow cannot",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A cash flow today is more valuable than an identical cash flow in the future because a present flow can be invested immediately and begin earning returns, while a future flow cannot.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cash_flow",
+      "time_value_of_money"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "43e8d1d2-c17a-4dc9-b1ef-d3ac270d4e59",
+    "chunk_id": "4004c287-9a02-420a-9256-532833ea5f9d",
+    "document_id": "Net_present_value",
+    "claim_text": "The NPV includes all relevant time and cash flows for the project by considering the time value of money, which is consistent with the goal of wealth maximization by creating the highest wealth for shareholders.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "all relevant time and cash flows for the project by considering the time value of money, which is consistent with the goal of wealth maximization by creating the highest wealth for shareholders",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV includes all relevant time and cash flows for the project by considering the time value of money, which is consistent with the goal of wealth maximization by creating the highest wealth for shareholders.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "valuation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "35741ead-b650-48d2-a06f-90e5573a69a5",
+    "chunk_id": "4004c287-9a02-420a-9256-532833ea5f9d",
+    "document_id": "Net_present_value",
+    "claim_text": "The NPV formula accounts for cash flow timing patterns and size differences for each project, and provides an easy, unambiguous dollar value comparison of different investment options.",
+    "subject": "NPV formula",
+    "predicate_type": "relates_to",
+    "object_text": "cash flow timing patterns and size differences for each project, and provides an easy, unambiguous dollar value comparison of different investment options",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV formula accounts for cash flow timing patterns and size differences for each project, and provides an easy, unambiguous dollar value comparison of different investment options.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "valuation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f727de86-9ba1-42fd-903b-dce717889530",
+    "chunk_id": "4004c287-9a02-420a-9256-532833ea5f9d",
+    "document_id": "Net_present_value",
+    "claim_text": "The NPV can be easily calculated using modern spreadsheets, under the assumption that the discount rate and future cash flows are known.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "easily calculated using modern spreadsheets, under the assumption that the discount rate and future cash flows are known",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV can be easily calculated using modern spreadsheets, under the assumption that the discount rate and future cash flows are known.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "valuation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b9786ba-77df-48b3-bf62-910b22d8a60f",
+    "chunk_id": "4004c287-9a02-420a-9256-532833ea5f9d",
+    "document_id": "Net_present_value",
+    "claim_text": "For a firm considering investing in multiple projects, the NPV has the benefit of being additive.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "the benefit of being additive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For a firm considering investing in multiple projects, the NPV has the benefit of being additive.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "valuation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "83f26003-ed9c-4c05-8bca-537d68f98010",
+    "chunk_id": "4004c287-9a02-420a-9256-532833ea5f9d",
+    "document_id": "Net_present_value",
+    "claim_text": "The NPVs of different projects may be aggregated to calculate the highest wealth creation, based on the available capital that can be invested by a firm.",
+    "subject": "NPVs of different projects",
+    "predicate_type": "relates_to",
+    "object_text": "may be aggregated to calculate the highest wealth creation, based on the available capital that can be invested by a firm",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPVs of different projects may be aggregated to calculate the highest wealth creation, based on the available capital that can be invested by a firm.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "valuation"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "859495c3-a23e-429c-86d1-e80a3f34a522",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "If the Rt are generally negative late in the project (e.g., an industrial or mining project might have clean-up and restoration costs), then at that stage the company owes money, so a high discount rate is not cautious but too optimistic.",
+    "subject": "high discount rate",
+    "predicate_type": "constrains",
+    "object_text": "cautiousness",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the Rt are generally negative late in the project (e.g., an industrial or mining project might have clean-up and restoration costs), then at that stage the company owes money, so a high discount rate is not cautious but too optimistic.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value",
+      "discount rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9fe0233a-a42a-4844-a85f-0d777fce63f3",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "A way to avoid this problem is to include explicit provision for financing any losses after the initial investment, that is, explicitly calculate the cost of financing such losses.",
+    "subject": "explicit provision for financing any losses after the initial investment",
+    "predicate_type": "permits",
+    "object_text": "avoidance of the problem with NPV",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A way to avoid this problem is to include explicit provision for financing any losses after the initial investment, that is, explicitly calculate the cost of financing such losses.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value",
+      "risk management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a57d0d3c-1c8c-4ad6-b2b0-de108866fd96",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "Another common pitfall is to adjust for risk by adding a premium to the discount rate.",
+    "subject": "adjusting for risk",
+    "predicate_type": "relates_to",
+    "object_text": "adding a premium to the discount rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another common pitfall is to adjust for risk by adding a premium to the discount rate.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "discount rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7d578f8c-d841-4f60-898b-ac9541fda66f",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "Whilst a bank might charge a higher rate of interest for a risky project, that does not mean that this is a valid approach to adjusting a net present value for risk, although it can be a reasonable approximation in some specific cases.",
+    "subject": "charging a higher rate of interest for a risky project",
+    "predicate_type": "prohibits",
+    "object_text": "valid approach to adjusting a net present value for risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Whilst a bank might charge a higher rate of interest for a risky project, that does not mean that this is a valid approach to adjusting a net present value for risk, although it can be a reasonable approximation in some specific cases.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "net present value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9836e4ef-b3cf-46b6-be64-9f95a4f921b4",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "If some risk is incurred resulting in some losses, then a discount rate in the NPV will reduce the effect of such losses below their true financial cost.",
+    "subject": "discount rate in the NPV",
+    "predicate_type": "causes",
+    "object_text": "reduction of the effect of losses below their true financial cost",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If some risk is incurred resulting in some losses, then a discount rate in the NPV will reduce the effect of such losses below their true financial cost.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "net present value",
+      "discount rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f55509d9-ecf9-4f97-8bc6-f4dc418a7ed7",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "A rigorous approach to risk requires identifying and valuing risks explicitly, e.g., by actuarial or Monte Carlo techniques, and explicitly calculating the cost of financing any losses incurred.",
+    "subject": "rigorous approach to risk",
+    "predicate_type": "requires",
+    "object_text": "identifying and valuing risks explicitly, e.g., by actuarial or Monte Carlo techniques, and explicitly calculating the cost of financing any losses incurred",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A rigorous approach to risk requires identifying and valuing risks explicitly, e.g., by actuarial or Monte Carlo techniques, and explicitly calculating the cost of financing any losses incurred.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9f0db11c-2c8b-4f34-97af-b948f5a39283",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "R is a composite of the risk free rate and the risk premium.",
+    "subject": "R",
+    "predicate_type": "defines",
+    "object_text": "composite of the risk free rate and the risk premium",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "R is a composite of the risk free rate and the risk premium.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "risk premium"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "debc248a-1d7b-41cd-914c-50aa489df5db",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "Future cash flows are discounted by both the risk-free rate as well as the risk premium and this effect is compounded by each subsequent cash flow.",
+    "subject": "future cash flows",
+    "predicate_type": "relates_to",
+    "object_text": "discounted by both the risk-free rate as well as the risk premium and this effect is compounded by each subsequent cash flow",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Future cash flows are discounted by both the risk-free rate as well as the risk premium and this effect is compounded by each subsequent cash flow.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cash flow",
+      "risk management",
+      "risk premium"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7dfc723c-af6d-4df0-8904-e4c287594ade",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "This compounding results in a much lower NPV than might be otherwise calculated.",
+    "subject": "compounding",
+    "predicate_type": "causes",
+    "object_text": "much lower NPV than might be otherwise calculated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This compounding results in a much lower NPV than might be otherwise calculated.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "db207671-e302-47f9-9a47-19a84fc8fabb",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "The certainty equivalent model can be used to account for the risk premium without compounding its effect on present value.",
+    "subject": "certainty equivalent model",
+    "predicate_type": "permits",
+    "object_text": "account for the risk premium without compounding its effect on present value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The certainty equivalent model can be used to account for the risk premium without compounding its effect on present value.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "risk premium"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8cfaaf94-3615-4234-8edb-086a4212b966",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV does not provide an overall picture of the gain or loss of executing a certain project.",
+    "subject": "NPV",
+    "predicate_type": "prohibits",
+    "object_text": "overall picture of the gain or loss of executing a certain project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV does not provide an overall picture of the gain or loss of executing a certain project.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "12047d4e-6fd7-4d32-9507-241101a09e50",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "Internal rate of return or other efficiency measures are used as a complement to NPV to see a percentage gain relative to the investments for the project.",
+    "subject": "Internal rate of return or other efficiency measures",
+    "predicate_type": "relates_to",
+    "object_text": "complement to NPV to see a percentage gain relative to the investments for the project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Internal rate of return or other efficiency measures are used as a complement to NPV to see a percentage gain relative to the investments for the project.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value",
+      "internal rate of return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fed2738f-feea-48bf-bdff-0e056ee14f9d",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "Non-specialist users frequently make the error of computing NPV based on cash flows after interest.",
+    "subject": "Non-specialist users",
+    "predicate_type": "relates_to",
+    "object_text": "frequently make the error of computing NPV based on cash flows after interest",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Non-specialist users frequently make the error of computing NPV based on cash flows after interest.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value",
+      "cash flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b53339c-6faf-45dd-8d7f-55d4b085de9d",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "This is wrong because it double counts the time value of money.",
+    "subject": "computing NPV based on cash flows after interest",
+    "predicate_type": "causes",
+    "object_text": "double counts the time value of money",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This is wrong because it double counts the time value of money.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value",
+      "cash flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4204f0a7-a435-4186-b343-65ef9ff9a50b",
+    "chunk_id": "aca3080e-305c-45ac-b52e-e04a454d4444",
+    "document_id": "Net_present_value",
+    "claim_text": "Free cash flow should be used as the basis for NPV computations.",
+    "subject": "Free cash flow",
+    "predicate_type": "requires",
+    "object_text": "basis for NPV computations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Free cash flow should be used as the basis for NPV computations.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value",
+      "cash flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0dc26cd2-6ebc-4fac-8832-8e34edf85692",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV is determined by calculating the costs (negative cash flows) and benefits (positive cash flows) for each period of an investment.",
+    "subject": "NPV",
+    "predicate_type": "defines",
+    "object_text": "calculation of costs (negative cash flows) and benefits (positive cash flows) for each period of an investment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV is determined by calculating the costs (negative cash flows) and benefits (positive cash flows) for each period of an investment.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5cea5187-3145-4dd4-8aad-e63ac00b301e",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "After the cash flow for each period is calculated, the present value (PV) of each one is achieved by discounting its future value at a periodic rate of return (the rate of return dictated by the market).",
+    "subject": "present value (PV)",
+    "predicate_type": "relates_to",
+    "object_text": "discounting its future value at a periodic rate of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "After the cash flow for each period is calculated, the present value (PV) of each one is achieved by discounting its future value at a periodic rate of return (the rate of return dictated by the market).",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "present_value",
+      "discounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1e6c9125-aadc-4b4b-9ce5-3bd496ea54da",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV is the sum of all the discounted future cash flows.",
+    "subject": "NPV",
+    "predicate_type": "defines",
+    "object_text": "the sum of all the discounted future cash flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV is the sum of all the discounted future cash flows.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "646fe806-c4dc-4a41-9947-57809e1e9a48",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV is a useful tool to determine whether a project or investment will result in a net profit or a loss.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "a useful tool to determine whether a project or investment will result in a net profit or a loss",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV is a useful tool to determine whether a project or investment will result in a net profit or a loss.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "profitability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aeae0454-52e4-4d89-a0bd-0a7379a5e871",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "A positive NPV results in profit, while a negative NPV results in a loss.",
+    "subject": "NPV",
+    "predicate_type": "causes",
+    "object_text": "profit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A positive NPV results in profit, while a negative NPV results in a loss.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "profitability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "485f1aeb-8497-4d73-83d5-317e32635db7",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "A negative NPV results in a loss.",
+    "subject": "NPV",
+    "predicate_type": "causes",
+    "object_text": "loss",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A negative NPV results in a loss.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "profitability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4d872ab4-c222-40b3-921e-eebd9d3c362c",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "The NPV measures the excess or shortfall of cash flows, in present value terms, above the cost of funds.",
+    "subject": "NPV",
+    "predicate_type": "defines",
+    "object_text": "the excess or shortfall of cash flows, in present value terms, above the cost of funds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV measures the excess or shortfall of cash flows, in present value terms, above the cost of funds.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11d58491-0c17-44c6-86c5-e1a1f2c82ac3",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "In a theoretical situation of unlimited capital budgeting, a company should pursue every investment with a positive NPV.",
+    "subject": "company",
+    "predicate_type": "permits",
+    "object_text": "pursue every investment with a positive NPV",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In a theoretical situation of unlimited capital budgeting, a company should pursue every investment with a positive NPV.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_budgeting",
+      "net_present_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b434ca3-5907-4f3a-afb1-c0613272a28a",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "In practical terms a company's capital constraints limit investments to projects with the highest NPV whose cost cash flows, or initial cash investment, do not exceed the company's capital.",
+    "subject": "company's capital constraints",
+    "predicate_type": "constrains",
+    "object_text": "investments to projects with the highest NPV whose cost cash flows, or initial cash investment, do not exceed the company's capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In practical terms a company's capital constraints limit investments to projects with the highest NPV whose cost cash flows, or initial cash investment, do not exceed the company's capital.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_budgeting",
+      "net_present_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7cef4791-f54e-4ee7-8950-122effec0acd",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV is a central tool in discounted cash flow (DCF) analysis and is a standard method for using the time value of money to appraise long-term projects.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "a central tool in discounted cash flow (DCF) analysis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV is a central tool in discounted cash flow (DCF) analysis and is a standard method for using the time value of money to appraise long-term projects.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "discounted_cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "54c8b53c-06dd-4b62-adb9-c467db7a5a9d",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV is a standard method for using the time value of money to appraise long-term projects.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "a standard method for using the time value of money to appraise long-term projects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV is a standard method for using the time value of money to appraise long-term projects.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "time_value_of_money"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4f380a8-9c86-4a44-9dae-9fce48b8f9a6",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "It is widely used throughout economics, financial analysis, and financial accounting.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "widely used throughout economics, financial analysis, and financial accounting",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is widely used throughout economics, financial analysis, and financial accounting.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "96eccaf4-2ada-48ea-871d-e6cb3b76ea8c",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "In the case when all future cash flows are positive, or incoming (such as the principal and coupon payment of a bond) the only outflow of cash is the purchase price, the NPV is simply the PV of future cash flows minus the purchase price (which is its own PV).",
+    "subject": "NPV",
+    "predicate_type": "defines",
+    "object_text": "the PV of future cash flows minus the purchase price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the case when all future cash flows are positive, or incoming (such as the principal and coupon payment of a bond) the only outflow of cash is the purchase price, the NPV is simply the PV of future cash flows minus the purchase price (which is its own PV).",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d894297f-ff15-4414-9c9e-544cf0e32794",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "NPV can be described as the \"difference amount\" between the sums of discounted cash inflows and cash outflows.",
+    "subject": "NPV",
+    "predicate_type": "defines",
+    "object_text": "the \"difference amount\" between the sums of discounted cash inflows and cash outflows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPV can be described as the \"difference amount\" between the sums of discounted cash inflows and cash outflows.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9bea14eb-b2f1-43f1-a9de-9f57d4772580",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "It compares the present value of money today to the present value of money in the future, taking inflation and returns into account.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "compares the present value of money today to the present value of money in the future, taking inflation and returns into account",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It compares the present value of money today to the present value of money in the future, taking inflation and returns into account.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "present_value",
+      "inflation",
+      "returns"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "44173028-4ab4-474d-9401-3b7c2a2735db",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "The NPV of a sequence of cash flows takes as input the cash flows and a discount rate or discount curve and outputs a present value, which is the current fair price.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "takes as input the cash flows and a discount rate or discount curve and outputs a present value, which is the current fair price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV of a sequence of cash flows takes as input the cash flows and a discount rate or discount curve and outputs a present value, which is the current fair price.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net_present_value",
+      "cash_flow",
+      "discount_rate",
+      "present_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a41f889f-f0d9-43b6-96a5-a3dd8443f7bd",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "The converse process in discounted cash flow (DCF) analysis takes a sequence of cash flows and a price as input and as output the discount rate, or internal rate of return (IRR) which would yield the given price as NPV.",
+    "subject": "discounted cash flow (DCF) analysis",
+    "predicate_type": "relates_to",
+    "object_text": "takes a sequence of cash flows and a price as input and as output the discount rate, or internal rate of return (IRR) which would yield the given price as NPV",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The converse process in discounted cash flow (DCF) analysis takes a sequence of cash flows and a price as input and as output the discount rate, or internal rate of return (IRR) which would yield the given price as NPV.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "discounted_cash_flow",
+      "cash_flow",
+      "discount_rate",
+      "internal_rate_of_return",
+      "net_present_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b660d9ee-8fe6-477d-9624-e5bfd564c833",
+    "chunk_id": "df61908b-ba13-4309-afca-1436f5b1450a",
+    "document_id": "Net_present_value",
+    "claim_text": "This rate, called the yield, is widely used in bond trading.",
+    "subject": "yield",
+    "predicate_type": "relates_to",
+    "object_text": "widely used in bond trading",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This rate, called the yield, is widely used in bond trading.",
+    "source_document": "Net present value",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "yield",
+      "bond_trading"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

@@ -1,0 +1,3272 @@
+[
+  {
+    "assertion_id": "d927fab8-bcef-45a6-a6db-799f9ec7dd30",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "In 2000 FATF issued a list of \"Non-Cooperative Countries or Territories\" (NCCTs), commonly called the FATF Blacklist.",
+    "subject": "FATF",
+    "predicate_type": "classifies",
+    "object_text": "list of \"Non-Cooperative Countries or Territories\" (NCCTs) as the FATF Blacklist",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2000 FATF issued a list of \"Non-Cooperative Countries or Territories\" (NCCTs), commonly called the FATF Blacklist.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "161d5f2c-cc8e-4e10-8f11-944294444804",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The FATF Blacklist was a list of 15 jurisdictions that FATF members believed were uncooperative with other jurisdictions in international efforts against money laundering and terrorism financing.",
+    "subject": "FATF Blacklist",
+    "predicate_type": "classifies",
+    "object_text": "list of 15 jurisdictions that FATF members believed were uncooperative with other jurisdictions in international efforts against money laundering and terrorism financing",
+    "object_value": 15,
+    "object_unit": null,
+    "source_text": "The FATF Blacklist was a list of 15 jurisdictions that FATF members believed were uncooperative with other jurisdictions in international efforts against money laundering and terrorism financing.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "20d0b70f-9253-47ff-b608-9518af30c544",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "All remaining Non-Cooperative Countries and Territories in the NCCT initiative were delisted in October 2006.",
+    "subject": "Non-Cooperative Countries and Territories in the NCCT initiative",
+    "predicate_type": "relates_to",
+    "object_text": "were delisted",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All remaining Non-Cooperative Countries and Territories in the NCCT initiative were delisted in October 2006.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "NCCT"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "48b2c57c-a8f6-4668-a5a9-a29e34cbda49",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "FATF continues to maintain a \"blacklist\" of \"High Risk\" jurisdictions.",
+    "subject": "FATF",
+    "predicate_type": "classifies",
+    "object_text": "maintains a \"blacklist\" of \"High Risk\" jurisdictions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FATF continues to maintain a \"blacklist\" of \"High Risk\" jurisdictions.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4b973c5a-5fb6-431e-a600-5b6dea1250fe",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "FATF continues to maintain a \"greylist\" of \"Jurisdictions Under Increased Monitoring\".",
+    "subject": "FATF",
+    "predicate_type": "classifies",
+    "object_text": "maintains a \"greylist\" of \"Jurisdictions Under Increased Monitoring\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FATF continues to maintain a \"greylist\" of \"Jurisdictions Under Increased Monitoring\".",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ceac145a-3b10-4390-843c-b387c9d75d0f",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "FATF issues updates as countries on High-risk and non-cooperative jurisdictions list have made significant improvements in standards and cooperation.",
+    "subject": "FATF",
+    "predicate_type": "relates_to",
+    "object_text": "issues updates as countries on High-risk and non-cooperative jurisdictions list have made significant improvements in standards and cooperation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FATF issues updates as countries on High-risk and non-cooperative jurisdictions list have made significant improvements in standards and cooperation.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "52e9469d-8fa0-408d-ab69-76a7771d845e",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The FATF also issues updates to identify additional jurisdictions that pose Money Laundering/Terrorist Financing risks.",
+    "subject": "FATF",
+    "predicate_type": "relates_to",
+    "object_text": "issues updates to identify additional jurisdictions that pose Money Laundering/Terrorist Financing risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FATF also issues updates to identify additional jurisdictions that pose Money Laundering/Terrorist Financing risks.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ee4f55f-3152-421a-b147-7e8fd9641d27",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The FATF surveyed 26 jurisdictions to check their ability and willingness to cooperate with other countries in the international fight against money laundering.",
+    "subject": "FATF",
+    "predicate_type": "relates_to",
+    "object_text": "surveyed 26 jurisdictions to check their ability and willingness to cooperate with other countries in the international fight against money laundering",
+    "object_value": 26,
+    "object_unit": null,
+    "source_text": "The FATF surveyed 26 jurisdictions to check their ability and willingness to cooperate with other countries in the international fight against money laundering.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2a338052-7a5e-43da-8510-a3df07e1ee71",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "Fifteen jurisdictions were branded \"non-cooperative countries or territories\", because of the high number of harmful practices identified in these jurisdictions.",
+    "subject": "jurisdictions",
+    "predicate_type": "classifies",
+    "object_text": "branded \"non-cooperative countries or territories\"",
+    "object_value": 15,
+    "object_unit": null,
+    "source_text": "Fifteen jurisdictions were branded \"non-cooperative countries or territories\", because of the high number of harmful practices identified in these jurisdictions.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f402da0c-3242-4462-bf88-33c5d9f9783c",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "As of February 2025, countries in the blacklist are Iran, Myanmar and North Korea.",
+    "subject": "blacklist",
+    "predicate_type": "relates_to",
+    "object_text": "countries in the blacklist are Iran, Myanmar and North Korea",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As of February 2025, countries in the blacklist are Iran, Myanmar and North Korea.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "Iran",
+      "Myanmar",
+      "North Korea"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "996605de-2740-44c0-8540-552e33ea30ae",
+    "chunk_id": "5319f2b0-7498-4d84-974b-67511a791440",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "As of February 2025, countries and territories in the grey list are Algeria, Angola, Bulgaria, Burkina Faso, Cameroon, C\u00f4te d'Ivoire, Croatia, Democratic Republic of the Congo, Haiti, Kenya, Laos, Lebanon, Mali, Monaco, Mozambique, Namibia, Nepal, Nigeria, South Africa, South Sudan, Syria, Tanzania, Venezuela, Vietnam, and Yemen.",
+    "subject": "grey list",
+    "predicate_type": "relates_to",
+    "object_text": "countries and territories in the grey list are Algeria, Angola, Bulgaria, Burkina Faso, Cameroon, C\u00f4te d'Ivoire, Croatia, Democratic Republic of the Congo, Haiti, Kenya, Laos, Lebanon, Mali, Monaco, Mozambique, Namibia, Nepal, Nigeria, South Africa, South Sudan, Syria, Tanzania, Venezuela, Vietnam, and Yemen",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As of February 2025, countries and territories in the grey list are Algeria, Angola, Bulgaria, Burkina Faso, Cameroon, C\u00f4te d'Ivoire, Croatia, Democratic Republic of the Congo, Haiti, Kenya, Laos, Lebanon, Mali, Monaco, Mozambique, Namibia, Nepal, Nigeria, South Africa, South Sudan, Syria, Tanzania, Venezuela, Vietnam, and Yemen.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "terrorism financing"
+    ],
+    "entities": [
+      "Algeria",
+      "Angola",
+      "Bulgaria",
+      "Burkina Faso",
+      "Cameroon",
+      "C\u00f4te d'Ivoire",
+      "Croatia",
+      "Democratic Republic of the Congo",
+      "Haiti",
+      "Kenya",
+      "Laos",
+      "Lebanon",
+      "Mali",
+      "Monaco",
+      "Mozambique",
+      "Namibia",
+      "Nepal",
+      "Nigeria",
+      "South Africa",
+      "South Sudan",
+      "Syria",
+      "Tanzania",
+      "Venezuela",
+      "Vietnam",
+      "Yemen"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a7d8385-1cf7-48cd-9585-83d58efa509f",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The FATF's Forty Recommendations on Money Laundering of 1990 are the primary policies issued by FATF and the Nine Special Recommendations (SR) on Terrorism Financing (TF).",
+    "subject": "The FATF's Forty Recommendations on Money Laundering of 1990",
+    "predicate_type": "defines",
+    "object_text": "the primary policies issued by FATF and the Nine Special Recommendations (SR) on Terrorism Financing (TF)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FATF's Forty Recommendations on Money Laundering of 1990 are the primary policies issued by FATF and the Nine Special Recommendations (SR) on Terrorism Financing (TF).",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF",
+      "Forty Recommendations on Money Laundering",
+      "Nine Special Recommendations"
+    ],
+    "regulations": [
+      "Forty Recommendations on Money Laundering",
+      "Nine Special Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "784000f4-6e7a-4c5b-9280-82617467c7a6",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The Recommendations are seen globally as the world standard in anti-money laundering.",
+    "subject": "The Recommendations",
+    "predicate_type": "classifies",
+    "object_text": "the world standard in anti-money laundering",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Recommendations are seen globally as the world standard in anti-money laundering.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering"
+    ],
+    "entities": [
+      "Recommendations"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5dc30f12-cadf-42ac-97e5-a3d05ec30463",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "Many countries have committed to putting the Forty Recommendations in place.",
+    "subject": "Many countries",
+    "predicate_type": "implements",
+    "object_text": "the Forty Recommendations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many countries have committed to putting the Forty Recommendations in place.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering"
+    ],
+    "entities": [
+      "Forty Recommendations"
+    ],
+    "regulations": [
+      "Forty Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01ed2081-2109-4a91-888e-3cfc912bc001",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The Recommendations cover the criminal justice system and law enforcement, international cooperation, and the financial system and its regulation.",
+    "subject": "The Recommendations",
+    "predicate_type": "relates_to",
+    "object_text": "the criminal justice system and law enforcement, international cooperation, and the financial system and its regulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Recommendations cover the criminal justice system and law enforcement, international cooperation, and the financial system and its regulation.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "international_cooperation",
+      "financial_regulation"
+    ],
+    "entities": [
+      "Recommendations"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "883f3a6a-f5c8-4c01-b259-00d288ff8415",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The FATF completely revised the Forty Recommendations in 1996 and 2003.",
+    "subject": "The FATF",
+    "predicate_type": "implements",
+    "object_text": "completely revised the Forty Recommendations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FATF completely revised the Forty Recommendations in 1996 and 2003.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering"
+    ],
+    "entities": [
+      "FATF",
+      "Forty Recommendations"
+    ],
+    "regulations": [
+      "Forty Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0df3b59a-3556-4870-b260-3005160d30a6",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "By 1996 the Recommendations had to be updated to include more than just drug-money laundering, as well as to keep up with changing techniques.",
+    "subject": "the Recommendations",
+    "predicate_type": "requires",
+    "object_text": "to be updated to include more than just drug-money laundering, as well as to keep up with changing techniques",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By 1996 the Recommendations had to be updated to include more than just drug-money laundering, as well as to keep up with changing techniques.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering"
+    ],
+    "entities": [
+      "Recommendations"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e3cc72e5-47fb-4fd5-92b7-5ff71cfebd06",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The 2003 Forty Recommendations require states, among other things, to implement relevant international conventions.",
+    "subject": "The 2003 Forty Recommendations",
+    "predicate_type": "requires",
+    "object_text": "states, among other things, to implement relevant international conventions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 2003 Forty Recommendations require states, among other things, to implement relevant international conventions.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "international_conventions"
+    ],
+    "entities": [
+      "Forty Recommendations"
+    ],
+    "regulations": [
+      "Forty Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "87ef46a5-39af-4bc4-a148-13262f9a31e9",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The 2003 Forty Recommendations require states, among other things, to criminalise money laundering and enable authorities to confiscate the proceeds of money laundering.",
+    "subject": "The 2003 Forty Recommendations",
+    "predicate_type": "requires",
+    "object_text": "states, among other things, to criminalise money laundering and enable authorities to confiscate the proceeds of money laundering",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 2003 Forty Recommendations require states, among other things, to criminalise money laundering and enable authorities to confiscate the proceeds of money laundering.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering"
+    ],
+    "entities": [
+      "Forty Recommendations"
+    ],
+    "regulations": [
+      "Forty Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "653a05b9-7f9d-4054-8cf5-4ce56f7c16c4",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The 2003 Forty Recommendations require states, among other things, to implement customer due diligence (e.g., identity verification), record keeping and suspicious transaction reporting requirements for financial institutions and designated non-financial businesses and professions.",
+    "subject": "The 2003 Forty Recommendations",
+    "predicate_type": "requires",
+    "object_text": "states, among other things, to implement customer due diligence (e.g., identity verification), record keeping and suspicious transaction reporting requirements for financial institutions and designated non-financial businesses and professions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 2003 Forty Recommendations require states, among other things, to implement customer due diligence (e.g., identity verification), record keeping and suspicious transaction reporting requirements for financial institutions and designated non-financial businesses and professions.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "customer_due_diligence",
+      "record_keeping",
+      "suspicious_transaction_reporting"
+    ],
+    "entities": [
+      "Forty Recommendations"
+    ],
+    "regulations": [
+      "Forty Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "36ec7b99-ca99-4a7b-a49a-b7f5b29f3629",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The 2003 Forty Recommendations require states, among other things, to establish a financial intelligence unit to receive and disseminate suspicious transaction reports, and",
+    "subject": "The 2003 Forty Recommendations",
+    "predicate_type": "requires",
+    "object_text": "states, among other things, to establish a financial intelligence unit to receive and disseminate suspicious transaction reports",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 2003 Forty Recommendations require states, among other things, to establish a financial intelligence unit to receive and disseminate suspicious transaction reports, and",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "financial_intelligence",
+      "suspicious_transaction_reporting"
+    ],
+    "entities": [
+      "Forty Recommendations"
+    ],
+    "regulations": [
+      "Forty Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b897089-69f3-44e3-83c2-e7b2da3bc919",
+    "chunk_id": "f0a7b42d-1a96-45e7-aa61-a0d04919f49d",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The 2003 Forty Recommendations require states, among other things, to cooperate internationally in investigating and prosecuting money laundering",
+    "subject": "The 2003 Forty Recommendations",
+    "predicate_type": "requires",
+    "object_text": "states, among other things, to cooperate internationally in investigating and prosecuting money laundering",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 2003 Forty Recommendations require states, among other things, to cooperate internationally in investigating and prosecuting money laundering",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "international_cooperation"
+    ],
+    "entities": [
+      "Forty Recommendations"
+    ],
+    "regulations": [
+      "Forty Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "298c17bb-fa98-440c-bc49-253373bf77ec",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The Forty Recommendations on Money Laundering and eight Special Recommendations on Terrorism Financing set the international standard for anti-money laundering measures and combating the financing of terrorism and terrorist acts.",
+    "subject": "Forty Recommendations on Money Laundering and eight Special Recommendations on Terrorism Financing",
+    "predicate_type": "defines",
+    "object_text": "the international standard for anti-money laundering measures and combating the financing of terrorism and terrorist acts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Forty Recommendations on Money Laundering and eight Special Recommendations on Terrorism Financing set the international standard for anti-money laundering measures and combating the financing of terrorism and terrorist acts.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "Forty Recommendations on Money Laundering",
+      "Special Recommendations on Terrorism Financing"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "78fde9ea-63a7-4612-8355-d5c7c03b26dd",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The Forty Recommendations on Money Laundering and eight Special Recommendations on Terrorism Financing set out the principles for action and allow countries a measure of flexibility in implementing these principles according to their particular circumstances and constitutional frameworks.",
+    "subject": "Forty Recommendations on Money Laundering and eight Special Recommendations on Terrorism Financing",
+    "predicate_type": "permits",
+    "object_text": "countries a measure of flexibility in implementing these principles according to their particular circumstances and constitutional frameworks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Forty Recommendations on Money Laundering and eight Special Recommendations on Terrorism Financing set out the principles for action and allow countries a measure of flexibility in implementing these principles according to their particular circumstances and constitutional frameworks.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "Forty Recommendations on Money Laundering",
+      "Special Recommendations on Terrorism Financing"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8a1d53db-8279-45f0-a574-311d0ea12d8b",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "Both sets of FATF Recommendations are intended to be implemented at the national level through legislation and other legally binding measures.",
+    "subject": "FATF Recommendations",
+    "predicate_type": "implements",
+    "object_text": "at the national level through legislation and other legally binding measures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Both sets of FATF Recommendations are intended to be implemented at the national level through legislation and other legally binding measures.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "FATF Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d31825ef-5054-4eee-a94f-fa993faf851e",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "In February 2012, the FATF codified its recommendations and Interpretive Notes into one document that maintains SR VIII (renamed Recommendation 8), and also includes new rules on weapons of mass destruction, corruption and wire transfers (Recommendation 16, commonly known as the \u201ctravel rule\u201d).",
+    "subject": "FATF",
+    "predicate_type": "implements",
+    "object_text": "codified its recommendations and Interpretive Notes into one document that maintains SR VIII (renamed Recommendation 8), and also includes new rules on weapons of mass destruction, corruption and wire transfers (Recommendation 16, commonly known as the \u201ctravel rule\u201d)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In February 2012, the FATF codified its recommendations and Interpretive Notes into one document that maintains SR VIII (renamed Recommendation 8), and also includes new rules on weapons of mass destruction, corruption and wire transfers (Recommendation 16, commonly known as the \u201ctravel rule\u201d).",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "terrorism_financing",
+      "corruption",
+      "wire_transfers"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "SR VIII",
+      "Recommendation 8",
+      "Recommendation 16"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac9bc266-19fe-4a9e-860b-7377419e5d01",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "In October 2018, the FATF updated Recommendation No. 15, expanding its reach to include operations related to virtual assets.",
+    "subject": "FATF",
+    "predicate_type": "implements",
+    "object_text": "updated Recommendation No. 15, expanding its reach to include operations related to virtual assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In October 2018, the FATF updated Recommendation No. 15, expanding its reach to include operations related to virtual assets.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "virtual_assets",
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "Recommendation No. 15"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ea3b45fc-111f-4b73-b03b-e58496b7438f",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "It urged its member countries to ensure that providers of virtual asset services are regulated for AML/CFT objectives and licensed or registered.",
+    "subject": "FATF",
+    "predicate_type": "requires",
+    "object_text": "its member countries to ensure that providers of virtual asset services are regulated for AML/CFT objectives and licensed or registered",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It urged its member countries to ensure that providers of virtual asset services are regulated for AML/CFT objectives and licensed or registered.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "virtual_assets",
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "165b3d0e-a1a9-430c-a0a4-f583663b35b4",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "They should be under robust systems for supervision assurance and compliant with the FATF recommendations.",
+    "subject": "providers of virtual asset services",
+    "predicate_type": "requires",
+    "object_text": "robust systems for supervision assurance and compliant with the FATF recommendations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They should be under robust systems for supervision assurance and compliant with the FATF recommendations.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "virtual_assets",
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "FATF recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9163b762-e4fd-4b4d-8018-aef4827d16a7",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "In June 2019, the FATF released its first guidance on the risk-based approach for virtual assets and virtual asset service providers.",
+    "subject": "FATF",
+    "predicate_type": "implements",
+    "object_text": "released its first guidance on the risk-based approach for virtual assets and virtual asset service providers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In June 2019, the FATF released its first guidance on the risk-based approach for virtual assets and virtual asset service providers.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "virtual_assets",
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f033312a-560d-4c39-b517-5d6673d40d17",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "This guidance offers recommendations on how member jurisdictions should regulate cryptocurrency businesses, placing anti-money laundering and countering the financing of terrorism (AML/CFT) obligations on VAs and VASPs.",
+    "subject": "guidance",
+    "predicate_type": "relates_to",
+    "object_text": "recommendations on how member jurisdictions should regulate cryptocurrency businesses, placing anti-money laundering and countering the financing of terrorism (AML/CFT) obligations on VAs and VASPs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This guidance offers recommendations on how member jurisdictions should regulate cryptocurrency businesses, placing anti-money laundering and countering the financing of terrorism (AML/CFT) obligations on VAs and VASPs.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "virtual_assets",
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8a9c95d6-1021-4258-9742-2aabd49010f2",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "It also extended Recommendation 16 to VASPs.",
+    "subject": "guidance",
+    "predicate_type": "implements",
+    "object_text": "extended Recommendation 16 to VASPs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It also extended Recommendation 16 to VASPs.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "virtual_assets",
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "Recommendation 16"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23553ee0-0efd-4466-8fa9-45fea5f18c17",
+    "chunk_id": "518a42e8-5fc4-4bde-8508-47435aaeb4ad",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "This guidance was updated on March 19 and October 2021.",
+    "subject": "guidance",
+    "predicate_type": "relates_to",
+    "object_text": "updated on March 19 and October 2021",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This guidance was updated on March 19 and October 2021.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "virtual_assets",
+      "money_laundering",
+      "terrorism_financing"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "02851581-f94d-4f6c-878b-b0a93252c609",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The FATF has been characterized as effective in shifting laws and regulations to combat illicit financial flows.",
+    "subject": "FATF",
+    "predicate_type": "relates_to",
+    "object_text": "effective in shifting laws and regulations to combat illicit financial flows",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FATF has been characterized as effective in shifting laws and regulations to combat illicit financial flows.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "regulation"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b24f50c-4498-459d-ae56-6046ae24ba97",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "FATF incentivizes stricter regulations through its public noncomplier list.",
+    "subject": "FATF",
+    "predicate_type": "causes",
+    "object_text": "stricter regulations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FATF incentivizes stricter regulations through its public noncomplier list.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "692c686b-7965-4e56-ac80-8472d95f6dcd",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The public noncomplier list leads financial institutions to shift resources and services away from the countries on the blacklist.",
+    "subject": "public noncomplier list",
+    "predicate_type": "causes",
+    "object_text": "financial institutions to shift resources and services away from the countries on the blacklist",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The public noncomplier list leads financial institutions to shift resources and services away from the countries on the blacklist.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "931a8982-c270-4821-a5d4-ef05669aa85c",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "Domestic economic and political actors in the listed countries pressure their governments to introduce regulations that are compliant with the FATF.",
+    "subject": "Domestic economic and political actors in the listed countries",
+    "predicate_type": "causes",
+    "object_text": "their governments to introduce regulations that are compliant with the FATF",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Domestic economic and political actors in the listed countries pressure their governments to introduce regulations that are compliant with the FATF.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "13d1ac8d-6fc8-4333-9cd8-630f2c769b8c",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "As of 2012, the effect of the FATF Blacklist has been significant.",
+    "subject": "FATF Blacklist",
+    "predicate_type": "relates_to",
+    "object_text": "significant",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As of 2012, the effect of the FATF Blacklist has been significant.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a95930b-d2b7-443f-b7ab-1b0e4b9ae93b",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The FATF Blacklist has arguably proven more important in international efforts against money laundering than the FATF Recommendations.",
+    "subject": "FATF Blacklist",
+    "predicate_type": "relates_to",
+    "object_text": "more important in international efforts against money laundering than the FATF Recommendations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FATF Blacklist has arguably proven more important in international efforts against money laundering than the FATF Recommendations.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "regulation"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1038213d-7640-4f9e-803c-4ae2708ed85c",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "Under international law, the FATF Blacklist carries with it no formal sanction.",
+    "subject": "FATF Blacklist",
+    "predicate_type": "prohibits",
+    "object_text": "formal sanction",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under international law, the FATF Blacklist carries with it no formal sanction.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "77891679-7198-47ea-9bbc-8957418ef059",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "Jurisdictions placed on the FATF Blacklist often face intense financial pressure.",
+    "subject": "Jurisdictions placed on the FATF Blacklist",
+    "predicate_type": "causes",
+    "object_text": "intense financial pressure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Jurisdictions placed on the FATF Blacklist often face intense financial pressure.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "376fb83b-f06f-42a4-a299-8ce980cda983",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "FATF has made it difficult for non-governmental organisations (NGOs) in many countries to access funds to aid in relief situations and conduct other important civil society functions due to the misinterpretation of FATF criteria by governments.",
+    "subject": "FATF",
+    "predicate_type": "causes",
+    "object_text": "difficult for non-governmental organisations (NGOs) in many countries to access funds to aid in relief situations and conduct other important civil society functions due to the misinterpretation of FATF criteria by governments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FATF has made it difficult for non-governmental organisations (NGOs) in many countries to access funds to aid in relief situations and conduct other important civil society functions due to the misinterpretation of FATF criteria by governments.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "FATF",
+      "NGOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "22a1422c-3775-4ced-aaee-0003236b2285",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The unintended consequences of the misinterpretation of FATF Recommendation 8 on non-profit organisations have impacted NGOs, particularly those in the Global South extending well beyond civil society located in Middle Eastern and terror-ridden countries.",
+    "subject": "unintended consequences of the misinterpretation of FATF Recommendation 8 on non-profit organisations",
+    "predicate_type": "causes",
+    "object_text": "impacted NGOs, particularly those in the Global South extending well beyond civil society located in Middle Eastern and terror-ridden countries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The unintended consequences of the misinterpretation of FATF Recommendation 8 on non-profit organisations have impacted NGOs, particularly those in the Global South extending well beyond civil society located in Middle Eastern and terror-ridden countries.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "FATF",
+      "NGOs"
+    ],
+    "regulations": [
+      "Recommendation 8"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f2fb7b8a-a48a-4fab-8227-54c8f7095298",
+    "chunk_id": "4d8bf4cb-47d1-4345-9291-5dfc424b1b74",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "In 2023, FATF released new guidance on interpretation of Recommendation 8 relating to non-profits, to better prevent misuse of its standards to restrict legitimate civil society operations.",
+    "subject": "FATF",
+    "predicate_type": "governs",
+    "object_text": "new guidance on interpretation of Recommendation 8 relating to non-profits, to better prevent misuse of its standards to restrict legitimate civil society operations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2023, FATF released new guidance on interpretation of Recommendation 8 relating to non-profits, to better prevent misuse of its standards to restrict legitimate civil society operations.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "Recommendation 8"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9a269c14-1df3-44fc-ba92-cb145e8c1e77",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "In February 2004 (Updated as of February 2009) the FATF published a reference document Methodology for Assessing Compliance with the FATF 40 Recommendations and the FATF 9 Special Recommendations.",
+    "subject": "FATF",
+    "predicate_type": "governs",
+    "object_text": "published a reference document Methodology for Assessing Compliance with the FATF 40 Recommendations and the FATF 9 Special Recommendations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In February 2004 (Updated as of February 2009) the FATF published a reference document Methodology for Assessing Compliance with the FATF 40 Recommendations and the FATF 9 Special Recommendations.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [
+      "FATF 40 Recommendations",
+      "FATF 9 Special Recommendations"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f3cf338d-acd0-4483-9124-04b534b58fe6",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The 2009 Handbook for Countries and Assessors outlines criteria for evaluating whether FATF standards are achieved in participating countries.",
+    "subject": "2009 Handbook for Countries and Assessors",
+    "predicate_type": "defines",
+    "object_text": "criteria for evaluating whether FATF standards are achieved in participating countries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 2009 Handbook for Countries and Assessors outlines criteria for evaluating whether FATF standards are achieved in participating countries.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae090a98-c241-47ba-84d1-17111052813c",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "FATF evaluates a country's performance based on its assessment methodology.",
+    "subject": "FATF",
+    "predicate_type": "governs",
+    "object_text": "evaluates a country's performance based on its assessment methodology",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FATF evaluates a country's performance based on its assessment methodology.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f55dae37-eaa8-4296-8bd3-eaa30ade98c4",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The assessment methodology covers technical compliance.",
+    "subject": "assessment methodology",
+    "predicate_type": "relates_to",
+    "object_text": "technical compliance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The assessment methodology covers technical compliance.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a023e0a8-a042-4583-9f5a-079b3ded7dff",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "Technical compliance is about the legal and institutional framework and the powers and procedures of the competent authorities.",
+    "subject": "Technical compliance",
+    "predicate_type": "defines",
+    "object_text": "about the legal and institutional framework and the powers and procedures of the competent authorities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Technical compliance is about the legal and institutional framework and the powers and procedures of the competent authorities.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d22e0fae-6e42-439d-bf12-d70099af17e0",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The assessment methodology covers effectiveness assessment.",
+    "subject": "assessment methodology",
+    "predicate_type": "relates_to",
+    "object_text": "effectiveness assessment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The assessment methodology covers effectiveness assessment.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d654f864-4f03-4d57-b623-dcb73c847114",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "Effectiveness assessment is about the extent to which the legal and institutional framework is producing the expected results.",
+    "subject": "Effectiveness assessment",
+    "predicate_type": "defines",
+    "object_text": "about the extent to which the legal and institutional framework is producing the expected results",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Effectiveness assessment is about the extent to which the legal and institutional framework is producing the expected results.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "57ef7727-a916-4bd4-ad6c-a5a45cbb56ec",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "There are many differences between countries dealing with their legal and financial system, which is taken into consideration by the FATF.",
+    "subject": "FATF",
+    "predicate_type": "relates_to",
+    "object_text": "takes into consideration many differences between countries dealing with their legal and financial system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are many differences between countries dealing with their legal and financial system, which is taken into consideration by the FATF.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da66379c-dc32-4125-9624-0aa846b3bc93",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "There is a set minimum of actions that meet a standard, that all countries can use regarding their own situation.",
+    "subject": "countries",
+    "predicate_type": "permits",
+    "object_text": "use a set minimum of actions that meet a standard regarding their own situation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There is a set minimum of actions that meet a standard, that all countries can use regarding their own situation.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c1bfe2e-6905-41b9-86bb-48504d45bcdb",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "This standard covers all actions that a nation should take within its regulatory systems and its criminal justice systems as well as the preventive measures that should be taken by specified businesses, professions, and institutions.",
+    "subject": "standard",
+    "predicate_type": "governs",
+    "object_text": "all actions that a nation should take within its regulatory systems and its criminal justice systems as well as the preventive measures that should be taken by specified businesses, professions, and institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This standard covers all actions that a nation should take within its regulatory systems and its criminal justice systems as well as the preventive measures that should be taken by specified businesses, professions, and institutions.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3093a2ea-a491-4095-9775-16191430065d",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "For non-profit organisations (NPOs) there has been a command for more financial transparency, to make sure that they do not become easier for terrorist organisations to launder money through the organisations.",
+    "subject": "non-profit organisations (NPOs)",
+    "predicate_type": "requires",
+    "object_text": "more financial transparency, to make sure that they do not become easier for terrorist organisations to launder money through the organisations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For non-profit organisations (NPOs) there has been a command for more financial transparency, to make sure that they do not become easier for terrorist organisations to launder money through the organisations.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f63eaceb-4f7f-4245-9db0-f41c25983015",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "This hypothesis was thought of by intergovernmental organisations.",
+    "subject": "hypothesis",
+    "predicate_type": "relates_to",
+    "object_text": "thought of by intergovernmental organisations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This hypothesis was thought of by intergovernmental organisations.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "71cb7ff7-34d3-4a43-a29c-c6a29e2122f2",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "These intergovernmental organisations include the World Bank, the Organisation for Economic Co-operation and Development and the International Monetary Fund.",
+    "subject": "intergovernmental organisations",
+    "predicate_type": "defines",
+    "object_text": "the World Bank, the Organisation for Economic Co-operation and Development and the International Monetary Fund",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These intergovernmental organisations include the World Bank, the Organisation for Economic Co-operation and Development and the International Monetary Fund.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [
+      "World Bank",
+      "Organisation for Economic Co-operation and Development",
+      "International Monetary Fund"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b576a68f-3bcc-4a40-8485-227b70b0c2d2",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "NPOs are put under surveillance, especially when they are associated with \"suspect communities\" or if they are based or working in zones of conflict.",
+    "subject": "NPOs",
+    "predicate_type": "relates_to",
+    "object_text": "put under surveillance, especially when they are associated with \"suspect communities\" or if they are based or working in zones of conflict",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "NPOs are put under surveillance, especially when they are associated with \"suspect communities\" or if they are based or working in zones of conflict.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [
+      "NPOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3547f7e1-6367-4427-a91f-eeb7f5a5fb30",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "FATF data is a key indicator of the quality of AML/CFT systems in the Basel AML Index, a money laundering and terrorist financing risk assessment tool developed by the Basel Institute on Governance.",
+    "subject": "FATF data",
+    "predicate_type": "relates_to",
+    "object_text": "a key indicator of the quality of AML/CFT systems in the Basel AML Index, a money laundering and terrorist financing risk assessment tool developed by the Basel Institute on Governance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FATF data is a key indicator of the quality of AML/CFT systems in the Basel AML Index, a money laundering and terrorist financing risk assessment tool developed by the Basel Institute on Governance.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [
+      "FATF",
+      "Basel AML Index",
+      "Basel Institute on Governance"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "020a8838-352a-451b-8453-973cbe2794f2",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "There are still compliance issues in areas that might afford exploitative opportunities for transnational crime and terrorist networks.",
+    "subject": "areas",
+    "predicate_type": "relates_to",
+    "object_text": "might afford exploitative opportunities for transnational crime and terrorist networks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are still compliance issues in areas that might afford exploitative opportunities for transnational crime and terrorist networks.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0a06ed30-65b3-4fb7-bdb3-46b5ccc17a0c",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "This can have detrimental effects on a country's national security through increasing risks of money laundering and financing of terrorism as well as wastage due to the implementation of inappropriate regulatory measures.",
+    "subject": "compliance issues",
+    "predicate_type": "causes",
+    "object_text": "detrimental effects on a country's national security through increasing risks of money laundering and financing of terrorism as well as wastage due to the implementation of inappropriate regulatory measures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This can have detrimental effects on a country's national security through increasing risks of money laundering and financing of terrorism as well as wastage due to the implementation of inappropriate regulatory measures.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4415c17b-276c-49d9-a42e-0338162ca8ce",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The objective is to increase mitigation strategies that would enable scarce resources in fighting money laundering and terrorism financing threats.",
+    "subject": "objective",
+    "predicate_type": "relates_to",
+    "object_text": "to increase mitigation strategies that would enable scarce resources in fighting money laundering and terrorism financing threats",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The objective is to increase mitigation strategies that would enable scarce resources in fighting money laundering and terrorism financing threats.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5a2cebb6-3dc6-4cb5-8687-47d3518e737f",
+    "chunk_id": "c5018d90-8df0-42fe-ac0d-09d8dff3aa66",
+    "document_id": "Financial_Action_Task_Force",
+    "claim_text": "The FATF follows strict criteria to identify potential threats.",
+    "subject": "FATF",
+    "predicate_type": "governs",
+    "object_text": "follows strict criteria to identify potential threats",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FATF follows strict criteria to identify potential threats.",
+    "source_document": "Financial Action Task Force",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "aml",
+      "cft"
+    ],
+    "entities": [
+      "FATF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

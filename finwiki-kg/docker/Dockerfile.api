@@ -1,0 +1,27 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc libpq-dev && rm -rf /var/lib/apt/lists/*
+
+COPY api/ ./api/
+COPY pipeline/schema.py ./pipeline/schema.py
+COPY pipeline/config.py ./pipeline/config.py
+COPY pipeline/db.py ./pipeline/db.py
+COPY pipeline/cost_tracker.py ./pipeline/cost_tracker.py
+COPY pipeline/inference.py ./pipeline/inference.py
+COPY pipeline/__init__.py ./pipeline/__init__.py
+
+RUN pip install --no-cache-dir \
+    "fastapi==0.111.0" \
+    "uvicorn[standard]" \
+    psycopg2-binary \
+    neo4j \
+    qdrant-client \
+    google-genai \
+    python-dotenv
+
+EXPOSE 8000
+
+CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]

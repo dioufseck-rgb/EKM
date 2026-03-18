@@ -1,0 +1,101 @@
+[
+  {
+    "chunk_id": "5a29d772-8b30-4441-9c9e-805489cae022",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 0,
+    "section_title": "Risk-free asset and the capital allocation line",
+    "content": "The risk-free asset is the theoretical asset that pays a deterministic risk-free rate. In practice, short-term government securities, such as US Treasury bills, serve as a proxy for the risk-free asset due to their fixed interest payments and negligible default risk. By definition, the risk-free asset has zero variance in returns if held to maturity and remains uncorrelated with any risky asset or portfolio. Consequently, when combined with a risky portfolio, the resulting change in expected return is linearly related to the change in risk as the allocation proportions vary.\nThe introduction of a risk-free asset transforms the efficient frontier into a linear half-line tangent to the Markowitz bullet at the portfolio with the highest Sharpe ratio. The vertical intercept of this line represents a portfolio allocated 100% to the risk-free asset \n  \n    \n      \n        \n          R\n          \n            F\n          \n        \n      \n    \n    {\\displaystyle R_{F}}\n  \n. The tangency point denotes a portfolio with 100% investment in risky assets, while segments between the intercept and tangency represent lending portfolios (long \n  \n    \n      \n        \n          R\n          \n            F\n          \n        \n      \n    \n    {\\displaystyle R_{F}}\n  \n). Points extending beyond the tangency point represent borrowing portfolios, where the investor leverages the risky tangency portfolio by shorting the risk-free asset. This efficient locus is defined as the capital allocation line (CAL), expressed by the formula:\n\nIn this context, P represents the tangency portfolio of risky assets, F denotes the risk-free asset, and C is the combined portfolio. The introduction of \n  \n    \n      \n        \n          R\n          \n            F\n          \n        \n      \n    \n    {\\displaystyle R_{F}}\n  \n improves the investment opportunity set because the CAL provides a higher expected return for every level of risk compared to the risky-only hyperbola. The principle that all investors can achieve their optimal risk-return profile using only the risk-free asset and a single risky fund is known as the Mutual fund separation theorem, specifically the one-fund theorem.",
+    "token_estimate": 287,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "9fea4a76-0ee1-45d8-95f9-f252ee49ef23",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 1,
+    "section_title": "Systematic risk and specific risk",
+    "content": "The total risk of an individual asset or portfolio is decomposed into two distinct components: specific risk and systematic risk.\n\nSpecific risk (also known as diversifiable, unique, or idiosyncratic risk) is associated with individual assets. Within a portfolio, these risks can be mitigated through diversification, as the unique price movements of uncorrelated assets tend to offset each other.\nSystematic risk (also known as market risk or non-diversifiable risk) refers to the risk common to all securities in a given market, driven by macroeconomic factors.\nBecause rational investors can eliminate unique risk at no cost through diversification, the market only provides a risk premium for bearing systematic risk. This implies that an asset's expected return is not determined by its total variance, but specifically by its covariance with the market portfolio. Consequently, the equilibrium price of an asset must adjust until its risk-adjusted return aligns with the Security Market Line shown in the diagram. Under these assumptions, assets with the same Beta must offer the same expected return, regardless of their individual specific risk profiles. This fundamental distinction serves as the basis for modern portfolio management, where the goal is to optimize the exposure to rewarded systematic factors while neutralizing unrewarded idiosyncratic noise.",
+    "token_estimate": 202,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "ff29fba3-7c75-48fe-86cc-f39839602259",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 2,
+    "section_title": "Criticisms",
+    "content": "Despite its theoretical importance, critics of MPT question whether it is an ideal investment tool, because its model of financial markets does not match the real world in many ways. The risk, return, and correlation measures used by MPT are based on expected values, which means that they are statistical statements about the future (the expected value of returns is explicit in the above equations, and implicit in the definitions of variance and covariance). Such measures often cannot capture the true statistical features of the risk and return which often follow highly skewed distributions (e.g., the log-normal distribution) and can give rise to, besides reduced volatility, also inflated growth of return. In practice, investors must substitute predictions based on historical measurements of asset return and volatility for these values in the equations. Very often such expected values fail to take account of new circumstances that did not exist when the historical data was generated. An optimal approach to capturing trends, which differs from Markowitz optimization by utilizing invariance properties, is also derived from physics. Instead of transforming the normalized expectations using the inverse of the correlation matrix, the invariant portfolio employs the inverse of the square root of the correlation matrix. The optimization problem is solved under the assumption that expected values are uncertain and correlated. The Markowitz solution corresponds only to the case where the correlation between expected returns is similar to the correlation between returns. More fundamentally, investors are stuck with estimating key parameters from past market data because MPT attempts to model risk in terms of the likelihood of losses, but says nothing about why those losses might occur. The risk measurements used are probabilistic in nature, not structural. This is a major difference as compared to many engineering approaches to risk management. Options theory and MPT have at least one important conceptual difference from the probabilistic risk assessment done by nuclear power [plants]. A PRA is what economists would call a structural model. The components of a system and their relationships are modeled in Monte Carlo simulations. If valve X fails, it causes a loss of back pressure on pump Y, causing a drop in flow to vessel Z, and so on. But in the Black\u2013Scholes equation and MPT, there is no attempt to explain an underlying structure to price changes. Various outcomes are simply given probabilities. And, unlike the PRA, if there is no history",
+    "token_estimate": 400,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "6d59b608-6eb4-4232-927d-befb52acadeb",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 3,
+    "section_title": "Criticisms",
+    "content": "back pressure on pump Y, causing a drop in flow to vessel Z, and so on. But in the Black\u2013Scholes equation and MPT, there is no attempt to explain an underlying structure to price changes. Various outcomes are simply given probabilities. And, unlike the PRA, if there is no history of a particular system-level event like a liquidity crisis, there is no way to compute the odds of it. If nuclear engineers ran risk management this way, they would never be able to compute the odds of a meltdown at a particular plant until several similar events occurred in the same reactor design. Mathematical risk measurements are also useful only to the degree that they reflect investors' true concerns\u2014there is no point minimizing a variable that nobody cares about in practice. In particular, variance is a symmetric measure that counts abnormally high returns as just as risky as abnormally low returns. The psychological phenomenon of loss aversion is the idea that investors are more concerned about losses than gains, meaning that our intuitive concept of risk is fundamentally asymmetric in nature. There many other risk measures (like coherent risk measures) might better reflect investors' true preferences. Modern portfolio theory has also been criticized because it assumes that returns follow a Gaussian distribution. Already in the 1960s, Benoit Mandelbrot and Eugene Fama showed the inadequacy of this assumption and proposed the use of more general stable distributions instead. Stefan Mittnik and Svetlozar Rachev presented strategies for deriving optimal portfolios in such settings. More recently, Nassim Nicholas Taleb has also criticized modern portfolio theory on this ground, writing:After the stock market crash (in 1987), they rewarded two theoreticians, Harry Markowitz and William Sharpe, who built beautifully Platonic models on a Gaussian base, contributing to what is called Modern Portfolio Theory. Simply, if you remove their Gaussian assumptions and treat prices as scalable, you are left with hot air. The Nobel Committee could have tested the Sharpe and Markowitz models\u2014they work like quack remedies sold on the Internet\u2014but nobody in Stockholm seems to have thought about it. Contrarian investors and value investors typically do not subscribe to Modern Portfolio Theory. One objection is that the MPT relies on the efficient-market hypothesis and uses fluctuations in share price as a substitute for risk. Sir John Templeton believed in diversification as a concept, but also felt the theoretical foundations of MPT were questionable, and concluded",
+    "token_estimate": 400,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "b9aafb33-f577-4b77-b562-74ff20b0572b",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 4,
+    "section_title": "Criticisms",
+    "content": "do not subscribe to Modern Portfolio Theory. One objection is that the MPT relies on the efficient-market hypothesis and uses fluctuations in share price as a substitute for risk. Sir John Templeton believed in diversification as a concept, but also felt the theoretical foundations of MPT were questionable, and concluded (as described by a biographer): \"the notion that building portfolios on the basis of unreliable and irrelevant statistical inputs, such as historical volatility, was doomed to failure.\" A few studies have argued that \"naive diversification\", splitting capital equally among available investment options, might have advantages over MPT in some situations. When applied to certain universes of assets, the Markowitz model has been identified by academics to be inadequate due to its susceptibility to model instability which may arise, for example, among a universe of highly correlated assets.",
+    "token_estimate": 137,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "84d77081-b7d9-4b96-845c-14c3097d4d5f",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 5,
+    "section_title": "Extensions",
+    "content": "Since MPT's introduction in 1952, many attempts have been made to improve the model, especially by using more realistic assumptions.\nPost-modern portfolio theory extends MPT by adopting non-normally distributed, asymmetric, and fat-tailed measures of risk. This helps with some of these problems, but not others.\nBlack\u2013Litterman model optimization is an extension of unconstrained Markowitz optimization that incorporates relative and absolute 'views' on inputs of risk and returns from.\nThe model is also extended by assuming that expected returns are uncertain, and the correlation matrix in this case can differ from the correlation matrix between returns.",
+    "token_estimate": 95,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "927ed505-b736-485e-b47f-6cb61c1ccd13",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 6,
+    "section_title": "Connection with rational choice theory",
+    "content": "Modern portfolio theory is inconsistent with main axioms of rational choice theory, most notably with monotonicity axiom, stating that, if investing into portfolio X will, with probability one, return more money than investing into portfolio Y, then a rational investor should prefer X to Y. In contrast, modern portfolio theory is based on a different axiom, called variance aversion,\nand may recommend to invest into Y on the basis that it has lower variance. Maccheroni et al. described choice theory which is the closest possible to the modern portfolio theory, while satisfying monotonicity axiom. Alternatively, mean-deviation analysis\nis a rational choice theory resulting from replacing variance by an appropriate deviation risk measure.",
+    "token_estimate": 112,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "eaa48626-d99d-4e4e-91ac-a52c97e4bcf1",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 7,
+    "section_title": "Other applications",
+    "content": "In the 1970s, concepts from MPT found their way into the field of regional science. In a series of seminal works, Michael Conroy modeled the labor force in the economy using portfolio-theoretic methods to examine growth and variability in the labor force. This was followed by a long literature on the relationship between economic growth and volatility.\nMore recently, modern portfolio theory has been used to model the self-concept in social psychology. When the self attributes comprising the self-concept constitute a well-diversified portfolio, then psychological outcomes at the level of the individual such as mood and self-esteem should be more stable than when the self-concept is undiversified. This prediction has been confirmed in studies involving human subjects.\nRecently, modern portfolio theory has been applied to modelling the uncertainty and correlation between documents in information retrieval. Given a query, the aim is to maximize the overall relevance of a ranked list of documents and at the same time minimize the overall uncertainty of the ranked list.",
+    "token_estimate": 165,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "3186440b-53f2-495c-9fda-646d46a44f45",
+    "document_id": "Modern_portfolio_theory",
+    "sequence": 8,
+    "section_title": "Project portfolios and other \"non-financial\" assets",
+    "content": "Some experts apply MPT to portfolios of projects and other assets besides financial instruments.  When MPT is applied outside of traditional financial portfolios, some distinctions between the different types of portfolios must be considered.\n\nThe assets in financial portfolios are, for practical purposes, continuously divisible while portfolios of projects are \"lumpy\".  For example, while we can compute that the optimal portfolio position for 3 stocks is, say, 44%, 35%, 21%, the optimal position for a project portfolio may not allow us to simply change the amount spent on a project. Projects might be all or nothing or, at least, have logical units that cannot be separated.  A portfolio optimization method would have to take the discrete nature of projects into account.\nThe assets of financial portfolios are liquid; they can be assessed or re-assessed at any point in time.  But opportunities for launching new projects may be limited and may occur in limited windows of time.  Projects that have already been initiated cannot be abandoned without the loss of the sunk costs (i.e., there is little or no recovery/salvage value of a half-complete project).\nNeither of these necessarily eliminate the possibility of using MPT and such portfolios.  They simply indicate the need to run the optimization with an additional set of mathematically expressed constraints that would not normally apply to financial portfolios.\nFurthermore, some of the simplest elements of Modern Portfolio Theory are applicable to virtually any kind of portfolio.  The concept of capturing the risk tolerance of an investor by documenting how much risk is acceptable for a given return may be applied to a variety of decision analysis problems.  MPT uses historical variance as a measure of risk, but portfolios of assets like major projects do not have a well-defined \"historical variance\".  In this case, the MPT investment boundary can be expressed in more general terms like \"chance of an ROI less than cost of capital\" or \"chance of losing more than half of the investment\".  When risk is put in terms of uncertainty about forecasts and possible losses then the concept is transferable to various types of investment.",
+    "token_estimate": 351,
+    "title": "Modern portfolio theory",
+    "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+    "domain": "finance"
+  }
+]

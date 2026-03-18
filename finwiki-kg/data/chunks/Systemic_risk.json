@@ -1,0 +1,123 @@
+[
+  {
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "sequence": 0,
+    "section_title": "Explanation",
+    "content": "Systemic risk has been associated with a bank run which has a cascading effect on other banks which are owed money by the first bank in trouble, causing a cascading failure. As depositors sense the ripple effects of default, and liquidity concerns cascade through money markets, a panic can spread through a market, with a sudden flight to quality, creating many sellers but few buyers for illiquid assets. These interlinkages and the potential \"clustering\" of bank runs are the issues which policy makers consider when addressing the issue of protecting a system against systemic risk. Governments and market monitoring institutions (such as the U.S. Securities and Exchange Commission (SEC), and central banks) often try to put policies and rules in place with the justification of safeguarding the interests of the market as a whole, claiming that the trading participants in financial markets are entangled in a web of dependencies arising from their interlinkage. In simple English, this means that some companies are viewed as too big and too interconnected to fail. Policy makers frequently claim that they are concerned about protecting the resiliency of the system, rather than any one individual in that system. Systemic risk arises because of the interaction of market participants, and therefore can be seen as a form of endogenous risk. The risk management literature offers an alternative perspective to notions from economics and finance by distinguishing between the nature of systemic failure, its causes and effects, and the risk of its occurrence. It takes an \"operational behaviour\" approach to defining systemic risk of failure as: \"A measure of the overall probability at a current time of the system entering an operational state of systemic failure by a specified time in the future, in which the supply of financial services no longer satisfies demand according to regulatory criteria, qualified by a measure of uncertainty about the system's future behaviour, in the absence of new mitigation efforts.\" This definition lends itself to practical risk mitigation applications, as demonstrated in recent research by a simulation of the collapse of the Icelandic financial system in circa 2008. Systemic risk should not be confused with market or price risk as the latter is specific to the item being bought or sold and the effects of market risk are isolated to the entities dealing in that specific item. This kind of risk can be mitigated by hedging an investment by entering",
+    "token_estimate": 400,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "sequence": 1,
+    "section_title": "Explanation",
+    "content": "should not be confused with market or price risk as the latter is specific to the item being bought or sold and the effects of market risk are isolated to the entities dealing in that specific item. This kind of risk can be mitigated by hedging an investment by entering into a mirror trade. Insurance is often easy to obtain against \"systemic risks\" because a party issuing that insurance can pocket the premiums, issue dividends to shareholders, enter insolvency proceedings if a catastrophic event ever takes place, and hide behind limited liability. Such insurance, however, is not effective for the insured entity. One argument that was used by financial institutions to obtain special advantages in bankruptcy for derivative contracts was a claim that the market is both critical and fragile. Systemic risk can also be defined as the likelihood and degree of negative consequences to the larger body. With respect to federal financial regulation, the systemic risk of a financial institution is the likelihood and the degree that the institution's activities will negatively affect the larger economy such that unusual and extreme federal intervention would be required to ameliorate the effects. A general definition of systemic risk which is not limited by its mathematical approaches, model assumptions or focus on one institution, and which is also the first operationalizable definition of systemic risk encompassing the systemic character of financial, political, environmental, and many other risks, was put forth in 2010. The Systemic Risk Centre at the London School of Economics is focused on the study of systemic risk. It finds that systemic risk is a form of endogenous risk, hence frustrating empirical measurements of systemic risk.",
+    "token_estimate": 276,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "1a68d4a8-9a76-4cfd-a2ce-37c104eb6060",
+    "document_id": "Systemic_risk",
+    "sequence": 2,
+    "section_title": "= Too connected to fail =",
+    "content": "A more useful systemic risk measure than a traditional TBTF test is a \"too connected to fail\" (TCTF) assessment.  An intuitive TCTF analysis has been at the heart of most recent federal financial emergency relief decisions  TCTF is a measure of the likelihood and amount of medium-term net negative impact to the larger economy of an institution's failure to be able to conduct its ongoing business.\nNetwork models have been proposed as a method for quantifying the impact of interconnectedness on systemic risk.\nThe impact is measured not just on the institution's products and activities, but also the economic multiplier of all other commercial activities dependent specifically on that institution. It is also dependent on how correlated an institution's business is with other systemic risk.",
+    "token_estimate": 125,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "sequence": 3,
+    "section_title": "SRISK",
+    "content": "A financial institution represents a systemic risk if it becomes undercapitalized when the financial system as a whole is undercapitalized. In a single risk factor model, Brownlees and Engle  build a systemic risk measure named SRISK. SRISK can be interpreted as the amount of capital that needs to be injected into a financial firm as to restore a certain form of minimal capital requirement. SRISK has several nice properties: SRISK is expressed in monetary terms and is, therefore, easy to interpret. SRISK can be easily aggregated across firms to provide industry and even country specific aggregates. Last, the computation of SRISK involves variables which may be viewed on their own as risk measures.  These are the size of the financial firm, the leverage (ratio of assets to market capitalization), and a measure of how the return of the firm evolves with the market (some sort of time varying conditional beta but with emphasis on the tail of the distribution).\nWhereas the initial Brownlees and Engle model is tailored to the US market, the extension by Engle, Jondeau, and Rockinger is more suitable for the European markets. One factor captures worldwide variations of financial markets, another one the variations of European markets. This extension allows for a country-specific factor.\nBy accounting for different factors, one captures the notion that shocks to the US or Asian markets may affect Europe, but also that bad news within Europe (such as the news about a potential default of one of the countries) matters for Europe. Also, there may be country specific news that does not affect Europe or the US, but matters for a given country. Empirically the last factor is less relevant than the worldwide or European factor.\nSince SRISK is measured in terms of currency, the industry aggregates may also be related to Gross Domestic Product. As such one obtains a measure of domestic, systemically important banks.\nThe SRISK Systemic Risk Indicator is computed automatically on a weekly basis and made available to the community. For the US model, SRISK and other statistics may be found under the Volatility Lab of NYU Stern School website and for the European model under the Center of Risk Management (CRML) website of HEC Lausanne.",
+    "token_estimate": 369,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "50b8a256-8223-49f1-9d0e-4523c270d3f1",
+    "document_id": "Systemic_risk",
+    "sequence": 4,
+    "section_title": "Inadequacy of classic valuation models",
+    "content": "One problem when it comes to the valuation of derivatives, debt, or equity under systemic risk is that financial interconnectedness has to be modelled. One particular problem is posed by closed valuations chains, as exemplified here for four firms A, B, C, and D:\n\nB might hold shares of A, C holds some debt of B, D owns a derivative issued by C, and A owns some debt of D.\nFor instance, the share price of A could influence all other asset values, including itself.",
+    "token_estimate": 85,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "sequence": 5,
+    "section_title": "Structural models under financial interconnectedness",
+    "content": "The first authors to consider structural models for financial systems where each firm could own the debt of other firms were Eisenberg and Noe in 2001. Suzuki (2002) extended the analysis of interconnectedness by modeling the cross ownership of both debt and equity claims. Building on Eisenberg and Noe (2001), Cifuentes, Ferrucci, and Shin (2005) considered the effect of costs of default on network stability. Elsinger's further developed the Eisenberg and Noe (2001) model by incorporating financial claims of differing priority.\nAcemoglu, Ozdaglar, and Tahbaz-Salehi, (2015) developed a structural systemic risk model incorporating both distress costs and debt claim with varying priorities and used this model to examine the effects of network interconnectedness on financial stability. They showed that, up to a certain point, interconnectedness enhances financial stability. However, once a critical threshold density of connectedness is exceeded, further increases in the density of the financial network propagate risk.\nGlasserman and Young (2015) applied the  Eisenberg and Noe (2001) to modelling the effect of shocks to banking networks. They develop general bounds for the effects of network connectivity on default probabilities. In contrast to most of the structural systemic risk literature, their results are quite general and do not require assuming a specific network architecture or specific shock distributions.",
+    "token_estimate": 209,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "7e753092-f319-407d-9fea-402cd4c7d80c",
+    "document_id": "Systemic_risk",
+    "sequence": 6,
+    "section_title": "Factors",
+    "content": "Factors that are found to support systemic risks are:\n\nEconomic implications of models are not well understood. Though each individual model may be made accurate, the facts that (1) all models across the board use the same theoretical basis, and (2) the relationship between financial markets and the economy is not known lead to aggravation of systemic risks.\nLiquidity risks are not accounted for in pricing models used in trading on the financial markets. Since all models are not geared towards this scenario, all participants in an illiquid market using such models will face systemic risks.",
+    "token_estimate": 96,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "sequence": 7,
+    "section_title": "Systemic risk and insurance",
+    "content": "In February 2010, international insurance economics think tank, The Geneva Association, published a 110-page analysis of the role of insurers in systemic risk. In the report, the differing roles of insurers and banks in the global financial system and their impact on the crisis are examined (See also CEA report, \"Why Insurers Differ from Banks\"). A key conclusion of the analysis is that the core activities of insurers and reinsurers do not pose systemic risks due to the specific features of the industry: Insurance is funded by up-front premia, giving insurers strong operating cash-flow without the requirement for wholesale funding; Insurance policies are generally long-term, with controlled outflows, enabling insurers to act as stabilisers to the financial system; During the 2008 financial crisis, insurers maintained relatively steady capacity, business volumes and prices. Applying the most commonly cited definition of systemic risk, that of the Financial Stability Board (FSB), to the core activities of insurers and reinsurers, the report concludes that none are systemically relevant for at least one of the following reasons: Their limited size means that there would not be disruptive effects on financial markets; An insurance insolvency develops slowly and can often be absorbed by, for example, capital raising, or, in a worst case, an orderly wind down; The features of the interrelationships of insurance activities mean that contagion risk would be limited. The report underlines that supervisors and policymakers should focus on activities rather than financial institutions when introducing new regulation and that upcoming insurance regulatory regimes, such as Solvency II in the European Union, already adequately address insurance activities. However, during the 2008 financial crisis, a small number of quasi-banking activities conducted by insurers either caused failure or triggered significant difficulties. The report therefore identifies two activities which, when conducted on a widespread scale without proper risk control frameworks, have the potential for systemic relevance. Derivatives trading on non-insurance balance sheets; Mis-management of short-term funding from commercial paper or securities lending. The industry has put forward five recommendations to address these particular activities and strengthen financial stability: The implementation of a comprehensive, integrated and principle-based supervision framework for insurance groups, in order to capture, among other things, any non-insurance activities such as excessive derivative activities. Strengthening liquidity risk management, particularly to address potential mis-management issues related to short-term funding. Enhancement of the regulation of financial guarantee insurance, which has a very different business model than traditional",
+    "token_estimate": 400,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "sequence": 8,
+    "section_title": "Systemic risk and insurance",
+    "content": "framework for insurance groups, in order to capture, among other things, any non-insurance activities such as excessive derivative activities. Strengthening liquidity risk management, particularly to address potential mis-management issues related to short-term funding. Enhancement of the regulation of financial guarantee insurance, which has a very different business model than traditional insurance. The establishment of macro-prudential monitoring with appropriate insurance representation. The strengthening of industry risk management practices to build on the lessons learned by the industry and the sharing experiences with supervisors on a global scale. Since the publication of The Geneva Association statement, in June 2010, the International Association of Insurance Supervisors (IAIS) issued its position statement on key financial stability issues. A key conclusion of the statement was that, \"The insurance sector is susceptible to systemic risks generated in other parts of the financial sector. For most classes of insurance, however, there is little evidence of insurance either generating or amplifying systemic risk, within the financial system itself or in the real economy.\" Other organisations such as the CEA and the Property Casualty Insurers Association of America (PCI) have issued reports on the same subject.",
+    "token_estimate": 187,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "sequence": 9,
+    "section_title": "Discussion",
+    "content": "Systemic risk evaluates the likelihood and degree of negative consequences to the larger body. The term \"systemic risk\" is frequently used in recent discussions related to the economic crisis, such as the subprime mortgage crisis. The systemic risk of a financial institution is the likelihood and the degree that the institution's activities will negatively affect the larger economy such that unusual and extreme federal intervention would be required to ameliorate the effects. The 2008 financial crisis resulted in bank failures that caused systemic risk to the larger economy. Chairman Barney Frank expressed concerns regarding the vulnerability of highly leveraged financial systems to systemic risk and the US government has debated how to address financial services regulatory reform and systemic risk. A series of empirical studies published between the 1990s and 2000s showed that deregulation and increasingly fierce competition lowers bank's profit margin and encourages the moral hazard to take excessive credit risks to increase profits. On the other hand, the same effect was measured in presence of a banking oligopoly in which banking sector was dominated by a restricted number of market operators encouraged by their market share and contractual power to set higher loan mean rates. An excessive number of market operators was sometimes deliberately introduced with a below market value selling to cause a price war and a wave of bank massive failures, subsequently degenerating in the creation a market cartel: those two phases had been seen as expressions of the same interest to collude at generally lower prices (and then higher), resulting possible because of a lack of regulation ordered to prevent both of them. Banks are the entities most likely to be exposed to valuation risk as a result of their massive holdings of financial instruments classified as Level 2 or 3 of the fair value hierarchy. In Europe, at the end of 2020 the banks under the direct supervision of the European Central Bank (ECB) held fair-valued financial instruments in an amount of \u20ac8.7 trillion, of which \u20ac6.6 trillion classified as Level 2 or 3. Level 2 and Level 3 instruments respectively amounted to 495% and 23% of the banks' highest-quality capital (so-called Tier 1 Capital). As an implication, even small errors in such financial instruments' valuations may have significant impacts on banks' capital. In February 2020 the European Systemic Risk Board warned in a report that substantial amounts of financial instruments with complex features",
+    "token_estimate": 400,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "4283032a-53a9-4ecf-a40e-78925ab6f556",
+    "document_id": "Systemic_risk",
+    "sequence": 10,
+    "section_title": "Discussion",
+    "content": "and 23% of the banks' highest-quality capital (so-called Tier 1 Capital). As an implication, even small errors in such financial instruments' valuations may have significant impacts on banks' capital. In February 2020 the European Systemic Risk Board warned in a report that substantial amounts of financial instruments with complex features and limited liquidity that sit in banks' balance sheets are a source of risk for the stability of the global financial system. In Europe, at the end of 2020 the banks under the direct supervision of the European Central Bank (ECB) held financial instruments subject to fair value accounting in an amount of \u20ac8.7 trillion. Of these, \u20ac6.6 trillion were classified as Level 2 or 3 in the so-called Fair Value Hierarchy, which means that they are potentially exposed to valuation risk, i.e. to uncertainty about their actual market value. Level 2 and Level 3 instruments respectively amounted to 495% and 23% of the banks' highest-quality capital (so-called Tier 1 Capital). As an implication, even small errors in such financial instruments' valuations may have significant impacts on banks' capital.",
+    "token_estimate": 179,
+    "title": "Systemic risk",
+    "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+    "domain": "finance"
+  }
+]

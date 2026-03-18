@@ -1,0 +1,3258 @@
+[
+  {
+    "assertion_id": "34d0c6cd-e61c-43eb-a5b9-79e4b69a4e01",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "Directive (EU) 2025/2 was formally adopted by the European Parliament and Council in November 2024.",
+    "subject": "Directive (EU) 2025/2",
+    "predicate_type": "governs",
+    "object_text": "formally adopted by the European Parliament and Council in November 2024",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Directive (EU) 2025/2 was formally adopted by the European Parliament and Council in November 2024.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "European Parliament",
+      "Council"
+    ],
+    "regulations": [
+      "Directive (EU) 2025/2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "231130f3-f9f9-4a6c-a14d-b87326547b48",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "Directive (EU) 2025/2 is the first comprehensive revision of the Solvency II framework since its entry into force in 2016.",
+    "subject": "Directive (EU) 2025/2",
+    "predicate_type": "governs",
+    "object_text": "the first comprehensive revision of the Solvency II framework since its entry into force in 2016",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Directive (EU) 2025/2 is the first comprehensive revision of the Solvency II framework since its entry into force in 2016.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Directive (EU) 2025/2",
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "456693f8-75ca-4e2e-916b-df411659da71",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "The revised directive amends the original 2009 text across several material dimensions.",
+    "subject": "revised directive",
+    "predicate_type": "governs",
+    "object_text": "amends the original 2009 text across several material dimensions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The revised directive amends the original 2009 text across several material dimensions.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0f5e2f8f-225b-4ad6-95ba-b0c069f0ea76",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "The revised directive must be transposed by all EU member states by 30 January 2027.",
+    "subject": "revised directive",
+    "predicate_type": "requires",
+    "object_text": "transposed by all EU member states by 30 January 2027",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The revised directive must be transposed by all EU member states by 30 January 2027.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ed6c7f48-a8ac-4f67-b656-7a4e4975325c",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "The amended delegated regulations enter application from January 2027.",
+    "subject": "amended delegated regulations",
+    "predicate_type": "governs",
+    "object_text": "enter application from January 2027",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The amended delegated regulations enter application from January 2027.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6a4b699c-c273-4e5d-9c5d-71013c38d679",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "The revision mandates integration of sustainability and climate risks into the standard formula for the first time.",
+    "subject": "revision",
+    "predicate_type": "requires",
+    "object_text": "integration of sustainability and climate risks into the standard formula for the first time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The revision mandates integration of sustainability and climate risks into the standard formula for the first time.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "sustainability",
+      "climate_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1a8add2e-b723-460d-9678-04e547da129f",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "The revision reflects recommendations from the EIOPA opinion on supervisory convergence for climate-related risks published in 2023.",
+    "subject": "revision",
+    "predicate_type": "relates_to",
+    "object_text": "recommendations from the EIOPA opinion on supervisory convergence for climate-related risks published in 2023",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The revision reflects recommendations from the EIOPA opinion on supervisory convergence for climate-related risks published in 2023.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "climate_risk"
+    ],
+    "entities": [
+      "EIOPA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7b8dd20c-615c-41e4-a2ce-b497d8efc376",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "A significant proportionality innovation in the 2025 revision is the introduction of \"small and non-complex enterprises\" (SNCE) status.",
+    "subject": "2025 revision",
+    "predicate_type": "governs",
+    "object_text": "introduction of \"small and non-complex enterprises\" (SNCE) status",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A significant proportionality innovation in the 2025 revision is the introduction of \"small and non-complex enterprises\" (SNCE) status.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce827237-ff4a-432d-9cfc-b7106697dc14",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "\"Small and non-complex enterprises\" (SNCE) status is available to insurance undertakings below EUR 100 million in gross premium volume with limited cross-border activity.",
+    "subject": "\"Small and non-complex enterprises\" (SNCE) status",
+    "predicate_type": "defines",
+    "object_text": "available to insurance undertakings below EUR 100 million in gross premium volume with limited cross-border activity",
+    "object_value": 100000000.0,
+    "object_unit": "EUR",
+    "source_text": "\"Small and non-complex enterprises\" (SNCE) status is available to insurance undertakings below EUR 100 million in gross premium volume with limited cross-border activity.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f43a2933-dc60-4c44-92e2-91db43c1c070",
+    "chunk_id": "3c7a5e04-52c3-403b-8683-bd1567ec3cbb",
+    "document_id": "Solvency_II",
+    "claim_text": "SNCE-status insurers benefit from reduced reporting obligations, including elimination of the regular supervisory report and simplified quarterly reporting templates.",
+    "subject": "SNCE-status insurers",
+    "predicate_type": "permits",
+    "object_text": "reduced reporting obligations, including elimination of the regular supervisory report and simplified quarterly reporting templates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "SNCE-status insurers benefit from reduced reporting obligations, including elimination of the regular supervisory report and simplified quarterly reporting templates.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory",
+      "reporting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b67dca0e-3f99-461b-a2a5-abbeeb81143a",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "A number of the large Life Insurers in the UK are unhappy with the way the legislation has been developed.",
+    "subject": "large Life Insurers in the UK",
+    "predicate_type": "relates_to",
+    "object_text": "unhappy with the way the legislation has been developed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A number of the large Life Insurers in the UK are unhappy with the way the legislation has been developed.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Life Insurers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b949d0ef-6843-496f-8fdd-c47e56c3cad4",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "Concerns have been publicly expressed over a number of years by the CEO of Prudential.",
+    "subject": "CEO of Prudential",
+    "predicate_type": "relates_to",
+    "object_text": "concerns have been publicly expressed over a number of years",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Concerns have been publicly expressed over a number of years by the CEO of Prudential.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Prudential"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1608f223-9e8f-45a2-afa4-7efe14d3273f",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "Prudential is the UK's largest Life Insurance company.",
+    "subject": "Prudential",
+    "predicate_type": "classifies",
+    "object_text": "the UK's largest Life Insurance company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Prudential is the UK's largest Life Insurance company.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_share"
+    ],
+    "entities": [
+      "Prudential"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb3f5df4-fe08-41eb-a9d0-ac0097ae1428",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "Doubts about the basis of the Solvency II legislation have been expressed by American subsidiaries of UK parents.",
+    "subject": "American subsidiaries of UK parents",
+    "predicate_type": "relates_to",
+    "object_text": "doubts about the basis of the Solvency II legislation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Doubts about the basis of the Solvency II legislation have been expressed by American subsidiaries of UK parents.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e9bcef1-58f2-4e83-931c-9b4f55a9fb46",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "Doubts about the enforcement of a market-consistent valuation approach have been expressed by American subsidiaries of UK parents.",
+    "subject": "American subsidiaries of UK parents",
+    "predicate_type": "relates_to",
+    "object_text": "doubts about the enforcement of a market-consistent valuation approach",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Doubts about the enforcement of a market-consistent valuation approach have been expressed by American subsidiaries of UK parents.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "33078644-b492-43c9-ad75-648e2c0aace2",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "The impact of the 'equivalency' requirements are not well understood.",
+    "subject": "impact of the 'equivalency' requirements",
+    "predicate_type": "relates_to",
+    "object_text": "not well understood",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The impact of the 'equivalency' requirements are not well understood.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5e88d82e-4eec-494d-9825-5731ccdd9056",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "The legislation could lead to overseas subsidiaries becoming uncompetitive with local peers.",
+    "subject": "legislation",
+    "predicate_type": "causes",
+    "object_text": "overseas subsidiaries becoming uncompetitive with local peers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The legislation could lead to overseas subsidiaries becoming uncompetitive with local peers.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "competition"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e81c8321-b257-44b2-8b08-d3f2402c30cd",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "The legislation could result in the need to sell them off.",
+    "subject": "legislation",
+    "predicate_type": "causes",
+    "object_text": "the need to sell them off",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The legislation could result in the need to sell them off.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "divestiture"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c94b7530-dcbf-4dd8-9251-7114f285befe",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "The legislation could potentially result in a 'Fortress Europe'.",
+    "subject": "legislation",
+    "predicate_type": "causes",
+    "object_text": "potentially result in a 'Fortress Europe'",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The legislation could potentially result in a 'Fortress Europe'.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "527151e6-32a9-4ffc-bdf2-7a6f4fe57100",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "Following Brexit, the United Kingdom implemented its own framework, known as Solvency UK.",
+    "subject": "United Kingdom",
+    "predicate_type": "implements",
+    "object_text": "its own framework, known as Solvency UK",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Following Brexit, the United Kingdom implemented its own framework, known as Solvency UK.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Solvency UK"
+    ],
+    "regulations": [
+      "Solvency UK"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "72bba840-898f-44ba-8908-39c4508cf800",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "Solvency UK took full effect at 31 December 2024.",
+    "subject": "Solvency UK",
+    "predicate_type": "relates_to",
+    "object_text": "took full effect at 31 December 2024",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Solvency UK took full effect at 31 December 2024.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Solvency UK"
+    ],
+    "regulations": [
+      "Solvency UK"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3c77d2e1-e490-42f2-91e0-3cfd8058f9fa",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "The Prudential Regulation Authority relaxed the Matching Adjustment rules to allow insurers to hold more illiquid long-term assets such as infrastructure debt.",
+    "subject": "Prudential Regulation Authority",
+    "predicate_type": "permits",
+    "object_text": "insurers to hold more illiquid long-term assets such as infrastructure debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Prudential Regulation Authority relaxed the Matching Adjustment rules to allow insurers to hold more illiquid long-term assets such as infrastructure debt.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "Prudential Regulation Authority",
+      "Matching Adjustment"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6135e9ec-9758-4b92-962b-717c032c1abd",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "The Prudential Regulation Authority proposed the Matching Adjustment Accelerator in April 2025.",
+    "subject": "Prudential Regulation Authority",
+    "predicate_type": "relates_to",
+    "object_text": "proposed the Matching Adjustment Accelerator in April 2025",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Prudential Regulation Authority proposed the Matching Adjustment Accelerator in April 2025.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Prudential Regulation Authority",
+      "Matching Adjustment Accelerator"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "070b08a6-52a7-4d44-ad6d-decc289c43ca",
+    "chunk_id": "8f7e93e4-3c9c-4d5b-ad80-7fbe098a4e68",
+    "document_id": "Solvency_II",
+    "claim_text": "The divergence between Solvency UK and the revised EU directive has prompted debate among EU-based insurers about competitive disparities in capital deployment.",
+    "subject": "divergence between Solvency UK and the revised EU directive",
+    "predicate_type": "causes",
+    "object_text": "debate among EU-based insurers about competitive disparities in capital deployment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The divergence between Solvency UK and the revised EU directive has prompted debate among EU-based insurers about competitive disparities in capital deployment.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "competition"
+    ],
+    "entities": [
+      "Solvency UK"
+    ],
+    "regulations": [
+      "Solvency UK"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62a3afae-f19e-4ce2-a615-70f89a7a5ab9",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "Since Directive 73/239/EEC was introduced in 1973, more elaborate risk management systems developed.",
+    "subject": "more elaborate risk management systems",
+    "predicate_type": "causes",
+    "object_text": "development",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Since Directive 73/239/EEC was introduced in 1973, more elaborate risk management systems developed.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "Directive 73/239/EEC"
+    ],
+    "regulations": [
+      "Directive 73/239/EEC"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d14f9ab7-fd16-45bb-8120-907c77000904",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "Solvency II reflects new risk management practices to define required capital and manage risk.",
+    "subject": "Solvency II",
+    "predicate_type": "implements",
+    "object_text": "new risk management practices to define required capital and manage risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Solvency II reflects new risk management practices to define required capital and manage risk.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05d17ab5-db7a-4601-8f04-e66856f68f93",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "The \"Solvency I\" Directive was aimed at revising and updating the current EU Solvency regime.",
+    "subject": "\"Solvency I\" Directive",
+    "predicate_type": "implements",
+    "object_text": "revising and updating the current EU Solvency regime",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The \"Solvency I\" Directive was aimed at revising and updating the current EU Solvency regime.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "solvency"
+    ],
+    "entities": [
+      "Solvency I Directive"
+    ],
+    "regulations": [
+      "Solvency I"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59cf1011-9207-4e97-8c59-9d1ed790430a",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "Solvency II has a much wider scope.",
+    "subject": "Solvency II",
+    "predicate_type": "relates_to",
+    "object_text": "a much wider scope",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Solvency II has a much wider scope.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "solvency"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "13f858f6-bb3f-4b5c-bdbb-9c33853f50c2",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "A solvency capital requirement may reduce the risk that an insurer would be unable to meet claims.",
+    "subject": "solvency capital requirement",
+    "predicate_type": "relates_to",
+    "object_text": "reduce the risk that an insurer would be unable to meet claims",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A solvency capital requirement may reduce the risk that an insurer would be unable to meet claims.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "solvency",
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "12812801-4bfe-4007-9485-81e9b3cf0f2e",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "A solvency capital requirement may reduce the losses suffered by policyholders in the event that a firm is unable to meet all claims fully.",
+    "subject": "solvency capital requirement",
+    "predicate_type": "relates_to",
+    "object_text": "reduce the losses suffered by policyholders in the event that a firm is unable to meet all claims fully",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A solvency capital requirement may reduce the losses suffered by policyholders in the event that a firm is unable to meet all claims fully.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "solvency",
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3516374a-495f-4632-8080-9f2503250531",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "A solvency capital requirement may provide early warning to supervisors so that they can intervene promptly if capital falls below the required level.",
+    "subject": "solvency capital requirement",
+    "predicate_type": "relates_to",
+    "object_text": "provide early warning to supervisors so that they can intervene promptly if capital falls below the required level",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A solvency capital requirement may provide early warning to supervisors so that they can intervene promptly if capital falls below the required level.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "solvency",
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "552004bd-3aad-4bcf-a1cd-d622d94a08a9",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "A solvency capital requirement may promote confidence in the financial stability of the insurance sector",
+    "subject": "solvency capital requirement",
+    "predicate_type": "relates_to",
+    "object_text": "promote confidence in the financial stability of the insurance sector",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A solvency capital requirement may promote confidence in the financial stability of the insurance sector",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "solvency",
+      "capital_adequacy",
+      "financial stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3226b93a-6b4e-4be4-a761-66fef25ac8f6",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "Solvency II is somewhat similar to the banking regulations of Basel II.",
+    "subject": "Solvency II",
+    "predicate_type": "relates_to",
+    "object_text": "somewhat similar to the banking regulations of Basel II",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Solvency II is somewhat similar to the banking regulations of Basel II.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "solvency",
+      "banking regulations"
+    ],
+    "entities": [
+      "Solvency II",
+      "Basel II"
+    ],
+    "regulations": [
+      "Solvency II",
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1e4f403-4783-4d84-afa3-55c39a5d6666",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "Pillar 1 consists of the quantitative requirements.",
+    "subject": "Pillar 1",
+    "predicate_type": "defines",
+    "object_text": "the quantitative requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Pillar 1 consists of the quantitative requirements.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "56b549b4-81e3-42b0-ab33-99bf4deaded2",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "Pillar 2 sets out requirements for the governance and risk management of insurers, as well as for the effective supervision of insurers.",
+    "subject": "Pillar 2",
+    "predicate_type": "requires",
+    "object_text": "requirements for the governance and risk management of insurers, as well as for the effective supervision of insurers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Pillar 2 sets out requirements for the governance and risk management of insurers, as well as for the effective supervision of insurers.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance",
+      "risk management",
+      "supervision"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "48eb7fd9-3310-4580-86e6-d6f2d6037bdb",
+    "chunk_id": "9f775431-066e-49ba-9f77-f8c73c6d8825",
+    "document_id": "Solvency_II",
+    "claim_text": "Pillar 3 focuses on disclosure and transparency requirements.",
+    "subject": "Pillar 3",
+    "predicate_type": "relates_to",
+    "object_text": "disclosure and transparency requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Pillar 3 focuses on disclosure and transparency requirements.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "disclosure",
+      "transparency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4689dfc5-1632-48ef-a13c-29b99b6dfe3b",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "The pillar 1 framework set out qualitative and quantitative requirements for calculation of technical provisions and Solvency Capital Requirement (SCR) using either a standard formula given by the regulators or an internal model developed by the (re)insurance company.",
+    "subject": "pillar 1 framework",
+    "predicate_type": "requires",
+    "object_text": "qualitative and quantitative requirements for calculation of technical provisions and Solvency Capital Requirement (SCR) using either a standard formula given by the regulators or an internal model developed by the (re)insurance company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The pillar 1 framework set out qualitative and quantitative requirements for calculation of technical provisions and Solvency Capital Requirement (SCR) using either a standard formula given by the regulators or an internal model developed by the (re)insurance company.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "solvency",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Solvency Capital Requirement",
+      "SCR"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "56aa9428-0361-4879-9e3c-738caa54994f",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "Technical provisions are divided on claim provisions, pertaining to earned business and premium provisions, pertaining to unearned business.",
+    "subject": "Technical provisions",
+    "predicate_type": "classifies",
+    "object_text": "claim provisions, pertaining to earned business and premium provisions, pertaining to unearned business",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Technical provisions are divided on claim provisions, pertaining to earned business and premium provisions, pertaining to unearned business.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6b9579d4-bbba-4f5f-932f-dd8fafffad93",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "Premium provisions are not equal to unearned premium reserve.",
+    "subject": "Premium provisions",
+    "predicate_type": "prohibits",
+    "object_text": "being equal to unearned premium reserve",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Premium provisions are not equal to unearned premium reserve.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "82a70951-ea35-4bc1-bf10-4d40a29a6f46",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "The value of technical provision should be equal to the sum of best estimate of the liabilities and risk margin.",
+    "subject": "value of technical provision",
+    "predicate_type": "requires",
+    "object_text": "the sum of best estimate of the liabilities and risk margin",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The value of technical provision should be equal to the sum of best estimate of the liabilities and risk margin.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e1e7abea-d46e-4b93-96f5-32c0acc19287",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "The best estimate corresponds to the probability-weighted average of future cash-flows, taking into account the time value of money.",
+    "subject": "best estimate",
+    "predicate_type": "defines",
+    "object_text": "the probability-weighted average of future cash-flows, taking into account the time value of money",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The best estimate corresponds to the probability-weighted average of future cash-flows, taking into account the time value of money.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "750cd162-e31d-4648-8f6b-6c2076aaf102",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "Usage of central actuarial estimate is required and no margin for prudence is allowed.",
+    "subject": "Usage of central actuarial estimate",
+    "predicate_type": "requires",
+    "object_text": "central actuarial estimate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Usage of central actuarial estimate is required and no margin for prudence is allowed.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5b840de0-c063-4b54-8619-48136017703a",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "no margin for prudence is allowed.",
+    "subject": "margin for prudence",
+    "predicate_type": "prohibits",
+    "object_text": "being allowed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "no margin for prudence is allowed.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ccf945b-8ea3-4e79-8c81-3c703ee3b796",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "Only cash-flows that are within contract boundaries are taken into consideration.",
+    "subject": "cash-flows",
+    "predicate_type": "constrains",
+    "object_text": "being taken into consideration to only those within contract boundaries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Only cash-flows that are within contract boundaries are taken into consideration.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "633ac53e-f822-4423-b0e0-7eace4b07e10",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "Solvency II specifies exact rules for determination of these contract boundaries.",
+    "subject": "Solvency II",
+    "predicate_type": "governs",
+    "object_text": "exact rules for determination of these contract boundaries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Solvency II specifies exact rules for determination of these contract boundaries.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1cce4896-82d2-43af-ba96-ede1c16d1ce5",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "Technical provisions represent the current amount the (re)insurance company would have to pay for an immediate transfer of its obligations to a third party.",
+    "subject": "Technical provisions",
+    "predicate_type": "defines",
+    "object_text": "the current amount the (re)insurance company would have to pay for an immediate transfer of its obligations to a third party",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Technical provisions represent the current amount the (re)insurance company would have to pay for an immediate transfer of its obligations to a third party.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "technical provisions"
+    ],
+    "entities": [],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8af393b6-d628-45a8-bf9d-4d8ecb3d1501",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "The SCR is the capital required to ensure that the (re)insurance company will be able to meet its obligations over the next 12 months with a probability of at least 99.5%.",
+    "subject": "SCR",
+    "predicate_type": "defines",
+    "object_text": "the capital required to ensure that the (re)insurance company will be able to meet its obligations over the next 12 months with a probability of at least 99.5%",
+    "object_value": 99.5,
+    "object_unit": "%",
+    "source_text": "The SCR is the capital required to ensure that the (re)insurance company will be able to meet its obligations over the next 12 months with a probability of at least 99.5%.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "solvency"
+    ],
+    "entities": [
+      "SCR"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c30e1a60-8603-4ede-9894-e772837f6301",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "In addition to the SCR capital a Minimum capital requirement (MCR) must be calculated which represents the threshold below which the national supervisor (regulator) would intervene.",
+    "subject": "Minimum capital requirement (MCR)",
+    "predicate_type": "defines",
+    "object_text": "the threshold below which the national supervisor (regulator) would intervene",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In addition to the SCR capital a Minimum capital requirement (MCR) must be calculated which represents the threshold below which the national supervisor (regulator) would intervene.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "solvency"
+    ],
+    "entities": [
+      "SCR",
+      "MCR"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2d09d6aa-761f-4b65-b8f2-2638f8eafc63",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "The MCR is intended to correspond to an 85% probability of adequacy over a one-year period",
+    "subject": "MCR",
+    "predicate_type": "relates_to",
+    "object_text": "an 85% probability of adequacy over a one-year period",
+    "object_value": 85.0,
+    "object_unit": "%",
+    "source_text": "The MCR is intended to correspond to an 85% probability of adequacy over a one-year period",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "solvency"
+    ],
+    "entities": [
+      "MCR"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5a7981a6-0409-4b83-b353-e8450dfd242a",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "The MCR is bounded between 25% and 45% of the SCR.",
+    "subject": "MCR",
+    "predicate_type": "constrains",
+    "object_text": "being bounded between 25% and 45% of the SCR",
+    "object_value": null,
+    "object_unit": "%",
+    "source_text": "The MCR is bounded between 25% and 45% of the SCR.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "solvency"
+    ],
+    "entities": [
+      "MCR",
+      "SCR"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "acbaee2c-b608-450b-8221-8f12a8d8ff71",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "For supervisory purposes, the SCR and MCR can be regarded as \"soft\" and \"hard\" floors respectively.",
+    "subject": "SCR and MCR",
+    "predicate_type": "relates_to",
+    "object_text": "being regarded as \"soft\" and \"hard\" floors respectively for supervisory purposes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For supervisory purposes, the SCR and MCR can be regarded as \"soft\" and \"hard\" floors respectively.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "solvency"
+    ],
+    "entities": [
+      "SCR",
+      "MCR"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9329f94b-817d-4382-8f75-ce36684afa8a",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "a regulatory ladder of intervention applies once the capital holding of the (re)insurance undertaking falls below the SCR, with the intervention becoming progressively more intense as the capital holding approaches the MCR.",
+    "subject": "regulatory ladder of intervention",
+    "predicate_type": "implements",
+    "object_text": "applying once the capital holding of the (re)insurance undertaking falls below the SCR, with the intervention becoming progressively more intense as the capital holding approaches the MCR",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "a regulatory ladder of intervention applies once the capital holding of the (re)insurance undertaking falls below the SCR, with the intervention becoming progressively more intense as the capital holding approaches the MCR.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "solvency"
+    ],
+    "entities": [
+      "SCR",
+      "MCR"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a609522a-07aa-4709-bc09-49f715b581a3",
+    "chunk_id": "8f2b757c-7d63-43b0-8744-b91669e53c43",
+    "document_id": "Solvency_II",
+    "claim_text": "The Solvency II Directive provides regional supervisors with a number of discretions to address breaches of the MCR, including the withdrawal of authorization from selling new business and the winding up of the company.",
+    "subject": "Solvency II Directive",
+    "predicate_type": "permits",
+    "object_text": "regional supervisors with a number of discretions to address breaches of the MCR, including the withdrawal of authorization from selling new business and the winding up of the company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Solvency II Directive provides regional supervisors with a number of discretions to address breaches of the MCR, including the withdrawal of authorization from selling new business and the winding up of the company.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "solvency"
+    ],
+    "entities": [
+      "MCR",
+      "Solvency II Directive"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "496a9b52-f76b-483f-90bc-ce00ccf74a4d",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "The demanding nature of Solvency II legislation compared to current regulations has attracted criticism.",
+    "subject": "Solvency II legislation",
+    "predicate_type": "relates_to",
+    "object_text": "attracted criticism due to its demanding nature compared to current regulations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The demanding nature of Solvency II legislation compared to current regulations has attracted criticism.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bf5af801-de1b-4a6d-8e88-27433fb628eb",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "Complying with the new legislation will impose a complex and significant burden on many European financial organizations.",
+    "subject": "complying with the new legislation",
+    "predicate_type": "causes",
+    "object_text": "a complex and significant burden on many European financial organizations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Complying with the new legislation will impose a complex and significant burden on many European financial organizations.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ecfa5363-fd60-46c7-8ab8-aa9f14c569f0",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "75% of firms in 2011 reported that they were not in a position to comply with Pillar III reporting requirements.",
+    "subject": "firms",
+    "predicate_type": "relates_to",
+    "object_text": "75% of firms in 2011 reported that they were not in a position to comply with Pillar III reporting requirements",
+    "object_value": 75.0,
+    "object_unit": "%",
+    "source_text": "75% of firms in 2011 reported that they were not in a position to comply with Pillar III reporting requirements.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance",
+      "reporting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "569eed62-73d9-4a6f-9678-b2b0fa9d90b6",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "The Matching adjustment mechanism of Solvency II has also been criticised as a form of creative accounting that hides the real value of liabilities.",
+    "subject": "Matching adjustment mechanism of Solvency II",
+    "predicate_type": "relates_to",
+    "object_text": "criticised as a form of creative accounting that hides the real value of liabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Matching adjustment mechanism of Solvency II has also been criticised as a form of creative accounting that hides the real value of liabilities.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "regulation"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "875e46da-029b-43c8-9b4c-0ed793dc1346",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "Mark-to-market capital requirements can amplify asset price volatility by forcing insurers into simultaneous asset sales during downturns.",
+    "subject": "mark-to-market capital requirements",
+    "predicate_type": "causes",
+    "object_text": "amplify asset price volatility by forcing insurers into simultaneous asset sales during downturns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mark-to-market capital requirements can amplify asset price volatility by forcing insurers into simultaneous asset sales during downturns.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "35f21187-f610-4ce9-ad63-94835b2ae964",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "Solvency II's reliance on risk-free interest rate curves makes insurance capital requirements highly sensitive to the low-for-long interest rate environment.",
+    "subject": "Solvency II",
+    "predicate_type": "causes",
+    "object_text": "insurance capital requirements highly sensitive to the low-for-long interest rate environment due to reliance on risk-free interest rate curves",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Solvency II's reliance on risk-free interest rate curves makes insurance capital requirements highly sensitive to the low-for-long interest rate environment.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "interest_rates"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f318b987-5779-4db7-994b-15199bbcc9b9",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "Solvency II creates incentives to reach for yield in illiquid asset classes that may not be fully reflected in the standard formula.",
+    "subject": "Solvency II",
+    "predicate_type": "causes",
+    "object_text": "incentives to reach for yield in illiquid asset classes that may not be fully reflected in the standard formula",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Solvency II creates incentives to reach for yield in illiquid asset classes that may not be fully reflected in the standard formula.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment_strategy",
+      "regulation"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0b46e68-ccce-4d76-b57e-5017aa988079",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "Full Solvency II compliance requires annual expenditure equivalent to 3 to 5 percent of premiums for smaller insurers.",
+    "subject": "full Solvency II compliance",
+    "predicate_type": "requires",
+    "object_text": "annual expenditure equivalent to 3 to 5 percent of premiums for smaller insurers",
+    "object_value": 3.0,
+    "object_unit": "%",
+    "source_text": "Full Solvency II compliance requires annual expenditure equivalent to 3 to 5 percent of premiums for smaller insurers.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance",
+      "costs"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1a3b2730-4b02-4341-995a-3873181e957e",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "Full Solvency II compliance requires annual expenditure equivalent to under 1 percent for large groups that can amortize systems and governance costs over a larger premium base.",
+    "subject": "full Solvency II compliance",
+    "predicate_type": "requires",
+    "object_text": "annual expenditure equivalent to under 1 percent for large groups that can amortize systems and governance costs over a larger premium base",
+    "object_value": 1.0,
+    "object_unit": "%",
+    "source_text": "Full Solvency II compliance requires annual expenditure equivalent to under 1 percent for large groups that can amortize systems and governance costs over a larger premium base.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance",
+      "costs"
+    ],
+    "entities": [
+      "Solvency II"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b68e6f26-737b-4339-9bb4-c06703a534f6",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "The introduction of SNCE proportionality status in Directive (EU) 2025/2 is intended to partially address this concern.",
+    "subject": "introduction of SNCE proportionality status in Directive (EU) 2025/2",
+    "predicate_type": "implements",
+    "object_text": "partially address this concern",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The introduction of SNCE proportionality status in Directive (EU) 2025/2 is intended to partially address this concern.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "SNCE proportionality status"
+    ],
+    "regulations": [
+      "Directive (EU) 2025/2"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "026bdd35-8589-4b94-a92d-fdaa3751ca9e",
+    "chunk_id": "2d648c00-a62e-473b-94a8-f49429b97264",
+    "document_id": "Solvency_II",
+    "claim_text": "The EUR 100 million threshold excludes the majority of mid-sized European mutuals that face the highest relative compliance burden.",
+    "subject": "EUR 100 million threshold",
+    "predicate_type": "constrains",
+    "object_text": "excludes the majority of mid-sized European mutuals that face the highest relative compliance burden",
+    "object_value": 100.0,
+    "object_unit": "EUR",
+    "source_text": "The EUR 100 million threshold excludes the majority of mid-sized European mutuals that face the highest relative compliance burden.",
+    "source_document": "Solvency II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance",
+      "thresholds"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  }
+]

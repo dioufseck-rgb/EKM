@@ -1,0 +1,6335 @@
+[
+  {
+    "assertion_id": "84d33d95-8b82-4eb0-b413-3a8e321c7ac8",
+    "chunk_id": "d2918517-eb7d-4445-a5e5-86b0cec5b30e",
+    "document_id": "Basel_III",
+    "claim_text": "New standards for \"interest rate risk in the banking book\" (IRRBB) became effective in 2023.",
+    "subject": "New standards for \"interest rate risk in the banking book\" (IRRBB)",
+    "predicate_type": "implements",
+    "object_text": "became effective in 2023",
+    "object_value": 2023,
+    "object_unit": null,
+    "source_text": "New standards for \"interest rate risk in the banking book\" (IRRBB) became effective in 2023.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "banking"
+    ],
+    "entities": [
+      "IRRBB"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b56e2a41-a204-483e-bf46-52159d72425e",
+    "chunk_id": "d2918517-eb7d-4445-a5e5-86b0cec5b30e",
+    "document_id": "Basel_III",
+    "claim_text": "Banks are required to calculate their exposures based on \"economic value of equity\" (EVE) and \"net interest income\" (NII) under a set of prescribed interest rate shock scenarios.",
+    "subject": "Banks",
+    "predicate_type": "requires",
+    "object_text": "calculate their exposures based on \"economic value of equity\" (EVE) and \"net interest income\" (NII) under a set of prescribed interest rate shock scenarios",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks are required to calculate their exposures based on \"economic value of equity\" (EVE) and \"net interest income\" (NII) under a set of prescribed interest rate shock scenarios.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "banking"
+    ],
+    "entities": [
+      "EVE",
+      "NII"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c7c7d916-1c4f-4249-b122-604c3b31a750",
+    "chunk_id": "d2918517-eb7d-4445-a5e5-86b0cec5b30e",
+    "document_id": "Basel_III",
+    "claim_text": "The standards thereby deal with the risks associated with a change in interest rates, including interest rate gaps, basis risk, yield curve risk, and option risk.",
+    "subject": "The standards",
+    "predicate_type": "relates_to",
+    "object_text": "the risks associated with a change in interest rates, including interest rate gaps, basis risk, yield curve risk, and option risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The standards thereby deal with the risks associated with a change in interest rates, including interest rate gaps, basis risk, yield curve risk, and option risk.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "banking"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e29c6a7-4548-4c3f-a074-c70c257c1713",
+    "chunk_id": "d2918517-eb7d-4445-a5e5-86b0cec5b30e",
+    "document_id": "Basel_III",
+    "claim_text": "The bank's exposure to IRRBB is then equal to the largest negative change in EVE across all scenarios - in essence, the theoretical risk to the economic value of a bank's equity from a change in interest rates.",
+    "subject": "The bank's exposure to IRRBB",
+    "predicate_type": "defines",
+    "object_text": "equal to the largest negative change in EVE across all scenarios - in essence, the theoretical risk to the economic value of a bank's equity from a change in interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The bank's exposure to IRRBB is then equal to the largest negative change in EVE across all scenarios - in essence, the theoretical risk to the economic value of a bank's equity from a change in interest rates.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "banking"
+    ],
+    "entities": [
+      "IRRBB",
+      "EVE"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05dfd6e4-46a6-4c69-a624-fafabff9d4a6",
+    "chunk_id": "d2918517-eb7d-4445-a5e5-86b0cec5b30e",
+    "document_id": "Basel_III",
+    "claim_text": "IRRBB falls under Pillar II.",
+    "subject": "IRRBB",
+    "predicate_type": "classifies",
+    "object_text": "Pillar II",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRRBB falls under Pillar II.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "banking"
+    ],
+    "entities": [
+      "IRRBB"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "58a1733d-5b41-49ac-b429-3c116334bab3",
+    "chunk_id": "c7d9b3b2-f821-4c0c-96fc-c762c5436ca9",
+    "document_id": "Basel_III",
+    "claim_text": "The liquidity coverage ratio requires banks to hold sufficient high-quality liquid assets to cover its total net cash outflows over 30 days under a stressed scenario.",
+    "subject": "liquidity coverage ratio",
+    "predicate_type": "requires",
+    "object_text": "banks to hold sufficient high-quality liquid assets to cover its total net cash outflows over 30 days under a stressed scenario",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The liquidity coverage ratio requires banks to hold sufficient high-quality liquid assets to cover its total net cash outflows over 30 days under a stressed scenario.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "basel"
+    ],
+    "entities": [
+      "liquidity coverage ratio"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c1b07d9d-8654-4259-8148-c0ae2629cb16",
+    "chunk_id": "c7d9b3b2-f821-4c0c-96fc-c762c5436ca9",
+    "document_id": "Basel_III",
+    "claim_text": "Some adequately-capitalized banks faced difficulties because of poor liquidity management.",
+    "subject": "Some adequately-capitalized banks",
+    "predicate_type": "causes",
+    "object_text": "difficulties",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some adequately-capitalized banks faced difficulties because of poor liquidity management.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5802ed23-1c80-4e38-94e4-298abce7dd67",
+    "chunk_id": "c7d9b3b2-f821-4c0c-96fc-c762c5436ca9",
+    "document_id": "Basel_III",
+    "claim_text": "The LCR consists of two parts: the numerator is the value of HQLA, and the denominator consists of the total net cash outflows over a specified stress period (total expected cash outflows minus total expected cash inflows).",
+    "subject": "LCR",
+    "predicate_type": "defines",
+    "object_text": "two parts: the numerator is the value of HQLA, and the denominator consists of the total net cash outflows over a specified stress period (total expected cash outflows minus total expected cash inflows)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The LCR consists of two parts: the numerator is the value of HQLA, and the denominator consists of the total net cash outflows over a specified stress period (total expected cash outflows minus total expected cash inflows).",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "basel"
+    ],
+    "entities": [
+      "LCR",
+      "HQLA"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3f36d145-fdcc-4c86-a7c9-c444ebbcb627",
+    "chunk_id": "c7d9b3b2-f821-4c0c-96fc-c762c5436ca9",
+    "document_id": "Basel_III",
+    "claim_text": "LCR = High quality liquid assets / Total net liquidity outflows over 30 days \u2265 100%",
+    "subject": "LCR",
+    "predicate_type": "requires",
+    "object_text": "High quality liquid assets / Total net liquidity outflows over 30 days \u2265 100%",
+    "object_value": 100.0,
+    "object_unit": "%",
+    "source_text": "LCR = High quality liquid assets / Total net liquidity outflows over 30 days \u2265 100%",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "basel"
+    ],
+    "entities": [
+      "LCR"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "50389f8a-a44f-496a-9dd4-787cbe084c7f",
+    "chunk_id": "c7d9b3b2-f821-4c0c-96fc-c762c5436ca9",
+    "document_id": "Basel_III",
+    "claim_text": "Regulators can allow banks to dip below their required liquidity levels per the liquidity coverage ratio during periods of stress.",
+    "subject": "Regulators",
+    "predicate_type": "permits",
+    "object_text": "banks to dip below their required liquidity levels per the liquidity coverage ratio during periods of stress",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Regulators can allow banks to dip below their required liquidity levels per the liquidity coverage ratio during periods of stress.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "basel"
+    ],
+    "entities": [
+      "liquidity coverage ratio"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d4d551b2-5715-417a-9ded-fda7ed61baa5",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "George Akerlof argued that Basel III did not go far enough to regulate banks.",
+    "subject": "Basel III",
+    "predicate_type": "constrains",
+    "object_text": "banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "George Akerlof argued that Basel III did not go far enough to regulate banks.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "banking"
+    ],
+    "entities": [
+      "Basel III",
+      "George Akerlof",
+      "University of California, Berkeley"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd3ef527-50b0-44a9-bfb3-69e5301c7768",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "Inadequate regulation was a cause of the 2008 financial crisis.",
+    "subject": "inadequate regulation",
+    "predicate_type": "causes",
+    "object_text": "the 2008 financial crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Inadequate regulation was a cause of the 2008 financial crisis.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_crisis",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "306023cf-8444-4642-bb3e-f2c9a7b5300e",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "Inadequate regulation remains an unresolved issue despite the severity of the impact of the Great Recession.",
+    "subject": "inadequate regulation",
+    "predicate_type": "relates_to",
+    "object_text": "an unresolved issue despite the severity of the impact of the Great Recession",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Inadequate regulation remains an unresolved issue despite the severity of the impact of the Great Recession.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "financial_stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "041c9354-b136-4c0b-ba83-90187a7a9e8c",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "In 2019, Michael Burry criticized Basel III for more or less removing price discovery from the credit markets.",
+    "subject": "Basel III",
+    "predicate_type": "constrains",
+    "object_text": "price discovery from the credit markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2019, Michael Burry criticized Basel III for more or less removing price discovery from the credit markets.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "credit_markets"
+    ],
+    "entities": [
+      "Basel III",
+      "Michael Burry"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eac943fc-16d9-4237-b5d7-9fbc03bf16dd",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "Risk does not have an accurate pricing mechanism in interest rates anymore.",
+    "subject": "risk",
+    "predicate_type": "relates_to",
+    "object_text": "does not have an accurate pricing mechanism in interest rates anymore",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Risk does not have an accurate pricing mechanism in interest rates anymore.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "interest_rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b156c1b1-22b5-4956-91c6-864de11584e3",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "The Institute of International Finance argued against the implementation of the accords.",
+    "subject": "Institute of International Finance",
+    "predicate_type": "relates_to",
+    "object_text": "against the implementation of the accords",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Institute of International Finance argued against the implementation of the accords.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Institute of International Finance"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4ebc9e00-74a1-4c9d-ab03-8852024f7935",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "Implementation of the accords would hurt banks.",
+    "subject": "implementation of the accords",
+    "predicate_type": "causes",
+    "object_text": "hurt banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implementation of the accords would hurt banks.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "banking"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d0049601-93e9-4b27-baa3-00e08e54ca1e",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "Implementation of the accords would hurt economic growth.",
+    "subject": "implementation of the accords",
+    "predicate_type": "causes",
+    "object_text": "hurt economic growth",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implementation of the accords would hurt economic growth.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "economic_growth"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2e2a6dee-71cc-4c89-8d80-2febd7c8992c",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "Implementation of the accords would add to the paper burden by banks.",
+    "subject": "implementation of the accords",
+    "predicate_type": "causes",
+    "object_text": "add to the paper burden by banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implementation of the accords would add to the paper burden by banks.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0d80744b-7091-4411-ab6f-4f28b59d61d0",
+    "chunk_id": "c6cffc1f-fc36-46db-aeb3-add4cb083da8",
+    "document_id": "Basel_III",
+    "claim_text": "Implementation of the accords would add to risk inhibition by banks.",
+    "subject": "implementation of the accords",
+    "predicate_type": "causes",
+    "object_text": "add to risk inhibition by banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implementation of the accords would add to risk inhibition by banks.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41c17db6-139b-42ad-90e0-043617c26211",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "Leverage ratio is calculated by dividing Tier 1 capital by the bank's leverage exposure.",
+    "subject": "Leverage ratio",
+    "predicate_type": "defines",
+    "object_text": "calculated by dividing Tier 1 capital by the bank's leverage exposure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Leverage ratio is calculated by dividing Tier 1 capital by the bank's leverage exposure.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e453659c-956b-4952-bcd5-627b1b09436f",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "The leverage exposure is the sum of the exposures of all on-balance sheet assets, 'add-ons' for derivative exposures and securities financing transactions (SFTs), and credit conversion factors for off-balance sheet items.",
+    "subject": "leverage exposure",
+    "predicate_type": "defines",
+    "object_text": "the sum of the exposures of all on-balance sheet assets, 'add-ons' for derivative exposures and securities financing transactions (SFTs), and credit conversion factors for off-balance sheet items",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The leverage exposure is the sum of the exposures of all on-balance sheet assets, 'add-ons' for derivative exposures and securities financing transactions (SFTs), and credit conversion factors for off-balance sheet items.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4fc2205b-3b6e-4267-b250-fa998b11817f",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III introduced a minimum leverage ratio of 3%.",
+    "subject": "Basel III",
+    "predicate_type": "requires",
+    "object_text": "minimum leverage ratio of 3%",
+    "object_value": 3.0,
+    "object_unit": "%",
+    "source_text": "Basel III introduced a minimum leverage ratio of 3%.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ddc8cd03-b28b-4787-a914-b651475163e8",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "The U.S. established another ratio, the supplemental leverage ratio, defined as Tier 1 capital divided by total assets.",
+    "subject": "U.S.",
+    "predicate_type": "defines",
+    "object_text": "supplemental leverage ratio, defined as Tier 1 capital divided by total assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The U.S. established another ratio, the supplemental leverage ratio, defined as Tier 1 capital divided by total assets.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1e6e0c1f-39d6-4fe9-a7ab-e95860c928bc",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "It is required to be above 3.0%.",
+    "subject": "supplemental leverage ratio",
+    "predicate_type": "requires",
+    "object_text": "to be above 3.0%",
+    "object_value": 3.0,
+    "object_unit": "%",
+    "source_text": "It is required to be above 3.0%.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1f99018a-b42a-49ea-be46-c170e99e6a1d",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "A minimum leverage ratio of 5% is required for large banks and systemically important financial institutions.",
+    "subject": "large banks and systemically important financial institutions",
+    "predicate_type": "requires",
+    "object_text": "minimum leverage ratio of 5%",
+    "object_value": 5.0,
+    "object_unit": "%",
+    "source_text": "A minimum leverage ratio of 5% is required for large banks and systemically important financial institutions.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bb880504-89f2-4c1c-8f29-d9dbf66a9354",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "From April 2020 until 31 March 2021, for financial institutions with more than $250 billion in consolidated assets, the calculation excluded U.S. Treasury securities and deposits at Federal Reserve Banks.",
+    "subject": "financial institutions with more than $250 billion in consolidated assets",
+    "predicate_type": "constrains",
+    "object_text": "the calculation excluded U.S. Treasury securities and deposits at Federal Reserve Banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "From April 2020 until 31 March 2021, for financial institutions with more than $250 billion in consolidated assets, the calculation excluded U.S. Treasury securities and deposits at Federal Reserve Banks.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5dcb5c01-261a-4ade-bab8-5d3bbb4eaff7",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "In the EU, the minimum bank leverage ratio is the same 3% as required by Basel III.",
+    "subject": "banks in the EU",
+    "predicate_type": "requires",
+    "object_text": "minimum leverage ratio of 3%",
+    "object_value": 3.0,
+    "object_unit": "%",
+    "source_text": "In the EU, the minimum bank leverage ratio is the same 3% as required by Basel III.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9d40fd28-e6d6-41a8-8929-1c849e093e2e",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "The UK requires a minimum leverage ratio, for banks with deposits greater than \u00a350 billion, of 3.25%.",
+    "subject": "banks with deposits greater than \u00a350 billion in the UK",
+    "predicate_type": "requires",
+    "object_text": "minimum leverage ratio of 3.25%",
+    "object_value": 3.25,
+    "object_unit": "%",
+    "source_text": "The UK requires a minimum leverage ratio, for banks with deposits greater than \u00a350 billion, of 3.25%.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "58d2a322-e182-43fd-b79f-1a290bbb5bb3",
+    "chunk_id": "acd59221-d386-45c7-b7e7-36b9d3f2574c",
+    "document_id": "Basel_III",
+    "claim_text": "This higher minimum reflects the PRA's differing treatment of the leverage ratio, which excludes central bank reserves in 'Total exposure' of the calculation.",
+    "subject": "higher minimum leverage ratio in the UK",
+    "predicate_type": "relates_to",
+    "object_text": "reflects the PRA's differing treatment of the leverage ratio, which excludes central bank reserves in 'Total exposure' of the calculation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This higher minimum reflects the PRA's differing treatment of the leverage ratio, which excludes central bank reserves in 'Total exposure' of the calculation.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "PRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a97ba332-74fd-4157-9b09-d1b61ce9a7fa",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "In the U.S., Basel III applies not only to banks but also to all institutions with more than US$50 billion in assets.",
+    "subject": "Basel III",
+    "predicate_type": "governs",
+    "object_text": "banks and all institutions with more than US$50 billion in assets in the U.S.",
+    "object_value": 50000000000.0,
+    "object_unit": "US$",
+    "source_text": "In the U.S., Basel III applies not only to banks but also to all institutions with more than US$50 billion in assets.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5db5f720-3fe4-4804-bc89-d44f9b698247",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Risk-based capital and leverage requirements include first annual capital plans.",
+    "subject": "Risk-based capital and leverage requirements",
+    "predicate_type": "requires",
+    "object_text": "first annual capital plans",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Risk-based capital and leverage requirements include first annual capital plans.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65e07257-0511-4a09-9be0-6508b8086c9c",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Risk-based capital and leverage requirements include conduct stress tests.",
+    "subject": "Risk-based capital and leverage requirements",
+    "predicate_type": "requires",
+    "object_text": "conduct stress tests",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Risk-based capital and leverage requirements include conduct stress tests.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "leverage",
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb6fd2ab-b86f-422f-9afe-caeb60f80b7d",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Risk-based capital and leverage requirements include capital adequacy including a tier one common risk-based capital ratio greater than 5 percent, under both expected and stressed conditions.",
+    "subject": "Risk-based capital and leverage requirements",
+    "predicate_type": "requires",
+    "object_text": "capital adequacy including a tier one common risk-based capital ratio greater than 5 percent, under both expected and stressed conditions",
+    "object_value": 5.0,
+    "object_unit": "%",
+    "source_text": "Risk-based capital and leverage requirements include capital adequacy including a tier one common risk-based capital ratio greater than 5 percent, under both expected and stressed conditions.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7fa3b4a9-e7eb-4fef-9cf7-bce8ca0282d8",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Market liquidity is first based on the United States' own interagency liquidity risk-management guidance issued in March 2010 that require liquidity stress tests and set internal quantitative limits.",
+    "subject": "Market liquidity",
+    "predicate_type": "relates_to",
+    "object_text": "the United States' own interagency liquidity risk-management guidance issued in March 2010 that require liquidity stress tests and set internal quantitative limits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Market liquidity is first based on the United States' own interagency liquidity risk-management guidance issued in March 2010 that require liquidity stress tests and set internal quantitative limits.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f6ab3608-e1a0-4495-bfc6-5c2bfe010867",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "The United States' own interagency liquidity risk-management guidance issued in March 2010 require liquidity stress tests.",
+    "subject": "United States' own interagency liquidity risk-management guidance",
+    "predicate_type": "requires",
+    "object_text": "liquidity stress tests",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The United States' own interagency liquidity risk-management guidance issued in March 2010 require liquidity stress tests.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity",
+      "risk_management",
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "639b08fa-6761-4bef-94a4-cfa01624cae5",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "The United States' own interagency liquidity risk-management guidance issued in March 2010 set internal quantitative limits.",
+    "subject": "United States' own interagency liquidity risk-management guidance",
+    "predicate_type": "defines",
+    "object_text": "internal quantitative limits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The United States' own interagency liquidity risk-management guidance issued in March 2010 set internal quantitative limits.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1a65e33f-c737-42bc-90bf-c2e9e10b3368",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "The Federal Reserve Board itself conducts stress tests annually using three economic and financial market scenarios.",
+    "subject": "Federal Reserve Board",
+    "predicate_type": "implements",
+    "object_text": "conducts stress tests annually using three economic and financial market scenarios",
+    "object_value": 3.0,
+    "object_unit": null,
+    "source_text": "The Federal Reserve Board itself conducts stress tests annually using three economic and financial market scenarios.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [
+      "Federal Reserve Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfdd91b1-b1a4-4186-ae00-f43842069630",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Institutions are encouraged to use at least five scenarios reflecting improbable events, and especially those considered impossible by management, but no standards apply to extreme scenarios.",
+    "subject": "Institutions",
+    "predicate_type": "permits",
+    "object_text": "use at least five scenarios reflecting improbable events, and especially those considered impossible by management",
+    "object_value": 5.0,
+    "object_unit": null,
+    "source_text": "Institutions are encouraged to use at least five scenarios reflecting improbable events, and especially those considered impossible by management, but no standards apply to extreme scenarios.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2cdbd0b5-4f3a-4b43-b62a-dbe56caf74eb",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "No standards apply to extreme scenarios.",
+    "subject": "standards",
+    "predicate_type": "prohibits",
+    "object_text": "apply to extreme scenarios",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "No standards apply to extreme scenarios.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b41722d3-ba7f-42ba-9d59-28367cea7e72",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Only a summary of the three official Fed scenarios including company-specific information is made public but one or more internal company-run stress tests must be run each year with summaries published.",
+    "subject": "summary of the three official Fed scenarios including company-specific information",
+    "predicate_type": "requires",
+    "object_text": "made public",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Only a summary of the three official Fed scenarios including company-specific information is made public but one or more internal company-run stress tests must be run each year with summaries published.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "disclosure"
+    ],
+    "entities": [
+      "Fed"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "be5c7f77-9465-4dc2-bd7f-c4ef9d96fb4a",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "One or more internal company-run stress tests must be run each year with summaries published.",
+    "subject": "internal company-run stress tests",
+    "predicate_type": "requires",
+    "object_text": "must be run each year with summaries published",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One or more internal company-run stress tests must be run each year with summaries published.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "disclosure"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac1da25a-b8d3-40a9-a279-ef8419d8dbd4",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Single-counterparty credit limits cut credit exposure of a covered financial firm to a single counterparty as a percentage of the firm's regulatory capital.",
+    "subject": "Single-counterparty credit limits",
+    "predicate_type": "constrains",
+    "object_text": "credit exposure of a covered financial firm to a single counterparty as a percentage of the firm's regulatory capital",
+    "object_value": null,
+    "object_unit": "%",
+    "source_text": "Single-counterparty credit limits cut credit exposure of a covered financial firm to a single counterparty as a percentage of the firm's regulatory capital.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "421a99fc-808c-45f9-ad33-bcd1c60d560b",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Credit exposure between the largest financial companies is subject to a tighter limit.",
+    "subject": "Credit exposure between the largest financial companies",
+    "predicate_type": "constrains",
+    "object_text": "tighter limit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Credit exposure between the largest financial companies is subject to a tighter limit.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c969107a-a12c-4473-ae71-792163e24cce",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Early remediation requirements ensure that financial weaknesses are addressed at an early stage.",
+    "subject": "Early remediation requirements",
+    "predicate_type": "requires",
+    "object_text": "financial weaknesses are addressed at an early stage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Early remediation requirements ensure that financial weaknesses are addressed at an early stage.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bd2c4f54-3ed1-493f-866c-23b63cb6ae8c",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "One or more triggers for remediation are capital levels, stress test results, and risk-management weaknesses.",
+    "subject": "triggers for remediation",
+    "predicate_type": "defines",
+    "object_text": "capital levels, stress test results, and risk-management weaknesses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One or more triggers for remediation are capital levels, stress test results, and risk-management weaknesses.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "169dcecb-cb07-4fac-8da4-08957b18198e",
+    "chunk_id": "ac51c3e9-329c-4aa8-a58f-4babb67fe459",
+    "document_id": "Basel_III",
+    "claim_text": "Required actions vary based on the severity of the situation, but include restrictions on growth, capital distributions, and executive compensation, as well as capital raising or asset sales.",
+    "subject": "Required actions",
+    "predicate_type": "requires",
+    "object_text": "restrictions on growth, capital distributions, and executive compensation, as well as capital raising or asset sales",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Required actions vary based on the severity of the situation, but include restrictions on growth, capital distributions, and executive compensation, as well as capital raising or asset sales.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5fea1a97-aa4a-4c7e-bbae-232dc3a62dee",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Academics criticized Basel III for continuing to allow large banks to calculate credit risk using internal models.",
+    "subject": "Academics",
+    "predicate_type": "relates_to",
+    "object_text": "criticized Basel III for continuing to allow large banks to calculate credit risk using internal models",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Academics criticized Basel III for continuing to allow large banks to calculate credit risk using internal models.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "regulatory_criticism"
+    ],
+    "entities": [
+      "Basel III",
+      "banks"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15ade0ce-c9a3-47c0-9893-194632633bea",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Academics criticized Basel III for setting overall minimum capital requirements too low.",
+    "subject": "Academics",
+    "predicate_type": "relates_to",
+    "object_text": "criticized Basel III for setting overall minimum capital requirements too low",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Academics criticized Basel III for setting overall minimum capital requirements too low.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "regulatory_criticism"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "55c3e426-5cdf-4908-9c6c-00c47130e3a1",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Opaque treatment of all derivatives contracts is also criticized.",
+    "subject": "Opaque treatment",
+    "predicate_type": "relates_to",
+    "object_text": "of all derivatives contracts is also criticized",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Opaque treatment of all derivatives contracts is also criticized.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "regulatory_criticism"
+    ],
+    "entities": [
+      "derivatives contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "16233dcd-8354-4280-97bf-26cfafcd82bf",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III accords treat insurance buyers and sellers equally even though sellers take on more concentrated risks (literally purchasing them) which they are then expected to offset correctly without regulation.",
+    "subject": "Basel III accords",
+    "predicate_type": "relates_to",
+    "object_text": "treat insurance buyers and sellers equally even though sellers take on more concentrated risks (literally purchasing them) which they are then expected to offset correctly without regulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III accords treat insurance buyers and sellers equally even though sellers take on more concentrated risks (literally purchasing them) which they are then expected to offset correctly without regulation.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "derivatives"
+    ],
+    "entities": [
+      "insurance buyers",
+      "insurance sellers"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2f5dcc0d-addd-4512-b5e9-7c753dbbd0e1",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III accords do not require organizations to investigate correlations of all internal risks they own.",
+    "subject": "Basel III accords",
+    "predicate_type": "prohibits",
+    "object_text": "require organizations to investigate correlations of all internal risks they own",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III accords do not require organizations to investigate correlations of all internal risks they own.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "derivatives"
+    ],
+    "entities": [
+      "organizations"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "87e6bdba-0fdb-4258-b68c-3d224991ae89",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III accords do not tax or charge institutions for the systematic or aggressive externalization or conflicted marketing of risk\u2014other than requiring an orderly unravelling of derivatives in a crisis and stricter record keeping.",
+    "subject": "Basel III accords",
+    "predicate_type": "prohibits",
+    "object_text": "tax or charge institutions for the systematic or aggressive externalization or conflicted marketing of risk\u2014other than requiring an orderly unravelling of derivatives in a crisis and stricter record keeping",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III accords do not tax or charge institutions for the systematic or aggressive externalization or conflicted marketing of risk\u2014other than requiring an orderly unravelling of derivatives in a crisis and stricter record keeping.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "derivatives"
+    ],
+    "entities": [
+      "institutions"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9499a93b-f85e-4932-97b9-1bd2bb6ceb6e",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III requires an orderly unravelling of derivatives in a crisis.",
+    "subject": "Basel III",
+    "predicate_type": "requires",
+    "object_text": "an orderly unravelling of derivatives in a crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III requires an orderly unravelling of derivatives in a crisis.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "crisis_management"
+    ],
+    "entities": [
+      "derivatives"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ef4570fd-d6a3-4b17-914b-917722a6eebe",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III requires stricter record keeping.",
+    "subject": "Basel III",
+    "predicate_type": "requires",
+    "object_text": "stricter record keeping",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III requires stricter record keeping.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "record_keeping"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "377063c3-e188-4166-9596-c5ceed0cb2a4",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Some critics claim that the \"too big to fail\" status remains with respect to major derivatives dealers who aggressively took on risk of an event they did not believe would happen\u2014but did because derivatives present major unknowns in a crisis.",
+    "subject": "critics",
+    "predicate_type": "relates_to",
+    "object_text": "claim that the \"too big to fail\" status remains with respect to major derivatives dealers who aggressively took on risk of an event they did not believe would happen\u2014but did because derivatives present major unknowns in a crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some critics claim that the \"too big to fail\" status remains with respect to major derivatives dealers who aggressively took on risk of an event they did not believe would happen\u2014but did because derivatives present major unknowns in a crisis.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "risk_management"
+    ],
+    "entities": [
+      "derivatives dealers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ab3be109-f474-4908-89e0-73cb619d742f",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III does not absolutely require extreme scenarios that management flatly rejects to be included in stress testing.",
+    "subject": "Basel III",
+    "predicate_type": "prohibits",
+    "object_text": "absolutely require extreme scenarios that management flatly rejects to be included in stress testing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III does not absolutely require extreme scenarios that management flatly rejects to be included in stress testing.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f33bb5cf-73fc-4812-b998-9f5ecf2838e5",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "The Heritage Foundation argued that capitalization regulation is inherently fruitless due to these and similar problems.",
+    "subject": "The Heritage Foundation",
+    "predicate_type": "relates_to",
+    "object_text": "argued that capitalization regulation is inherently fruitless due to these and similar problems",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Heritage Foundation argued that capitalization regulation is inherently fruitless due to these and similar problems.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "regulation"
+    ],
+    "entities": [
+      "capitalization regulation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3cd807c9-afe7-4461-b3c0-3bcd2ceca3c3",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "The Heritage Foundation agree that \"too big to fail\" persists.",
+    "subject": "The Heritage Foundation",
+    "predicate_type": "relates_to",
+    "object_text": "agree that \"too big to fail\" persists",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Heritage Foundation agree that \"too big to fail\" persists.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "488085f0-d507-41c9-84e6-ee9ed192db52",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III was also criticized as negatively affecting the stability of the financial system by increasing incentives of banks to game the regulatory framework.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "negatively affecting the stability of the financial system by increasing incentives of banks to game the regulatory framework",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III was also criticized as negatively affecting the stability of the financial system by increasing incentives of banks to game the regulatory framework.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability",
+      "regulatory_arbitrage"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ea390485-603c-4232-a7ec-7a4a91acaabf",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Markets often fail to discipline large banks to hold prudent capital levels and make sound investment decisions.",
+    "subject": "markets",
+    "predicate_type": "relates_to",
+    "object_text": "often fail to discipline large banks to hold prudent capital levels and make sound investment decisions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Markets often fail to discipline large banks to hold prudent capital levels and make sound investment decisions.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "investment_decisions"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5de204f7-ca8d-47f7-ad44-8550237c5b3b",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "The American Bankers Association, community banks organized in the Independent Community Bankers of America, and Democratic Party Senators Ben Cardin and Barbara Mikulski and Representatives Chris Van Hollen and Elijah Cummings of Maryland, said that the Basel III proposals would hurt small banks by increasing their capital holdings dramatically on mortgage and small business loans.",
+    "subject": "The American Bankers Association, community banks organized in the Independent Community Bankers of America, and Democratic Party Senators Ben Cardin and Barbara Mikulski and Representatives Chris Van Hollen and Elijah Cummings of Maryland",
+    "predicate_type": "relates_to",
+    "object_text": "said that the Basel III proposals would hurt small banks by increasing their capital holdings dramatically on mortgage and small business loans",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The American Bankers Association, community banks organized in the Independent Community Bankers of America, and Democratic Party Senators Ben Cardin and Barbara Mikulski and Representatives Chris Van Hollen and Elijah Cummings of Maryland, said that the Basel III proposals would hurt small banks by increasing their capital holdings dramatically on mortgage and small business loans.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "mortgage_loans",
+      "small_business_loans"
+    ],
+    "entities": [
+      "American Bankers Association",
+      "Independent Community Bankers of America",
+      "small banks"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d1e45171-d5c3-43bf-8f4d-4cd1556ddcf9",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Robert Reich has argued that Basel III did not go far enough to regulate banks since, he believed, inadequate regulation was a cause of the 2008 financial crisis and remains an unresolved issue despite the severity of the impact of the Great Recession.",
+    "subject": "Robert Reich",
+    "predicate_type": "relates_to",
+    "object_text": "has argued that Basel III did not go far enough to regulate banks since, he believed, inadequate regulation was a cause of the 2008 financial crisis and remains an unresolved issue despite the severity of the impact of the Great Recession",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Robert Reich has argued that Basel III did not go far enough to regulate banks since, he believed, inadequate regulation was a cause of the 2008 financial crisis and remains an unresolved issue despite the severity of the impact of the Great Recession.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "financial_crisis"
+    ],
+    "entities": [
+      "Basel III",
+      "banks"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "503c7903-dac0-4c3f-8736-bf9570adee7c",
+    "chunk_id": "a27834eb-3a44-4297-a017-a053ff428c4d",
+    "document_id": "Basel_III",
+    "claim_text": "Inadequate regulation was a cause of the 2008 financial crisis.",
+    "subject": "Inadequate regulation",
+    "predicate_type": "causes",
+    "object_text": "the 2008 financial crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Inadequate regulation was a cause of the 2008 financial crisis.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_crisis",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "d083dbcd-8dc2-4a58-9c1a-7cc4f0666483",
+    "chunk_id": "10d8a819-123c-4683-a844-f8c610bd56be",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in six areas.",
+    "subject": "Basel III: Finalising post-crisis reforms standards",
+    "predicate_type": "relates_to",
+    "object_text": "further reforms in six areas",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in six areas.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b0067bf-94cc-4a15-9add-771f6b813b1b",
+    "chunk_id": "10d8a819-123c-4683-a844-f8c610bd56be",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in standardised approach for credit risk (SA-CR).",
+    "subject": "Basel III: Finalising post-crisis reforms standards",
+    "predicate_type": "relates_to",
+    "object_text": "further reforms in standardised approach for credit risk (SA-CR)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in standardised approach for credit risk (SA-CR).",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "390f3f98-7273-4db0-aa1a-c09054cc6216",
+    "chunk_id": "10d8a819-123c-4683-a844-f8c610bd56be",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in internal ratings based approach (IRB) for credit risk.",
+    "subject": "Basel III: Finalising post-crisis reforms standards",
+    "predicate_type": "relates_to",
+    "object_text": "further reforms in internal ratings based approach (IRB) for credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in internal ratings based approach (IRB) for credit risk.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "abad2eee-b724-4ccc-aa3d-67c2608bd7d6",
+    "chunk_id": "10d8a819-123c-4683-a844-f8c610bd56be",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in Credit valuation adjustment risk (the process through which counterparty credit is valued, priced and hedged - using a standardised approach).",
+    "subject": "Basel III: Finalising post-crisis reforms standards",
+    "predicate_type": "relates_to",
+    "object_text": "further reforms in Credit valuation adjustment risk (the process through which counterparty credit is valued, priced and hedged - using a standardised approach)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in Credit valuation adjustment risk (the process through which counterparty credit is valued, priced and hedged - using a standardised approach).",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9950245e-0939-4546-a24f-a93c74ed267f",
+    "chunk_id": "10d8a819-123c-4683-a844-f8c610bd56be",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in Operational risk - A standardised approach for operational risk for a bank based on income and historical losses.",
+    "subject": "Basel III: Finalising post-crisis reforms standards",
+    "predicate_type": "relates_to",
+    "object_text": "further reforms in Operational risk - A standardised approach for operational risk for a bank based on income and historical losses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in Operational risk - A standardised approach for operational risk for a bank based on income and historical losses.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "76d629ce-a43a-4671-99cd-ede5b7ca7bd6",
+    "chunk_id": "10d8a819-123c-4683-a844-f8c610bd56be",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in Output floor - Replaces Basel II output floor with a more robust risk-sensitive floor and disclosure requirements.",
+    "subject": "Basel III: Finalising post-crisis reforms standards",
+    "predicate_type": "relates_to",
+    "object_text": "further reforms in Output floor - Replaces Basel II output floor with a more robust risk-sensitive floor and disclosure requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in Output floor - Replaces Basel II output floor with a more robust risk-sensitive floor and disclosure requirements.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "basel"
+    ],
+    "entities": [
+      "Basel III",
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel III",
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3e5f4c3e-a737-43c8-b231-947abeb4eed9",
+    "chunk_id": "10d8a819-123c-4683-a844-f8c610bd56be",
+    "document_id": "Basel_III",
+    "claim_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in Finalised Leverage ratio framework - buffer for global systemically important banks, definitions and requirements, exposure measures for on-balance sheet exposures, derivatives, securities financing transactions and off-balance sheet items.",
+    "subject": "Basel III: Finalising post-crisis reforms standards",
+    "predicate_type": "relates_to",
+    "object_text": "further reforms in Finalised Leverage ratio framework - buffer for global systemically important banks, definitions and requirements, exposure measures for on-balance sheet exposures, derivatives, securities financing transactions and off-balance sheet items",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III: Finalising post-crisis reforms standards cover further reforms in Finalised Leverage ratio framework - buffer for global systemically important banks, definitions and requirements, exposure measures for on-balance sheet exposures, derivatives, securities financing transactions and off-balance sheet items.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage_ratio",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "753c42b0-91bb-4891-a27e-30ebcc990c50",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III requires banks to have a minimum CET1 ratio at all times of 4.5%.",
+    "subject": "banks",
+    "predicate_type": "requires",
+    "object_text": "minimum CET1 ratio at all times of 4.5%",
+    "object_value": 4.5,
+    "object_unit": "%",
+    "source_text": "Basel III requires banks to have a minimum CET1 ratio at all times of 4.5%.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "36f6a0f7-38e2-4a55-96d0-9c1244c16484",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III requires banks to have a mandatory capital conservation buffer equivalent to at least 2.5% of risk-weighted assets.",
+    "subject": "banks",
+    "predicate_type": "requires",
+    "object_text": "mandatory capital conservation buffer equivalent to at least 2.5% of risk-weighted assets",
+    "object_value": 2.5,
+    "object_unit": "%",
+    "source_text": "Basel III requires banks to have a mandatory capital conservation buffer equivalent to at least 2.5% of risk-weighted assets.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "778ff4b2-cc19-40b5-8f04-d346b4aeda6e",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III requires banks to have a stress capital buffer requirement equivalent to at least 2.5% of risk-weighted assets.",
+    "subject": "banks",
+    "predicate_type": "requires",
+    "object_text": "stress capital buffer requirement equivalent to at least 2.5% of risk-weighted assets",
+    "object_value": 2.5,
+    "object_unit": "%",
+    "source_text": "Basel III requires banks to have a stress capital buffer requirement equivalent to at least 2.5% of risk-weighted assets.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "88decc1b-faaa-45bb-af5a-0adc16affee6",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "The capital conservation buffer could be higher based on results from stress tests, as determined by national regulators.",
+    "subject": "capital conservation buffer",
+    "predicate_type": "constrains",
+    "object_text": "could be higher based on results from stress tests, as determined by national regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The capital conservation buffer could be higher based on results from stress tests, as determined by national regulators.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9141600b-4977-4e1a-9e0f-adb4724211ae",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III requires banks to have a counter-cyclical buffer of up to an additional 2.5% of RWA as capital during periods of high credit growth.",
+    "subject": "banks",
+    "predicate_type": "requires",
+    "object_text": "counter-cyclical buffer of up to an additional 2.5% of RWA as capital during periods of high credit growth",
+    "object_value": 2.5,
+    "object_unit": "%",
+    "source_text": "Basel III requires banks to have a counter-cyclical buffer of up to an additional 2.5% of RWA as capital during periods of high credit growth.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "credit_growth"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7707d5fd-23c8-4a49-b9f3-299743dd4de1",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "The counter-cyclical buffer must be met by CET1 capital.",
+    "subject": "counter-cyclical buffer",
+    "predicate_type": "requires",
+    "object_text": "must be met by CET1 capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The counter-cyclical buffer must be met by CET1 capital.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4b1c84a8-0e23-4512-9186-a56cbba8ded3",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "An additional 1% is required for globally systemically important financial institutions in the U.S.",
+    "subject": "globally systemically important financial institutions",
+    "predicate_type": "requires",
+    "object_text": "additional 1%",
+    "object_value": 1.0,
+    "object_unit": "%",
+    "source_text": "An additional 1% is required for globally systemically important financial institutions in the U.S.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a2cfa9cd-1027-45b3-9702-177c126a4e90",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III requires minimum Tier 1 capital of 6% at all times (beginning in 2015).",
+    "subject": "Basel III",
+    "predicate_type": "requires",
+    "object_text": "minimum Tier 1 capital of 6% at all times",
+    "object_value": 6.0,
+    "object_unit": "%",
+    "source_text": "Basel III requires minimum Tier 1 capital of 6% at all times (beginning in 2015).",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da827f6a-2ebf-4ccc-bf7e-ca7c407bd2bc",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "Common Tier 1 capital comprises shareholders equity (including audited profits), less deductions of accounting reserve that are not believed to be loss absorbing \"today\", including goodwill and other intangible assets.",
+    "subject": "Common Tier 1 capital",
+    "predicate_type": "defines",
+    "object_text": "shareholders equity (including audited profits), less deductions of accounting reserve that are not believed to be loss absorbing \"today\", including goodwill and other intangible assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Common Tier 1 capital comprises shareholders equity (including audited profits), less deductions of accounting reserve that are not believed to be loss absorbing \"today\", including goodwill and other intangible assets.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67b68180-855f-4917-b7f1-484b142a41ed",
+    "chunk_id": "5b356d89-6a39-4a47-927b-4211e36c2d86",
+    "document_id": "Basel_III",
+    "claim_text": "Bank's holdings of other bank shares are also deducted to prevent the potential of double-counting of capital across the economy.",
+    "subject": "Bank's holdings of other bank shares",
+    "predicate_type": "constrains",
+    "object_text": "also deducted to prevent the potential of double-counting of capital across the economy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bank's holdings of other bank shares are also deducted to prevent the potential of double-counting of capital across the economy.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3290478b-dc81-4831-8642-5a31b75e1178",
+    "chunk_id": "32688781-a454-4da8-8a56-633b5b218fd9",
+    "document_id": "Basel_III",
+    "claim_text": "An OECD study, released on 17 February 2011, projected that all else equal, the medium-term impact of Basel III implementation on economic growth would be in the range of \u22120.05% to \u22120.15% per year.",
+    "subject": "OECD study",
+    "predicate_type": "causes",
+    "object_text": "the medium-term impact of Basel III implementation on economic growth would be in the range of \u22120.05% to \u22120.15% per year",
+    "object_value": -0.05,
+    "object_unit": "%",
+    "source_text": "An OECD study, released on 17 February 2011, projected that all else equal, the medium-term impact of Basel III implementation on economic growth would be in the range of \u22120.05% to \u22120.15% per year.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic_impact",
+      "basel"
+    ],
+    "entities": [
+      "OECD",
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": [
+          "February"
+        ]
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9af31fa7-0fd5-4ff0-af3f-fa81d45d3081",
+    "chunk_id": "32688781-a454-4da8-8a56-633b5b218fd9",
+    "document_id": "Basel_III",
+    "claim_text": "Increased bank lending spreads of 15 to as much as 50 basis points would result from Basel III implementation.",
+    "subject": "Basel III implementation",
+    "predicate_type": "causes",
+    "object_text": "increased bank lending spreads of 15 to as much as 50 basis points",
+    "object_value": 15.0,
+    "object_unit": "basis points",
+    "source_text": "Increased bank lending spreads of 15 to as much as 50 basis points would result from Basel III implementation.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bank_lending",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "61b14d18-f00e-4e46-8e23-6f84699e65ac",
+    "chunk_id": "32688781-a454-4da8-8a56-633b5b218fd9",
+    "document_id": "Basel_III",
+    "claim_text": "The effect of Basel III implementation can be negated by a decrease in monetary policy rates of 30 to 80 basis points.",
+    "subject": "Basel III implementation",
+    "predicate_type": "relates_to",
+    "object_text": "the effect can be negated by a decrease in monetary policy rates of 30 to 80 basis points",
+    "object_value": 30.0,
+    "object_unit": "basis points",
+    "source_text": "The effect of Basel III implementation can be negated by a decrease in monetary policy rates of 30 to 80 basis points.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monetary_policy",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb48d26d-c898-4062-8ebb-aacc6c1ebb8e",
+    "chunk_id": "32688781-a454-4da8-8a56-633b5b218fd9",
+    "document_id": "Basel_III",
+    "claim_text": "In June 2024, a study by PwC projected that implemented of the Basel III Endgame requirements would reduce economic growth in the U.S. by 56 basis points.",
+    "subject": "study by PwC",
+    "predicate_type": "causes",
+    "object_text": "implemented of the Basel III Endgame requirements would reduce economic growth in the U.S. by 56 basis points",
+    "object_value": 56.0,
+    "object_unit": "basis points",
+    "source_text": "In June 2024, a study by PwC projected that implemented of the Basel III Endgame requirements would reduce economic growth in the U.S. by 56 basis points.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic_impact",
+      "basel"
+    ],
+    "entities": [
+      "PwC",
+      "Basel III Endgame"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": [
+          "June"
+        ]
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "U.S."
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ca8fc687-3ef6-450e-9c2a-ae8864adc5d0",
+    "chunk_id": "32688781-a454-4da8-8a56-633b5b218fd9",
+    "document_id": "Basel_III",
+    "claim_text": "Implemented of the Basel III Endgame requirements would reduce economic growth in the U.S. via reduced returns to bank shareholders.",
+    "subject": "Basel III Endgame requirements",
+    "predicate_type": "causes",
+    "object_text": "reduce economic growth in the U.S. via reduced returns to bank shareholders",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implemented of the Basel III Endgame requirements would reduce economic growth in the U.S. via reduced returns to bank shareholders.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic_impact",
+      "basel"
+    ],
+    "entities": [
+      "Basel III Endgame"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "U.S."
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4298379-9b48-4772-90ad-231678d4388d",
+    "chunk_id": "32688781-a454-4da8-8a56-633b5b218fd9",
+    "document_id": "Basel_III",
+    "claim_text": "Implemented of the Basel III Endgame requirements would increase costs to consumers and businesses.",
+    "subject": "Basel III Endgame requirements",
+    "predicate_type": "causes",
+    "object_text": "increase costs to consumers and businesses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implemented of the Basel III Endgame requirements would increase costs to consumers and businesses.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "costs",
+      "basel"
+    ],
+    "entities": [
+      "Basel III Endgame"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "U.S."
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b7fb6db2-b9f7-4b2f-98d8-a56f627f361a",
+    "chunk_id": "32688781-a454-4da8-8a56-633b5b218fd9",
+    "document_id": "Basel_III",
+    "claim_text": "Higher capital requirements resulted in contractions in trading operations in the United States.",
+    "subject": "Higher capital requirements",
+    "predicate_type": "causes",
+    "object_text": "contractions in trading operations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Higher capital requirements resulted in contractions in trading operations in the United States.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "trading_operations"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "United States"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "42360315-7c1e-435c-9138-62b964db955a",
+    "chunk_id": "32688781-a454-4da8-8a56-633b5b218fd9",
+    "document_id": "Basel_III",
+    "claim_text": "Higher capital requirements resulted in a decrease in the number of personnel employed on trading floors in the United States.",
+    "subject": "Higher capital requirements",
+    "predicate_type": "causes",
+    "object_text": "a decrease in the number of personnel employed on trading floors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Higher capital requirements resulted in a decrease in the number of personnel employed on trading floors in the United States.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "personnel"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "United States"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5dac92bb-afab-488b-a5e6-49a93e487b98",
+    "chunk_id": "01504ea0-ea69-4e7d-be16-279c26bc5f8f",
+    "document_id": "Basel_III",
+    "claim_text": "On 15 April 2014, the Basel Committee on Banking Supervision (BCBS) released the final version of its \"Supervisory Framework for Measuring and Controlling Large Exposures\" (SFLE).",
+    "subject": "Basel Committee on Banking Supervision",
+    "predicate_type": "governs",
+    "object_text": "final version of its \"Supervisory Framework for Measuring and Controlling Large Exposures\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 15 April 2014, the Basel Committee on Banking Supervision (BCBS) released the final version of its \"Supervisory Framework for Measuring and Controlling Large Exposures\" (SFLE).",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "supervision",
+      "banking",
+      "large exposures"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b2402b6-a02a-4196-b37d-4d23fc28bd3d",
+    "chunk_id": "01504ea0-ea69-4e7d-be16-279c26bc5f8f",
+    "document_id": "Basel_III",
+    "claim_text": "The Supervisory Framework for Measuring and Controlling Large Exposures builds on longstanding BCBS guidance on credit exposure concentrations.",
+    "subject": "Supervisory Framework for Measuring and Controlling Large Exposures",
+    "predicate_type": "implements",
+    "object_text": "longstanding BCBS guidance on credit exposure concentrations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Supervisory Framework for Measuring and Controlling Large Exposures builds on longstanding BCBS guidance on credit exposure concentrations.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit exposure",
+      "banking",
+      "supervision"
+    ],
+    "entities": [
+      "BCBS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62304021-d0e5-4c3d-a4d7-2a32c08ebb85",
+    "chunk_id": "01504ea0-ea69-4e7d-be16-279c26bc5f8f",
+    "document_id": "Basel_III",
+    "claim_text": "On 11 March 2016, the Basel Committee on Banking Supervision released the second of three proposals on public disclosure of regulatory metrics and qualitative data by banking institutions.",
+    "subject": "Basel Committee on Banking Supervision",
+    "predicate_type": "governs",
+    "object_text": "the second of three proposals on public disclosure of regulatory metrics and qualitative data by banking institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 11 March 2016, the Basel Committee on Banking Supervision released the second of three proposals on public disclosure of regulatory metrics and qualitative data by banking institutions.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "disclosure",
+      "banking",
+      "regulatory metrics"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e702f68e-bf37-4983-8043-0eed8769bc53",
+    "chunk_id": "01504ea0-ea69-4e7d-be16-279c26bc5f8f",
+    "document_id": "Basel_III",
+    "claim_text": "The proposal requires disclosures on market risk to be more granular for both the standardized approach and regulatory approval of internal models.",
+    "subject": "proposal",
+    "predicate_type": "requires",
+    "object_text": "disclosures on market risk to be more granular for both the standardized approach and regulatory approval of internal models",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The proposal requires disclosures on market risk to be more granular for both the standardized approach and regulatory approval of internal models.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market risk",
+      "disclosure",
+      "internal models"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c0737738-27fa-48d2-a81a-066ea0e7294e",
+    "chunk_id": "01504ea0-ea69-4e7d-be16-279c26bc5f8f",
+    "document_id": "Basel_III",
+    "claim_text": "In January 2013, the BCBS extended the implementation schedule to 2019.",
+    "subject": "BCBS",
+    "predicate_type": "governs",
+    "object_text": "the implementation schedule to 2019",
+    "object_value": 2019,
+    "object_unit": null,
+    "source_text": "In January 2013, the BCBS extended the implementation schedule to 2019.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "implementation schedule"
+    ],
+    "entities": [
+      "BCBS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8111c67a-cdb9-416f-90f7-36d59a76d295",
+    "chunk_id": "01504ea0-ea69-4e7d-be16-279c26bc5f8f",
+    "document_id": "Basel_III",
+    "claim_text": "In January 2013, the BCBS broadened the definition of liquid assets.",
+    "subject": "BCBS",
+    "predicate_type": "defines",
+    "object_text": "definition of liquid assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In January 2013, the BCBS broadened the definition of liquid assets.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquid assets"
+    ],
+    "entities": [
+      "BCBS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f920a11e-1cfa-4bc7-affe-9b85534d1e83",
+    "chunk_id": "01504ea0-ea69-4e7d-be16-279c26bc5f8f",
+    "document_id": "Basel_III",
+    "claim_text": "In December 2017, the implementation of the market risk framework was delayed from 2019 to 2022.",
+    "subject": "implementation of the market risk framework",
+    "predicate_type": "governs",
+    "object_text": "delayed from 2019 to 2022",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In December 2017, the implementation of the market risk framework was delayed from 2019 to 2022.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market risk",
+      "implementation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3162ce26-9a5a-4686-9a96-4878f10cfa90",
+    "chunk_id": "01504ea0-ea69-4e7d-be16-279c26bc5f8f",
+    "document_id": "Basel_III",
+    "claim_text": "Implementation of the Basel III: Finalising post-crisis reforms, the market risk framework, and the revised Pillar 3 disclosure requirements were extended several times and will be phased-in by 2028.",
+    "subject": "Implementation of the Basel III: Finalising post-crisis reforms, the market risk framework, and the revised Pillar 3 disclosure requirements",
+    "predicate_type": "governs",
+    "object_text": "extended several times and will be phased-in by 2028",
+    "object_value": 2028,
+    "object_unit": null,
+    "source_text": "Implementation of the Basel III: Finalising post-crisis reforms, the market risk framework, and the revised Pillar 3 disclosure requirements were extended several times and will be phased-in by 2028.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "implementation",
+      "market risk",
+      "disclosure"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "10ef0467-3656-4a63-9620-8937817d828b",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "The quality, consistency, and transparency of the capital base was raised.",
+    "subject": "capital base",
+    "predicate_type": "relates_to",
+    "object_text": "quality, consistency, and transparency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The quality, consistency, and transparency of the capital base was raised.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "capital base"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "efbaf5ef-75cb-4e29-9d87-d69fa7365199",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "The predominant form of Tier 1 capital must be common shares and retained earnings.",
+    "subject": "Tier 1 capital",
+    "predicate_type": "requires",
+    "object_text": "common shares and retained earnings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The predominant form of Tier 1 capital must be common shares and retained earnings.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 1 capital"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d51b10c2-0d6f-4850-8a74-4c894a5f9c18",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Tier 1 capital is subject to prudential deductions, including goodwill and intangible assets.",
+    "subject": "Tier 1 capital",
+    "predicate_type": "constrains",
+    "object_text": "prudential deductions, including goodwill and intangible assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Tier 1 capital is subject to prudential deductions, including goodwill and intangible assets.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 1 capital",
+      "goodwill",
+      "intangible assets"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5aaf98bf-1627-4a37-83ae-99b0e831efcc",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Tier 2 capital is supplementary capital.",
+    "subject": "Tier 2 capital",
+    "predicate_type": "defines",
+    "object_text": "supplementary capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Tier 2 capital is supplementary capital.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 2 capital"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a89fd1ac-14b6-4dd5-9c14-d5eb9bb23330",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "The instruments of Tier 2 capital were harmonised.",
+    "subject": "instruments of Tier 2 capital",
+    "predicate_type": "relates_to",
+    "object_text": "harmonised",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The instruments of Tier 2 capital were harmonised.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 2 capital"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1346263a-e442-4703-9fa0-9277da96c856",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Tier 3 capital was eliminated.",
+    "subject": "Tier 3 capital",
+    "predicate_type": "prohibits",
+    "object_text": "eliminated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Tier 3 capital was eliminated.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 3 capital"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8fa7fac6-6479-4c81-8e86-4e029ecb27dd",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "The risk coverage of the capital framework was strengthened.",
+    "subject": "risk coverage of the capital framework",
+    "predicate_type": "relates_to",
+    "object_text": "strengthened",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk coverage of the capital framework was strengthened.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "capital framework"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e9280b6f-df34-4b0d-8902-0e4c83078950",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III promoted more integrated management of market and counterparty credit risk.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "more integrated management of market and counterparty credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III promoted more integrated management of market and counterparty credit risk.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "market_risk",
+      "credit_risk"
+    ],
+    "entities": [
+      "market risk",
+      "counterparty credit risk"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e0a2eeb1-8bef-4f22-82fa-9bb9685cdc06",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III added the credit valuation adjustment\u2013risk due to deterioration in counterparty's credit rating.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "the credit valuation adjustment\u2013risk due to deterioration in counterparty's credit rating",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III added the credit valuation adjustment\u2013risk due to deterioration in counterparty's credit rating.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "credit_risk"
+    ],
+    "entities": [
+      "credit valuation adjustment",
+      "counterparty"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb220768-a981-4688-95cc-4c2ecb18b4a5",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III strengthened the capital requirements for counterparty credit exposures arising from banks' derivatives, repo and securities financing transactions.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "strengthened the capital requirements for counterparty credit exposures arising from banks' derivatives, repo and securities financing transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III strengthened the capital requirements for counterparty credit exposures arising from banks' derivatives, repo and securities financing transactions.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "credit_risk"
+    ],
+    "entities": [
+      "counterparty credit exposures",
+      "derivatives",
+      "repo",
+      "securities financing transactions"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ff131f0d-1130-4962-a8d4-b8c845407a07",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III raised the capital buffers backing these exposures.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "raised the capital buffers backing these exposures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III raised the capital buffers backing these exposures.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "capital buffers"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bc3f1907-ec4a-49c9-b0d0-f3e2c6940b06",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III reduced procyclicality.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "reduced procyclicality",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III reduced procyclicality.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "procyclicality"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "04f0004b-c4f2-485e-85d8-835c4b8a2783",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III provided additional incentives to move OTC derivative contracts to qualifying central counterparties.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "additional incentives to move OTC derivative contracts to qualifying central counterparties",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III provided additional incentives to move OTC derivative contracts to qualifying central counterparties.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "clearing"
+    ],
+    "entities": [
+      "OTC derivative contracts",
+      "qualifying central counterparties"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "69aba427-0338-4d1b-9565-6e51c2958576",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Where a bank acts as a clearing member of a central counterparty for its own purposes, a risk weight of 2% must be applied to the bank\u2019s trade exposure to the central counterparty.",
+    "subject": "bank",
+    "predicate_type": "requires",
+    "object_text": "a risk weight of 2% must be applied to the bank\u2019s trade exposure to the central counterparty",
+    "object_value": 2.0,
+    "object_unit": "%",
+    "source_text": "Where a bank acts as a clearing member of a central counterparty for its own purposes, a risk weight of 2% must be applied to the bank\u2019s trade exposure to the central counterparty.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "clearing"
+    ],
+    "entities": [
+      "central counterparty"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1fd428db-c433-42ed-896a-55cb6ed9f1ca",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III provided incentives to strengthen the risk management of counterparty credit exposures.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "incentives to strengthen the risk management of counterparty credit exposures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III provided incentives to strengthen the risk management of counterparty credit exposures.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "credit_risk"
+    ],
+    "entities": [
+      "counterparty credit exposures"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a9e6a46e-e6eb-4623-87bd-e14a4a32cad6",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III raised counterparty credit risk management standards by including wrong way risk.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "raised counterparty credit risk management standards by including wrong way risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III raised counterparty credit risk management standards by including wrong way risk.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "credit_risk"
+    ],
+    "entities": [
+      "counterparty credit risk",
+      "wrong way risk"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c31b6540-8560-45a3-a85b-364c4e3e0ce1",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "A series of measures was introduced to promote the buildup of capital buffers in good times that can be drawn upon in periods of stress.",
+    "subject": "measures",
+    "predicate_type": "relates_to",
+    "object_text": "promote the buildup of capital buffers in good times that can be drawn upon in periods of stress",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A series of measures was introduced to promote the buildup of capital buffers in good times that can be drawn upon in periods of stress.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "capital buffers"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7282c7fa-d36b-4be3-88f7-ac711495526f",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Measures dampen excess cyclicality of the minimum capital requirement.",
+    "subject": "Measures",
+    "predicate_type": "relates_to",
+    "object_text": "dampen excess cyclicality of the minimum capital requirement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Measures dampen excess cyclicality of the minimum capital requirement.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "minimum capital requirement"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2e02c865-8a4d-4214-a32d-0bff1dab82f1",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Measures promoted more forward looking provisions.",
+    "subject": "Measures",
+    "predicate_type": "relates_to",
+    "object_text": "promoted more forward looking provisions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Measures promoted more forward looking provisions.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "provisions"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e6d2a2d7-1b9d-49dc-b05a-6be432a701a1",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Measures conserved capital to build buffers at individual banks and the banking sector that can be used in stress.",
+    "subject": "Measures",
+    "predicate_type": "relates_to",
+    "object_text": "conserved capital to build buffers at individual banks and the banking sector that can be used in stress",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Measures conserved capital to build buffers at individual banks and the banking sector that can be used in stress.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "capital buffers",
+      "banks",
+      "banking sector"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e92f6dfb-d52b-4104-8490-ebf7a132e4ea",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Measures achieved the broader macroprudential goal of protecting the banking sector from periods of excess credit growth.",
+    "subject": "Measures",
+    "predicate_type": "relates_to",
+    "object_text": "achieved the broader macroprudential goal of protecting the banking sector from periods of excess credit growth",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Measures achieved the broader macroprudential goal of protecting the banking sector from periods of excess credit growth.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "banking sector",
+      "credit growth"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9d78f82d-2094-4eb6-934c-61fe1fcde3fc",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Banks are required to use long-term data horizons to estimate probabilities of default.",
+    "subject": "Banks",
+    "predicate_type": "requires",
+    "object_text": "use long-term data horizons to estimate probabilities of default",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks are required to use long-term data horizons to estimate probabilities of default.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [
+      "probabilities of default"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8d4003a6-c1d4-40ea-9de8-e76051374ca6",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Downturn loss given default estimates, recommended in Basel II, to become mandatory.",
+    "subject": "Downturn loss given default estimates",
+    "predicate_type": "requires",
+    "object_text": "to become mandatory",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Downturn loss given default estimates, recommended in Basel II, to become mandatory.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [
+      "loss given default"
+    ],
+    "regulations": [
+      "Basel II",
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d069855a-e82f-48b7-bb3d-7e0ecacaf628",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III improved calibration of the risk functions, which convert loss estimates into regulatory capital requirements.",
+    "subject": "Basel III",
+    "predicate_type": "causes",
+    "object_text": "improved calibration of the risk functions, which convert loss estimates into regulatory capital requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III improved calibration of the risk functions, which convert loss estimates into regulatory capital requirements.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "risk functions",
+      "loss estimates",
+      "regulatory capital requirements"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "32401a29-8b56-4bf7-9494-788bc7f78207",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Banks must conduct stress tests that include scenarios of widening yield spreads in recessions.",
+    "subject": "Banks",
+    "predicate_type": "requires",
+    "object_text": "conduct stress tests that include scenarios of widening yield spreads in recessions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks must conduct stress tests that include scenarios of widening yield spreads in recessions.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [
+      "yield spreads"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7856e549-8c6a-4424-81de-474484dbc253",
+    "chunk_id": "fc9a7fed-2a39-4ec0-8b35-0524a5ed3964",
+    "document_id": "Basel_III",
+    "claim_text": "Basel III advocates a change in the accounting standards towards an expected loss (EL) approach.",
+    "subject": "Basel III",
+    "predicate_type": "governs",
+    "object_text": "a change in the accounting standards towards an expected loss (EL) approach",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel III advocates a change in the accounting standards towards an expected loss (EL) approach.",
+    "source_document": "Basel III",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting"
+    ],
+    "entities": [
+      "accounting standards",
+      "expected loss"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  }
+]

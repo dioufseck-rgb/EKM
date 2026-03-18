@@ -1,0 +1,3171 @@
+[
+  {
+    "assertion_id": "f2291bfe-8212-4886-8c54-588509a656ba",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Many problems in mathematical finance entail the computation of a particular integral.",
+    "subject": "problems in mathematical finance",
+    "predicate_type": "requires",
+    "object_text": "the computation of a particular integral",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many problems in mathematical finance entail the computation of a particular integral.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mathematical finance",
+      "integration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ef70381-2b6b-403e-a564-c13bae758038",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "In many cases these integrals can be valued analytically.",
+    "subject": "integrals",
+    "predicate_type": "permits",
+    "object_text": "can be valued analytically",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In many cases these integrals can be valued analytically.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mathematical finance",
+      "integration"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "abb29552-1a2c-4080-a49f-88a8e2e8dcae",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "In still more cases they can be valued using numerical integration, or computed using a partial differential equation (PDE).",
+    "subject": "integrals",
+    "predicate_type": "permits",
+    "object_text": "can be valued using numerical integration, or computed using a partial differential equation (PDE)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In still more cases they can be valued using numerical integration, or computed using a partial differential equation (PDE).",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mathematical finance",
+      "integration",
+      "numerical integration",
+      "PDE"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "95a1d3a9-d47d-4231-9bc9-2ac794c6f5dc",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "When the number of dimensions in the problem is large, PDEs and numerical integrals become intractable.",
+    "subject": "PDEs and numerical integrals",
+    "predicate_type": "constrains",
+    "object_text": "become intractable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the number of dimensions in the problem is large, PDEs and numerical integrals become intractable.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mathematical finance",
+      "integration",
+      "numerical integration",
+      "PDE"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4f5e88a-0769-405a-a5f0-58b4cee97a4b",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "In these cases Monte Carlo methods often give better results.",
+    "subject": "Monte Carlo methods",
+    "predicate_type": "causes",
+    "object_text": "often give better results",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In these cases Monte Carlo methods often give better results.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Monte Carlo methods"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "45d52cd5-b7f5-40f6-ae61-9d35a04ff56f",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "For more than three or four state variables, formulae such as Black\u2013Scholes do not exist.",
+    "subject": "formulae such as Black\u2013Scholes",
+    "predicate_type": "prohibits",
+    "object_text": "do not exist",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For more than three or four state variables, formulae such as Black\u2013Scholes do not exist.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Black-Scholes model"
+    ],
+    "entities": [
+      "Black\u2013Scholes"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e02666a-54a9-4340-8893-6e3da02a2e85",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Other numerical methods such as the Binomial options pricing model and finite difference methods face several difficulties and are not practical.",
+    "subject": "numerical methods such as the Binomial options pricing model and finite difference methods",
+    "predicate_type": "constrains",
+    "object_text": "face several difficulties and are not practical",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other numerical methods such as the Binomial options pricing model and finite difference methods face several difficulties and are not practical.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Binomial options pricing model",
+      "finite difference methods"
+    ],
+    "entities": [
+      "Binomial options pricing model",
+      "finite difference methods"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ff652d55-6b98-4d99-bf3e-9929f85ea252",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "In these cases, Monte Carlo methods converge to the solution more quickly than numerical methods, require less memory and are easier to program.",
+    "subject": "Monte Carlo methods",
+    "predicate_type": "causes",
+    "object_text": "converge to the solution more quickly than numerical methods, require less memory and are easier to program",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In these cases, Monte Carlo methods converge to the solution more quickly than numerical methods, require less memory and are easier to program.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Monte Carlo methods"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ceb2a79-dc2d-47df-bd95-4569cece211b",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "For simpler situations, simulation is not the better solution because it is very time-consuming and computationally intensive.",
+    "subject": "simulation",
+    "predicate_type": "constrains",
+    "object_text": "is not the better solution because it is very time-consuming and computationally intensive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For simpler situations, simulation is not the better solution because it is very time-consuming and computationally intensive.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "simulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59843c63-d8dc-4d35-99ef-34da53a64616",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Monte Carlo methods can deal with derivatives which have path dependent payoffs in a fairly straightforward manner.",
+    "subject": "Monte Carlo methods",
+    "predicate_type": "permits",
+    "object_text": "can deal with derivatives which have path dependent payoffs in a fairly straightforward manner",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Monte Carlo methods can deal with derivatives which have path dependent payoffs in a fairly straightforward manner.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Monte Carlo methods",
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8d328a4d-77a2-44ad-a4c7-f5dda42b5415",
+    "chunk_id": "0afef306-993f-4949-bfa3-118f440d90e1",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Finite Difference (PDE) solvers struggle with path dependence.",
+    "subject": "Finite Difference (PDE) solvers",
+    "predicate_type": "constrains",
+    "object_text": "struggle with path dependence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Finite Difference (PDE) solvers struggle with path dependence.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Finite Difference",
+      "PDE"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "87a4af70-fd5f-47e1-8fc5-6712a17913b1",
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Post crisis, banks will make various \u201cvaluation adjustments\u201d - collectively XVA - when assessing the value of derivative contracts that they have entered into.",
+    "subject": "banks",
+    "predicate_type": "implements",
+    "object_text": "various \u201cvaluation adjustments\u201d - collectively XVA - when assessing the value of derivative contracts that they have entered into",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Post crisis, banks will make various \u201cvaluation adjustments\u201d - collectively XVA - when assessing the value of derivative contracts that they have entered into.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "derivatives"
+    ],
+    "entities": [
+      "XVA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ee85ffad-4e39-406d-91b4-6dc0540fc959",
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "The purpose of these is twofold: primarily to hedge for possible losses due to the other parties' failures to pay amounts due on the derivative contracts (credit valuation adjustment); but also to determine (and hedge) the amount of capital required under the bank capital adequacy rules.",
+    "subject": "valuation adjustments",
+    "predicate_type": "defines",
+    "object_text": "primarily to hedge for possible losses due to the other parties' failures to pay amounts due on the derivative contracts (credit valuation adjustment); but also to determine (and hedge) the amount of capital required under the bank capital adequacy rules",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The purpose of these is twofold: primarily to hedge for possible losses due to the other parties' failures to pay amounts due on the derivative contracts (credit valuation adjustment); but also to determine (and hedge) the amount of capital required under the bank capital adequacy rules.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit valuation adjustment",
+      "capital adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5510dfbe-646f-47c0-b74e-e9b95591de78",
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "These are calculated under a simulation framework as the risk-neutral expectation value of the possible loss or other impact.",
+    "subject": "valuation adjustments",
+    "predicate_type": "implements",
+    "object_text": "calculated under a simulation framework as the risk-neutral expectation value of the possible loss or other impact",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These are calculated under a simulation framework as the risk-neutral expectation value of the possible loss or other impact.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "simulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9594d511-6e22-46e1-85bd-b665d7ba6aaa",
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Structurers use simulation to estimate the likely payout - and possibility of losses - of their bespoke structured note or other structured product, typically comprising several component securities.",
+    "subject": "structurers",
+    "predicate_type": "implements",
+    "object_text": "simulation to estimate the likely payout - and possibility of losses - of their bespoke structured note or other structured product, typically comprising several component securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Structurers use simulation to estimate the likely payout - and possibility of losses - of their bespoke structured note or other structured product, typically comprising several component securities.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "structured products",
+      "risk management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f99c4719-c4f8-4aaa-822e-dcc5fd0bc284",
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Monte Carlo Methods are used for personal financial planning.",
+    "subject": "Monte Carlo Methods",
+    "predicate_type": "implements",
+    "object_text": "personal financial planning",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Monte Carlo Methods are used for personal financial planning.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial planning"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "306d3a49-80eb-4b7d-9768-8fa94fe92a4b",
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Discrete event simulation can be used in evaluating a proposed capital investment's impact on existing operations.",
+    "subject": "Discrete event simulation",
+    "predicate_type": "implements",
+    "object_text": "evaluating a proposed capital investment's impact on existing operations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Discrete event simulation can be used in evaluating a proposed capital investment's impact on existing operations.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital investment",
+      "simulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f02cf838-2f5a-4c30-9133-b5a5103c5c7d",
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Simulation methods are preferred to other valuation techniques only when there are several state variables (i.e. several sources of uncertainty).",
+    "subject": "simulation methods",
+    "predicate_type": "permits",
+    "object_text": "preferred to other valuation techniques",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Simulation methods are preferred to other valuation techniques only when there are several state variables (i.e. several sources of uncertainty).",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "risk management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90c63181-c498-4043-bcd0-9b1cafb44226",
+    "chunk_id": "6ee8e532-dfd0-4650-8b15-f5d85b0ef93a",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "These techniques are also of limited use in valuing American style derivatives.",
+    "subject": "simulation methods",
+    "predicate_type": "constrains",
+    "object_text": "of limited use in valuing American style derivatives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These techniques are also of limited use in valuing American style derivatives.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4786a449-21c8-4cd2-add9-c42e81deffc9",
+    "chunk_id": "455a12ee-1bdc-4325-ba22-5823413300a8",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "H* = (Value of H according to Monte Carlo) + B*[(Value of I analytically) \u2212 (Value of I according to same Monte Carlo paths)] is a better estimate, where B is covar(H,I)/var(H).",
+    "subject": "H*",
+    "predicate_type": "defines",
+    "object_text": "(Value of H according to Monte Carlo) + B*[(Value of I analytically) \u2212 (Value of I according to same Monte Carlo paths)] is a better estimate, where B is covar(H,I)/var(H)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "H* = (Value of H according to Monte Carlo) + B*[(Value of I analytically) \u2212 (Value of I according to same Monte Carlo paths)] is a better estimate, where B is covar(H,I)/var(H).",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monte_carlo_methods",
+      "derivatives_pricing"
+    ],
+    "entities": [
+      "H",
+      "I"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb198130-7535-41db-bd15-fe489943d572",
+    "chunk_id": "455a12ee-1bdc-4325-ba22-5823413300a8",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "The source of the variance of a derivative will be directly dependent on the risks (e.g. delta, vega) of this derivative.",
+    "subject": "variance of a derivative",
+    "predicate_type": "relates_to",
+    "object_text": "the risks (e.g. delta, vega) of this derivative",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The source of the variance of a derivative will be directly dependent on the risks (e.g. delta, vega) of this derivative.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "26f9eaa6-8bbb-445c-93f2-0db84f088627",
+    "chunk_id": "455a12ee-1bdc-4325-ba22-5823413300a8",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "A standard way of choosing the derivative I consists in choosing a replicating portfolios of options for H.",
+    "subject": "choosing the derivative I",
+    "predicate_type": "implements",
+    "object_text": "choosing a replicating portfolios of options for H",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A standard way of choosing the derivative I consists in choosing a replicating portfolios of options for H.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives_pricing",
+      "risk_management"
+    ],
+    "entities": [
+      "I",
+      "H"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7122fcf4-9cb8-4930-8cfe-186a9cf0d3c9",
+    "chunk_id": "455a12ee-1bdc-4325-ba22-5823413300a8",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "One will price H without variance reduction, calculate deltas and vegas, and then use a combination of calls and puts that have the same deltas and vegas as control variate.",
+    "subject": "one",
+    "predicate_type": "implements",
+    "object_text": "price H without variance reduction, calculate deltas and vegas, and then use a combination of calls and puts that have the same deltas and vegas as control variate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One will price H without variance reduction, calculate deltas and vegas, and then use a combination of calls and puts that have the same deltas and vegas as control variate.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives_pricing",
+      "risk_management"
+    ],
+    "entities": [
+      "H"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f62cb47f-302f-4dff-9fed-15bbc61bd5d4",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "To value fixed income instruments and interest rate derivatives the underlying source of uncertainty which is simulated is the short rate \u2013 the annualized interest rate at which an entity can borrow money for a given period of time",
+    "subject": "underlying source of uncertainty",
+    "predicate_type": "defines",
+    "object_text": "short rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To value fixed income instruments and interest rate derivatives the underlying source of uncertainty which is simulated is the short rate \u2013 the annualized interest rate at which an entity can borrow money for a given period of time",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rates",
+      "derivatives"
+    ],
+    "entities": [
+      "fixed income instruments",
+      "interest rate derivatives"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7852201c-091a-4415-820e-42bcd0eebab5",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "For bonds, and bond options, under each possible evolution of interest rates we observe a different yield curve and a different resultant bond price.",
+    "subject": "bonds and bond options",
+    "predicate_type": "relates_to",
+    "object_text": "different yield curve and a different resultant bond price under each possible evolution of interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For bonds, and bond options, under each possible evolution of interest rates we observe a different yield curve and a different resultant bond price.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rates",
+      "bond pricing"
+    ],
+    "entities": [
+      "bonds",
+      "bond options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f5bf85a-cb5b-4fdd-b469-cfe8feaea4cb",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "To determine the bond value, these bond prices are then averaged.",
+    "subject": "bond value",
+    "predicate_type": "relates_to",
+    "object_text": "bond prices are then averaged",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To determine the bond value, these bond prices are then averaged.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bond pricing"
+    ],
+    "entities": [
+      "bonds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f2938063-ab13-4cbd-887d-bc45c91faab8",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "To value the bond option, as for equity options, the corresponding exercise values are averaged and present valued.",
+    "subject": "bond option",
+    "predicate_type": "relates_to",
+    "object_text": "the corresponding exercise values are averaged and present valued",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To value the bond option, as for equity options, the corresponding exercise values are averaged and present valued.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option pricing"
+    ],
+    "entities": [
+      "bond options",
+      "equity options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b0ab4230-cf33-43e0-810b-67fcab0983a0",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "A similar approach is used in valuing swaps, swaptions, and convertible bonds.",
+    "subject": "valuing swaps, swaptions, and convertible bonds",
+    "predicate_type": "relates_to",
+    "object_text": "a similar approach is used",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A similar approach is used in valuing swaps, swaptions, and convertible bonds.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation"
+    ],
+    "entities": [
+      "swaps",
+      "swaptions",
+      "convertible bonds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fe5e8c3b-b123-4667-92b6-e2482491f8c5",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "For path dependent interest rate derivatives simulation is the primary technique employed.",
+    "subject": "simulation",
+    "predicate_type": "implements",
+    "object_text": "primary technique employed for path dependent interest rate derivatives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For path dependent interest rate derivatives simulation is the primary technique employed.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rates",
+      "derivatives"
+    ],
+    "entities": [
+      "path dependent interest rate derivatives"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a731683f-18bf-4ea9-8299-7bb016894626",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Multi-factor short-rate models are sometimes employed to create realistic interest rate simulations.",
+    "subject": "Multi-factor short-rate models",
+    "predicate_type": "implements",
+    "object_text": "to create realistic interest rate simulations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Multi-factor short-rate models are sometimes employed to create realistic interest rate simulations.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rates",
+      "simulation"
+    ],
+    "entities": [
+      "short-rate models"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "845309a9-1ee9-44a4-a27b-53df0a1cb479",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Monte Carlo Methods are used for portfolio evaluation.",
+    "subject": "Monte Carlo Methods",
+    "predicate_type": "implements",
+    "object_text": "portfolio evaluation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Monte Carlo Methods are used for portfolio evaluation.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "091c97b4-55bb-4e7c-b8e4-1ff36aaad176",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Here, for each sample, the correlated behaviour of the factors impacting the component instruments is simulated over time, the resultant value of each instrument is calculated, and the portfolio value is then observed.",
+    "subject": "portfolio evaluation",
+    "predicate_type": "relates_to",
+    "object_text": "for each sample, the correlated behaviour of the factors impacting the component instruments is simulated over time, the resultant value of each instrument is calculated, and the portfolio value is then observed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Here, for each sample, the correlated behaviour of the factors impacting the component instruments is simulated over time, the resultant value of each instrument is calculated, and the portfolio value is then observed.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4faa0629-1842-4835-bdde-8fa5bfcead9c",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "The various portfolio values are then combined in a histogram, and the statistical characteristics of the portfolio are observed, and the portfolio assessed as required.",
+    "subject": "portfolio values",
+    "predicate_type": "relates_to",
+    "object_text": "combined in a histogram, and the statistical characteristics of the portfolio are observed, and the portfolio assessed as required",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The various portfolio values are then combined in a histogram, and the statistical characteristics of the portfolio are observed, and the portfolio assessed as required.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9e2351c3-6072-4dd3-b042-3a98e1dd5fc6",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Analysts may apply Principal component analysis, where through dimensionality reduction, a limited set of factors may be simulated instead of each of the individual sources of uncertainty.",
+    "subject": "analysts",
+    "predicate_type": "permits",
+    "object_text": "apply Principal component analysis, where through dimensionality reduction, a limited set of factors may be simulated instead of each of the individual sources of uncertainty",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Analysts may apply Principal component analysis, where through dimensionality reduction, a limited set of factors may be simulated instead of each of the individual sources of uncertainty.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "Principal component analysis"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c1e9511c-18e4-49be-982d-b05ee0c03d21",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "A similar approach is used in calculating value at risk, or \"VaR\", an estimate of how much a position, \"desk\", or other area might lose with a given probability (or confidence level) and in a set time period.",
+    "subject": "calculating value at risk (VaR)",
+    "predicate_type": "relates_to",
+    "object_text": "an estimate of how much a position, \"desk\", or other area might lose with a given probability (or confidence level) and in a set time period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A similar approach is used in calculating value at risk, or \"VaR\", an estimate of how much a position, \"desk\", or other area might lose with a given probability (or confidence level) and in a set time period.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "VaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4fde1e0e-9cb2-4e6e-bb5a-db385a93aa7b",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "A typical application of VaR is in investment banking, where the bank holds economic \u201crisk capital\u201d corresponding to the estimated number.",
+    "subject": "VaR",
+    "predicate_type": "implements",
+    "object_text": "typical application in investment banking, where the bank holds economic \u201crisk capital\u201d corresponding to the estimated number",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A typical application of VaR is in investment banking, where the bank holds economic \u201crisk capital\u201d corresponding to the estimated number.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "VaR",
+      "investment banking"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e772b65-cdc9-4973-88d9-20e8b527dd4f",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "VaR is also used in portfolio risk management, where simulation allows the fund manager to estimate losses at a given horizon and confidence level, and to then hedge as / if appropriate.",
+    "subject": "VaR",
+    "predicate_type": "implements",
+    "object_text": "used in portfolio risk management, where simulation allows the fund manager to estimate losses at a given horizon and confidence level, and to then hedge as / if appropriate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "VaR is also used in portfolio risk management, where simulation allows the fund manager to estimate losses at a given horizon and confidence level, and to then hedge as / if appropriate.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management"
+    ],
+    "entities": [
+      "VaR",
+      "portfolio risk management"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "33483a09-ea47-4718-9c46-afdfa1eecb5a",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Post crisis, banks will make various \u201cvaluation adjustments\u201d - collectively XVA - when assessing the value of derivative contracts that they have entered into.",
+    "subject": "banks",
+    "predicate_type": "relates_to",
+    "object_text": "will make various \u201cvaluation adjustments\u201d - collectively XVA - when assessing the value of derivative contracts that they have entered into",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Post crisis, banks will make various \u201cvaluation adjustments\u201d - collectively XVA - when assessing the value of derivative contracts that they have entered into.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "derivatives"
+    ],
+    "entities": [
+      "XVA",
+      "derivative contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da9e634d-d610-423e-907f-4f3421df8c7d",
+    "chunk_id": "9847b3d8-a46c-40be-8677-72a5774b536d",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "The purpose of these is twofold: primarily to hedge for possible losses due",
+    "subject": "valuation adjustments (XVA)",
+    "predicate_type": "relates_to",
+    "object_text": "primarily to hedge for possible losses due",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The purpose of these is twofold: primarily to hedge for possible losses due",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "derivatives"
+    ],
+    "entities": [
+      "XVA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "83fc1aed-36cd-434e-a579-e82e6b3024ff",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "The Monte Carlo method encompasses any technique of statistical sampling employed to approximate solutions to quantitative problems.",
+    "subject": "Monte Carlo method",
+    "predicate_type": "defines",
+    "object_text": "any technique of statistical sampling employed to approximate solutions to quantitative problems",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Monte Carlo method encompasses any technique of statistical sampling employed to approximate solutions to quantitative problems.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Monte Carlo methods",
+      "statistical sampling",
+      "quantitative problems"
+    ],
+    "entities": [
+      "Monte Carlo method"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "997b0f03-9ff0-4897-af6e-09e1efb7653e",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "The Monte Carlo method solves a problem by directly simulating the underlying (physical) process and then calculating the (average) result of the process.",
+    "subject": "Monte Carlo method",
+    "predicate_type": "implements",
+    "object_text": "solves a problem by directly simulating the underlying (physical) process and then calculating the (average) result of the process",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Monte Carlo method solves a problem by directly simulating the underlying (physical) process and then calculating the (average) result of the process.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Monte Carlo methods",
+      "simulation"
+    ],
+    "entities": [
+      "Monte Carlo method"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fbbe5cf4-23b5-4676-b3a3-16d9c76dfea6",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "In finance, the Monte Carlo method is used to simulate the various sources of uncertainty that affect the value of the instrument, portfolio or investment in question, and to then calculate a representative value given these possible values of the underlying inputs.",
+    "subject": "Monte Carlo method",
+    "predicate_type": "implements",
+    "object_text": "simulate the various sources of uncertainty that affect the value of the instrument, portfolio or investment in question, and to then calculate a representative value given these possible values of the underlying inputs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In finance, the Monte Carlo method is used to simulate the various sources of uncertainty that affect the value of the instrument, portfolio or investment in question, and to then calculate a representative value given these possible values of the underlying inputs.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Monte Carlo methods",
+      "risk management",
+      "valuation"
+    ],
+    "entities": [
+      "Monte Carlo method"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8595fd4a-f6dc-4c12-84f9-a77e2fb53407",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "In Corporate Finance, project finance and real options analysis, Monte Carlo Methods are used by financial analysts who wish to construct \"stochastic\" or probabilistic financial models as opposed to the traditional static and deterministic models.",
+    "subject": "Monte Carlo Methods",
+    "predicate_type": "implements",
+    "object_text": "used by financial analysts who wish to construct \"stochastic\" or probabilistic financial models as opposed to the traditional static and deterministic models",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Corporate Finance, project finance and real options analysis, Monte Carlo Methods are used by financial analysts who wish to construct \"stochastic\" or probabilistic financial models as opposed to the traditional static and deterministic models.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Monte Carlo methods",
+      "financial modeling"
+    ],
+    "entities": [
+      "Monte Carlo Methods"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "663313b4-7628-47f4-b77f-bb4f257cfcd9",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Here, in order to analyze the characteristics of a project\u2019s net present value (NPV), the cash flow components that are (heavily) impacted by uncertainty are modeled, incorporating any correlation between these, mathematically reflecting their \"random characteristics\".",
+    "subject": "cash flow components",
+    "predicate_type": "relates_to",
+    "object_text": "modeled, incorporating any correlation between these, mathematically reflecting their \"random characteristics\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Here, in order to analyze the characteristics of a project\u2019s net present value (NPV), the cash flow components that are (heavily) impacted by uncertainty are modeled, incorporating any correlation between these, mathematically reflecting their \"random characteristics\".",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cash flow",
+      "net present value",
+      "financial modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f066534a-60a1-4e6d-93ba-655681e5b528",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Then, these results are combined in a histogram of NPV (i.e. the project\u2019s probability distribution), and the average NPV of the potential investment \u2013 as well as its volatility and other sensitivities \u2013 is observed.",
+    "subject": "results",
+    "predicate_type": "relates_to",
+    "object_text": "combined in a histogram of NPV (i.e. the project\u2019s probability distribution), and the average NPV of the potential investment \u2013 as well as its volatility and other sensitivities \u2013 is observed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Then, these results are combined in a histogram of NPV (i.e. the project\u2019s probability distribution), and the average NPV of the potential investment \u2013 as well as its volatility and other sensitivities \u2013 is observed.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value",
+      "probability distribution",
+      "investment analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ddf4a23-d796-4b4b-a73d-65fa1edabc78",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "This distribution allows, for example, for an estimate of the probability that the project has a net present value greater than zero (or any other value).",
+    "subject": "distribution",
+    "predicate_type": "permits",
+    "object_text": "an estimate of the probability that the project has a net present value greater than zero (or any other value)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This distribution allows, for example, for an estimate of the probability that the project has a net present value greater than zero (or any other value).",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "net present value",
+      "probability",
+      "investment analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1257a548-1fbe-493c-bd2c-89e56c5fad66",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "In valuing an option on equity, the simulation generates several thousand possible (but random) price paths for the underlying share, with the associated exercise value (i.e. \"payoff\") of the option for each path.",
+    "subject": "simulation",
+    "predicate_type": "implements",
+    "object_text": "generates several thousand possible (but random) price paths for the underlying share, with the associated exercise value (i.e. \"payoff\") of the option for each path",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In valuing an option on equity, the simulation generates several thousand possible (but random) price paths for the underlying share, with the associated exercise value (i.e. \"payoff\") of the option for each path.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation",
+      "equity",
+      "simulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "822393bd-7f14-4ec8-9169-e82ad64b9b14",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "These payoffs are then averaged and discounted to today, and this result is the value of the option today.",
+    "subject": "payoffs",
+    "predicate_type": "relates_to",
+    "object_text": "averaged and discounted to today, and this result is the value of the option today",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These payoffs are then averaged and discounted to today, and this result is the value of the option today.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "option valuation",
+      "discounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "18b81e2d-ebff-4e01-9823-23e6bb397bf8",
+    "chunk_id": "8fa5d66d-84a6-4f7c-9e67-f2d662f06148",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "To value fixed income instruments and interest rate derivatives the underlying source of uncertainty which is simulated is the short rate \u2013 the annualized interest rate at",
+    "subject": "underlying source of uncertainty",
+    "predicate_type": "defines",
+    "object_text": "the short rate \u2013 the annualized interest rate at",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To value fixed income instruments and interest rate derivatives the underlying source of uncertainty which is simulated is the short rate \u2013 the annualized interest rate at",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fixed income",
+      "interest rate derivatives",
+      "uncertainty",
+      "short rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2ad16ad5-7c0c-4072-992b-c60416a76c91",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Damiano Brigo and Fabio Mercurio authored Interest Rate Models - Theory and Practice with Smile, Inflation and Credit.",
+    "subject": "Damiano Brigo and Fabio Mercurio",
+    "predicate_type": "relates_to",
+    "object_text": "Interest Rate Models - Theory and Practice with Smile, Inflation and Credit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Damiano Brigo and Fabio Mercurio authored Interest Rate Models - Theory and Practice with Smile, Inflation and Credit.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate models"
+    ],
+    "entities": [
+      "Damiano Brigo",
+      "Fabio Mercurio"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b58463b-3b36-4a48-8751-d907adafb3ff",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Interest Rate Models - Theory and Practice with Smile, Inflation and Credit has the ISBN 978-3-540-22149-4.",
+    "subject": "Interest Rate Models - Theory and Practice with Smile, Inflation and Credit",
+    "predicate_type": "relates_to",
+    "object_text": "ISBN 978-3-540-22149-4",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest Rate Models - Theory and Practice with Smile, Inflation and Credit has the ISBN 978-3-540-22149-4.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate models"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e88acf4-14b7-4242-a354-f3e236c98057",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Daniel J. Duffy and Joerg Kienitz authored Monte Carlo Frameworks: Building Customisable High-performance C++ Applications.",
+    "subject": "Daniel J. Duffy and Joerg Kienitz",
+    "predicate_type": "relates_to",
+    "object_text": "Monte Carlo Frameworks: Building Customisable High-performance C++ Applications",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Daniel J. Duffy and Joerg Kienitz authored Monte Carlo Frameworks: Building Customisable High-performance C++ Applications.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monte carlo frameworks"
+    ],
+    "entities": [
+      "Daniel J. Duffy",
+      "Joerg Kienitz"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "668e9dc4-70a1-4166-9a8b-6ef16e46e937",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Monte Carlo Frameworks: Building Customisable High-performance C++ Applications has the ISBN 978-0470060698.",
+    "subject": "Monte Carlo Frameworks: Building Customisable High-performance C++ Applications",
+    "predicate_type": "relates_to",
+    "object_text": "ISBN 978-0470060698",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Monte Carlo Frameworks: Building Customisable High-performance C++ Applications has the ISBN 978-0470060698.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monte carlo frameworks"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bb546e1c-05be-42d3-9bc9-0d7d99fa9704",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Bruno Dupire authored Monte Carlo:methodologies and applications for pricing and risk management.",
+    "subject": "Bruno Dupire",
+    "predicate_type": "relates_to",
+    "object_text": "Monte Carlo:methodologies and applications for pricing and risk management",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bruno Dupire authored Monte Carlo:methodologies and applications for pricing and risk management.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monte carlo",
+      "pricing",
+      "risk management"
+    ],
+    "entities": [
+      "Bruno Dupire"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e258809e-73ce-432b-8abe-d105230d6ac2",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Paul Glasserman authored Monte Carlo methods in financial engineering.",
+    "subject": "Paul Glasserman",
+    "predicate_type": "relates_to",
+    "object_text": "Monte Carlo methods in financial engineering",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Paul Glasserman authored Monte Carlo methods in financial engineering.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monte carlo methods",
+      "financial engineering"
+    ],
+    "entities": [
+      "Paul Glasserman"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0fcac050-3232-4726-ba58-f4b61c9ffb59",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Monte Carlo methods in financial engineering has the ISBN 0-387-00451-3.",
+    "subject": "Monte Carlo methods in financial engineering",
+    "predicate_type": "relates_to",
+    "object_text": "ISBN 0-387-00451-3",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Monte Carlo methods in financial engineering has the ISBN 0-387-00451-3.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monte carlo methods",
+      "financial engineering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "69fdaca9-e763-483d-8b8b-2cfb9a01acca",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "John C. Hull authored Options, futures and other derivatives.",
+    "subject": "John C. Hull",
+    "predicate_type": "relates_to",
+    "object_text": "Options, futures and other derivatives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "John C. Hull authored Options, futures and other derivatives.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "futures",
+      "derivatives"
+    ],
+    "entities": [
+      "John C. Hull"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a3b701dc-0c13-48df-b301-e74ecc41e47f",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Options, futures and other derivatives has the ISBN 0-13-015822-4.",
+    "subject": "Options, futures and other derivatives",
+    "predicate_type": "relates_to",
+    "object_text": "ISBN 0-13-015822-4",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Options, futures and other derivatives has the ISBN 0-13-015822-4.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "options",
+      "futures",
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8236ee47-15a4-4fb9-bf4a-bef5503316b6",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Peter Jaeckel authored Monte Carlo methods in finance.",
+    "subject": "Peter Jaeckel",
+    "predicate_type": "relates_to",
+    "object_text": "Monte Carlo methods in finance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Peter Jaeckel authored Monte Carlo methods in finance.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monte carlo methods"
+    ],
+    "entities": [
+      "Peter Jaeckel"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6cd6139c-411b-4d51-9921-b0ff86b3b950",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Monte Carlo methods in finance has the ISBN 0-471-49741-X.",
+    "subject": "Monte Carlo methods in finance",
+    "predicate_type": "relates_to",
+    "object_text": "ISBN 0-471-49741-X",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Monte Carlo methods in finance has the ISBN 0-471-49741-X.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "monte carlo methods"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2bf19944-6ac8-48b5-b937-829338f0f012",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Peter E. Kloeden and Eckhard Platen authored Numerical Solution of Stochastic Differential Equations.",
+    "subject": "Peter E. Kloeden and Eckhard Platen",
+    "predicate_type": "relates_to",
+    "object_text": "Numerical Solution of Stochastic Differential Equations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Peter E. Kloeden and Eckhard Platen authored Numerical Solution of Stochastic Differential Equations.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "numerical solution",
+      "stochastic differential equations"
+    ],
+    "entities": [
+      "Peter E. Kloeden",
+      "Eckhard Platen"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90176d13-ddb6-4975-9802-e1ab08d4cd39",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Dessislava Pachamanova and Frank J. Fabozzi authored Simulation and Optimization in Finance: Modeling with MATLAB, @Risk, or VBA.",
+    "subject": "Dessislava Pachamanova and Frank J. Fabozzi",
+    "predicate_type": "relates_to",
+    "object_text": "Simulation and Optimization in Finance: Modeling with MATLAB, @Risk, or VBA",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dessislava Pachamanova and Frank J. Fabozzi authored Simulation and Optimization in Finance: Modeling with MATLAB, @Risk, or VBA.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "simulation",
+      "optimization",
+      "finance",
+      "modeling"
+    ],
+    "entities": [
+      "Dessislava Pachamanova",
+      "Frank J. Fabozzi",
+      "MATLAB",
+      "@Risk",
+      "VBA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fd57cac6-655f-4f26-bdcb-d6e016d27073",
+    "chunk_id": "aa905569-263d-4996-a53a-9999c199aca7",
+    "document_id": "Monte_Carlo_methods_in_finance",
+    "claim_text": "Simulation and Optimization in Finance: Modeling with MATLAB, @Risk, or VBA has the ISBN 978-0-470-37189-3.",
+    "subject": "Simulation and Optimization in Finance: Modeling with MATLAB, @Risk, or VBA",
+    "predicate_type": "relates_to",
+    "object_text": "ISBN 978-0-470-37189-3",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Simulation and Optimization in Finance: Modeling with MATLAB, @Risk, or VBA has the ISBN 978-0-470-37189-3.",
+    "source_document": "Monte Carlo methods in finance",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "simulation",
+      "optimization",
+      "finance",
+      "modeling"
+    ],
+    "entities": [
+      "MATLAB",
+      "@Risk",
+      "VBA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

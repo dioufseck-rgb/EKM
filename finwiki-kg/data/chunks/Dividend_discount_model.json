@@ -1,0 +1,13 @@
+[
+  {
+    "chunk_id": "971d8c2d-5e1f-4cb5-8cda-9a12494ca06a",
+    "document_id": "Dividend_discount_model",
+    "sequence": 0,
+    "section_title": "Problems with the constant-growth form of the model",
+    "content": "The following shortcomings have been noted;\nSee also Discounted cash flow \u00a7 Shortcomings.\n\nThe presumption of a steady and perpetual growth rate less than the cost of capital may not be reasonable.\nIf the stock does not currently pay a dividend, like many growth stocks, more general versions of the discounted dividend model must be used to value the stock. One common technique is to assume that the Modigliani\u2013Miller hypothesis of dividend irrelevance is true, and therefore replace the stock's dividend D with E earnings per share. However, this requires the use of earnings growth rather than dividend growth, which might be different. This approach is especially useful for computing the residual value of future periods.\nThe stock price resulting from the Gordon model is sensitive to the growth rate \n  \n    \n      \n        g\n      \n    \n    {\\displaystyle g}\n  \n chosen; see Sustainable growth rate \u00a7 From a financial perspective",
+    "token_estimate": 143,
+    "title": "Dividend discount model",
+    "url": "https://en.wikipedia.org/wiki/Dividend_discount_model",
+    "domain": "finance"
+  }
+]

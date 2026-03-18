@@ -1,0 +1,2226 @@
+[
+  {
+    "assertion_id": "f4ae95c3-778c-4f8e-9ac6-d1ece1b86769",
+    "chunk_id": "726cfe77-77d9-4199-b919-b65e7cf2a587",
+    "document_id": "Capital_requirement",
+    "claim_text": "Although Tier 1 capital has traditionally been emphasized, in the Late-2000s recession regulators and investors began to focus on tangible common equity, which is different from Tier 1 capital in that it excludes preferred equity.",
+    "subject": "regulators and investors",
+    "predicate_type": "causes",
+    "object_text": "focus on tangible common equity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Although Tier 1 capital has traditionally been emphasized, in the Late-2000s recession regulators and investors began to focus on tangible common equity, which is different from Tier 1 capital in that it excludes preferred equity.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 1 capital",
+      "tangible common equity"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bc79c96d-9e71-4b97-919d-5537d86718d5",
+    "chunk_id": "726cfe77-77d9-4199-b919-b65e7cf2a587",
+    "document_id": "Capital_requirement",
+    "claim_text": "Regulatory capital requirements typically (although not always) are imposed at both an individual bank entity level and at a group (or sub-group) level.",
+    "subject": "Regulatory capital requirements",
+    "predicate_type": "constrains",
+    "object_text": "at both an individual bank entity level and at a group (or sub-group) level",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Regulatory capital requirements typically (although not always) are imposed at both an individual bank entity level and at a group (or sub-group) level.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "38973e81-d420-49f3-884a-74119f31b0db",
+    "chunk_id": "726cfe77-77d9-4199-b919-b65e7cf2a587",
+    "document_id": "Capital_requirement",
+    "claim_text": "This may therefore mean that several different regulatory capital regimes apply throughout a bank group at different levels, each under the supervision of a different regulator.",
+    "subject": "different regulatory capital regimes",
+    "predicate_type": "relates_to",
+    "object_text": "apply throughout a bank group at different levels, each under the supervision of a different regulator",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This may therefore mean that several different regulatory capital regimes apply throughout a bank group at different levels, each under the supervision of a different regulator.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1a778e8-fb9f-4ade-af75-4ae9ae1db11d",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "A key part of bank regulation is to make sure that firms operating in the industry are prudently managed.",
+    "subject": "bank regulation",
+    "predicate_type": "governs",
+    "object_text": "firms operating in the industry are prudently managed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A key part of bank regulation is to make sure that firms operating in the industry are prudently managed.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bank_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e26135ba-ea94-4b9c-bb79-331c1aac25cb",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "The aim is to protect the firms themselves, their customers, the government and the economy.",
+    "subject": "The aim",
+    "predicate_type": "governs",
+    "object_text": "to protect the firms themselves, their customers, the government and the economy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The aim is to protect the firms themselves, their customers, the government and the economy.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bank_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "092f74af-eea0-49d3-851f-6501e89467e3",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "The aim is to establish rules to make sure that these institutions hold enough capital to ensure continuation of a safe and efficient market and are able to withstand any foreseeable problems.",
+    "subject": "The aim",
+    "predicate_type": "governs",
+    "object_text": "to establish rules to make sure that these institutions hold enough capital to ensure continuation of a safe and efficient market and are able to withstand any foreseeable problems",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The aim is to establish rules to make sure that these institutions hold enough capital to ensure continuation of a safe and efficient market and are able to withstand any foreseeable problems.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "bank_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad066e45-8f11-4c6a-81e3-3e247b0bed02",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "The main international effort to establish rules around capital requirements has been the Basel Accords, published by the Basel Committee on Banking Supervision housed at the Bank for International Settlements.",
+    "subject": "The main international effort to establish rules around capital requirements",
+    "predicate_type": "defines",
+    "object_text": "the Basel Accords, published by the Basel Committee on Banking Supervision housed at the Bank for International Settlements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The main international effort to establish rules around capital requirements has been the Basel Accords, published by the Basel Committee on Banking Supervision housed at the Bank for International Settlements.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel Accords",
+      "Basel Committee on Banking Supervision",
+      "Bank for International Settlements"
+    ],
+    "regulations": [
+      "Basel Accords"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c382dcbd-5aee-42d1-a562-3ada4513dbff",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "This sets a framework on how banks and depository institutions must calculate their capital.",
+    "subject": "This",
+    "predicate_type": "governs",
+    "object_text": "how banks and depository institutions must calculate their capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This sets a framework on how banks and depository institutions must calculate their capital.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59f03523-23ed-4cae-bbe2-7b96daf101c2",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "After obtaining the capital ratios, the bank capital adequacy can be assessed and regulated.",
+    "subject": "bank capital adequacy",
+    "predicate_type": "governs",
+    "object_text": "can be assessed and regulated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "After obtaining the capital ratios, the bank capital adequacy can be assessed and regulated.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ee81d06e-9815-4015-9a70-4fd9be06b8b9",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "In 1988, the Committee decided to introduce a capital measurement system commonly referred to as Basel I.",
+    "subject": "the Committee",
+    "predicate_type": "implements",
+    "object_text": "a capital measurement system commonly referred to as Basel I",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1988, the Committee decided to introduce a capital measurement system commonly referred to as Basel I.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2542bcf7-3bbd-47f9-8ec5-0b18eed76fef",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "In June 2004 this framework was replaced by a significantly more complex capital adequacy framework commonly known as Basel II.",
+    "subject": "this framework",
+    "predicate_type": "supersedes",
+    "object_text": "a significantly more complex capital adequacy framework commonly known as Basel II",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In June 2004 this framework was replaced by a significantly more complex capital adequacy framework commonly known as Basel II.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7c56c6ae-bf1b-4679-9504-30417fd191ea",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "Following the 2008 financial crisis, Basel II was to be replaced by Basel III, however this was completed only in some countries and is scheduled to be completed in others in 2025 and 2026.",
+    "subject": "Basel II",
+    "predicate_type": "supersedes",
+    "object_text": "Basel III",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Following the 2008 financial crisis, Basel II was to be replaced by Basel III, however this was completed only in some countries and is scheduled to be completed in others in 2025 and 2026.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel II",
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel II",
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f35d619f-c8c0-43b5-9bb0-b6f26c05b0de",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "Implementation of the Basel III: Finalising post-crisis reforms, introduced in 2017, was extended several times, and is now scheduled to go into effect on July 1, 2025 with a three-year phase-in period.",
+    "subject": "Implementation of the Basel III: Finalising post-crisis reforms",
+    "predicate_type": "governs",
+    "object_text": "scheduled to go into effect on July 1, 2025 with a three-year phase-in period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implementation of the Basel III: Finalising post-crisis reforms, introduced in 2017, was extended several times, and is now scheduled to go into effect on July 1, 2025 with a three-year phase-in period.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1facf198-6804-4b3e-94f7-b2e4db5905aa",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "Another term commonly used in the context of the frameworks is economic capital, which can be thought of as the capital level bank shareholders would choose in the absence of capital regulation.",
+    "subject": "economic capital",
+    "predicate_type": "defines",
+    "object_text": "the capital level bank shareholders would choose in the absence of capital regulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another term commonly used in the context of the frameworks is economic capital, which can be thought of as the capital level bank shareholders would choose in the absence of capital regulation.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd31e687-ba86-4729-bbe6-8b806a857946",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "The capital ratio is the percentage of a bank's capital to its risk-weighted assets.",
+    "subject": "capital ratio",
+    "predicate_type": "defines",
+    "object_text": "the percentage of a bank's capital to its risk-weighted assets",
+    "object_value": null,
+    "object_unit": "%",
+    "source_text": "The capital ratio is the percentage of a bank's capital to its risk-weighted assets.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bef02a96-8c22-4a89-a0ed-3f2a52f1aada",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "Basel II requires that the total capital ratio must be no lower than 8%.",
+    "subject": "Basel II",
+    "predicate_type": "requires",
+    "object_text": "the total capital ratio must be no lower than 8%",
+    "object_value": 8.0,
+    "object_unit": "%",
+    "source_text": "Basel II requires that the total capital ratio must be no lower than 8%.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5a2863ea-281d-4348-ac5a-2f9dd54bf573",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "Each national regulator normally has a very slightly different way of calculating bank capital, designed to meet the common requirements within their individual national legal framework.",
+    "subject": "Each national regulator",
+    "predicate_type": "governs",
+    "object_text": "a very slightly different way of calculating bank capital, designed to meet the common requirements within their individual national legal framework",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Each national regulator normally has a very slightly different way of calculating bank capital, designed to meet the common requirements within their individual national legal framework.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1ed0e3c5-43a8-44f2-9b19-2c799c92a2d2",
+    "chunk_id": "75ba1ba6-f23b-41ce-893e-3cf41ca0e3f5",
+    "document_id": "Capital_requirement",
+    "claim_text": "Most developed countries implement Basel I and II, stipulate lending limits as a multiple of a bank's capital eroded by the yearly inflation rate.",
+    "subject": "Most developed countries",
+    "predicate_type": "implements",
+    "object_text": "Basel I and II, stipulate lending limits as a multiple of a bank's capital eroded by the yearly inflation rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Most developed countries implement Basel I and II, stipulate lending limits as a multiple of a bank's capital eroded by the yearly inflation rate.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "lending_limits"
+    ],
+    "entities": [
+      "Basel I",
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel I",
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0bb0c0a-bdbe-4b6c-9178-aa70e646264c",
+    "chunk_id": "9c8e494c-9a35-4046-ac35-18fea4d3e51d",
+    "document_id": "Capital_requirement",
+    "claim_text": "Tier 1 capital consists largely of shareholders' equity and disclosed reserves.",
+    "subject": "Tier 1 capital",
+    "predicate_type": "defines",
+    "object_text": "shareholders' equity and disclosed reserves",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Tier 1 capital consists largely of shareholders' equity and disclosed reserves.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 1 capital"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65af44eb-d5d4-4ed1-b22c-4b2db73a9c68",
+    "chunk_id": "9c8e494c-9a35-4046-ac35-18fea4d3e51d",
+    "document_id": "Capital_requirement",
+    "claim_text": "Shareholders equity and retained earnings are now commonly referred to as \"Core\" Tier 1 capital.",
+    "subject": "Shareholders equity and retained earnings",
+    "predicate_type": "defines",
+    "object_text": "\"Core\" Tier 1 capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Shareholders equity and retained earnings are now commonly referred to as \"Core\" Tier 1 capital.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 1 capital"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b0fd6fae-ac50-42c5-8186-dce666f55581",
+    "chunk_id": "9c8e494c-9a35-4046-ac35-18fea4d3e51d",
+    "document_id": "Capital_requirement",
+    "claim_text": "Tier 1 is core Tier 1 together with other qualifying Tier 1 capital securities.",
+    "subject": "Tier 1",
+    "predicate_type": "defines",
+    "object_text": "core Tier 1 together with other qualifying Tier 1 capital securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Tier 1 is core Tier 1 together with other qualifying Tier 1 capital securities.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 1 capital"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1a3dec71-64a8-4b55-9923-af67e63d22c5",
+    "chunk_id": "9c8e494c-9a35-4046-ac35-18fea4d3e51d",
+    "document_id": "Capital_requirement",
+    "claim_text": "In India, the Tier 1 capital is defined as \"'Tier I Capital' means 'owned fund' as reduced by investment in shares of other non-banking financial companies and in shares, debentures, bonds, outstanding loans and advances including hire purchase and lease finance made to and deposits with subsidiaries and companies in the same group exceeding, in aggregate, ten per cent of the owned fund; and perpetual debt instruments issued by a systemically important non-deposit taking non-banking financial company in each year to the extent it does not exceed 15% of the aggregate Tier I Capital of such company as on March 31 of the previous accounting year;\"",
+    "subject": "Tier 1 capital",
+    "predicate_type": "defines",
+    "object_text": "\"'Tier I Capital' means 'owned fund' as reduced by investment in shares of other non-banking financial companies and in shares, debentures, bonds, outstanding loans and advances including hire purchase and lease finance made to and deposits with subsidiaries and companies in the same group exceeding, in aggregate, ten per cent of the owned fund; and perpetual debt instruments issued by a systemically important non-deposit taking non-banking financial company in each year to the extent it does not exceed 15% of the aggregate Tier I Capital of such company as on March 31 of the previous accounting year;\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In India, the Tier 1 capital is defined as \"'Tier I Capital' means 'owned fund' as reduced by investment in shares of other non-banking financial companies and in shares, debentures, bonds, outstanding loans and advances including hire purchase and lease finance made to and deposits with subsidiaries and companies in the same group exceeding, in aggregate, ten per cent of the owned fund; and perpetual debt instruments issued by a systemically important non-deposit taking non-banking financial company in each year to the extent it does not exceed 15% of the aggregate Tier I Capital of such company as on March 31 of the previous accounting year;\"",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 1 capital",
+      "non-banking financial companies"
+    ],
+    "regulations": [
+      "Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "45d490ce-e9e2-46a6-8373-5f5f30b46f5a",
+    "chunk_id": "9c8e494c-9a35-4046-ac35-18fea4d3e51d",
+    "document_id": "Capital_requirement",
+    "claim_text": "In the context of NBFCs in India, the Tier I capital is nothing but net owned funds.",
+    "subject": "Tier I capital",
+    "predicate_type": "defines",
+    "object_text": "net owned funds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the context of NBFCs in India, the Tier I capital is nothing but net owned funds.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier I capital",
+      "NBFCs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "085afe68-5a55-44a9-89e3-14e2d7c52320",
+    "chunk_id": "9c8e494c-9a35-4046-ac35-18fea4d3e51d",
+    "document_id": "Capital_requirement",
+    "claim_text": "Owned funds stand for paid up equity capital, preference shares which are compulsorily convertible into equity, free reserves, balance in share premium account and capital reserves representing surplus arising out of sale proceeds of asset, excluding reserves created by revaluation of asset, as reduced by accumulated loss balance, book value of intangible assets and deferred revenue expenditure, if any.",
+    "subject": "Owned funds",
+    "predicate_type": "defines",
+    "object_text": "paid up equity capital, preference shares which are compulsorily convertible into equity, free reserves, balance in share premium account and capital reserves representing surplus arising out of sale proceeds of asset, excluding reserves created by revaluation of asset, as reduced by accumulated loss balance, book value of intangible assets and deferred revenue expenditure, if any",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Owned funds stand for paid up equity capital, preference shares which are compulsorily convertible into equity, free reserves, balance in share premium account and capital reserves representing surplus arising out of sale proceeds of asset, excluding reserves created by revaluation of asset, as reduced by accumulated loss balance, book value of intangible assets and deferred revenue expenditure, if any.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Owned funds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "000d90a1-6c9c-4d42-b9f7-5a1508fb2ad9",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "Developed countries implement Basel I and II.",
+    "subject": "developed countries",
+    "predicate_type": "implements",
+    "object_text": "Basel I and II",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Developed countries implement Basel I and II.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel I",
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel I",
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cda0a228-5de3-4e59-864a-addcc6673f7a",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "Basel II makes significant alterations to the interpretation of the capital requirement.",
+    "subject": "Basel II",
+    "predicate_type": "relates_to",
+    "object_text": "significant alterations to the interpretation of the capital requirement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel II makes significant alterations to the interpretation of the capital requirement.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e89848e-cb06-4fc9-93d7-0c94cd831645",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "Basel II makes significant alterations to the calculation of the capital requirement.",
+    "subject": "Basel II",
+    "predicate_type": "relates_to",
+    "object_text": "significant alterations to the calculation of the capital requirement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel II makes significant alterations to the calculation of the capital requirement.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2bd22d8-a9d4-4e1e-80df-f82ef7648343",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "Examples of national regulators implementing Basel include the FSA in the UK, BaFin in Germany, OSFI in Canada, Banca d'Italia in Italy.",
+    "subject": "national regulators",
+    "predicate_type": "implements",
+    "object_text": "Basel",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Examples of national regulators implementing Basel include the FSA in the UK, BaFin in Germany, OSFI in Canada, Banca d'Italia in Italy.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "FSA",
+      "BaFin",
+      "OSFI",
+      "Banca d'Italia",
+      "Basel"
+    ],
+    "regulations": [
+      "Basel"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6460cf7c-7c06-4274-9728-faf11df5ffdc",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "In the United States the primary regulators implementing Basel include the Office of the Comptroller of the Currency and the Federal Reserve.",
+    "subject": "primary regulators in the United States",
+    "predicate_type": "implements",
+    "object_text": "Basel",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the United States the primary regulators implementing Basel include the Office of the Comptroller of the Currency and the Federal Reserve.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Office of the Comptroller of the Currency",
+      "Federal Reserve",
+      "Basel"
+    ],
+    "regulations": [
+      "Basel"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "985df059-ece2-4912-a57d-aa5a0c2c8798",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "In the European Union member states have enacted capital requirements based on the Capital Adequacy Directive CAD1 issued in 1993.",
+    "subject": "member states in the European Union",
+    "predicate_type": "implements",
+    "object_text": "capital requirements based on the Capital Adequacy Directive CAD1 issued in 1993",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the European Union member states have enacted capital requirements based on the Capital Adequacy Directive CAD1 issued in 1993.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Capital Adequacy Directive CAD1"
+    ],
+    "regulations": [
+      "CAD1"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "001f9445-9f6b-4d8d-bb62-dd35e9235829",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "In the European Union member states have enacted capital requirements based on the Capital Adequacy Directive CAD2 issued in 1998.",
+    "subject": "member states in the European Union",
+    "predicate_type": "implements",
+    "object_text": "capital requirements based on the Capital Adequacy Directive CAD2 issued in 1998",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the European Union member states have enacted capital requirements based on the Capital Adequacy Directive CAD2 issued in 1998.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Capital Adequacy Directive CAD2"
+    ],
+    "regulations": [
+      "CAD2"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3fb6a73c-8123-4e42-a9aa-f89949aa3750",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "In the United States, depository institutions are subject to risk-based capital guidelines issued by the Board of Governors of the Federal Reserve System (FRB).",
+    "subject": "depository institutions",
+    "predicate_type": "constrains",
+    "object_text": "risk-based capital guidelines issued by the Board of Governors of the Federal Reserve System (FRB)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the United States, depository institutions are subject to risk-based capital guidelines issued by the Board of Governors of the Federal Reserve System (FRB).",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [
+      "Board of Governors of the Federal Reserve System"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "968a13f0-10ea-43c1-a3a3-5146d0892308",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "These guidelines are used to evaluate capital adequacy based primarily on the perceived credit risk associated with balance sheet assets.",
+    "subject": "risk-based capital guidelines",
+    "predicate_type": "relates_to",
+    "object_text": "evaluate capital adequacy based primarily on the perceived credit risk associated with balance sheet assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These guidelines are used to evaluate capital adequacy based primarily on the perceived credit risk associated with balance sheet assets.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "629c8152-a313-49e2-b273-849902a215b7",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "These guidelines are used to evaluate capital adequacy based primarily on certain off-balance sheet exposures such as unfunded loan commitments, letters of credit, and derivatives and foreign exchange contracts.",
+    "subject": "risk-based capital guidelines",
+    "predicate_type": "relates_to",
+    "object_text": "evaluate capital adequacy based primarily on certain off-balance sheet exposures such as unfunded loan commitments, letters of credit, and derivatives and foreign exchange contracts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These guidelines are used to evaluate capital adequacy based primarily on certain off-balance sheet exposures such as unfunded loan commitments, letters of credit, and derivatives and foreign exchange contracts.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "12f99d9d-174c-442e-afef-82d225d30541",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "The risk-based capital guidelines are supplemented by a leverage financial ratio requirement.",
+    "subject": "risk-based capital guidelines",
+    "predicate_type": "relates_to",
+    "object_text": "supplemented by a leverage financial ratio requirement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk-based capital guidelines are supplemented by a leverage financial ratio requirement.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b2afe78-de38-4b22-a8a1-2673e52fbba2",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must have a Tier 1 capital ratio of at least 4%.",
+    "subject": "bank holding company",
+    "predicate_type": "requires",
+    "object_text": "Tier 1 capital ratio of at least 4%",
+    "object_value": 4.0,
+    "object_unit": "%",
+    "source_text": "To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must have a Tier 1 capital ratio of at least 4%.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e5df623c-1c00-4d0c-b21b-f9f7a26268f7",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must have a combined Tier 1 and Tier 2 capital ratio of at least 8%.",
+    "subject": "bank holding company",
+    "predicate_type": "requires",
+    "object_text": "combined Tier 1 and Tier 2 capital ratio of at least 8%",
+    "object_value": 8.0,
+    "object_unit": "%",
+    "source_text": "To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must have a combined Tier 1 and Tier 2 capital ratio of at least 8%.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e36720ad-6fa9-4f88-86eb-ba33ce265984",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must have a leverage ratio of at least 4%.",
+    "subject": "bank holding company",
+    "predicate_type": "requires",
+    "object_text": "leverage ratio of at least 4%",
+    "object_value": 4.0,
+    "object_unit": "%",
+    "source_text": "To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must have a leverage ratio of at least 4%.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "319490bc-46c9-4e99-8ec1-404cab1f3a19",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must not be subject to a directive, order, or written agreement to meet and maintain specific capital levels.",
+    "subject": "bank holding company",
+    "predicate_type": "prohibits",
+    "object_text": "be subject to a directive, order, or written agreement to meet and maintain specific capital levels",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must not be subject to a directive, order, or written agreement to meet and maintain specific capital levels.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7f17967-1122-4815-93fa-6f13c741d668",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must have a Tier 1 capital ratio of at least 6%.",
+    "subject": "bank holding company",
+    "predicate_type": "requires",
+    "object_text": "Tier 1 capital ratio of at least 6%",
+    "object_value": 6.0,
+    "object_unit": "%",
+    "source_text": "To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must have a Tier 1 capital ratio of at least 6%.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfa29d93-b24b-4eab-af00-3789386fefce",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must have a combined Tier 1 and Tier 2 capital ratio of at least 10%.",
+    "subject": "bank holding company",
+    "predicate_type": "requires",
+    "object_text": "combined Tier 1 and Tier 2 capital ratio of at least 10%",
+    "object_value": 10.0,
+    "object_unit": "%",
+    "source_text": "To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must have a combined Tier 1 and Tier 2 capital ratio of at least 10%.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7e04ab4c-865a-4dcd-a242-02b38e73838f",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must have a leverage ratio of at least 5%.",
+    "subject": "bank holding company",
+    "predicate_type": "requires",
+    "object_text": "leverage ratio of at least 5%",
+    "object_value": 5.0,
+    "object_unit": "%",
+    "source_text": "To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must have a leverage ratio of at least 5%.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d2fb26bc-ffb9-4856-85e7-8fff2a03058e",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must not be subject to a directive, order, or written agreement to meet and maintain specific capital levels.",
+    "subject": "bank holding company",
+    "predicate_type": "prohibits",
+    "object_text": "be subject to a directive, order, or written agreement to meet and maintain specific capital levels",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must not be subject to a directive, order, or written agreement to meet and maintain specific capital levels.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f3055879-09f3-4802-9e1b-8aa6a5b2f427",
+    "chunk_id": "d88d3214-db7c-4fce-87a9-d2d747e03698",
+    "document_id": "Capital_requirement",
+    "claim_text": "These capital ratios are reported quarterly on the Call Report or Thrift Financial Report.",
+    "subject": "capital ratios",
+    "predicate_type": "relates_to",
+    "object_text": "reported quarterly on the Call Report or Thrift Financial Report",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These capital ratios are reported quarterly on the Call Report or Thrift Financial Report.",
+    "source_document": "Capital requirement",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "reporting"
+    ],
+    "entities": [
+      "Call Report",
+      "Thrift Financial Report"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

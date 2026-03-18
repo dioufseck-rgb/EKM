@@ -1,0 +1,126 @@
+{
+  "status": "complete",
+  "total_contradicts": 123,
+  "cross_document": 40,
+  "within_document": 83,
+  "by_validity_pairing": {
+    "constative_vs_constative": 118,
+    "normative_vs_normative": 2,
+    "normative_vs_constative": 3
+  },
+  "expressive_involved": 0,
+  "by_confidence_bucket": {
+    "0.90_1.00": 105,
+    "0.80_0.89": 12,
+    "0.70_0.79": 6
+  },
+  "by_domain": {
+    "other": 64,
+    "products": 30,
+    "risk": 10,
+    "regulatory": 16,
+    "financial_theory": 3
+  },
+  "top_10_highest_confidence": [
+    {
+      "src_text": "Adding leverage to a given asset always adds risk.",
+      "tgt_text": "So while adding leverage to a given asset always adds risk, it is not the case that a levered company or investment is a",
+      "src_doc": "Leverage (finance)",
+      "tgt_doc": "Leverage (finance)",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "Adding leverage to a given asset always adds risk...it is not the case that a levered company or investment is always riskier",
+      "cross_document": false
+    },
+    {
+      "src_text": "Revenue is recognized before cash is received.",
+      "tgt_text": "Revenue is recognized when cash is received.",
+      "src_doc": "Revenue recognition",
+      "tgt_doc": "Revenue recognition",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "Revenue is recognized before cash is received. Revenue is recognized when cash is received.",
+      "cross_document": false
+    },
+    {
+      "src_text": "ETFs can be bought and sold at current market prices at any time during the trading day.",
+      "tgt_text": "Mutual funds can only be traded at the end of the trading day.",
+      "src_doc": "Exchange-traded fund",
+      "tgt_doc": "Exchange-traded fund",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "ETFs can be bought and sold at current market prices at any time during the trading day. Mutual funds can only be traded at the end of the trading day.",
+      "cross_document": false
+    },
+    {
+      "src_text": "Many mutual funds have restrictions on frequent trading.",
+      "tgt_text": "ETFs can be traded frequently to hedge risk or implement market timing investment strategies.",
+      "src_doc": "Exchange-traded fund",
+      "tgt_doc": "Exchange-traded fund",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "Many mutual funds have restrictions on frequent trading. ETFs can be traded frequently to hedge risk or implement market timing investment strategies.",
+      "cross_document": false
+    },
+    {
+      "src_text": "Options, including put options and call options, can be written or purchased on most ETFs.",
+      "tgt_text": "It is not possible to write or purchase options on mutual funds.",
+      "src_doc": "Exchange-traded fund",
+      "tgt_doc": "Exchange-traded fund",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "Options, including put options and call options, can be written or purchased on most ETFs. It is not possible to write or purchase options on mutual funds.",
+      "cross_document": false
+    },
+    {
+      "src_text": "ETFs can be traded via any stockbroker.",
+      "tgt_text": "Many mutual funds must be held in an account at the issuing firm.",
+      "src_doc": "Exchange-traded fund",
+      "tgt_doc": "Exchange-traded fund",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "ETFs can be traded via any stockbroker. Many mutual funds must be held in an account at the issuing firm.",
+      "cross_document": false
+    },
+    {
+      "src_text": "Automatic recurring investments or trading fractional shares of ETFs are allowed by all mutual fund issuers.",
+      "tgt_text": "Some stockbrokers do not allow for automatic recurring investments or trading fractional shares of ETFs.",
+      "src_doc": "Exchange-traded fund",
+      "tgt_doc": "Exchange-traded fund",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "Automatic recurring investments or trading fractional shares of ETFs are allowed by all mutual fund issuers. Some stockbrokers do not allow for automatic recurring investments or trading fractional shares of ETFs.",
+      "cross_document": false
+    },
+    {
+      "src_text": "Damiano Brigo and Fabio Mercurio authored Interest Rate Models - Theory and Practice with Smile, Inflation and Credit.",
+      "tgt_text": "Leif B.G. Andersen and Vladimir V. Piterbarg authored Interest Rate Modeling.",
+      "src_doc": "Monte Carlo methods in finance",
+      "tgt_doc": "Yield curve",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "",
+      "cross_document": true
+    },
+    {
+      "src_text": "CDS spreads increase as credit-worthiness declines.",
+      "tgt_text": "CDS spreads decline as credit-worthiness increases.",
+      "src_doc": "Credit default swap",
+      "tgt_doc": "Credit default swap",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "",
+      "cross_document": false
+    },
+    {
+      "src_text": "Data that has been only de-identified but remains possible to link to the individual in question, such as by providing t",
+      "tgt_text": "Data that has been sufficiently anonymised is excluded.",
+      "src_doc": "General Data Protection Regulation",
+      "tgt_doc": "General Data Protection Regulation",
+      "vtype_pairing": "constative_vs_constative",
+      "confidence": 1.0,
+      "evidence": "",
+      "cross_document": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "chunk_id": "3edcf345-9072-41c0-b2b2-acd5d17d77f8",
+    "document_id": "Basel_I",
+    "sequence": 0,
+    "section_title": "Background",
+    "content": "The Committee was formed in response to the messy liquidation of Cologne-based Herstatt Bank in 1974.\nOn 26 June 1974 a number of banks had released Deutschmarks (the German currency) to the Herstatt Bank in exchange for dollar payments deliverable in New York City. Due to differences in the time zones, there was a lag in the dollar payment to the counterparty banks; during this lag period, before the dollar payments could be effected in New York, the Herstatt Bank was liquidated by German regulators.\nThis incident prompted the G-10 nations to form the Basel Committee on Banking Supervision in late 1974, under the auspices of the Bank for International Settlements (BIS) located in Basel, Switzerland.",
+    "token_estimate": 116,
+    "title": "Basel I",
+    "url": "https://en.wikipedia.org/wiki/Basel_I",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "sequence": 1,
+    "section_title": "Main framework",
+    "content": "Basel I, that is, the 1988 Basel Accord, is primarily focused on credit risk and appropriate risk-weighting of assets. Assets of banks were classified and grouped in five categories according to credit risk, carrying risk weights of 0% (for example cash, bullion, home country debt like Treasuries), 20% (securitisations such as mortgage-backed securities (MBS) with the highest AAA rating), 50% (municipal revenue bonds, residential mortgages), 100% (for example, most corporate debt), and some assets given no rating. Banks with an international presence are required to hold capital equal to 8% of their risk-weighted assets (RWA). \nThe tier 1 capital ratio = tier 1 capital / all RWA\nThe total capital ratio = (tier 1 + tier 2 capital) / all RWA\nLeverage ratio = total capital/average total assets\nBanks are also required to report off-balance-sheet items such as letters of credit, unused commitments, and derivatives. These all factor into the risk weighted assets, which are reported to regulators. In the United States, the report is typically submitted to the Federal Reserve Bank as HC-R for the bank-holding company and submitted to the Office of the Comptroller of the Currency (OCC) as RC-R for just the bank.\nFrom 1988 this framework was progressively introduced in member countries of G-10, comprising 13 countries as of 2013: Belgium, Canada, France, Germany, Italy, Japan, Luxembourg, Netherlands, Spain, Sweden, Switzerland, United Kingdom and the United States.\nOver 100 other countries also adopted, at least in name, the principles prescribed under Basel I. The efficacy with which the principles are enforced varies, even within nations of the Group.",
+    "token_estimate": 262,
+    "title": "Basel I",
+    "url": "https://en.wikipedia.org/wiki/Basel_I",
+    "domain": "banking"
+  }
+]

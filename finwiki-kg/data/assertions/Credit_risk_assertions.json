@@ -1,0 +1,3040 @@
+[
+  {
+    "assertion_id": "7c7b3b84-3ca1-4768-ae49-40d5cff90cf6",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "A credit risk can be of the following types.",
+    "subject": "credit risk",
+    "predicate_type": "classifies",
+    "object_text": "the following types",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A credit risk can be of the following types.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "92747f17-c54c-40ef-bcbb-c99604cf416d",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "Credit default risk is the risk of loss arising from a debtor being unlikely to pay its loan obligations in full.",
+    "subject": "Credit default risk",
+    "predicate_type": "defines",
+    "object_text": "the risk of loss arising from a debtor being unlikely to pay its loan obligations in full",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Credit default risk is the risk of loss arising from a debtor being unlikely to pay its loan obligations in full.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "default_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "213d5fec-9019-425a-95f6-966e810dd90c",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "Credit default risk is the risk of loss arising from the debtor being more than 90 days past due on any material credit obligation.",
+    "subject": "Credit default risk",
+    "predicate_type": "defines",
+    "object_text": "the risk of loss arising from the debtor being more than 90 days past due on any material credit obligation",
+    "object_value": 90.0,
+    "object_unit": "days",
+    "source_text": "Credit default risk is the risk of loss arising from the debtor being more than 90 days past due on any material credit obligation.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "default_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c3fac978-5c90-43fd-bca9-6784ea3a62b3",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "Default risk may impact all credit-sensitive transactions, including loans, securities and derivatives.",
+    "subject": "default risk",
+    "predicate_type": "relates_to",
+    "object_text": "all credit-sensitive transactions, including loans, securities and derivatives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Default risk may impact all credit-sensitive transactions, including loans, securities and derivatives.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "default_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e2f9abee-b189-4a0d-bb6e-66e2987bc7a1",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "Concentration risk is the risk associated with any single exposure or group of exposures with the potential to produce large enough losses to threaten a bank's core operations.",
+    "subject": "Concentration risk",
+    "predicate_type": "defines",
+    "object_text": "the risk associated with any single exposure or group of exposures with the potential to produce large enough losses to threaten a bank's core operations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Concentration risk is the risk associated with any single exposure or group of exposures with the potential to produce large enough losses to threaten a bank's core operations.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "concentration_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "366de8a3-5407-4146-b613-2338ec77da6e",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "Concentration risk may arise in the form of single-name concentration.",
+    "subject": "Concentration risk",
+    "predicate_type": "relates_to",
+    "object_text": "single-name concentration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Concentration risk may arise in the form of single-name concentration.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "concentration_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "caa277a0-0189-4231-a3ce-9a2178d368d8",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "Concentration risk may arise in the form of industry concentration.",
+    "subject": "Concentration risk",
+    "predicate_type": "relates_to",
+    "object_text": "industry concentration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Concentration risk may arise in the form of industry concentration.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "concentration_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c36db8aa-29e3-447c-8123-782038c109ae",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "Country risk is the risk of loss arising from a sovereign state freezing foreign currency payments (transfer/conversion risk).",
+    "subject": "Country risk",
+    "predicate_type": "defines",
+    "object_text": "the risk of loss arising from a sovereign state freezing foreign currency payments (transfer/conversion risk)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Country risk is the risk of loss arising from a sovereign state freezing foreign currency payments (transfer/conversion risk).",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "country_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a12c105a-e342-47fe-9c52-1aa05128b433",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "Country risk is the risk of loss arising when a sovereign state defaults on its obligations (sovereign risk).",
+    "subject": "Country risk",
+    "predicate_type": "defines",
+    "object_text": "the risk of loss arising when a sovereign state defaults on its obligations (sovereign risk)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Country risk is the risk of loss arising when a sovereign state defaults on its obligations (sovereign risk).",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "country_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "94687602-81eb-48a2-b751-48e25d965112",
+    "chunk_id": "3f99b5d3-5d8e-4b6e-b448-967a85ea9347",
+    "document_id": "Credit_risk",
+    "claim_text": "This type of risk is prominently associated with the country's macroeconomic performance and its political stability.",
+    "subject": "This type of risk",
+    "predicate_type": "relates_to",
+    "object_text": "the country's macroeconomic performance and its political stability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This type of risk is prominently associated with the country's macroeconomic performance and its political stability.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "country_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05220cdb-3c57-4437-ae7d-710334883850",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "Losses can arise in a number of circumstances.",
+    "subject": "losses",
+    "predicate_type": "causes",
+    "object_text": "can arise in a number of circumstances",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Losses can arise in a number of circumstances.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05afa599-2a51-4ec9-840a-ce4464bf0abd",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "A consumer may fail to make a payment due on a mortgage loan, credit card, line of credit, or other loan.",
+    "subject": "consumer",
+    "predicate_type": "causes",
+    "object_text": "may fail to make a payment due on a mortgage loan, credit card, line of credit, or other loan",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A consumer may fail to make a payment due on a mortgage loan, credit card, line of credit, or other loan.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59639e75-5b46-44ff-96ba-876fa58d7874",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "A company is unable to repay asset-secured fixed or floating charge debt.",
+    "subject": "company",
+    "predicate_type": "causes",
+    "object_text": "is unable to repay asset-secured fixed or floating charge debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A company is unable to repay asset-secured fixed or floating charge debt.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0866482-a671-49ed-82e5-8f0feff04a35",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "A business or consumer does not pay a trade invoice when due.",
+    "subject": "business or consumer",
+    "predicate_type": "causes",
+    "object_text": "does not pay a trade invoice when due",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A business or consumer does not pay a trade invoice when due.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c8bb2dc6-eb96-40ec-a585-168c6aad46c9",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "A business does not pay an employee's earned wages when due.",
+    "subject": "business",
+    "predicate_type": "causes",
+    "object_text": "does not pay an employee's earned wages when due",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A business does not pay an employee's earned wages when due.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ccada101-94bf-465b-8e65-3546adc2483b",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "A business or government bond issuer does not make a payment on a coupon or principal payment when due.",
+    "subject": "business or government bond issuer",
+    "predicate_type": "causes",
+    "object_text": "does not make a payment on a coupon or principal payment when due",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A business or government bond issuer does not make a payment on a coupon or principal payment when due.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7d93cf43-4885-4a80-b4c7-352ccb046579",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "An insolvent insurance company does not pay a policy obligation.",
+    "subject": "insolvent insurance company",
+    "predicate_type": "causes",
+    "object_text": "does not pay a policy obligation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An insolvent insurance company does not pay a policy obligation.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c01b6c7d-a236-4da5-9991-8f9235f2fca5",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "An insolvent bank will not return funds to a depositor.",
+    "subject": "insolvent bank",
+    "predicate_type": "causes",
+    "object_text": "will not return funds to a depositor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An insolvent bank will not return funds to a depositor.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "243d710b-601d-4b7a-96dd-e7f61c6952a1",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "A government grants bankruptcy protection to an insolvent consumer or business.",
+    "subject": "government",
+    "predicate_type": "permits",
+    "object_text": "grants bankruptcy protection to an insolvent consumer or business",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A government grants bankruptcy protection to an insolvent consumer or business.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da96d52e-43d4-4744-99be-b42546ec5463",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "To reduce the lender's credit risk, the lender may perform a credit check on the prospective borrower.",
+    "subject": "lender",
+    "predicate_type": "permits",
+    "object_text": "may perform a credit check on the prospective borrower",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To reduce the lender's credit risk, the lender may perform a credit check on the prospective borrower.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a1b5b96a-13c2-4696-b057-9b86451e952a",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "To reduce the lender's credit risk, the lender may require the borrower to take out appropriate insurance, such as mortgage insurance.",
+    "subject": "lender",
+    "predicate_type": "permits",
+    "object_text": "may require the borrower to take out appropriate insurance, such as mortgage insurance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To reduce the lender's credit risk, the lender may require the borrower to take out appropriate insurance, such as mortgage insurance.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8288d438-701c-42ec-82db-dcbf2dc9926c",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "To reduce the lender's credit risk, the lender may seek security over some assets of the borrower.",
+    "subject": "lender",
+    "predicate_type": "permits",
+    "object_text": "may seek security over some assets of the borrower",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To reduce the lender's credit risk, the lender may seek security over some assets of the borrower.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41b8f48d-9106-4a01-85e0-d116e8bf316f",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "To reduce the lender's credit risk, the lender may seek a guarantee from a third party.",
+    "subject": "lender",
+    "predicate_type": "permits",
+    "object_text": "may seek a guarantee from a third party",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To reduce the lender's credit risk, the lender may seek a guarantee from a third party.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "345a2580-3b7e-4743-bffe-9ae4c3b111b7",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "The lender can also take out insurance against the risk.",
+    "subject": "lender",
+    "predicate_type": "permits",
+    "object_text": "can also take out insurance against the risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The lender can also take out insurance against the risk.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d43200c4-ebb8-40db-932a-e00cb56cba4b",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "The lender can also on-sell the debt to another company.",
+    "subject": "lender",
+    "predicate_type": "permits",
+    "object_text": "can also on-sell the debt to another company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The lender can also on-sell the debt to another company.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e45d975d-11ae-4d71-bbeb-58f94cd4eba9",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "In general, the higher the risk, the higher will be the interest rate that the debtor will be asked to pay on the debt.",
+    "subject": "interest rate",
+    "predicate_type": "relates_to",
+    "object_text": "the higher the risk, the higher will be the interest rate that the debtor will be asked to pay on the debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In general, the higher the risk, the higher will be the interest rate that the debtor will be asked to pay on the debt.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "40480d28-5f7c-4784-a056-96bc375d7973",
+    "chunk_id": "296c2504-b080-4ecf-ada3-4718f05d3bf7",
+    "document_id": "Credit_risk",
+    "claim_text": "Credit risk mainly arises when borrowers are unable or unwilling to pay.",
+    "subject": "credit risk",
+    "predicate_type": "causes",
+    "object_text": "mainly arises when borrowers are unable or unwilling to pay",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Credit risk mainly arises when borrowers are unable or unwilling to pay.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e7f5bd5-d058-4bd6-b990-d9837485e209",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Significant resources and sophisticated programs are used to analyze and manage risk.",
+    "subject": "Significant resources and sophisticated programs",
+    "predicate_type": "implements",
+    "object_text": "analyze and manage risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Significant resources and sophisticated programs are used to analyze and manage risk.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8d6187b0-8155-4a95-b62a-ddaec181e93a",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Some companies run a credit risk department whose job is to assess the financial health of their customers, and extend credit accordingly.",
+    "subject": "credit risk department",
+    "predicate_type": "implements",
+    "object_text": "assess the financial health of their customers, and extend credit accordingly",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some companies run a credit risk department whose job is to assess the financial health of their customers, and extend credit accordingly.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41a92cb3-1fcc-422d-9a8a-e1e7f9be3ffc",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "They may use in-house programs to advise on avoiding, reducing and transferring risk.",
+    "subject": "companies",
+    "predicate_type": "permits",
+    "object_text": "use in-house programs to advise on avoiding, reducing and transferring risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They may use in-house programs to advise on avoiding, reducing and transferring risk.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "20a515e0-22ce-45f1-856f-b45154be6f5d",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "They also use the third party provided intelligence.",
+    "subject": "companies",
+    "predicate_type": "permits",
+    "object_text": "use the third party provided intelligence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They also use the third party provided intelligence.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "de0077ed-3c3b-448b-b531-ec925e695ca3",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Nationally recognized statistical rating organizations provide such information for a fee.",
+    "subject": "Nationally recognized statistical rating organizations",
+    "predicate_type": "implements",
+    "object_text": "provide such information for a fee",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Nationally recognized statistical rating organizations provide such information for a fee.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2f6dbfd1-1a1f-44e6-90f6-5014f8519864",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Bond yield spreads and credit default swap spreads indicate market participants assessments of credit risk.",
+    "subject": "Bond yield spreads and credit default swap spreads",
+    "predicate_type": "relates_to",
+    "object_text": "market participants assessments of credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bond yield spreads and credit default swap spreads indicate market participants assessments of credit risk.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dd9cfe0a-db84-42ea-bec7-af48278f4784",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Bond yield spreads and credit default swap spreads may be used as a reference point to price loans or trigger collateral calls.",
+    "subject": "Bond yield spreads and credit default swap spreads",
+    "predicate_type": "permits",
+    "object_text": "be used as a reference point to price loans or trigger collateral calls",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Bond yield spreads and credit default swap spreads may be used as a reference point to price loans or trigger collateral calls.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "68b1289e-c726-4a1f-8d23-6ae901848aa6",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Most lenders employ their models (credit scorecards) to rank potential and existing customers according to risk, and then apply appropriate strategies.",
+    "subject": "lenders",
+    "predicate_type": "implements",
+    "object_text": "employ their models (credit scorecards) to rank potential and existing customers according to risk, and then apply appropriate strategies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Most lenders employ their models (credit scorecards) to rank potential and existing customers according to risk, and then apply appropriate strategies.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "623e695e-5286-4340-a973-1032a12b37bd",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders charge a higher price for higher-risk customers and vice versa.",
+    "subject": "lenders",
+    "predicate_type": "relates_to",
+    "object_text": "charge a higher price for higher-risk customers and vice versa",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders charge a higher price for higher-risk customers and vice versa.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b22df4f8-eaed-49c1-ad42-fc6391940a23",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "The risk is controlled through the setting of credit limits.",
+    "subject": "risk",
+    "predicate_type": "constrains",
+    "object_text": "controlled through the setting of credit limits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk is controlled through the setting of credit limits.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "816263ff-b75d-4135-955c-12c026b6952e",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Some products also require collateral, usually an asset that is pledged to secure the repayment of the loan.",
+    "subject": "products",
+    "predicate_type": "requires",
+    "object_text": "collateral, usually an asset that is pledged to secure the repayment of the loan",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some products also require collateral, usually an asset that is pledged to secure the repayment of the loan.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ff215be7-4575-4b49-8628-d5104a2b0424",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Credit scoring models also form part of the framework used by banks or lending institutions to grant credit to clients.",
+    "subject": "Credit scoring models",
+    "predicate_type": "implements",
+    "object_text": "part of the framework used by banks or lending institutions to grant credit to clients",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Credit scoring models also form part of the framework used by banks or lending institutions to grant credit to clients.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "51ac6231-b49b-4759-a6a2-902b63f0aa23",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "For corporate and commercial borrowers, these models generally have qualitative and quantitative sections outlining various aspects of the risk including, but not limited to, operating experience, management expertise, asset quality, and leverage and liquidity ratios, respectively.",
+    "subject": "models",
+    "predicate_type": "relates_to",
+    "object_text": "generally have qualitative and quantitative sections outlining various aspects of the risk including, but not limited to, operating experience, management expertise, asset quality, and leverage and liquidity ratios, respectively",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For corporate and commercial borrowers, these models generally have qualitative and quantitative sections outlining various aspects of the risk including, but not limited to, operating experience, management expertise, asset quality, and leverage and liquidity ratios, respectively.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ba9b5363-2e45-4f02-878a-0d377bdebf13",
+    "chunk_id": "9879b251-51c5-4e5b-b607-03dafe124268",
+    "document_id": "Credit_risk",
+    "claim_text": "Once this information has been fully reviewed by credit officers and credit committees, the lender provides the funds subject to the terms and conditions presented within the contract (as outlined above).",
+    "subject": "lender",
+    "predicate_type": "implements",
+    "object_text": "provides the funds subject to the terms and conditions presented within the contract",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Once this information has been fully reviewed by credit officers and credit committees, the lender provides the funds subject to the terms and conditions presented within the contract (as outlined above).",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "063d889e-22bd-475c-a01c-867fad8859d8",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders mitigate credit risk in a number of ways.",
+    "subject": "Lenders",
+    "predicate_type": "relates_to",
+    "object_text": "mitigate credit risk in a number of ways",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders mitigate credit risk in a number of ways.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e8170398-530b-4169-b0a3-42c665d06fd7",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders may charge a higher interest rate to borrowers who are more likely to default, a practice called risk-based pricing.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "charge a higher interest rate to borrowers who are more likely to default",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders may charge a higher interest rate to borrowers who are more likely to default, a practice called risk-based pricing.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "pricing"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "514ebd96-1c8e-46ba-9191-159dec32c5f1",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Risk-based pricing is a practice where lenders may charge a higher interest rate to borrowers who are more likely to default.",
+    "subject": "Risk-based pricing",
+    "predicate_type": "defines",
+    "object_text": "a practice where lenders may charge a higher interest rate to borrowers who are more likely to default",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Risk-based pricing is a practice where lenders may charge a higher interest rate to borrowers who are more likely to default.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "pricing"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "717063f6-8b6a-4aeb-a800-ec89049866ab",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders consider factors relating to the loan such as loan purpose, credit rating, and loan-to-value ratio and estimates the effect on yield (credit spread).",
+    "subject": "Lenders",
+    "predicate_type": "relates_to",
+    "object_text": "consider factors relating to the loan such as loan purpose, credit rating, and loan-to-value ratio and estimates the effect on yield (credit spread)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders consider factors relating to the loan such as loan purpose, credit rating, and loan-to-value ratio and estimates the effect on yield (credit spread).",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "pricing"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "285a3b71-b7c5-4b03-a8c5-487214428050",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders may write stipulations on the borrower, called covenants, into loan agreements.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "write stipulations on the borrower, called covenants, into loan agreements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders may write stipulations on the borrower, called covenants, into loan agreements.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "loan_covenants"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "99635678-0dc5-45b7-b346-f8e66955014d",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Covenants are stipulations on the borrower written into loan agreements.",
+    "subject": "Covenants",
+    "predicate_type": "defines",
+    "object_text": "stipulations on the borrower written into loan agreements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Covenants are stipulations on the borrower written into loan agreements.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "loan_covenants"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "be723d2d-8be1-46a4-8c51-b21f3c9c58b7",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders may write covenants into loan agreements that require the borrower to periodically report its financial condition.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "write covenants into loan agreements that require the borrower to periodically report its financial condition",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders may write covenants into loan agreements that require the borrower to periodically report its financial condition.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "loan_covenants"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2d6b7302-5ece-4aea-b6c5-16eff6a4e753",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders may write covenants into loan agreements that prohibit the borrower from paying dividends.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "write covenants into loan agreements that prohibit the borrower from paying dividends",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders may write covenants into loan agreements that prohibit the borrower from paying dividends.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "loan_covenants"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "20fbe18b-ce51-4b86-952e-e44ed0eeaa50",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders may write covenants into loan agreements that prohibit the borrower from repurchasing shares.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "write covenants into loan agreements that prohibit the borrower from repurchasing shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders may write covenants into loan agreements that prohibit the borrower from repurchasing shares.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "loan_covenants"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e7a1d21-83d3-4800-8abe-c58bd85213b3",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders may write covenants into loan agreements that prohibit the borrower from borrowing further.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "write covenants into loan agreements that prohibit the borrower from borrowing further",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders may write covenants into loan agreements that prohibit the borrower from borrowing further.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "loan_covenants"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a5ae2e0c-e1d5-4cb4-b2eb-fa492c774fae",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders may write covenants into loan agreements that prohibit the borrower from other specific, voluntary actions that negatively affect the company's financial position.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "write covenants into loan agreements that prohibit the borrower from other specific, voluntary actions that negatively affect the company's financial position",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders may write covenants into loan agreements that prohibit the borrower from other specific, voluntary actions that negatively affect the company's financial position.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "loan_covenants"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "76924e19-bc50-40f2-b056-44564be0d859",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders may write covenants into loan agreements that require the borrower to repay the loan in full, at the lender's request, in certain events such as changes in the borrower's debt-to-equity ratio or interest coverage ratio.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "write covenants into loan agreements that require the borrower to repay the loan in full, at the lender's request, in certain events such as changes in the borrower's debt-to-equity ratio or interest coverage ratio",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders may write covenants into loan agreements that require the borrower to repay the loan in full, at the lender's request, in certain events such as changes in the borrower's debt-to-equity ratio or interest coverage ratio.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "loan_covenants"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "075c62e9-6040-40a7-9739-f3faef8d4801",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders and bond holders may hedge their credit risk by purchasing credit insurance or credit derivatives.",
+    "subject": "Lenders and bond holders",
+    "predicate_type": "permits",
+    "object_text": "hedge their credit risk by purchasing credit insurance or credit derivatives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders and bond holders may hedge their credit risk by purchasing credit insurance or credit derivatives.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "hedging"
+    ],
+    "entities": [
+      "Lenders",
+      "bond holders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6f3ea857-4972-44c2-b84b-8b74fc4c2c54",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "These contracts transfer the risk from the lender to the seller (insurer) in exchange for payment.",
+    "subject": "These contracts",
+    "predicate_type": "relates_to",
+    "object_text": "transfer the risk from the lender to the seller (insurer) in exchange for payment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These contracts transfer the risk from the lender to the seller (insurer) in exchange for payment.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "risk_transfer"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "56eede99-2dbe-41f4-9d8b-df6d10fa51fa",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "The most common credit derivative is the credit default swap.",
+    "subject": "credit derivative",
+    "predicate_type": "classifies",
+    "object_text": "credit default swap",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The most common credit derivative is the credit default swap.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "credit_derivatives"
+    ],
+    "entities": [
+      "credit default swap"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d0d794ba-a221-40eb-8839-75659edf5393",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders can reduce credit risk by reducing the amount of credit extended, either in total or to certain borrowers.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "reduce credit risk by reducing the amount of credit extended, either in total or to certain borrowers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders can reduce credit risk by reducing the amount of credit extended, either in total or to certain borrowers.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "292a3f44-0a19-457f-9fac-6ef841c4cc8c",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "A distributor selling its products to a troubled retailer may attempt to lessen credit risk by reducing payment terms from net 30 to net 15.",
+    "subject": "A distributor",
+    "predicate_type": "permits",
+    "object_text": "lessen credit risk by reducing payment terms from net 30 to net 15",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A distributor selling its products to a troubled retailer may attempt to lessen credit risk by reducing payment terms from net 30 to net 15.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "payment_terms"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0610da06-99e8-4570-bf38-01e741c71b20",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders to a small number of borrowers face a high degree of unsystematic credit risk, called concentration risk.",
+    "subject": "Lenders",
+    "predicate_type": "relates_to",
+    "object_text": "face a high degree of unsystematic credit risk, called concentration risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders to a small number of borrowers face a high degree of unsystematic credit risk, called concentration risk.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "concentration_risk"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4165bb69-c399-431b-80cd-694d4dfc2da6",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Concentration risk is a high degree of unsystematic credit risk faced by lenders to a small number of borrowers.",
+    "subject": "Concentration risk",
+    "predicate_type": "defines",
+    "object_text": "a high degree of unsystematic credit risk faced by lenders to a small number of borrowers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Concentration risk is a high degree of unsystematic credit risk faced by lenders to a small number of borrowers.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "concentration_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "54ab3f2f-edd4-40fb-abb5-1346c9e38b62",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Lenders reduce concentration risk by diversifying the borrower pool.",
+    "subject": "Lenders",
+    "predicate_type": "permits",
+    "object_text": "reduce concentration risk by diversifying the borrower pool",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lenders reduce concentration risk by diversifying the borrower pool.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "concentration_risk",
+      "diversification"
+    ],
+    "entities": [
+      "Lenders"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2d639cda-1fc5-4463-a619-30a2171d6fc0",
+    "chunk_id": "10c58fd5-e706-47f5-af1e-7fe443a09d9a",
+    "document_id": "Credit_risk",
+    "claim_text": "Governments may establish deposit insurance to guarantee bank deposits in the event of insolvency and to encourage consumers to hold their savings in the banking system instead of in cash.",
+    "subject": "Governments",
+    "predicate_type": "permits",
+    "object_text": "establish deposit insurance to guarantee bank deposits in the event of insolvency and to encourage consumers to hold their savings in the banking system instead of in cash",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Governments may establish deposit insurance to guarantee bank deposits in the event of insolvency and to encourage consumers to hold their savings in the banking system instead of in cash.",
+    "source_document": "Credit risk",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deposit_insurance",
+      "insolvency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  }
+]

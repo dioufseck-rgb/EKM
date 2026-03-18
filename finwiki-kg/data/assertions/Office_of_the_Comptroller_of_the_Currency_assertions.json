@@ -1,0 +1,2818 @@
+[
+  {
+    "assertion_id": "60b81dcc-1c6c-4ebc-8b6e-55e173cca39f",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "In 2003, the OCC proposed regulations to preempt virtually all state banking and financial services laws for national banks and their diverse range of non-bank, corporate operating subsidiaries.",
+    "subject": "OCC",
+    "predicate_type": "prohibits",
+    "object_text": "state banking and financial services laws for national banks and their diverse range of non-bank, corporate operating subsidiaries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2003, the OCC proposed regulations to preempt virtually all state banking and financial services laws for national banks and their diverse range of non-bank, corporate operating subsidiaries.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preemption",
+      "banking regulation"
+    ],
+    "entities": [
+      "OCC",
+      "national banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d44d1587-36eb-4b80-8d04-b05d6ae8dde3",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "Despite opposition from the National Conference of State Legislatures, the OCC's regulations went into effect.",
+    "subject": "OCC's regulations",
+    "predicate_type": "implements",
+    "object_text": "went into effect",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Despite opposition from the National Conference of State Legislatures, the OCC's regulations went into effect.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "OCC",
+      "National Conference of State Legislatures"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d86a5fba-9d63-4f54-ad78-e31aecf1ac3e",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "In Watters v. Wachovia Bank, N.A. 550 U.S. 1 (2007), the United States Supreme Court validated the preemption of state regulations by the OCC",
+    "subject": "United States Supreme Court",
+    "predicate_type": "governs",
+    "object_text": "validated the preemption of state regulations by the OCC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Watters v. Wachovia Bank, N.A. 550 U.S. 1 (2007), the United States Supreme Court validated the preemption of state regulations by the OCC",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preemption",
+      "court ruling"
+    ],
+    "entities": [
+      "United States Supreme Court",
+      "OCC",
+      "Wachovia Bank, N.A."
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "33275b2e-1385-4950-b358-4ef0e17f9172",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "the OCC, not the states, has the authority to subject national banks to \"general supervision\" and \"oversight\"",
+    "subject": "OCC",
+    "predicate_type": "governs",
+    "object_text": "authority to subject national banks to \"general supervision\" and \"oversight\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "the OCC, not the states, has the authority to subject national banks to \"general supervision\" and \"oversight\"",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "supervision",
+      "oversight"
+    ],
+    "entities": [
+      "OCC",
+      "national banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a55e0b53-080f-4d9c-ac46-b953d79c9c9a",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "State regulators cannot interfere with the business of banking by subjecting national banks or their OCC-licensed operating subsidiaries to multiple audits and surveillance under rival oversight regimes.",
+    "subject": "State regulators",
+    "predicate_type": "prohibits",
+    "object_text": "interfere with the business of banking by subjecting national banks or their OCC-licensed operating subsidiaries to multiple audits and surveillance under rival oversight regimes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "State regulators cannot interfere with the business of banking by subjecting national banks or their OCC-licensed operating subsidiaries to multiple audits and surveillance under rival oversight regimes.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "audits",
+      "surveillance",
+      "banking regulation"
+    ],
+    "entities": [
+      "State regulators",
+      "national banks",
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f31ef97-9b74-49ee-b314-18fecc47fb95",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "In Cuomo v. Clearing House Association, L. L. C. 557 U.S. 519 (2009), the Court clarified its decision in Watters, stating that federal banking regulations did not preempt the ability of states to enforce their own fair-lending laws",
+    "subject": "Court",
+    "predicate_type": "governs",
+    "object_text": "federal banking regulations did not preempt the ability of states to enforce their own fair-lending laws",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Cuomo v. Clearing House Association, L. L. C. 557 U.S. 519 (2009), the Court clarified its decision in Watters, stating that federal banking regulations did not preempt the ability of states to enforce their own fair-lending laws",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "preemption",
+      "fair lending",
+      "court ruling"
+    ],
+    "entities": [
+      "Court",
+      "Clearing House Association, L. L. C."
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "25ef8bd8-f64e-4d54-b4d4-51f0fe325e3e",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "\"'general supervision and control' and 'oversight' are worlds apart from law enforcement\"",
+    "subject": "\"general supervision and control' and 'oversight'",
+    "predicate_type": "relates_to",
+    "object_text": "are worlds apart from law enforcement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "\"'general supervision and control' and 'oversight' are worlds apart from law enforcement\"",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "supervision",
+      "oversight",
+      "law enforcement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f45043b7-3b68-4488-844b-539b22319e68",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "states retain law enforcement powers but have restricted \"visitorial\" powers over national banks",
+    "subject": "states",
+    "predicate_type": "permits",
+    "object_text": "retain law enforcement powers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "states retain law enforcement powers but have restricted \"visitorial\" powers over national banks",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "law enforcement",
+      "visitorial powers"
+    ],
+    "entities": [
+      "states",
+      "national banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5fd220d0-e277-4291-8757-04b1e1add7e0",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "states have restricted \"visitorial\" powers over national banks",
+    "subject": "states",
+    "predicate_type": "constrains",
+    "object_text": "\"visitorial\" powers over national banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "states have restricted \"visitorial\" powers over national banks",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "visitorial powers"
+    ],
+    "entities": [
+      "states",
+      "national banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f077b208-6fcc-4081-8365-86e32d8c7fae",
+    "chunk_id": "eb0a871e-017b-4010-ae20-d779c695a384",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "states have the right to examine the affairs of a corporation",
+    "subject": "states",
+    "predicate_type": "governs",
+    "object_text": "the right to examine the affairs of a corporation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "states have the right to examine the affairs of a corporation",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate governance"
+    ],
+    "entities": [
+      "states",
+      "corporation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": false,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "7e67460a-957c-404d-bd9e-2850bb40297d",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "During the American Civil War, leaders of the U.S. federal government, including President Abraham Lincoln and Treasury Secretary Salmon P. Chase, drafted plans for a national banking system.",
+    "subject": "leaders of the U.S. federal government",
+    "predicate_type": "relates_to",
+    "object_text": "drafted plans for a national banking system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "During the American Civil War, leaders of the U.S. federal government, including President Abraham Lincoln and Treasury Secretary Salmon P. Chase, drafted plans for a national banking system.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "government"
+    ],
+    "entities": [
+      "Abraham Lincoln",
+      "Salmon P. Chase"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f414c7e9-8cfc-4ac1-905e-1b62d9bd59d5",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "These plans were put into action by the National Currency Act of 1863, subsequently amended by the National Bank Act, which created the Office of the Comptroller of the Currency to administer the new system.",
+    "subject": "National Currency Act of 1863",
+    "predicate_type": "implements",
+    "object_text": "created the Office of the Comptroller of the Currency to administer the new system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These plans were put into action by the National Currency Act of 1863, subsequently amended by the National Bank Act, which created the Office of the Comptroller of the Currency to administer the new system.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "National Currency Act of 1863",
+      "National Bank Act",
+      "Office of the Comptroller of the Currency"
+    ],
+    "regulations": [
+      "National Currency Act of 1863",
+      "National Bank Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a7373ee8-8584-4396-bbda-6f2535bc4c41",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "Hugh McCulloch, former president of the state-owned Bank of Indiana, was chosen to be the first comptroller of the currency.",
+    "subject": "Hugh McCulloch",
+    "predicate_type": "relates_to",
+    "object_text": "was chosen to be the first comptroller of the currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Hugh McCulloch, former president of the state-owned Bank of Indiana, was chosen to be the first comptroller of the currency.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "personnel"
+    ],
+    "entities": [
+      "Hugh McCulloch",
+      "Bank of Indiana",
+      "Office of the Comptroller of the Currency"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62f0c44a-32b8-41c7-b4a4-1f191e5afa27",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "Under the law, banks could apply to the OCC for a charter issued by the federal government.",
+    "subject": "banks",
+    "predicate_type": "permits",
+    "object_text": "apply to the OCC for a charter issued by the federal government",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under the law, banks could apply to the OCC for a charter issued by the federal government.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "Office of the Comptroller of the Currency"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8d64942b-bdb0-4acd-86c5-81977b90f8ac",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "Approved banks would purchase U.S. government bonds, generating cash flow for the government.",
+    "subject": "Approved banks",
+    "predicate_type": "requires",
+    "object_text": "purchase U.S. government bonds, generating cash flow for the government",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Approved banks would purchase U.S. government bonds, generating cash flow for the government.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "government bonds"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "74c9dfc0-0c0a-4c17-95d9-9c2fbcfe536a",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The bonds would then be deposited with the U.S. Treasury to provide security to back the paper money to be issued by the banks, a new uniform United States currency that could be redeemed for gold or silver at banks around the country.",
+    "subject": "bonds",
+    "predicate_type": "relates_to",
+    "object_text": "deposited with the U.S. Treasury to provide security to back the paper money to be issued by the banks, a new uniform United States currency that could be redeemed for gold or silver at banks around the country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The bonds would then be deposited with the U.S. Treasury to provide security to back the paper money to be issued by the banks, a new uniform United States currency that could be redeemed for gold or silver at banks around the country.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "currency"
+    ],
+    "entities": [
+      "U.S. Treasury"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eb5d9cad-05dc-4315-af6b-ded27ed7af47",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "By ensuring the new currency was backed by the government-held bonds, the system gave users greater confidence in the stability of the paper money.",
+    "subject": "system",
+    "predicate_type": "causes",
+    "object_text": "gave users greater confidence in the stability of the paper money",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By ensuring the new currency was backed by the government-held bonds, the system gave users greater confidence in the stability of the paper money.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "currency",
+      "government bonds"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "db806c4b-8a77-4019-9fc5-6cd4576a5d98",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "By 1868, the OCC had 72 staff, a third of them women.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "had 72 staff, a third of them women",
+    "object_value": 72.0,
+    "object_unit": null,
+    "source_text": "By 1868, the OCC had 72 staff, a third of them women.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "personnel"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad4f7fc3-466f-40ec-9baf-ffa2104cd182",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "They processed charter applications and distributed currency to national banks.",
+    "subject": "OCC staff",
+    "predicate_type": "relates_to",
+    "object_text": "processed charter applications and distributed currency to national banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They processed charter applications and distributed currency to national banks.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "currency"
+    ],
+    "entities": [
+      "national banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f99607ab-10a1-4431-a271-ad57e3479334",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "Until 1913, these staff were paid by distance distributed and did not have set salaries.",
+    "subject": "OCC staff",
+    "predicate_type": "relates_to",
+    "object_text": "were paid by distance distributed and did not have set salaries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Until 1913, these staff were paid by distance distributed and did not have set salaries.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "personnel"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7b341b46-549d-48f9-87d6-3cc6789d497a",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "In 1913, the Federal Reserve Act established a central bank, the Federal Reserve, to issue American currency.",
+    "subject": "Federal Reserve Act",
+    "predicate_type": "implements",
+    "object_text": "established a central bank, the Federal Reserve, to issue American currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1913, the Federal Reserve Act established a central bank, the Federal Reserve, to issue American currency.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "currency"
+    ],
+    "entities": [
+      "Federal Reserve Act",
+      "Federal Reserve"
+    ],
+    "regulations": [
+      "Federal Reserve Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ff381d98-92a8-4c6e-94bf-ff125383c532",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC's role shifted to bank examination and regulation, though it retained \"currency\" as part of its name.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "role shifted to bank examination and regulation, though it retained \"currency\" as part of its name",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC's role shifted to bank examination and regulation, though it retained \"currency\" as part of its name.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "22460cd7-8a6a-49c9-b502-fd5f5db473a0",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "In response to the growing power of local banks, the OCC insisted on deregulating national banks in order to compete, which was realized in the McFadden Act of 1927.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "insisted on deregulating national banks in order to compete, which was realized in the McFadden Act of 1927",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In response to the growing power of local banks, the OCC insisted on deregulating national banks in order to compete, which was realized in the McFadden Act of 1927.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "deregulation"
+    ],
+    "entities": [
+      "OCC",
+      "national banks",
+      "McFadden Act of 1927"
+    ],
+    "regulations": [
+      "McFadden Act of 1927"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b3d59190-232d-4459-be1e-d3f3dcaa0198",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "In 1937, the OCC signed an agreement with the Federal Reserve and the Federal Deposit Insurance Corporation to standardize the regulation of banks between the agencies.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "signed an agreement with the Federal Reserve and the Federal Deposit Insurance Corporation to standardize the regulation of banks between the agencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1937, the OCC signed an agreement with the Federal Reserve and the Federal Deposit Insurance Corporation to standardize the regulation of banks between the agencies.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "OCC",
+      "Federal Reserve",
+      "Federal Deposit Insurance Corporation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f12de6c-4e88-4700-b4fc-c1e68c86ee2d",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "In the 1960s, 21st comptroller James J. Saxon passed a number of controversial regulations, including one which allowed national banks to underwrite revenue bonds for the governments of states and municipalities.",
+    "subject": "James J. Saxon",
+    "predicate_type": "relates_to",
+    "object_text": "passed a number of controversial regulations, including one which allowed national banks to underwrite revenue bonds for the governments of states and municipalities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the 1960s, 21st comptroller James J. Saxon passed a number of controversial regulations, including one which allowed national banks to underwrite revenue bonds for the governments of states and municipalities.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "James J. Saxon",
+      "national banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ef550e5-94b5-4091-9834-e422a5e46f68",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "Many of these were later overturned in court.",
+    "subject": "controversial regulations",
+    "predicate_type": "relates_to",
+    "object_text": "were later overturned in court",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many of these were later overturned in court.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4b4f39f8-194c-4bb5-8824-3584eba2d308",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "However, some reforms, like creating international banking and economics units and strengthening the law department, remained after his term.",
+    "subject": "some reforms",
+    "predicate_type": "relates_to",
+    "object_text": "remained after his term",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "However, some reforms, like creating international banking and economics units and strengthening the law department, remained after his term.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b5b6b66-151a-4eb3-b295-1590ed092e99",
+    "chunk_id": "94ff74d4-1791-46a4-9403-df76202a4ebd",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC was involved in the response during and after the 2008 financial crisis, including work with the Troubled Asset Relief Program (TARP), designing stress tests for major banks, and collecting and analyzing data on",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "was involved in the response during and after the 2008 financial crisis, including work with the Troubled Asset Relief Program (TARP), designing stress tests for major banks, and collecting and analyzing data on",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC was involved in the response during and after the 2008 financial crisis, including work with the Troubled Asset Relief Program (TARP), designing stress tests for major banks, and collecting and analyzing data on",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial crisis"
+    ],
+    "entities": [
+      "OCC",
+      "Troubled Asset Relief Program (TARP)"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "92188925-0e7a-42d0-87a6-0bac7516f423",
+    "chunk_id": "f391c89d-cc81-4bb4-bf75-a9e219cb4160",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC was involved in the response during and after the 2008 financial crisis.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "involved in the response during and after the 2008 financial crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC was involved in the response during and after the 2008 financial crisis.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_crisis"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "61c3eaa5-2eaa-407e-a4bc-f5fd458d5c33",
+    "chunk_id": "f391c89d-cc81-4bb4-bf75-a9e219cb4160",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC was involved in work with the Troubled Asset Relief Program (TARP).",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "work with the Troubled Asset Relief Program (TARP)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC was involved in work with the Troubled Asset Relief Program (TARP).",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_crisis"
+    ],
+    "entities": [
+      "OCC",
+      "TARP"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0b1d35c8-4a72-4dde-bf66-190f563fa57e",
+    "chunk_id": "f391c89d-cc81-4bb4-bf75-a9e219cb4160",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC was involved in designing stress tests for major banks.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "designing stress tests for major banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC was involved in designing stress tests for major banks.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "02f47f20-1c11-43dd-8241-5072785afbc6",
+    "chunk_id": "f391c89d-cc81-4bb4-bf75-a9e219cb4160",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC was involved in collecting and analyzing data on home mortgage loans.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "collecting and analyzing data on home mortgage loans",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC was involved in collecting and analyzing data on home mortgage loans.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mortgages",
+      "data_collection"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2dfcbef-a089-4d7e-9a1c-e6511c8eab08",
+    "chunk_id": "f391c89d-cc81-4bb4-bf75-a9e219cb4160",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010 abolished the Office of Thrift Supervision.",
+    "subject": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010",
+    "predicate_type": "supersedes",
+    "object_text": "the Office of Thrift Supervision",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010 abolished the Office of Thrift Supervision.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_reform"
+    ],
+    "entities": [
+      "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010",
+      "Office of Thrift Supervision"
+    ],
+    "regulations": [
+      "Dodd\u2013Frank"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "74dbfd2b-c9c0-4c8c-a34b-9685952656e1",
+    "chunk_id": "f391c89d-cc81-4bb4-bf75-a9e219cb4160",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010 merged the Office of Thrift Supervision's former oversight functions into the OCC.",
+    "subject": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010",
+    "predicate_type": "implements",
+    "object_text": "merged its former oversight functions into the OCC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010 merged the Office of Thrift Supervision's former oversight functions into the OCC.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_reform"
+    ],
+    "entities": [
+      "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010",
+      "Office of Thrift Supervision",
+      "OCC"
+    ],
+    "regulations": [
+      "Dodd\u2013Frank"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7a4e303-b924-4666-a865-c8da38963c02",
+    "chunk_id": "f391c89d-cc81-4bb4-bf75-a9e219cb4160",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The law reassigned much of the OCC's former compliance mandate to the new Consumer Financial Protection Bureau.",
+    "subject": "law",
+    "predicate_type": "implements",
+    "object_text": "reassigned much of the OCC's former compliance mandate to the new Consumer Financial Protection Bureau",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The law reassigned much of the OCC's former compliance mandate to the new Consumer Financial Protection Bureau.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compliance"
+    ],
+    "entities": [
+      "OCC",
+      "Consumer Financial Protection Bureau"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e4f50465-4143-427b-9a68-075dcf80ed03",
+    "chunk_id": "f391c89d-cc81-4bb4-bf75-a9e219cb4160",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The law established the Financial Stability Oversight Council, on which the Comptroller of the Currency sits.",
+    "subject": "law",
+    "predicate_type": "implements",
+    "object_text": "established the Financial Stability Oversight Council, on which the Comptroller of the Currency sits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The law established the Financial Stability Oversight Council, on which the Comptroller of the Currency sits.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "Financial Stability Oversight Council",
+      "Comptroller of the Currency"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e81ef3d8-d18b-4aa3-bd91-aa64f2f1ee05",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC is one of the United States' federal banking regulators, with primary prudential authority over all national banks.",
+    "subject": "OCC",
+    "predicate_type": "classifies",
+    "object_text": "one of the United States' federal banking regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC is one of the United States' federal banking regulators, with primary prudential authority over all national banks.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "714336b1-c8fb-4042-88c6-03fad62b767e",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC has primary prudential authority over all national banks.",
+    "subject": "OCC",
+    "predicate_type": "governs",
+    "object_text": "all national banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC has primary prudential authority over all national banks.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0b4b5874-4489-4ed9-a082-3b7749f27f0e",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "There are two other federal regulators, the Federal Deposit Insurance Corporation (FDIC) and the Federal Reserve.",
+    "subject": "federal regulators",
+    "predicate_type": "classifies",
+    "object_text": "Federal Deposit Insurance Corporation (FDIC) and the Federal Reserve",
+    "object_value": 2.0,
+    "object_unit": null,
+    "source_text": "There are two other federal regulators, the Federal Deposit Insurance Corporation (FDIC) and the Federal Reserve.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "FDIC",
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "df854f33-5bee-48c5-be59-625ce24f4737",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The agency is headquartered in Washington, D.C.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "headquartered in Washington, D.C.",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The agency is headquartered in Washington, D.C.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "07e708c5-5ce1-40dc-a92c-10999ae874e4",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC has four district offices located in New York City, Chicago, Dallas and Denver.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "four district offices located in New York City, Chicago, Dallas and Denver",
+    "object_value": 4.0,
+    "object_unit": null,
+    "source_text": "The OCC has four district offices located in New York City, Chicago, Dallas and Denver.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fc75877b-13de-4308-bc21-db4292241df3",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC is an independent bureau of the United States Department of the Treasury.",
+    "subject": "OCC",
+    "predicate_type": "classifies",
+    "object_text": "an independent bureau of the United States Department of the Treasury",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC is an independent bureau of the United States Department of the Treasury.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC",
+      "United States Department of the Treasury"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5440246e-0214-421d-afc9-cf3d1bf3f780",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The official head of the agency is the comptroller of the currency, who is appointed to a five-year term by the president with the consent of the Senate.",
+    "subject": "comptroller of the currency",
+    "predicate_type": "relates_to",
+    "object_text": "appointed to a five-year term by the president with the consent of the Senate",
+    "object_value": 5.0,
+    "object_unit": "year",
+    "source_text": "The official head of the agency is the comptroller of the currency, who is appointed to a five-year term by the president with the consent of the Senate.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c13989cc-88ac-41a7-9553-f94cb788cd89",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The agency's budget is not congressionally appropriated, being paid for by assessment fees levied on regulated banks.",
+    "subject": "OCC's budget",
+    "predicate_type": "relates_to",
+    "object_text": "not congressionally appropriated, being paid for by assessment fees levied on regulated banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The agency's budget is not congressionally appropriated, being paid for by assessment fees levied on regulated banks.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3dc65264-006f-4f8c-8bf7-b5f6b1a89864",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC pursues a number of main objectives: to ensure the safety and soundness of the national banking system.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "pursues a number of main objectives: to ensure the safety and soundness of the national banking system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC pursues a number of main objectives: to ensure the safety and soundness of the national banking system.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "28da6325-8b44-449e-8faa-6c9e9006349e",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC pursues a number of main objectives: to foster competition by allowing banks to offer new products and services.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "pursues a number of main objectives: to foster competition by allowing banks to offer new products and services",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC pursues a number of main objectives: to foster competition by allowing banks to offer new products and services.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5375da96-cbdc-4bbf-89e4-db74574105fa",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC pursues a number of main objectives: to improve the efficiency and effectiveness of OCC supervision especially to reduce the regulatory burden.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "pursues a number of main objectives: to improve the efficiency and effectiveness of OCC supervision especially to reduce the regulatory burden",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC pursues a number of main objectives: to improve the efficiency and effectiveness of OCC supervision especially to reduce the regulatory burden.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6adad6a6-f8eb-4446-90a4-9b14356b0176",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC pursues a number of main objectives: to ensure fair and equal access to financial services to all Americans.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "pursues a number of main objectives: to ensure fair and equal access to financial services to all Americans",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC pursues a number of main objectives: to ensure fair and equal access to financial services to all Americans.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7fe468ad-62a7-4c78-aa54-468f057a5527",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC pursues a number of main objectives: to enforce anti-money laundering and anti-terrorism financing laws that apply to national banks and federally licensed branches and agencies of international banks.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "pursues a number of main objectives: to enforce anti-money laundering and anti-terrorism financing laws that apply to national banks and federally licensed branches and agencies of international banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC pursues a number of main objectives: to enforce anti-money laundering and anti-terrorism financing laws that apply to national banks and federally licensed branches and agencies of international banks.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d7daf914-079b-43c4-b9a3-9a2bc7a11185",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC pursues a number of main objectives: to investigate misconduct committed by institution-affiliated parties of national banks, including officers, directors, employees, agents and independent contractors (including appraisers, attorneys and accountants).",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "pursues a number of main objectives: to investigate misconduct committed by institution-affiliated parties of national banks, including officers, directors, employees, agents and independent contractors (including appraisers, attorneys and accountants)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC pursues a number of main objectives: to investigate misconduct committed by institution-affiliated parties of national banks, including officers, directors, employees, agents and independent contractors (including appraisers, attorneys and accountants).",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e8432b8d-9201-4946-9417-7fb154a2d10a",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC participates in interagency activities in order to maintain the integrity of the federal banking system.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "participates in interagency activities in order to maintain the integrity of the federal banking system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC participates in interagency activities in order to maintain the integrity of the federal banking system.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "64493b8e-18bb-4be8-a7b9-43ea291b0bdb",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "By monitoring capital, asset quality, management, earnings, liquidity, sensitivity to market risk, information technology, consumer compliance, and community reinvestment, the OCC is able to determine whether or not the bank is operating safely and soundly, providing fair access and treatment to customers, and complying with all applicable laws and regulations.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "able to determine whether or not the bank is operating safely and soundly, providing fair access and treatment to customers, and complying with all applicable laws and regulations by monitoring capital, asset quality, management, earnings, liquidity, sensitivity to market risk, information technology, consumer compliance, and community reinvestment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By monitoring capital, asset quality, management, earnings, liquidity, sensitivity to market risk, information technology, consumer compliance, and community reinvestment, the OCC is able to determine whether or not the bank is operating safely and soundly, providing fair access and treatment to customers, and complying with all applicable laws and regulations.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1cbe0c79-f7a2-457e-b822-cc168423faea",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC regulates and supervises about 1,200 national banks, federally-licensed savings associations, and federally-licensed branches of foreign banks in the United States, accounting for more than two-thirds of the total assets of all U.S. commercial banks (as of September 30, 2020).",
+    "subject": "OCC",
+    "predicate_type": "governs",
+    "object_text": "about 1,200 national banks, federally-licensed savings associations, and federally-licensed branches of foreign banks in the United States",
+    "object_value": 1200.0,
+    "object_unit": null,
+    "source_text": "The OCC regulates and supervises about 1,200 national banks, federally-licensed savings associations, and federally-licensed branches of foreign banks in the United States, accounting for more than two-thirds of the total assets of all U.S. commercial banks (as of September 30, 2020).",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "88ac35af-26a2-4525-b381-98a8d4a4a78d",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "Other financial regulatory agencies like the OCC include the FDIC (of which the comptroller serves as a director), the Federal Reserve, the Consumer Financial Protection Bureau, and the National Credit Union Administration.",
+    "subject": "financial regulatory agencies",
+    "predicate_type": "classifies",
+    "object_text": "the FDIC, the Federal Reserve, the Consumer Financial Protection Bureau, and the National Credit Union Administration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other financial regulatory agencies like the OCC include the FDIC (of which the comptroller serves as a director), the Federal Reserve, the Consumer Financial Protection Bureau, and the National Credit Union Administration.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC",
+      "FDIC",
+      "Federal Reserve",
+      "Consumer Financial Protection Bureau",
+      "National Credit Union Administration"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "986b8dae-49b8-4586-ba32-10153abdaabb",
+    "chunk_id": "08ea60bf-bc6d-4293-9444-77a5294203fa",
+    "document_id": "Office_of_the_Comptroller_of_the_Currency",
+    "claim_text": "The OCC routinely interacts and cooperates with other government agencies, including the Consumer Financial Protection Bureau, Financial Crimes Enforcement Network, the Office of Foreign Asset Control, the Federal Bureau of Investigation, the U.S. Department of Justice, and the Department of Homeland Security.",
+    "subject": "OCC",
+    "predicate_type": "relates_to",
+    "object_text": "routinely interacts and cooperates with other government agencies, including the Consumer Financial Protection Bureau, Financial Crimes Enforcement Network, the Office of Foreign Asset Control, the Federal Bureau of Investigation, the U.S. Department of Justice, and the Department of Homeland Security",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The OCC routinely interacts and cooperates with other government agencies, including the Consumer Financial Protection Bureau, Financial Crimes Enforcement Network, the Office of Foreign Asset Control, the Federal Bureau of Investigation, the U.S. Department of Justice, and the Department of Homeland Security.",
+    "source_document": "Office of the Comptroller of the Currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "OCC",
+      "Consumer Financial Protection Bureau",
+      "Financial Crimes Enforcement Network",
+      "Office of Foreign Asset Control",
+      "Federal Bureau of Investigation",
+      "U.S. Department of Justice",
+      "Department of Homeland Security"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

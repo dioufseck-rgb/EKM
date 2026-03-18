@@ -1,0 +1,916 @@
+[
+  {
+    "assertion_id": "1e7561f6-4f38-4280-b553-f0a6658aed86",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "Goodwill is a special type of intangible asset.",
+    "subject": "Goodwill",
+    "predicate_type": "classifies",
+    "object_text": "special type of intangible asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Goodwill is a special type of intangible asset.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill",
+      "intangible assets"
+    ],
+    "entities": [
+      "Goodwill"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4db47a21-2af2-41a2-9fd0-24a4888f0e29",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "Goodwill represents that portion of the entire business value that cannot be attributed to other income producing business assets, tangible or intangible.",
+    "subject": "Goodwill",
+    "predicate_type": "defines",
+    "object_text": "that portion of the entire business value that cannot be attributed to other income producing business assets, tangible or intangible",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Goodwill represents that portion of the entire business value that cannot be attributed to other income producing business assets, tangible or intangible.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill",
+      "business valuation"
+    ],
+    "entities": [
+      "Goodwill"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "836dc3eb-d549-4d7b-9afd-5c1dbd93183b",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "A privately held software company may have net assets (consisting primarily of miscellaneous equipment and/or property, and assuming no debt) valued at $1 million, but the company's overall value (including customers and intellectual capital) is valued at $10 million.",
+    "subject": "privately held software company",
+    "predicate_type": "relates_to",
+    "object_text": "may have net assets (consisting primarily of miscellaneous equipment and/or property, and assuming no debt) valued at $1 million, but the company's overall value (including customers and intellectual capital) is valued at $10 million",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A privately held software company may have net assets (consisting primarily of miscellaneous equipment and/or property, and assuming no debt) valued at $1 million, but the company's overall value (including customers and intellectual capital) is valued at $10 million.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "987b3ec7-ac59-4dbb-bf3c-42badb0f55d7",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "Anybody buying that company would book $10 million in total assets acquired, comprising $1 million physical assets and $9 million in other intangible assets.",
+    "subject": "Anybody buying that company",
+    "predicate_type": "relates_to",
+    "object_text": "would book $10 million in total assets acquired, comprising $1 million physical assets and $9 million in other intangible assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Anybody buying that company would book $10 million in total assets acquired, comprising $1 million physical assets and $9 million in other intangible assets.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "acquisition",
+      "assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dd3a223c-73f1-4999-8fd5-466ad2f8a8ac",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "Any consideration paid in excess of $10 million shall be considered as goodwill.",
+    "subject": "consideration paid",
+    "predicate_type": "defines",
+    "object_text": "goodwill",
+    "object_value": 10000000.0,
+    "object_unit": "$",
+    "source_text": "Any consideration paid in excess of $10 million shall be considered as goodwill.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill"
+    ],
+    "entities": [
+      "Goodwill"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f6bb02b4-b5de-433e-a5b1-0aadea547087",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "In a private company, goodwill has no predetermined value prior to the acquisition.",
+    "subject": "goodwill",
+    "predicate_type": "relates_to",
+    "object_text": "has no predetermined value prior to the acquisition",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In a private company, goodwill has no predetermined value prior to the acquisition.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill",
+      "valuation"
+    ],
+    "entities": [
+      "Goodwill"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da3a73bc-fc1b-45ee-9ee7-20b2b1cd3543",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "Its magnitude depends on the two other variables by definition.",
+    "subject": "magnitude",
+    "predicate_type": "relates_to",
+    "object_text": "depends on the two other variables by definition",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Its magnitude depends on the two other variables by definition.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "98d85840-782b-48e0-b3c8-ae3da6eda6a3",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "A publicly traded company is subject to a constant process of market valuation, so goodwill will always be apparent.",
+    "subject": "publicly traded company",
+    "predicate_type": "relates_to",
+    "object_text": "is subject to a constant process of market valuation, so goodwill will always be apparent",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A publicly traded company is subject to a constant process of market valuation, so goodwill will always be apparent.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill",
+      "valuation"
+    ],
+    "entities": [
+      "Goodwill"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "47648250-4f41-4810-8314-cd132d470345",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "While a business can invest to increase its reputation, by advertising or assuring that its products are of high quality, such expenses cannot be capitalized and added to goodwill, which is technically an intangible asset.",
+    "subject": "expenses",
+    "predicate_type": "prohibits",
+    "object_text": "be capitalized and added to goodwill",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "While a business can invest to increase its reputation, by advertising or assuring that its products are of high quality, such expenses cannot be capitalized and added to goodwill, which is technically an intangible asset.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill",
+      "intangible assets"
+    ],
+    "entities": [
+      "Goodwill"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d84436d8-1592-46b3-9f6b-4335f299370d",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "Goodwill and intangible assets are usually listed as separate items on a company's balance sheet.",
+    "subject": "Goodwill and intangible assets",
+    "predicate_type": "relates_to",
+    "object_text": "are usually listed as separate items on a company's balance sheet",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Goodwill and intangible assets are usually listed as separate items on a company's balance sheet.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill",
+      "intangible assets",
+      "balance sheet"
+    ],
+    "entities": [
+      "Goodwill"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "26ff14f4-4bde-42e3-8317-dafef1d5b31a",
+    "chunk_id": "7bf0ff63-5ec2-48bf-9228-dad26d520300",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "In the b2b sense, goodwill may account for the criticality that exists between partners engaged in a supply chain relationship, or other forms of business relationships, where unpredictable events may cause volatilities across entire markets.",
+    "subject": "goodwill",
+    "predicate_type": "relates_to",
+    "object_text": "may account for the criticality that exists between partners engaged in a supply chain relationship, or other forms of business relationships, where unpredictable events may cause volatilities across entire markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the b2b sense, goodwill may account for the criticality that exists between partners engaged in a supply chain relationship, or other forms of business relationships, where unpredictable events may cause volatilities across entire markets.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "goodwill",
+      "supply chain",
+      "business relationships"
+    ],
+    "entities": [
+      "Goodwill"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "611ef4c8-b9a5-4c6f-8b53-541b7cf266e1",
+    "chunk_id": "742a6fc6-8190-469b-b984-1aa60611a076",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "When the business is threatened with insolvency, investors will deduct the goodwill from any calculation of residual equity because it has no resale value.",
+    "subject": "investors",
+    "predicate_type": "requires",
+    "object_text": "deduct the goodwill from any calculation of residual equity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the business is threatened with insolvency, investors will deduct the goodwill from any calculation of residual equity because it has no resale value.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "goodwill",
+      "insolvency",
+      "residual equity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b5caf0ba-5f40-456e-8225-2b48b7e53395",
+    "chunk_id": "742a6fc6-8190-469b-b984-1aa60611a076",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "The accounting treatment for goodwill remains controversial within both the accounting and financial industries because it is fundamentally a workaround employed by accountants to compensate for the fact that businesses when purchased are valued based on estimates of future cash flows and prices negotiated by the buyer and seller, and not on the fair value of assets and liabilities to be transferred by the seller.",
+    "subject": "accounting treatment for goodwill",
+    "predicate_type": "relates_to",
+    "object_text": "remains controversial within both the accounting and financial industries because it is fundamentally a workaround employed by accountants to compensate for the fact that businesses when purchased are valued based on estimates of future cash flows and prices negotiated by the buyer and seller, and not on the fair value of assets and liabilities to be transferred by the seller",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The accounting treatment for goodwill remains controversial within both the accounting and financial industries because it is fundamentally a workaround employed by accountants to compensate for the fact that businesses when purchased are valued based on estimates of future cash flows and prices negotiated by the buyer and seller, and not on the fair value of assets and liabilities to be transferred by the seller.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "goodwill",
+      "accounting treatment",
+      "fair value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bfafcf90-499a-4e0d-8a13-cf20068a74d9",
+    "chunk_id": "742a6fc6-8190-469b-b984-1aa60611a076",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "This creates a mismatch between the reported assets and net incomes of companies that have grown without purchasing other companies, and those that have.",
+    "subject": "mismatch",
+    "predicate_type": "causes",
+    "object_text": "between the reported assets and net incomes of companies that have grown without purchasing other companies, and those that have",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This creates a mismatch between the reported assets and net incomes of companies that have grown without purchasing other companies, and those that have.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "goodwill",
+      "reported assets",
+      "net incomes"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5f6cec42-7db5-489a-a6f7-ad4d4c8de618",
+    "chunk_id": "742a6fc6-8190-469b-b984-1aa60611a076",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "While companies will follow the rules prescribed by the Accounting Standards Boards, there is not a fundamentally correct way to deal with this mismatch under the current financial reporting framework.",
+    "subject": "companies",
+    "predicate_type": "requires",
+    "object_text": "follow the rules prescribed by the Accounting Standards Boards",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "While companies will follow the rules prescribed by the Accounting Standards Boards, there is not a fundamentally correct way to deal with this mismatch under the current financial reporting framework.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "goodwill",
+      "accounting standards"
+    ],
+    "entities": [
+      "Accounting Standards Boards"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e0793d09-0501-4de5-b130-89a0bbe67f4f",
+    "chunk_id": "742a6fc6-8190-469b-b984-1aa60611a076",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "The accounting for goodwill will be rules based.",
+    "subject": "accounting for goodwill",
+    "predicate_type": "requires",
+    "object_text": "rules based",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The accounting for goodwill will be rules based.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "goodwill",
+      "accounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e093e037-0974-417b-aacd-472acd4171fa",
+    "chunk_id": "742a6fc6-8190-469b-b984-1aa60611a076",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "Those rules have changed, and can be expected to continue to change, periodically along with the changes in the members of the Accounting Standards Boards.",
+    "subject": "rules",
+    "predicate_type": "relates_to",
+    "object_text": "have changed, and can be expected to continue to change, periodically along with the changes in the members of the Accounting Standards Boards",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Those rules have changed, and can be expected to continue to change, periodically along with the changes in the members of the Accounting Standards Boards.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "goodwill",
+      "accounting standards"
+    ],
+    "entities": [
+      "Accounting Standards Boards"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "037b0e07-d8c3-460c-a0b1-d140fc6e23b3",
+    "chunk_id": "742a6fc6-8190-469b-b984-1aa60611a076",
+    "document_id": "Goodwill_(accounting)",
+    "claim_text": "The current rules governing the accounting treatment of goodwill are highly subjective and can result in very high costs, but have limited value to investors.",
+    "subject": "current rules governing the accounting treatment of goodwill",
+    "predicate_type": "relates_to",
+    "object_text": "are highly subjective and can result in very high costs, but have limited value to investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The current rules governing the accounting treatment of goodwill are highly subjective and can result in very high costs, but have limited value to investors.",
+    "source_document": "Goodwill (accounting)",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "goodwill",
+      "accounting treatment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

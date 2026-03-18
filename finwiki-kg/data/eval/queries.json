@@ -1,0 +1,1082 @@
+[
+  {
+    "query_id": "7e6ab8d3-977f-416d-a688-bdd1a0b6259c",
+    "query_text": "What does MiFID 2 require the European Commission to do by March 3, 2021?",
+    "epistemic_type": "normative",
+    "source_doc": "Markets in Financial Instruments Directive 2014",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "49b23b1b-877a-4a84-b62d-5beee77722cd"
+  },
+  {
+    "query_id": "42016fc4-9146-4c0b-9d93-7bb4bc614a48",
+    "query_text": "What did the Volcker Rule prohibit?",
+    "epistemic_type": "normative",
+    "source_doc": "Volcker Rule",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "eca4f6a4-4f1a-4abf-ab3e-06ba5fa65dec"
+  },
+  {
+    "query_id": "5214abdb-02cb-47c7-8fc1-abc7055c73ec",
+    "query_text": "What did the Dodd-Frank Act require?",
+    "epistemic_type": "normative",
+    "source_doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "31d4992e-d263-4102-92d5-30b1cb74c31c"
+  },
+  {
+    "query_id": "769be917-3ade-49d1-841c-cd0a8c11afb8",
+    "query_text": "When did the Reserve Bank of India implement Basel II standardized norms?",
+    "epistemic_type": "normative",
+    "source_doc": "Basel II",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "8f10f4a1-57be-436f-a3a9-5833bea1de56"
+  },
+  {
+    "query_id": "4b5fcb43-f6bb-42aa-9b0f-7af9a4106072",
+    "query_text": "What does Section 806 of the Sarbanes-Oxley Act prohibit?",
+    "epistemic_type": "normative",
+    "source_doc": "Sarbanes\u2013Oxley Act",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "d9603db6-b12e-468a-8fab-689faeda1347"
+  },
+  {
+    "query_id": "82cb1f12-acae-4913-aebb-05931cf6cb10",
+    "query_text": "What are banks required to calculate under Basel III?",
+    "epistemic_type": "normative",
+    "source_doc": "Basel III",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "3e5f4c3e-a737-43c8-b231-947abeb4eed9"
+  },
+  {
+    "query_id": "fa3a26fe-67ca-47c6-964b-1cf6c11657e4",
+    "query_text": "What does Article 82(1) GDPR require for the award of damages?",
+    "epistemic_type": "normative",
+    "source_doc": "General Data Protection Regulation",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "b13c681c-9918-47ee-a2de-e922f79e0e5e"
+  },
+  {
+    "query_id": "f791302c-c938-41af-be8c-744cd1e9d169",
+    "query_text": "What capital ratio are banks with an international presence required to hold?",
+    "epistemic_type": "normative",
+    "source_doc": "Basel I",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "59f03523-23ed-4cae-bbe2-7b96daf101c2"
+  },
+  {
+    "query_id": "3cf7653a-070a-4984-a54c-6cd719f085f3",
+    "query_text": "What does Directive 2011/61/EU require of AIFMs?",
+    "epistemic_type": "normative",
+    "source_doc": "Alternative Investment Fund Managers Directive 2011",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "db88d6c7-598f-4910-a41d-760fe130be16"
+  },
+  {
+    "query_id": "0f2a1c55-e778-4b7d-a093-ebee4f68606e",
+    "query_text": "What type of risk does a firm have when it has contractual cash flows denominated in a foreign currency?",
+    "epistemic_type": "normative",
+    "source_doc": "Foreign exchange risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "72d89d09-88ce-4f77-bc9d-4bf9362f0bb9"
+  },
+  {
+    "query_id": "1ba3760f-5f2a-47dc-997e-511cd6f75218",
+    "query_text": "What is the minimum capital percentage banks should hold relative to their risk-weighted assets?",
+    "epistemic_type": "normative",
+    "source_doc": "Risk-weighted asset",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "36f6a0f7-38e2-4a55-96d0-9c1244c16484"
+  },
+  {
+    "query_id": "60a30681-a8a4-4b5a-9136-c26cee8cb748",
+    "query_text": "What does the CAMELS rating system require of financial institutions?",
+    "epistemic_type": "normative",
+    "source_doc": "Interest rate risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "ad137795-afc0-4412-a80c-fc83ff3d4ab4"
+  },
+  {
+    "query_id": "bb488efd-e8c7-4498-a00d-73d7a088f81b",
+    "query_text": "What is required for initial margin deposits?",
+    "epistemic_type": "normative",
+    "source_doc": "Settlement risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "23fe7770-5825-4be3-a05d-e3afefbc3c44"
+  },
+  {
+    "query_id": "af700a53-b1ff-4a0c-a38c-942793bfdf3a",
+    "query_text": "What is the requirement for modeling the cross ownership of debt and equity claims in the analysis of interconnectedness?",
+    "epistemic_type": "normative",
+    "source_doc": "Systemic risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "6c019ec9-ca04-4520-bb14-49d954d29e17"
+  },
+  {
+    "query_id": "a58dbd9e-2959-4d5c-b2cd-8bdbc6affee0",
+    "query_text": "What risk management strategies are required to mitigate market risk?",
+    "epistemic_type": "normative",
+    "source_doc": "Market risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "279421ff-9496-40f0-806e-e9e48accd9bc"
+  },
+  {
+    "query_id": "76731eff-a16e-4b38-956c-7b83b51eaaaa",
+    "query_text": "What is the maximum number of days past due on a credit obligation before it is considered a credit default risk?",
+    "epistemic_type": "normative",
+    "source_doc": "Credit risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "213d5fec-9019-425a-95f6-966e810dd90c"
+  },
+  {
+    "query_id": "9d04a194-1608-4942-abed-b05ddf22a347",
+    "query_text": "Are banks required to calculate concentration risk?",
+    "epistemic_type": "normative",
+    "source_doc": "Concentration risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "d94d4fe3-0815-4604-b518-56a8774e9963"
+  },
+  {
+    "query_id": "3e793948-3e9f-4b45-b5ac-2ed0f248ee39",
+    "query_text": "What risks are excluded from the Basel Committee's definition of operational risk?",
+    "epistemic_type": "normative",
+    "source_doc": "Operational risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "bc76bbf9-44e8-4d97-a019-e8b4547b8668"
+  },
+  {
+    "query_id": "3ef610d0-333e-4c25-9f57-b26f041d17ba",
+    "query_text": "What did the Basel Capital Accord require regarding stress tests?",
+    "epistemic_type": "normative",
+    "source_doc": "Stress test (financial)",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "aa2e4133-6faa-4caa-aaea-db521114836e"
+  },
+  {
+    "query_id": "571e853d-8b08-4354-bbf0-7e15c62fb2a4",
+    "query_text": "Is beta permitted to be used on a stand-alone basis?",
+    "epistemic_type": "normative",
+    "source_doc": "Beta (finance)",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "9b0ce197-48a2-4aec-8227-e4d26f448b14"
+  },
+  {
+    "query_id": "aee42908-d0a3-48e3-ae3a-2754ce8191fd",
+    "query_text": "How must the market price individual securities according to the capital asset pricing model?",
+    "epistemic_type": "normative",
+    "source_doc": "Capital asset pricing model",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "1bb451a9-602e-49e8-978a-2b7440fe857b"
+  },
+  {
+    "query_id": "bad60563-a57f-4eae-820f-5d0089589975",
+    "query_text": "Under the APT, what is an arbitrageur permitted to do?",
+    "epistemic_type": "normative",
+    "source_doc": "Arbitrage pricing theory",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "67f2ee9d-8ccf-4951-82db-3698132b9d8d"
+  },
+  {
+    "query_id": "ad4abc26-d089-43ef-bc28-02ea5b2e7997",
+    "query_text": "Are there any regulations that apply specifically to collateralized debt obligations?",
+    "epistemic_type": "normative",
+    "source_doc": "Collateralized debt obligation",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "65a36c87-3b18-466f-82a3-a2f34c83f533"
+  },
+  {
+    "query_id": "16c3c842-e5e7-4b00-a998-f12baddab7c5",
+    "query_text": "What does ERISA regulate?",
+    "epistemic_type": "normative",
+    "source_doc": "Venture capital",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "6778d943-ab7b-41d3-966d-a936c4ddc970"
+  },
+  {
+    "query_id": "68a4e553-4244-4d98-9fef-3a34aed43a4c",
+    "query_text": "How is a reverse triangular merger taxed under the U.S. Internal Revenue Code?",
+    "epistemic_type": "normative",
+    "source_doc": "Mergers and acquisitions",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "ca5dd49a-f210-43c6-ad5a-c05a75141054"
+  },
+  {
+    "query_id": "13e020d0-2c05-4cc5-9ffe-45fbfaaffda4",
+    "query_text": "When did the NSFR become a minimum standard?",
+    "epistemic_type": "normative",
+    "source_doc": "Net stable funding ratio",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "53ec8404-c250-4741-908d-d74b6564d81d"
+  },
+  {
+    "query_id": "3b32960c-8f8a-4970-a060-9eb80f509483",
+    "query_text": "What does the fundamental accounting equation require?",
+    "epistemic_type": "normative",
+    "source_doc": "Equity (finance)",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "ea7b6834-8428-45a4-8a4c-6b0864ac5977"
+  },
+  {
+    "query_id": "e5118777-6da8-467a-9bc3-fbc9f441b5de",
+    "query_text": "What does IAS39 require regarding derivatives?",
+    "epistemic_type": "normative",
+    "source_doc": "Hedge accounting",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "380f074f-4410-416c-bbe7-4b5ad077de21"
+  },
+  {
+    "query_id": "32e856db-cff9-4de0-94bb-70b3f4186384",
+    "query_text": "What body determines the formula for risk-weighted assets?",
+    "epistemic_type": "normative",
+    "source_doc": "Tier 1 capital",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "11f2594a-3b63-4cf4-a055-dcc325b4e06c"
+  },
+  {
+    "query_id": "49cd2aea-a52b-4b4d-91ce-3280fffa6004",
+    "query_text": "What is the ECB permitted to do regarding a digital euro?",
+    "epistemic_type": "normative",
+    "source_doc": "Central bank digital currency",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "41171772-d5f1-4602-9014-64438a131bb6"
+  },
+  {
+    "query_id": "52f25936-c5ee-4791-900a-7fb758ec9eae",
+    "query_text": "What are the permitted uses of the Black-Scholes model?",
+    "epistemic_type": "normative",
+    "source_doc": "Black\u2013Scholes model",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c057f275-3f41-4c44-a1c6-7876de9efb28"
+  },
+  {
+    "query_id": "8e67d332-3487-4fce-999f-b3f8325eeec2",
+    "query_text": "What are shareholders of an ETF entitled to?",
+    "epistemic_type": "normative",
+    "source_doc": "Exchange-traded fund",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "e50aad04-1c43-4730-a9ee-ef912f32c5a0"
+  },
+  {
+    "query_id": "7a1371ca-abeb-45c9-9e86-4981446c0802",
+    "query_text": "What does financial distress in companies require?",
+    "epistemic_type": "normative",
+    "source_doc": "Financial distress",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "d9b81852-d159-43d6-92ed-b0e9973e5dcb"
+  },
+  {
+    "query_id": "02981a1e-cbc5-43c7-9511-491a6b4074a9",
+    "query_text": "What did IAS 36 mandate regarding asset impairment?",
+    "epistemic_type": "normative",
+    "source_doc": "Impaired asset",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "814d91b0-9305-4ce6-9bfd-302747236d8f"
+  },
+  {
+    "query_id": "ed65841a-cb23-4be9-b3bb-79c17d30e895",
+    "query_text": "What is required to calculate adjusted present value?",
+    "epistemic_type": "normative",
+    "source_doc": "Net present value",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "41cf5791-3587-4191-9509-7cc69c794099"
+  },
+  {
+    "query_id": "0bee7378-5334-45e3-8a7e-0fe7eed96578",
+    "query_text": "What does the Securities Act of 1933 mandate?",
+    "epistemic_type": "normative",
+    "source_doc": "United States Securities and Exchange Commission",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c74397aa-8e47-4f2b-ba01-4f2aefaee5b8"
+  },
+  {
+    "query_id": "dedc19bf-14f0-4715-b2f6-c71ee55e4d11",
+    "query_text": "How should liquidity risk be managed?",
+    "epistemic_type": "normative",
+    "source_doc": "Liquidity risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "cd1fa1ec-3274-4826-8d14-7fecc807574e"
+  },
+  {
+    "query_id": "dda81f17-6075-4a04-bb1a-8a71b565a078",
+    "query_text": "What factors should investors consider when evaluating sovereign credit ratings?",
+    "epistemic_type": "normative",
+    "source_doc": "Credit rating",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "296da9fa-0c55-4b78-b89a-9fd689f3c2dc"
+  },
+  {
+    "query_id": "de68a28a-0b3a-488f-9684-9bfc76f2495f",
+    "query_text": "What did Gerard Vissering advocate regarding international currency?",
+    "epistemic_type": "normative",
+    "source_doc": "Bank for International Settlements",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "281654a2-412c-43a7-bf83-1eed21cceadb"
+  },
+  {
+    "query_id": "acdc40d4-e2ed-4d16-879e-96e1ebce3096",
+    "query_text": "What is required to validate VaR forecasts?",
+    "epistemic_type": "normative",
+    "source_doc": "Value at risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "41029ff3-177a-4da7-945d-af42958e1295"
+  },
+  {
+    "query_id": "e738da61-66bc-4978-90a9-13d583caa8f8",
+    "query_text": "How is equity derived in financial accounting?",
+    "epistemic_type": "constative",
+    "source_doc": "Equity (finance)",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "fe679605-a038-482b-974d-2d7a5ec1b044"
+  },
+  {
+    "query_id": "04fbcab6-d982-4217-94f3-12c60afdf4d0",
+    "query_text": "What is the Tier 1 capital ratio?",
+    "epistemic_type": "constative",
+    "source_doc": "Tier 1 capital",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "cab2ad68-26c8-4065-905b-f5e83dad32eb"
+  },
+  {
+    "query_id": "ccf36477-ec47-436b-9796-d14dcb7d7cfd",
+    "query_text": "What legal structures can an ETF have?",
+    "epistemic_type": "constative",
+    "source_doc": "Exchange-traded fund",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "d0753e0e-2a3b-4e99-9da0-51fb733dbc04"
+  },
+  {
+    "query_id": "1dc7db0f-d672-4942-a632-43b5a5abeec4",
+    "query_text": "What is the Office of Inspector General's relationship to the SEC?",
+    "epistemic_type": "constative",
+    "source_doc": "United States Securities and Exchange Commission",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "35df6ed6-2fb2-439a-a1dc-63427b4e9cd2"
+  },
+  {
+    "query_id": "470ede9c-cd61-44ac-bff3-e718a38781b7",
+    "query_text": "What is the Black-Scholes model used for?",
+    "epistemic_type": "constative",
+    "source_doc": "Black\u2013Scholes model",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "f52488ab-64ce-4e3b-9d19-db1d4dfa24b4"
+  },
+  {
+    "query_id": "4584b31a-5ca0-4741-84e4-3cf85116235b",
+    "query_text": "What is a vertical merger?",
+    "epistemic_type": "constative",
+    "source_doc": "Mergers and acquisitions",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "693d483c-d501-4ecd-89a7-e84a3e4bfad6"
+  },
+  {
+    "query_id": "75840b86-f00d-4bc6-91a8-332fe2b2382d",
+    "query_text": "What is Drex and when did testing begin?",
+    "epistemic_type": "constative",
+    "source_doc": "Central bank digital currency",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "3b70d8ab-e367-4bf8-bf1f-123e938d2323"
+  },
+  {
+    "query_id": "aad8cb55-bb21-4cab-86a8-f5a149ad8857",
+    "query_text": "How does internal rate of return work?",
+    "epistemic_type": "constative",
+    "source_doc": "Net present value",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "699b28ed-ebfd-47db-a970-70dc646a8c19"
+  },
+  {
+    "query_id": "047e267f-0f72-42a5-946a-b23016f1e13e",
+    "query_text": "What are the different types of collateralized debt obligations and what assets back them?",
+    "epistemic_type": "constative",
+    "source_doc": "Collateralized debt obligation",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "5320e991-912e-49d0-ba29-b9619b32f5fd"
+  },
+  {
+    "query_id": "5879080e-244b-4e5a-b9d7-1e4f2b927aa6",
+    "query_text": "When did IAS 36 become effective?",
+    "epistemic_type": "constative",
+    "source_doc": "Impaired asset",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "89e800c6-e327-4cc7-bae8-710a6a629ae8"
+  },
+  {
+    "query_id": "2904dae3-4df8-4435-88a0-13e8bc0a769e",
+    "query_text": "What is MiFID 2?",
+    "epistemic_type": "constative",
+    "source_doc": "Markets in Financial Instruments Directive 2014",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "05066a2b-13ac-4379-8a70-f7cb61ee9786"
+  },
+  {
+    "query_id": "e4205f56-36a6-4be7-a602-f1d148dc1762",
+    "query_text": "What is the Volcker Rule?",
+    "epistemic_type": "constative",
+    "source_doc": "Volcker Rule",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "eca4f6a4-4f1a-4abf-ab3e-06ba5fa65dec"
+  },
+  {
+    "query_id": "c85d7c29-2854-4dad-b1b6-e43c697fd37e",
+    "query_text": "Who proposed the Dodd-Frank Wall Street Reform and Consumer Protection Act?",
+    "epistemic_type": "constative",
+    "source_doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "1970dd5e-4528-4281-b647-d1f832601bd0"
+  },
+  {
+    "query_id": "d9464e31-18a4-49ae-81a4-bc116ea44886",
+    "query_text": "What does IRB stand for?",
+    "epistemic_type": "constative",
+    "source_doc": "Basel II",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "b7bf5517-5b8d-4e31-98a6-0968b40e92a2"
+  },
+  {
+    "query_id": "d94761f3-c0f2-4ff4-9132-8ec793a1cb79",
+    "query_text": "According to the GDPR, what are the conditions for a person to receive compensation for damages?",
+    "epistemic_type": "constative",
+    "source_doc": "General Data Protection Regulation",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "36b58f56-8795-4b18-9b4c-2c8e90a4a7ab"
+  },
+  {
+    "query_id": "f171c3ca-d52f-4a03-a5d8-5f57f5ee06fe",
+    "query_text": "What are the six enumerated categories of protected conduct in Section 806 of the Sarbanes-Oxley Act?",
+    "epistemic_type": "constative",
+    "source_doc": "Sarbanes\u2013Oxley Act",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "d9603db6-b12e-468a-8fab-689faeda1347"
+  },
+  {
+    "query_id": "edccbdd0-b427-401a-ac19-f23a18de86bd",
+    "query_text": "What prompted Directive 2011/61/EU?",
+    "epistemic_type": "constative",
+    "source_doc": "Alternative Investment Fund Managers Directive 2011",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "871b1b80-83cd-493b-80d2-2c351e32f066"
+  },
+  {
+    "query_id": "9f5bf71a-4db7-475f-bc92-8db5f6055865",
+    "query_text": "How is the tier 1 capital ratio calculated?",
+    "epistemic_type": "constative",
+    "source_doc": "Basel I",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "4529fbc7-e426-49b9-b179-3ab3b15004c7"
+  },
+  {
+    "query_id": "33d14f59-9325-4c0d-8aed-a97589610868",
+    "query_text": "According to Basel III, what does IRRBB stand for?",
+    "epistemic_type": "constative",
+    "source_doc": "Basel III",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c7c7d916-1c4f-4249-b122-604c3b31a750"
+  },
+  {
+    "query_id": "8a2fcdc3-ecba-43db-ac28-d1c6fabeaa85",
+    "query_text": "What is a bank stress test?",
+    "epistemic_type": "constative",
+    "source_doc": "Stress test (financial)",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "460fd08e-b180-4ef0-8983-13946d4d6a6d"
+  },
+  {
+    "query_id": "d6a292f6-c07a-40d8-9b84-ba883adab0b6",
+    "query_text": "What is interest rate risk in the context of the CAMELS system?",
+    "epistemic_type": "constative",
+    "source_doc": "Interest rate risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "ad137795-afc0-4412-a80c-fc83ff3d4ab4"
+  },
+  {
+    "query_id": "53c96bac-fa41-48dc-83ff-3c7633f00cdf",
+    "query_text": "According to the Basel Committee, what is the origin of operational risk?",
+    "epistemic_type": "constative",
+    "source_doc": "Operational risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c917ae2c-9aed-4ccf-ba01-ee239bf7e6a0"
+  },
+  {
+    "query_id": "2b8f67c6-9306-4f40-aece-49ba9af2997b",
+    "query_text": "What are leading and lagging in the context of cash flows?",
+    "epistemic_type": "constative",
+    "source_doc": "Foreign exchange risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "6de9cd06-d435-486a-b52f-1a87dd7547d8"
+  },
+  {
+    "query_id": "efa4c307-a244-4ca9-87ed-1ab3baa8e764",
+    "query_text": "How does backtesting relate to Value at Risk (VaR)?",
+    "epistemic_type": "constative",
+    "source_doc": "Value at risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "41029ff3-177a-4da7-945d-af42958e1295"
+  },
+  {
+    "query_id": "76049d91-62a3-4ac1-9dde-bf2912918cce",
+    "query_text": "According to Cifuentes, Ferrucci, and Shin (2005), what effect was considered on network stability?",
+    "epistemic_type": "constative",
+    "source_doc": "Systemic risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "4aa2c6dd-6526-49a0-8209-6e4802fbdbd2"
+  },
+  {
+    "query_id": "b9064d64-9518-45df-b0b6-22d84406d532",
+    "query_text": "How is concentration risk calculated for a single bank loan?",
+    "epistemic_type": "constative",
+    "source_doc": "Concentration risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "cf503c6d-042a-418f-ac56-75036e9718b3"
+  },
+  {
+    "query_id": "ddfe415d-75b9-4b79-a8a5-dfcbc3457973",
+    "query_text": "What are some examples of market risk?",
+    "epistemic_type": "constative",
+    "source_doc": "Market risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "a49ed4f2-2986-4370-9f3e-50690697dc99"
+  },
+  {
+    "query_id": "57965cfa-b1ca-4d50-a33a-dd5b60f62953",
+    "query_text": "What caused the liquidity crisis at Metallgesellschaft?",
+    "epistemic_type": "constative",
+    "source_doc": "Liquidity risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "cd1fa1ec-3274-4826-8d14-7fecc807574e"
+  },
+  {
+    "query_id": "53af5c09-9791-49b2-8340-4910e23e9d48",
+    "query_text": "What are some examples of the costs of financial distress?",
+    "epistemic_type": "constative",
+    "source_doc": "Financial distress",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "7ac946c8-97a1-4aa4-a833-f9d1c177df9a"
+  },
+  {
+    "query_id": "461c176c-fb5b-4ebe-80e9-ec7b72644140",
+    "query_text": "According to the arbitrage pricing theory, what constitutes a mispriced asset?",
+    "epistemic_type": "constative",
+    "source_doc": "Arbitrage pricing theory",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "beaeeb8c-a579-4585-8d9b-d1a9be281eb2"
+  },
+  {
+    "query_id": "6fc5630f-2c41-4487-b38f-75dce5d62270",
+    "query_text": "What does beta measure in finance?",
+    "epistemic_type": "constative",
+    "source_doc": "Beta (finance)",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "5d4adc1c-f3ac-4ab1-abba-fafae22be3d6"
+  },
+  {
+    "query_id": "4f0d08ef-2bb3-4f87-aab2-60c590bae67b",
+    "query_text": "What is the capital asset pricing model used for?",
+    "epistemic_type": "constative",
+    "source_doc": "Capital asset pricing model",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "63b35ab8-0c06-4d65-b166-56c8acc2acd2"
+  },
+  {
+    "query_id": "b472048b-d0ed-44fb-b3d1-8ee44a1fab37",
+    "query_text": "When was J.H. Whitney & Company founded?",
+    "epistemic_type": "constative",
+    "source_doc": "Venture capital",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "4f8857e2-24cd-4d23-9378-d6560c469173"
+  },
+  {
+    "query_id": "b8ad24c6-43b9-4745-b251-2d362c5978aa",
+    "query_text": "What is a sovereign credit rating?",
+    "epistemic_type": "constative",
+    "source_doc": "Credit rating",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "f13a4377-f1a7-4448-b3d0-5dfc880a2290"
+  },
+  {
+    "query_id": "b7d64b17-4f77-4318-bff0-0882ecd41481",
+    "query_text": "How does hedge accounting mitigate profit and loss effects?",
+    "epistemic_type": "constative",
+    "source_doc": "Hedge accounting",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "380f074f-4410-416c-bbe7-4b5ad077de21"
+  },
+  {
+    "query_id": "d6b13686-9bbf-4cb8-85a6-6cafeb29a411",
+    "query_text": "What is credit concentration risk?",
+    "epistemic_type": "constative",
+    "source_doc": "Credit risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "f943811d-daa1-4a44-8ae3-56af62d21c2f"
+  },
+  {
+    "query_id": "75d8427f-fc98-4934-9ad3-37ded1be4ea5",
+    "query_text": "How is the risk weight of an asset calculated?",
+    "epistemic_type": "constative",
+    "source_doc": "Risk-weighted asset",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "11f2594a-3b63-4cf4-a055-dcc325b4e06c"
+  },
+  {
+    "query_id": "b5a89284-4e19-4499-9f5a-a3d9927dae92",
+    "query_text": "What was the Brussels Conference of 1920?",
+    "epistemic_type": "constative",
+    "source_doc": "Bank for International Settlements",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "6156cde8-260d-4b62-87b7-6fbb3797f5e9"
+  },
+  {
+    "query_id": "8b5cf0c1-d3e6-4ac3-94b0-64f85223a4dc",
+    "query_text": "Which countries have implemented the net stable funding ratio rules?",
+    "epistemic_type": "constative",
+    "source_doc": "Net stable funding ratio",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c64b0912-34a7-4c6f-a5fc-1efffec8059e"
+  },
+  {
+    "query_id": "c5efcb4f-da1e-46c4-a7eb-ec0317601135",
+    "query_text": "How does settlement through a clearing house reduce exposure?",
+    "epistemic_type": "constative",
+    "source_doc": "Settlement risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "41c5d954-5082-4e2c-96ac-507134bfb79c"
+  },
+  {
+    "query_id": "994de5f5-855f-4b6e-8c75-44ba7d2422f9",
+    "query_text": "What did ERISA do and who does it affect?",
+    "epistemic_type": "mixed",
+    "source_doc": "Venture capital",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c0de7566-fd1f-4c29-b6ac-fa452a4b05c1"
+  },
+  {
+    "query_id": "8bc19dc4-717d-4853-8781-e2edb09a16b6",
+    "query_text": "If an ETF undergoes liquidation, what are shareholders entitled to, and how does their ownership relate to the fund's assets?",
+    "epistemic_type": "mixed",
+    "source_doc": "Exchange-traded fund",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "7f96a635-bcd9-4da0-9d10-55c209073ae5"
+  },
+  {
+    "query_id": "87681144-a3c3-443e-b261-22ece4363225",
+    "query_text": "What benefits are permitted to be included in adjusted present value, and how are they calculated?",
+    "epistemic_type": "mixed",
+    "source_doc": "Net present value",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "41cf5791-3587-4191-9509-7cc69c794099"
+  },
+  {
+    "query_id": "616863b2-070d-4b53-8845-477bece9d575",
+    "query_text": "What challenges were discussed at the Brussels Conference of 1920, and what actions were permitted as a result?",
+    "epistemic_type": "mixed",
+    "source_doc": "Bank for International Settlements",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "d67cd60e-c7f5-48d5-aaec-79c1b061bc1b"
+  },
+  {
+    "query_id": "1d5af1e8-71c1-4878-9566-e9453edab551",
+    "query_text": "What is the Tier 1 capital ratio and who regulates it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Tier 1 capital",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "da5252d6-e05a-454a-8bbd-f2a1ce583c41"
+  },
+  {
+    "query_id": "8ff63fe7-c3de-48f2-b447-824dc762c5ce",
+    "query_text": "What are the requirements for a CDO to be classified as a collateralized loan obligation?",
+    "epistemic_type": "mixed",
+    "source_doc": "Collateralized debt obligation",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "ea0c172d-4aa7-4d89-a4b5-4313c691e95d"
+  },
+  {
+    "query_id": "8a79aad0-3a73-453b-ad63-581542972fac",
+    "query_text": "What is a horizontal merger and is it permitted under antitrust law?",
+    "epistemic_type": "mixed",
+    "source_doc": "Mergers and acquisitions",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "b7d60483-6a42-4660-af50-3ec2d09fc5e5"
+  },
+  {
+    "query_id": "de3ee802-1425-45ed-b89e-49167e0c33a1",
+    "query_text": "What are the requirements for using the Black-Scholes model, and how does it work?",
+    "epistemic_type": "mixed",
+    "source_doc": "Black\u2013Scholes model",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "6e0d70ee-15a9-49fa-8497-eda78165faeb"
+  },
+  {
+    "query_id": "967378ab-167a-42ab-bd55-176ff96d7387",
+    "query_text": "What is the Securities Exchange Act of 1934 and what does it require?",
+    "epistemic_type": "mixed",
+    "source_doc": "United States Securities and Exchange Commission",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c74397aa-8e47-4f2b-ba01-4f2aefaee5b8"
+  },
+  {
+    "query_id": "34bfd1b8-57e5-4799-a88a-10d4d179a804",
+    "query_text": "Does the Basel Committee on Banking Supervision have the power to issue legally binding regulation, and if not, what is the status of the NSFR's implementation among G20 members?",
+    "epistemic_type": "mixed",
+    "source_doc": "Net stable funding ratio",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "2af25a24-f2cf-492a-b71b-6d622d032d54"
+  },
+  {
+    "query_id": "1b87eef0-eea5-4a7f-89ad-b599d1c32bdf",
+    "query_text": "What is equity risk and what regulations govern its management?",
+    "epistemic_type": "mixed",
+    "source_doc": "Market risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "56044b99-9584-4ba2-8949-c027dc08538b"
+  },
+  {
+    "query_id": "d88d3611-1b96-4401-9536-b9b2dbacce67",
+    "query_text": "What is a test for liquidity risk and how should liquidity risk be managed?",
+    "epistemic_type": "mixed",
+    "source_doc": "Liquidity risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "9fc84fb5-beaa-49ec-9ce9-2e65e17f5fd4"
+  },
+  {
+    "query_id": "5ff55a1e-9ca6-4bfa-abf6-8470cc6c6fa9",
+    "query_text": "What are the direct costs of bankruptcy and when do costs of financial distress occur?",
+    "epistemic_type": "mixed",
+    "source_doc": "Financial distress",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "ad0474b6-3002-48ed-bb6b-65ef3703ecff"
+  },
+  {
+    "query_id": "45160b35-cd91-4aa7-9d15-89a5cba597c6",
+    "query_text": "What does a poor CAMELS rating indicate about a bank's risk-taking, and what are the possible ratings that indicate this?",
+    "epistemic_type": "mixed",
+    "source_doc": "Interest rate risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "5b5bd259-9994-4e5a-bccb-de691e073af5"
+  },
+  {
+    "query_id": "a76d77bd-1446-4fcc-9eb4-cedae8e16730",
+    "query_text": "What did Eisenberg and Noe do in 2001 regarding structural models for financial systems, and what requirements did they set for firms owning the debt of other firms?",
+    "epistemic_type": "mixed",
+    "source_doc": "Systemic risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "4aa2c6dd-6526-49a0-8209-6e4802fbdbd2"
+  },
+  {
+    "query_id": "58a49050-9d2e-45db-8bb7-de35d8195cb9",
+    "query_text": "What does the Basel Capital Accord require regarding stress tests, and what is the purpose of these tests?",
+    "epistemic_type": "mixed",
+    "source_doc": "Stress test (financial)",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "93bd8011-3540-4036-a0d3-d6cbd9b0fee7"
+  },
+  {
+    "query_id": "c855ef8e-2457-45db-b9e5-6ef8d442b75d",
+    "query_text": "What techniques are permitted to mitigate settlement risk, and how do they work?",
+    "epistemic_type": "mixed",
+    "source_doc": "Settlement risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "5f1bc980-b95b-46c4-86e4-ed18591e653c"
+  },
+  {
+    "query_id": "47437545-7d51-4dcf-acfd-e719935f96d4",
+    "query_text": "According to the Basel Committee, what capital percentage should banks hold relative to risk-weighted assets, and when was this recommendation written?",
+    "epistemic_type": "mixed",
+    "source_doc": "Risk-weighted asset",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "00f614a5-f939-47ef-ab22-8956dcfdb6e4"
+  },
+  {
+    "query_id": "8b1fd295-e701-4078-9639-a8a869d03398",
+    "query_text": "According to the Basel Committee's definition, what constitutes operational risk, and does that definition include or exclude legal risk?",
+    "epistemic_type": "mixed",
+    "source_doc": "Operational risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "bc76bbf9-44e8-4d97-a019-e8b4547b8668"
+  },
+  {
+    "query_id": "0b1cc6c7-4ce8-4567-a951-093804d63e82",
+    "query_text": "What is credit default risk and when does it occur?",
+    "epistemic_type": "mixed",
+    "source_doc": "Credit risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "366de8a3-5407-4146-b613-2338ec77da6e"
+  },
+  {
+    "query_id": "9141612e-e57b-4349-afe5-44971bc42e48",
+    "query_text": "What did Senator Chris Dodd want the Federal Reserve to do, and what was his role in proposing the Dodd-Frank Act?",
+    "epistemic_type": "mixed",
+    "source_doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "9d57ebb5-1bed-424a-9a5a-d6262badd445"
+  },
+  {
+    "query_id": "0f314754-30a3-47d7-b09f-ea00e97e88c4",
+    "query_text": "According to Section 806 of the Sarbanes-Oxley Act, what conduct is prohibited and what are examples of securities fraud included in the protected categories?",
+    "epistemic_type": "mixed",
+    "source_doc": "Sarbanes\u2013Oxley Act",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "d9603db6-b12e-468a-8fab-689faeda1347"
+  },
+  {
+    "query_id": "8ad1c8ad-e18d-4e2b-8d21-0164a260294f",
+    "query_text": "When did MiFID 2 come into force, and what impact did it have on the oversight of energy futures contracts traded by the Intercontinental Exchange?",
+    "epistemic_type": "mixed",
+    "source_doc": "Markets in Financial Instruments Directive 2014",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "6fa349fe-c59b-4790-b732-c45fb6f98428"
+  },
+  {
+    "query_id": "fe31108b-23e2-45cc-89b6-05b91f27a5ff",
+    "query_text": "What information does Directive 2011/61/EU require AIFMs to provide to national supervisors, ESMA, and ESRB?",
+    "epistemic_type": "mixed",
+    "source_doc": "Alternative Investment Fund Managers Directive 2011",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "871b1b80-83cd-493b-80d2-2c351e32f066"
+  },
+  {
+    "query_id": "97b8b1f6-d907-480d-8706-23f337f08f0a",
+    "query_text": "According to Basel III, what is the bank's exposure to IRRBB, and how are banks required to calculate it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Basel III",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "b56e2a41-a204-483e-bf46-52159d72425e"
+  },
+  {
+    "query_id": "91a1c301-0b6c-4f13-b285-0b73ee9a6cc4",
+    "query_text": "What is the formula for the total capital ratio, and is it mandatory for banks to maintain a certain level of it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Basel I",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "1facf198-6804-4b3e-94f7-b2e4db5905aa"
+  },
+  {
+    "query_id": "1a5d0a7c-a757-4b09-878e-947c0a04bf49",
+    "query_text": "What are the Basel III revised global standards and when were they published?",
+    "epistemic_type": "mixed",
+    "source_doc": "Basel II",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c0737738-27fa-48d2-a81a-066ea0e7294e"
+  },
+  {
+    "query_id": "5a5f045a-a451-426f-a79a-d2c6b96b9dae",
+    "query_text": "What conditions must be met according to Article 82(1) GDPR to be awarded damages, and what court case provides interpretation of the right to compensation?",
+    "epistemic_type": "mixed",
+    "source_doc": "General Data Protection Regulation",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "848dc4dd-ccf2-4edc-bc8b-5629d515e7a2"
+  },
+  {
+    "query_id": "692175cb-2895-41bc-ada3-e8b2458a887a",
+    "query_text": "What is the Volcker Rule and when did regulations implementing it go into effect?",
+    "epistemic_type": "mixed",
+    "source_doc": "Volcker Rule",
+    "source_category": "regulatory",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "3ef3e780-3b1c-4825-8f86-782bf2909b6b"
+  },
+  {
+    "query_id": "63db7bc5-b798-4ac3-88f5-a592196764c7",
+    "query_text": "What does beta measure, and is it required to be compared to the S&P 500?",
+    "epistemic_type": "mixed",
+    "source_doc": "Beta (finance)",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "8e7f5624-e667-43f3-949f-19fdf308480e"
+  },
+  {
+    "query_id": "9ae925cc-ac4d-4754-9592-5721bf002617",
+    "query_text": "How does the security market line relate to expected return and what does it enable us to calculate?",
+    "epistemic_type": "mixed",
+    "source_doc": "Capital asset pricing model",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "da367c33-692b-45f3-9df1-e5a49742a162"
+  },
+  {
+    "query_id": "1b5d82de-fc1f-4ab9-8ea9-59c606deb0d0",
+    "query_text": "According to the APT, what action should an arbitrageur take when an asset's current price diverges from the price predicted by the model, and what is the basis for this action?",
+    "epistemic_type": "mixed",
+    "source_doc": "Arbitrage pricing theory",
+    "source_category": "pricing",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "1d5b9b8b-dacf-4fc5-a5ea-b9ce80ad0c82"
+  },
+  {
+    "query_id": "13cd432b-746f-454a-b0e4-86383548e3f6",
+    "query_text": "What is a concentration ratio and when is it permitted to be used?",
+    "epistemic_type": "mixed",
+    "source_doc": "Concentration risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "ef7b0764-6f18-4354-adf7-09bcb4878faa"
+  },
+  {
+    "query_id": "4fd2a6c4-9b55-4975-902c-65a4f7aad845",
+    "query_text": "What accounting standards enable hedge accounting, and what do they require for derivative financial instruments?",
+    "epistemic_type": "mixed",
+    "source_doc": "Hedge accounting",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "380f074f-4410-416c-bbe7-4b5ad077de21"
+  },
+  {
+    "query_id": "07c2f31a-fa71-43eb-9ac6-a21618711105",
+    "query_text": "How does a sovereign credit rating affect investment decisions and what risks should be considered?",
+    "epistemic_type": "mixed",
+    "source_doc": "Credit rating",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "8b44f32f-26ff-4a2d-aea7-4ee65151324e"
+  },
+  {
+    "query_id": "5cb05afc-42ea-42f0-ac59-4bfd66deb4c2",
+    "query_text": "What is the process to determine the accuracy of VaR forecasts, and is this process permitted?",
+    "epistemic_type": "mixed",
+    "source_doc": "Value at risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "9c5aecac-c5f1-4e42-adee-09a39c27acf8"
+  },
+  {
+    "query_id": "b26f826c-ef7b-4eff-9316-81516a7943f7",
+    "query_text": "What standard replaced IAS 16 and when did the replacement become effective?",
+    "epistemic_type": "mixed",
+    "source_doc": "Impaired asset",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "9ea8c751-9805-4fbf-a690-65cc8f3d397d"
+  },
+  {
+    "query_id": "ab6903b0-aac7-4245-852e-20c2999db4bf",
+    "query_text": "What is transaction risk and how does denominating contracts in foreign currency affect it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Foreign exchange risk",
+    "source_category": "risk",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c15b8af1-542c-43c9-a949-4c7d8c912baa"
+  },
+  {
+    "query_id": "3a3312e0-a4ca-4c6a-beb5-2787acbcc145",
+    "query_text": "What is included in retained earnings and what is excluded from it?",
+    "epistemic_type": "mixed",
+    "source_doc": "Equity (finance)",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "4b10357a-7587-41e6-bd27-fb05709e83c2"
+  },
+  {
+    "query_id": "51f98746-8bd5-470a-916d-5c411c339b2b",
+    "query_text": "Which central banks have launched a CBDC and what are the requirements for launching one?",
+    "epistemic_type": "mixed",
+    "source_doc": "Central bank digital currency",
+    "source_category": "product",
+    "generation_method": "llm_prompted",
+    "query_seed_assertion_id": "c338be5d-7544-4963-bc1d-e72bb76bb511"
+  }
+]

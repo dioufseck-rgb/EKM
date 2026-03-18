@@ -1,0 +1,3546 @@
+[
+  {
+    "assertion_id": "35979a71-8d11-433d-8074-83424d4d23b8",
+    "chunk_id": "3c1cda6b-b379-4fe6-8fcb-f33e0b7bb43a",
+    "document_id": "Operational_risk",
+    "claim_text": "The Basel Committee defines operational risk in Basel II and Basel III.",
+    "subject": "Basel Committee",
+    "predicate_type": "defines",
+    "object_text": "operational risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel Committee defines operational risk in Basel II and Basel III.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "basel"
+    ],
+    "entities": [
+      "Basel Committee",
+      "Basel II",
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel II",
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c3ccffb2-2e4e-4110-b73a-c57ccbd9d2df",
+    "chunk_id": "3c1cda6b-b379-4fe6-8fcb-f33e0b7bb43a",
+    "document_id": "Operational_risk",
+    "claim_text": "The risk of loss results from inadequate or failed internal processes, people and systems or from external events.",
+    "subject": "operational risk",
+    "predicate_type": "relates_to",
+    "object_text": "risk of loss resulting from inadequate or failed internal processes, people and systems or from external events",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk of loss results from inadequate or failed internal processes, people and systems or from external events.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c917ae2c-9aed-4ccf-ba01-ee239bf7e6a0",
+    "chunk_id": "3c1cda6b-b379-4fe6-8fcb-f33e0b7bb43a",
+    "document_id": "Operational_risk",
+    "claim_text": "This definition includes legal risk.",
+    "subject": "definition",
+    "predicate_type": "relates_to",
+    "object_text": "legal risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This definition includes legal risk.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "legal_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bc76bbf9-44e8-4d97-a019-e8b4547b8668",
+    "chunk_id": "3c1cda6b-b379-4fe6-8fcb-f33e0b7bb43a",
+    "document_id": "Operational_risk",
+    "claim_text": "This definition excludes strategic and reputational risk.",
+    "subject": "definition",
+    "predicate_type": "prohibits",
+    "object_text": "strategic and reputational risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This definition excludes strategic and reputational risk.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "strategic_risk",
+      "reputational_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e498cc81-a517-41e0-a6ce-fa1bc03313ee",
+    "chunk_id": "3c1cda6b-b379-4fe6-8fcb-f33e0b7bb43a",
+    "document_id": "Operational_risk",
+    "claim_text": "The Basel Committee recognizes that operational risk is a term that has a variety of meanings.",
+    "subject": "Basel Committee",
+    "predicate_type": "relates_to",
+    "object_text": "operational risk is a term that has a variety of meanings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel Committee recognizes that operational risk is a term that has a variety of meanings.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk"
+    ],
+    "entities": [
+      "Basel Committee"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "14afe660-b8ab-4879-a921-0aff3568781f",
+    "chunk_id": "3c1cda6b-b379-4fe6-8fcb-f33e0b7bb43a",
+    "document_id": "Operational_risk",
+    "claim_text": "Banks are permitted to adopt their own definitions of operational risk for internal purposes.",
+    "subject": "banks",
+    "predicate_type": "permits",
+    "object_text": "adopt their own definitions of operational risk for internal purposes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks are permitted to adopt their own definitions of operational risk for internal purposes.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17fb8683-b215-453f-b3ae-766f71f03bb1",
+    "chunk_id": "3c1cda6b-b379-4fe6-8fcb-f33e0b7bb43a",
+    "document_id": "Operational_risk",
+    "claim_text": "The minimum elements in the Committee's definition are included.",
+    "subject": "banks' own definitions of operational risk",
+    "predicate_type": "requires",
+    "object_text": "the minimum elements in the Committee's definition are included",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The minimum elements in the Committee's definition are included.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk"
+    ],
+    "entities": [
+      "Basel Committee"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bb0ed95d-a2c4-4f89-8662-dbe5b567cee2",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "In Basel I, operational risk was negatively defined: namely that operational risk are all risks which are not market risk and not credit risk.",
+    "subject": "operational risk",
+    "predicate_type": "defines",
+    "object_text": "all risks which are not market risk and not credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In Basel I, operational risk was negatively defined: namely that operational risk are all risks which are not market risk and not credit risk.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "market_risk",
+      "credit_risk"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8d3cab39-28bb-4331-a6d3-de19708b3128",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "Some banks have therefore also used the term operational risk synonymously with non-financial risks.",
+    "subject": "banks",
+    "predicate_type": "relates_to",
+    "object_text": "used the term operational risk synonymously with non-financial risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some banks have therefore also used the term operational risk synonymously with non-financial risks.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "non-financial_risks"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9978f70f-865b-4596-8cef-f7be12849fc9",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "In October 2014, the Basel Committee on Banking Supervision proposed a revision to its operational risk capital framework that sets out a new standardized approach to replace the basic indicator approach and the standardized approach for calculating operational risk capital.",
+    "subject": "Basel Committee on Banking Supervision",
+    "predicate_type": "governs",
+    "object_text": "revision to its operational risk capital framework that sets out a new standardized approach to replace the basic indicator approach and the standardized approach for calculating operational risk capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In October 2014, the Basel Committee on Banking Supervision proposed a revision to its operational risk capital framework that sets out a new standardized approach to replace the basic indicator approach and the standardized approach for calculating operational risk capital.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "331c6b3e-e61a-4c58-8dce-09897d87e005",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "Contrary to other risks (e.g. credit risk, market risk, insurance risk) operational risks are usually not willingly incurred nor are they revenue driven.",
+    "subject": "operational risks",
+    "predicate_type": "relates_to",
+    "object_text": "usually not willingly incurred nor are they revenue driven",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Contrary to other risks (e.g. credit risk, market risk, insurance risk) operational risks are usually not willingly incurred nor are they revenue driven.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "credit_risk",
+      "market_risk",
+      "insurance_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5bb5535a-49f9-4ed2-98a3-3f61794a79f4",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "Operational risks are not diversifiable and cannot be laid off.",
+    "subject": "Operational risks",
+    "predicate_type": "relates_to",
+    "object_text": "not diversifiable and cannot be laid off",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Operational risks are not diversifiable and cannot be laid off.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "305b92ae-3cb3-485b-9250-dccd362031ba",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "As long as people, systems, and processes remain imperfect, operational risk cannot be fully eliminated.",
+    "subject": "operational risk",
+    "predicate_type": "constrains",
+    "object_text": "cannot be fully eliminated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As long as people, systems, and processes remain imperfect, operational risk cannot be fully eliminated.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cf2be37a-8eeb-49f3-bf61-c7ebfe7ce894",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "Operational risk is, nonetheless, manageable as to keep losses within some level of risk tolerance (i.e. the amount of risk one is prepared to accept in pursuit of his objectives), determined by balancing the costs of improvement against the expected benefits.",
+    "subject": "Operational risk",
+    "predicate_type": "relates_to",
+    "object_text": "manageable as to keep losses within some level of risk tolerance (i.e. the amount of risk one is prepared to accept in pursuit of his objectives), determined by balancing the costs of improvement against the expected benefits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Operational risk is, nonetheless, manageable as to keep losses within some level of risk tolerance (i.e. the amount of risk one is prepared to accept in pursuit of his objectives), determined by balancing the costs of improvement against the expected benefits.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_tolerance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1d81f455-4868-44c9-8970-aced9d61fb24",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "Wider trends such as globalization, the expansion of the internet and the rise of social media, as well as the increasing demands for greater corporate accountability worldwide, reinforce the need for proper risk management.",
+    "subject": "Wider trends such as globalization, the expansion of the internet and the rise of social media, as well as the increasing demands for greater corporate accountability worldwide",
+    "predicate_type": "causes",
+    "object_text": "reinforce the need for proper risk management",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Wider trends such as globalization, the expansion of the internet and the rise of social media, as well as the increasing demands for greater corporate accountability worldwide, reinforce the need for proper risk management.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "66f6b18b-884c-4803-af9d-9e3935cdf3aa",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "Operational risk management (ORM) is a specialized discipline within risk management.",
+    "subject": "Operational risk management (ORM)",
+    "predicate_type": "classifies",
+    "object_text": "specialized discipline within risk management",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Operational risk management (ORM) is a specialized discipline within risk management.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk_management",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "afe895a8-375a-4546-ad0c-30e78fdc8262",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "It constitutes the continuous-process of risk assessment, decision making, and implementation of risk controls, resulting in the acceptance, mitigation, or avoidance of the various operational risks.",
+    "subject": "Operational risk management (ORM)",
+    "predicate_type": "implements",
+    "object_text": "the continuous-process of risk assessment, decision making, and implementation of risk controls, resulting in the acceptance, mitigation, or avoidance of the various operational risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It constitutes the continuous-process of risk assessment, decision making, and implementation of risk controls, resulting in the acceptance, mitigation, or avoidance of the various operational risks.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk_management",
+      "risk_assessment",
+      "risk_controls"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "603df89d-745a-4b15-a930-fcdc0a18eaeb",
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "claim_text": "ORM somewhat overlaps quality management and the internal audit function.",
+    "subject": "ORM",
+    "predicate_type": "relates_to",
+    "object_text": "somewhat overlaps quality management and the internal audit function",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "ORM somewhat overlaps quality management and the internal audit function.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk_management",
+      "quality_management",
+      "internal_audit"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f41ab694-8fea-4560-8aec-fe22339f51fe",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Basel II and various supervisory bodies of the countries have prescribed various soundness standards for operational risk management for banks and similar financial institutions.",
+    "subject": "Basel II and various supervisory bodies of the countries",
+    "predicate_type": "governs",
+    "object_text": "various soundness standards for operational risk management for banks and similar financial institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel II and various supervisory bodies of the countries have prescribed various soundness standards for operational risk management for banks and similar financial institutions.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [
+      "Basel II",
+      "banks",
+      "financial institutions"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "005bca4c-717e-408d-bba4-393ffdfbf4f8",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Basel II has given guidance to 3 broad methods of capital calculation for operational risk.",
+    "subject": "Basel II",
+    "predicate_type": "relates_to",
+    "object_text": "guidance to 3 broad methods of capital calculation for operational risk",
+    "object_value": 3.0,
+    "object_unit": null,
+    "source_text": "Basel II has given guidance to 3 broad methods of capital calculation for operational risk.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "84592a3c-6c31-4074-a34e-5ff02f282f59",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Basic Indicator Approach is based on annual revenue of the Financial Institution",
+    "subject": "Basic Indicator Approach",
+    "predicate_type": "relates_to",
+    "object_text": "annual revenue of the Financial Institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basic Indicator Approach is based on annual revenue of the Financial Institution",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Financial Institution"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4662d97a-9178-4b46-b627-3d083ce1bd8e",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Standardized Approach is based on annual revenue of each of the broad business lines of the Financial Institution",
+    "subject": "Standardized Approach",
+    "predicate_type": "relates_to",
+    "object_text": "annual revenue of each of the broad business lines of the Financial Institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Standardized Approach is based on annual revenue of each of the broad business lines of the Financial Institution",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Financial Institution"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "95e94e8f-344c-4df9-926f-249bc3e10ba7",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Advanced Measurement Approaches is based on the internally developed risk measurement framework of the bank adhering to the standards prescribed",
+    "subject": "Advanced Measurement Approaches",
+    "predicate_type": "relates_to",
+    "object_text": "the internally developed risk measurement framework of the bank adhering to the standards prescribed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Advanced Measurement Approaches is based on the internally developed risk measurement framework of the bank adhering to the standards prescribed",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "bank"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4193cde9-fb6a-447f-89d7-b5110f544f84",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "The operational risk management framework should include identification, measurement, monitoring, reporting, control and mitigation frameworks for operational risk.",
+    "subject": "operational risk management framework",
+    "predicate_type": "requires",
+    "object_text": "identification, measurement, monitoring, reporting, control and mitigation frameworks for operational risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The operational risk management framework should include identification, measurement, monitoring, reporting, control and mitigation frameworks for operational risk.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1bd72c4c-8a1a-43a8-b83d-48bf2f08cbad",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "The ultimate choice of the methodology/methodologies to use in your institution depends on a number of factors.",
+    "subject": "ultimate choice of the methodology/methodologies",
+    "predicate_type": "relates_to",
+    "object_text": "a number of factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The ultimate choice of the methodology/methodologies to use in your institution depends on a number of factors.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1f457210-1163-47ef-85e0-820e304397b1",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Time sensitivity for analysis is a factor.",
+    "subject": "Time sensitivity for analysis",
+    "predicate_type": "relates_to",
+    "object_text": "a factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Time sensitivity for analysis is a factor.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c6afe8cf-81af-4fd5-95c1-62af23413d70",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Resources desired and/or available for the task is a factor.",
+    "subject": "Resources desired and/or available for the task",
+    "predicate_type": "relates_to",
+    "object_text": "a factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Resources desired and/or available for the task is a factor.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "efaafa86-81aa-449f-92ee-4c82e3191882",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Approaches used for other risk measures is a factor.",
+    "subject": "Approaches used for other risk measures",
+    "predicate_type": "relates_to",
+    "object_text": "a factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Approaches used for other risk measures is a factor.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "92e9c353-dc34-4e10-8416-002189c1f2da",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Expected use of results is a factor.",
+    "subject": "Expected use of results",
+    "predicate_type": "relates_to",
+    "object_text": "a factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Expected use of results is a factor.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2be62d9e-3165-43db-ac18-d9bd82d30b83",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Senior management understanding and commitment is a factor.",
+    "subject": "Senior management understanding and commitment",
+    "predicate_type": "relates_to",
+    "object_text": "a factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Senior management understanding and commitment is a factor.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cf35ca90-71bd-4041-864c-13ada226c869",
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "claim_text": "Existing complementary processes, such as self-assessment is a factor.",
+    "subject": "Existing complementary processes, such as self-assessment",
+    "predicate_type": "relates_to",
+    "object_text": "a factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Existing complementary processes, such as self-assessment is a factor.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bb536361-d3e1-46e9-9737-3440a9f64271",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "Until Basel II reforms to banking supervision, operational risk was a residual category reserved for risks and uncertainties which were difficult to quantify and manage in traditional ways \u2013 the \"other risks\" basket.",
+    "subject": "operational risk",
+    "predicate_type": "relates_to",
+    "object_text": "a residual category reserved for risks and uncertainties which were difficult to quantify and manage in traditional ways \u2013 the \"other risks\" basket",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Until Basel II reforms to banking supervision, operational risk was a residual category reserved for risks and uncertainties which were difficult to quantify and manage in traditional ways \u2013 the \"other risks\" basket.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "426a1920-7680-4d41-8391-60910f7a8fc3",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "Such regulations institutionalized operational risk as a category of regulatory and managerial attention and connected operational risk management with good corporate governance.",
+    "subject": "regulations",
+    "predicate_type": "relates_to",
+    "object_text": "institutionalized operational risk as a category of regulatory and managerial attention and connected operational risk management with good corporate governance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such regulations institutionalized operational risk as a category of regulatory and managerial attention and connected operational risk management with good corporate governance.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management",
+      "corporate_governance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "744e328b-51bd-40a9-8072-0d72cfb6185f",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "Businesses in general, and other institutions such as the military, have been aware, for many years, of hazards arising from operational factors, internal or external.",
+    "subject": "Businesses in general, and other institutions such as the military",
+    "predicate_type": "relates_to",
+    "object_text": "have been aware, for many years, of hazards arising from operational factors, internal or external",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Businesses in general, and other institutions such as the military, have been aware, for many years, of hazards arising from operational factors, internal or external.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "145a383c-400d-4e1c-82c5-2c556d67d04a",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "The primary goal of the military is to fight and win wars in quick and decisive fashion, and with minimal losses.",
+    "subject": "military",
+    "predicate_type": "relates_to",
+    "object_text": "to fight and win wars in quick and decisive fashion, and with minimal losses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The primary goal of the military is to fight and win wars in quick and decisive fashion, and with minimal losses.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "e342842b-ee4c-43c2-95d9-4c54a4772817",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "For the military and the businesses of the world alike, operational risk management is an effective process for preserving resources by anticipation.",
+    "subject": "operational risk management",
+    "predicate_type": "relates_to",
+    "object_text": "an effective process for preserving resources by anticipation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For the military and the businesses of the world alike, operational risk management is an effective process for preserving resources by anticipation.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "eb814a5e-b13b-4934-86c6-6fdf822207a5",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "Two decades (from 1980 to the early 2000s) of globalization and deregulation (e.g. Big Bang (financial markets)), combined with the increased sophistication of financial services around the world, introduced additional complexities into the activities of banks, insurers, and firms in general and therefore their risk profiles.",
+    "subject": "globalization and deregulation",
+    "predicate_type": "causes",
+    "object_text": "additional complexities into the activities of banks, insurers, and firms in general and therefore their risk profiles",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Two decades (from 1980 to the early 2000s) of globalization and deregulation (e.g. Big Bang (financial markets)), combined with the increased sophistication of financial services around the world, introduced additional complexities into the activities of banks, insurers, and firms in general and therefore their risk profiles.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "globalization",
+      "deregulation",
+      "risk_management"
+    ],
+    "entities": [
+      "Big Bang"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "558c8fce-f0e4-437b-9fb7-13361655d653",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "Since the mid-1990s, the topics of market risk and credit risk have been the subject of much debate and research, with the result that financial institutions have made significant progress in the identification, measurement, and management of both these forms of risk.",
+    "subject": "financial institutions",
+    "predicate_type": "relates_to",
+    "object_text": "have made significant progress in the identification, measurement, and management of market risk and credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Since the mid-1990s, the topics of market risk and credit risk have been the subject of much debate and research, with the result that financial institutions have made significant progress in the identification, measurement, and management of both these forms of risk.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "credit_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f546b1e8-26f1-4751-8d6c-8605a3f41cd5",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "However, the near collapse of the U.S. financial system in the 2008 financial crisis and subprime mortgage crisis is an indication that our ability to measure market and credit risk is far from perfect and eventually led to the introduction of new regulatory requirements worldwide, including Basel III regulations for banks and Solvency II regulations for insurers.",
+    "subject": "near collapse of the U.S. financial system in the 2008 financial crisis and subprime mortgage crisis",
+    "predicate_type": "causes",
+    "object_text": "introduction of new regulatory requirements worldwide, including Basel III regulations for banks and Solvency II regulations for insurers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "However, the near collapse of the U.S. financial system in the 2008 financial crisis and subprime mortgage crisis is an indication that our ability to measure market and credit risk is far from perfect and eventually led to the introduction of new regulatory requirements worldwide, including Basel III regulations for banks and Solvency II regulations for insurers.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_crisis",
+      "regulatory_requirements"
+    ],
+    "entities": [
+      "U.S. financial system",
+      "Basel III",
+      "Solvency II"
+    ],
+    "regulations": [
+      "Basel III",
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f166e083-dac6-4c3b-90dd-9f692c033627",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "Events such as the September 11 terrorist attacks, rogue trading losses at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Barings, AIB, UBS, and National Australia Bank serve to highlight the fact that the scope of risk management extends beyond merely market and credit risk.",
+    "subject": "Events such as the September 11 terrorist attacks, rogue trading losses at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Barings, AIB, UBS, and National Australia Bank",
+    "predicate_type": "relates_to",
+    "object_text": "highlight the fact that the scope of risk management extends beyond merely market and credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Events such as the September 11 terrorist attacks, rogue trading losses at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Barings, AIB, UBS, and National Australia Bank serve to highlight the fact that the scope of risk management extends beyond merely market and credit risk.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [
+      "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+      "Barings",
+      "AIB",
+      "UBS",
+      "National Australia Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "46f41152-13dc-45df-9535-4dce7a5deba1",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "These reasons underscore banks' and supervisors' growing focus upon the identification and measurement of operational risk.",
+    "subject": "banks' and supervisors' growing focus",
+    "predicate_type": "relates_to",
+    "object_text": "upon the identification and measurement of operational risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These reasons underscore banks' and supervisors' growing focus upon the identification and measurement of operational risk.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "60e9d90b-68c5-42c1-8d70-0430957026bc",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "The list of risks (and, more importantly, the scale of these risks) faced by banks today includes fraud, system failures, terrorism, and employee compensation claims.",
+    "subject": "risks faced by banks",
+    "predicate_type": "relates_to",
+    "object_text": "includes fraud, system failures, terrorism, and employee compensation claims",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The list of risks (and, more importantly, the scale of these risks) faced by banks today includes fraud, system failures, terrorism, and employee compensation claims.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5cf8c12f-dc02-4320-867b-d2d0f3847812",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "These types of risk are generally classified under the term 'operational risk'.",
+    "subject": "fraud, system failures, terrorism, and employee compensation claims",
+    "predicate_type": "classifies",
+    "object_text": "operational risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These types of risk are generally classified under the term 'operational risk'.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "fee6875c-a4a7-460a-a522-eefec0c207fb",
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "claim_text": "The identification and measurement of operational risk is a real and live issue for modern-day banks, particularly since the decision by the Basel Committee on Banking Supervision (BCBS) to introduce a capital charge for this risk as part of the",
+    "subject": "identification and measurement of operational risk",
+    "predicate_type": "relates_to",
+    "object_text": "a real and live issue for modern-day banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The identification and measurement of operational risk is a real and live issue for modern-day banks, particularly since the decision by the Basel Committee on Banking Supervision (BCBS) to introduce a capital charge for this risk as part of the",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "risk_management"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b5d4174f-4615-4769-9be8-55a608889c50",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "The following lists the seven official Basel II event types with some examples for each category.",
+    "subject": "list",
+    "predicate_type": "relates_to",
+    "object_text": "seven official Basel II event types with some examples for each category",
+    "object_value": 7.0,
+    "object_unit": null,
+    "source_text": "The following lists the seven official Basel II event types with some examples for each category.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bac51364-39fa-413b-b037-e6a88d5ff83b",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Internal Fraud includes misappropriation of assets.",
+    "subject": "Internal Fraud",
+    "predicate_type": "classifies",
+    "object_text": "misappropriation of assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Internal Fraud includes misappropriation of assets.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "fraud"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6c49befb-b9d4-4aea-8080-a14ff3f7c488",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Internal Fraud includes tax evasion.",
+    "subject": "Internal Fraud",
+    "predicate_type": "classifies",
+    "object_text": "tax evasion",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Internal Fraud includes tax evasion.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "fraud"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bfe28229-ed77-4f68-8ed2-7ef928befc3b",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Internal Fraud includes intentional mismarking of positions.",
+    "subject": "Internal Fraud",
+    "predicate_type": "classifies",
+    "object_text": "intentional mismarking of positions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Internal Fraud includes intentional mismarking of positions.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "fraud"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9be56738-8aaa-42f8-a80d-80db30066e4a",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Internal Fraud includes bribery.",
+    "subject": "Internal Fraud",
+    "predicate_type": "classifies",
+    "object_text": "bribery",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Internal Fraud includes bribery.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "fraud"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0bbe345a-0a40-41fa-859b-96d20db3c41e",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "External Fraud includes theft of information.",
+    "subject": "External Fraud",
+    "predicate_type": "classifies",
+    "object_text": "theft of information",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "External Fraud includes theft of information.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "fraud"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "72ee1c31-473f-414e-8c7c-a7c699e27eca",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "External Fraud includes hacking damage.",
+    "subject": "External Fraud",
+    "predicate_type": "classifies",
+    "object_text": "hacking damage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "External Fraud includes hacking damage.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "fraud"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "394ad8af-05e9-42bc-869e-747b6d9aa9e2",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "External Fraud includes third-party theft and forgery.",
+    "subject": "External Fraud",
+    "predicate_type": "classifies",
+    "object_text": "third-party theft and forgery",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "External Fraud includes third-party theft and forgery.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "fraud"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "61ab157e-d6c7-41f3-a7c4-051368711c9d",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Employment Practices and Workplace Safety includes discrimination.",
+    "subject": "Employment Practices and Workplace Safety",
+    "predicate_type": "classifies",
+    "object_text": "discrimination",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Employment Practices and Workplace Safety includes discrimination.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "employment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "999831f3-2b65-4e73-b2d7-d0d750ec1855",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Employment Practices and Workplace Safety includes workers compensation.",
+    "subject": "Employment Practices and Workplace Safety",
+    "predicate_type": "classifies",
+    "object_text": "workers compensation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Employment Practices and Workplace Safety includes workers compensation.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "employment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "99b321dd-4cbf-4f19-83b5-d6bade052b97",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Employment Practices and Workplace Safety includes employee health and safety.",
+    "subject": "Employment Practices and Workplace Safety",
+    "predicate_type": "classifies",
+    "object_text": "employee health and safety",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Employment Practices and Workplace Safety includes employee health and safety.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "employment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "df16572c-b283-4641-a118-864920d4a08f",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Clients, Products, and Business Practice includes market manipulation.",
+    "subject": "Clients, Products, and Business Practice",
+    "predicate_type": "classifies",
+    "object_text": "market manipulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Clients, Products, and Business Practice includes market manipulation.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "business_practices"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90b752d3-9213-4839-8dd4-c23e36232f38",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Clients, Products, and Business Practice includes antitrust.",
+    "subject": "Clients, Products, and Business Practice",
+    "predicate_type": "classifies",
+    "object_text": "antitrust",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Clients, Products, and Business Practice includes antitrust.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "business_practices"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "69bde091-7212-443d-9cc9-574716f4c33e",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Clients, Products, and Business Practice includes improper trade.",
+    "subject": "Clients, Products, and Business Practice",
+    "predicate_type": "classifies",
+    "object_text": "improper trade",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Clients, Products, and Business Practice includes improper trade.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "business_practices"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1fae3b63-6a17-461c-8e6a-170809adaa78",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Clients, Products, and Business Practice includes product defects.",
+    "subject": "Clients, Products, and Business Practice",
+    "predicate_type": "classifies",
+    "object_text": "product defects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Clients, Products, and Business Practice includes product defects.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "business_practices"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a2043704-568d-4852-aa24-7c8701340f6b",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Clients, Products, and Business Practice includes fiduciary breaches.",
+    "subject": "Clients, Products, and Business Practice",
+    "predicate_type": "classifies",
+    "object_text": "fiduciary breaches",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Clients, Products, and Business Practice includes fiduciary breaches.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "business_practices"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5189fc4b-142d-4466-bb86-80f45b5d0126",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Clients, Products, and Business Practice includes account churning.",
+    "subject": "Clients, Products, and Business Practice",
+    "predicate_type": "classifies",
+    "object_text": "account churning",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Clients, Products, and Business Practice includes account churning.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "business_practices"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "327f1f6a-d38b-4c8c-b044-ea15bf916a32",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Damage to Physical Assets includes natural disasters.",
+    "subject": "Damage to Physical Assets",
+    "predicate_type": "classifies",
+    "object_text": "natural disasters",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Damage to Physical Assets includes natural disasters.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "physical_assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "efa02530-ee00-48da-924d-619b063a30dc",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Damage to Physical Assets includes terrorism.",
+    "subject": "Damage to Physical Assets",
+    "predicate_type": "classifies",
+    "object_text": "terrorism",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Damage to Physical Assets includes terrorism.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "physical_assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15bd8f93-818d-4750-af02-29c4dc113c43",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Damage to Physical Assets includes vandalism.",
+    "subject": "Damage to Physical Assets",
+    "predicate_type": "classifies",
+    "object_text": "vandalism",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Damage to Physical Assets includes vandalism.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "physical_assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b295d51-1467-459e-9fd4-77945ffc9369",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Business Disruption and Systems Failures includes utility disruptions.",
+    "subject": "Business Disruption and Systems Failures",
+    "predicate_type": "classifies",
+    "object_text": "utility disruptions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Business Disruption and Systems Failures includes utility disruptions.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "systems_failures"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "979a333f-8423-487f-a7e3-108b7a98be26",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Business Disruption and Systems Failures includes software failures.",
+    "subject": "Business Disruption and Systems Failures",
+    "predicate_type": "classifies",
+    "object_text": "software failures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Business Disruption and Systems Failures includes software failures.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "systems_failures"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "75327fa6-1470-4aa4-aeab-b86831393869",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Business Disruption and Systems Failures includes hardware failures.",
+    "subject": "Business Disruption and Systems Failures",
+    "predicate_type": "classifies",
+    "object_text": "hardware failures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Business Disruption and Systems Failures includes hardware failures.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "systems_failures"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "27ae9157-9c56-41b5-b3fe-5ef728976303",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Execution, Delivery, and Process Management includes data entry errors.",
+    "subject": "Execution, Delivery, and Process Management",
+    "predicate_type": "classifies",
+    "object_text": "data entry errors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Execution, Delivery, and Process Management includes data entry errors.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "process_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "13ca6d32-3f36-4ed1-9955-3ad787ba7f4d",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Execution, Delivery, and Process Management includes accounting errors.",
+    "subject": "Execution, Delivery, and Process Management",
+    "predicate_type": "classifies",
+    "object_text": "accounting errors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Execution, Delivery, and Process Management includes accounting errors.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "process_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9c5ee92b-a828-42bb-94c7-5ca97611124f",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Execution, Delivery, and Process Management includes failed mandatory reporting.",
+    "subject": "Execution, Delivery, and Process Management",
+    "predicate_type": "classifies",
+    "object_text": "failed mandatory reporting",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Execution, Delivery, and Process Management includes failed mandatory reporting.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "process_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b10fccd2-953e-4ebe-a25d-2aceaa919200",
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "claim_text": "Execution, Delivery, and Process Management includes negligent loss of client assets.",
+    "subject": "Execution, Delivery, and Process Management",
+    "predicate_type": "classifies",
+    "object_text": "negligent loss of client assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Execution, Delivery, and Process Management includes negligent loss of client assets.",
+    "source_document": "Operational risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk",
+      "process_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

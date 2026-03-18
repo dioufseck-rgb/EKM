@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "sequence": 0,
+    "section_title": "Market risk",
+    "content": "Fluctuating interest rates expose bond owners to risk. How much interest rate risk a bond has depends on how sensitive its price is to interest rate changes in the market. The sensitivity depends on two things, the bond's time to maturity, and the coupon rate of the bond.\nInterest rate risk analysis is almost always based on simulating movements in one or more yield curves using the Heath-Jarrow-Morton framework to ensure that the yield curve movements are both consistent with current market yield curves and such that no riskless arbitrage is possible.  The Heath-Jarrow-Morton framework was developed in the early 1991 by David Heath of Cornell University, Andrew Morton of Lehman Brothers, and Robert A. Jarrow of Kamakura Corporation and Cornell University.\nThere are a number of standard calculations for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.  The most common techniques include:\n\nMarking to market, calculating the net market value of the assets and liabilities, sometimes called the \"market value of portfolio equity\"\nStress testing this market value by shifting the yield curve in a specific way.\nCalculating the value at risk of the portfolio\nCalculating the multiperiod cash flow or financial accrual income and expense for N periods forward in a deterministic set of future yield curves\nDoing step 4 with random yield curve movements and measuring the probability distribution of cash flows and financial accrual income over time.\nMeasuring the mismatch of the interest sensitivity gap of assets and liabilities, by classifying each asset and liability by the timing of interest rate reset or maturity, whichever comes first.\nAnalyzing Duration, Convexity, DV01 and Key Rate Duration.",
+    "token_estimate": 277,
+    "title": "Interest rate risk",
+    "url": "https://en.wikipedia.org/wiki/Interest_rate_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "084d81e3-5af1-4450-8109-92f330dd8c86",
+    "document_id": "Interest_rate_risk",
+    "sequence": 1,
+    "section_title": "Banks",
+    "content": "The assessment of interest rate risk is a very large topic at banks, thrifts, saving and loans, credit unions, and other finance companies, and among their regulators. The widely deployed CAMELS rating system assesses a financial institution's: Capital adequacy, Assets, Management, Earnings, Liquidity, and Sensitivity to market risk. A large portion of the Sensitivity in CAMELS is interest rate risk. Much of what is known about assessing interest rate risk has been developed by the interaction of financial institutions with their regulators since the 1990s. Interest rate risk is the largest part of the sensitivity analysis in the CAMELS system for most banking institutions. When a bank receives a poor CAMELS rating (a 4 or 5 on the ratings scale), it is indicative of taking excessive risks and it's likely the bank is in an overall troubled condition and may be included on the FDIC problem bank list.\nSee the Sensitivity section of the CAMELS rating system for a substantial list of links to documents and examiner manuals, issued by financial regulators, that cover many issues in the analysis of interest rate risk.\nIn addition to being subject to the CAMELS system, the largest banks are often subject to prescribed stress testing. The assessment of interest rate risk is typically informed by some type of stress testing. See: Stress test (financial), List of bank stress tests, List of systemically important banks, Interest rate risk in the banking book.",
+    "token_estimate": 238,
+    "title": "Interest rate risk",
+    "url": "https://en.wikipedia.org/wiki/Interest_rate_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "sequence": 2,
+    "section_title": "Insurers",
+    "content": "For insurers, \n\ninterest rate risk is particularly significant as it affects both their investment portfolios (assets) and their obligations to policyholders (liabilities), impacting overall profitability and solvency. Further, the mismatch between the durations of assets and liabilities can lead to cashflow and operational challenges in meeting obligations. Specific treatments will differ by insurer-profile:\n\nLife insurers are particularly exposed to interest rate risk because they hold long-term liabilities from life insurance policies and annuities. Changes in interest rates can impact the pricing of new products and the valuation of existing policies, as lower rates typically reduce investment income, resulting in tighter margins. Moreover, life insurers may face challenges in managing their asset-liability matching over long time horizons especially in a prolonged low-interest-rate environment.\nShort-term insurers (such as property- and casualty companies) also face interest rate risk but to a lesser extent. Their liabilities are typically shorter in duration, which may allow for quicker adjustments in investment strategies to respond to interest rate changes. However, sudden interest rate shifts can still affect the returns on investments supporting claim reserves, thereby impacting the balance sheet, as well as underwriting performance.\nRisk management strategies here include asset-liability management (ALM) techniques that aim to align the cash flows and durations of assets and liabilities (respectively: cashflow matching and immunization). Insurers may utilize derivatives and other financial instruments to hedge against rate fluctuations, along with diversifying their investment portfolios to mitigate exposure. Regular stress testing and scenario analysis can also help insurers understand potential impacts and adjust their strategies accordingly.",
+    "token_estimate": 254,
+    "title": "Interest rate risk",
+    "url": "https://en.wikipedia.org/wiki/Interest_rate_risk",
+    "domain": "finance"
+  }
+]

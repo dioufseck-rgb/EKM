@@ -1,0 +1,1981 @@
+[
+  {
+    "assertion_id": "3f8136f5-6a37-43bb-8226-6c2e8b76eebb",
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Preferred stock rights have precedence over common stock.",
+    "subject": "preferred stock rights",
+    "predicate_type": "relates_to",
+    "object_text": "common stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preferred stock rights have precedence over common stock.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "equity"
+    ],
+    "entities": [
+      "preferred stock",
+      "common stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0df9a738-8dfe-45cc-9a67-bfa84300b1b9",
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dividends on preferred shares are subtracted before calculating the EPS.",
+    "subject": "dividends on preferred shares",
+    "predicate_type": "requires",
+    "object_text": "subtracted before calculating the EPS",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dividends on preferred shares are subtracted before calculating the EPS.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "preferred shares",
+      "EPS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a88c6077-517f-4485-a02f-6eea7abee305",
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "claim_text": "When preferred shares are cumulative, annual dividends are deducted whether or not they have been declared.",
+    "subject": "preferred shares",
+    "predicate_type": "constrains",
+    "object_text": "annual dividends are deducted whether or not they have been declared",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When preferred shares are cumulative, annual dividends are deducted whether or not they have been declared.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "preferred shares",
+      "dividends"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b287826-b85a-47b0-a283-4f89b9c2c6b0",
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dividends in arrears are not relevant when calculating EPS.",
+    "subject": "dividends in arrears",
+    "predicate_type": "prohibits",
+    "object_text": "relevant when calculating EPS",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dividends in arrears are not relevant when calculating EPS.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "dividends",
+      "EPS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59118d06-8f0e-4ebd-8c4e-4b20bf864116",
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "claim_text": "\"Average common shares\" in the formulae below refers to the average number of common shares outstanding during the time period.",
+    "subject": "\"Average common shares\"",
+    "predicate_type": "defines",
+    "object_text": "the average number of common shares outstanding during the time period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "\"Average common shares\" in the formulae below refers to the average number of common shares outstanding during the time period.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "common shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f1b677ba-10d7-4e94-aad9-a0530143c7ef",
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Earnings per share = profit \u2212 preferred dividends/weighted average common shares",
+    "subject": "Earnings per share",
+    "predicate_type": "defines",
+    "object_text": "profit \u2212 preferred dividends/weighted average common shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Earnings per share = profit \u2212 preferred dividends/weighted average common shares",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "preferred dividends",
+      "common shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5e4d52cb-9a58-458d-9881-f85dd93225fe",
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Earnings per share = net income \u2212 preferred dividends/average common shares",
+    "subject": "Earnings per share",
+    "predicate_type": "defines",
+    "object_text": "net income \u2212 preferred dividends/average common shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Earnings per share = net income \u2212 preferred dividends/average common shares",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "preferred dividends",
+      "common shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "786cbf57-0667-4371-ab39-8c392001158a",
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Earnings per share = income from continuing operations \u2212 preferred dividends/weighted average common shares",
+    "subject": "Earnings per share",
+    "predicate_type": "defines",
+    "object_text": "income from continuing operations \u2212 preferred dividends/weighted average common shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Earnings per share = income from continuing operations \u2212 preferred dividends/weighted average common shares",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "preferred dividends",
+      "common shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2ef68535-6e97-4c53-ba57-fb2d76a8bb8c",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Under International Financial Reporting Standards, diluted earnings per share is calculated by adjusting the earnings and number of shares for the effects of dilutive options and other dilutive potential common stock.",
+    "subject": "diluted earnings per share",
+    "predicate_type": "defines",
+    "object_text": "calculated by adjusting the earnings and number of shares for the effects of dilutive options and other dilutive potential common stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under International Financial Reporting Standards, diluted earnings per share is calculated by adjusting the earnings and number of shares for the effects of dilutive options and other dilutive potential common stock.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "International Financial Reporting Standards"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c104f6c-9a3d-4fda-abfa-0e3ad4a06349",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dilutive potential common stock includes convertible debt.",
+    "subject": "Dilutive potential common stock",
+    "predicate_type": "classifies",
+    "object_text": "convertible debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dilutive potential common stock includes convertible debt.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5866510f-133a-4c1b-b225-b7002e115c9e",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dilutive potential common stock includes convertible preferred stock.",
+    "subject": "Dilutive potential common stock",
+    "predicate_type": "classifies",
+    "object_text": "convertible preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dilutive potential common stock includes convertible preferred stock.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2ac476b2-295e-445a-8164-7f3cb1f122a4",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dilutive potential common stock includes share warrants.",
+    "subject": "Dilutive potential common stock",
+    "predicate_type": "classifies",
+    "object_text": "share warrants",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dilutive potential common stock includes share warrants.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b81c3e31-2737-4e71-b503-a0efb51c6237",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dilutive potential common stock includes share options.",
+    "subject": "Dilutive potential common stock",
+    "predicate_type": "classifies",
+    "object_text": "share options",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dilutive potential common stock includes share options.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "68c1961c-4b77-430a-9fe9-c42a79078ce9",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dilutive potential common stock includes share rights.",
+    "subject": "Dilutive potential common stock",
+    "predicate_type": "classifies",
+    "object_text": "share rights",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dilutive potential common stock includes share rights.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "42da4076-be7c-4fdd-bc01-1782c68f4633",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dilutive potential common stock includes Employee stock purchase plans.",
+    "subject": "Dilutive potential common stock",
+    "predicate_type": "classifies",
+    "object_text": "Employee stock purchase plans",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dilutive potential common stock includes Employee stock purchase plans.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2828f104-a497-44e6-8c59-bdf931e0cb82",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dilutive potential common stock includes contractual rights to purchase shares.",
+    "subject": "Dilutive potential common stock",
+    "predicate_type": "classifies",
+    "object_text": "contractual rights to purchase shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dilutive potential common stock includes contractual rights to purchase shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f600a331-c0e8-4347-84eb-6d2b2a69553c",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Dilutive potential common stock includes contingent issuance contracts or agreements.",
+    "subject": "Dilutive potential common stock",
+    "predicate_type": "classifies",
+    "object_text": "contingent issuance contracts or agreements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dilutive potential common stock includes contingent issuance contracts or agreements.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e6eba7f-c290-408c-ae63-9d37cc84b032",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "The earnings per share requirements of U.S. GAAP, FASB ASC 260: EPS, are a result of the FASB's cooperation with the IASB to narrow the difference between IFRS and US GAAP.",
+    "subject": "The earnings per share requirements of U.S. GAAP, FASB ASC 260: EPS",
+    "predicate_type": "causes",
+    "object_text": "a result of the FASB's cooperation with the IASB to narrow the difference between IFRS and US GAAP",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The earnings per share requirements of U.S. GAAP, FASB ASC 260: EPS, are a result of the FASB's cooperation with the IASB to narrow the difference between IFRS and US GAAP.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "U.S. GAAP",
+      "FASB",
+      "IASB",
+      "IFRS"
+    ],
+    "regulations": [
+      "FASB ASC 260"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b7fb841-c680-4d29-a83a-25f190bab974",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "A few differences remain.",
+    "subject": "differences",
+    "predicate_type": "relates_to",
+    "object_text": "remain",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A few differences remain.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e09eff82-d2e5-4c8c-930b-74149af64759",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "The differences that remain are the result of differences in the application of the treasury stock method.",
+    "subject": "The differences that remain",
+    "predicate_type": "causes",
+    "object_text": "differences in the application of the treasury stock method",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The differences that remain are the result of differences in the application of the treasury stock method.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e3c2c0b3-9794-4058-a411-7fda428f2ec2",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "The differences that remain are the result of the treatment of contracts that may be settled in shares or cash.",
+    "subject": "The differences that remain",
+    "predicate_type": "causes",
+    "object_text": "the treatment of contracts that may be settled in shares or cash",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The differences that remain are the result of the treatment of contracts that may be settled in shares or cash.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65abeef6-6ce5-4071-b181-bb88ced997c6",
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "claim_text": "The differences that remain are the result of contingently issuable shares.",
+    "subject": "The differences that remain",
+    "predicate_type": "causes",
+    "object_text": "contingently issuable shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The differences that remain are the result of contingently issuable shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "84c07e64-62bb-499c-a00d-364abbd163a0",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Calculations of diluted EPS under U.S. GAAP are described under Statement No. 128 of the Financial Accounting Standards Board (FAS No. 128).",
+    "subject": "Calculations of diluted EPS under U.S. GAAP",
+    "predicate_type": "governs",
+    "object_text": "Statement No. 128 of the Financial Accounting Standards Board (FAS No. 128)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Calculations of diluted EPS under U.S. GAAP are described under Statement No. 128 of the Financial Accounting Standards Board (FAS No. 128).",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share",
+      "accounting"
+    ],
+    "entities": [
+      "Financial Accounting Standards Board",
+      "FAS No. 128",
+      "U.S. GAAP"
+    ],
+    "regulations": [
+      "FAS No. 128"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a9faa50-f0c2-4e70-bdbc-0543066e122b",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "The objective of diluted EPS is to measure the performance of a company over the reporting period taking into account the dilutive effect of potential common stock that could be issued by the company.",
+    "subject": "diluted EPS",
+    "predicate_type": "defines",
+    "object_text": "measure the performance of a company over the reporting period taking into account the dilutive effect of potential common stock that could be issued by the company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The objective of diluted EPS is to measure the performance of a company over the reporting period taking into account the dilutive effect of potential common stock that could be issued by the company.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cc2304aa-5513-4164-9b3f-a23269778767",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "To compute diluted EPS, both the denominator (outstanding shares) and the numerator (earnings) may need to be adjusted.",
+    "subject": "diluted EPS",
+    "predicate_type": "requires",
+    "object_text": "both the denominator (outstanding shares) and the numerator (earnings) may need to be adjusted",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To compute diluted EPS, both the denominator (outstanding shares) and the numerator (earnings) may need to be adjusted.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c082da50-3a11-46f8-bce8-36a42af89a80",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "FASB prescribes using the treasury method to calculate the dilutive effect of any instruments that could result in the issuance of shares.",
+    "subject": "FASB",
+    "predicate_type": "requires",
+    "object_text": "using the treasury method to calculate the dilutive effect of any instruments that could result in the issuance of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FASB prescribes using the treasury method to calculate the dilutive effect of any instruments that could result in the issuance of shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [
+      "FASB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05b0d377-db76-4013-a943-5dcfa766f334",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Stock options could result in the issuance of shares.",
+    "subject": "Stock options",
+    "predicate_type": "causes",
+    "object_text": "issuance of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Stock options could result in the issuance of shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "equity"
+    ],
+    "entities": [
+      "Stock options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7ce022a6-456b-4108-82a6-81e0bcb33398",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Stock Warrants could result in the issuance of shares.",
+    "subject": "Stock Warrants",
+    "predicate_type": "causes",
+    "object_text": "issuance of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Stock Warrants could result in the issuance of shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "equity"
+    ],
+    "entities": [
+      "Stock Warrants"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "80a6751d-dda7-44d8-adfb-dfb5d07b9963",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Convertible preferred stock could result in the issuance of shares.",
+    "subject": "Convertible preferred stock",
+    "predicate_type": "causes",
+    "object_text": "issuance of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Convertible preferred stock could result in the issuance of shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "equity"
+    ],
+    "entities": [
+      "Convertible preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3bfe0342-784b-42d5-a2eb-e661c6c1f35c",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Convertible bonds could result in the issuance of shares.",
+    "subject": "Convertible bonds",
+    "predicate_type": "causes",
+    "object_text": "issuance of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Convertible bonds could result in the issuance of shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "debt"
+    ],
+    "entities": [
+      "Convertible bonds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b06e5ff9-1137-4d2a-9070-6af1f0c65ff6",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Share-based payment arrangements could result in the issuance of shares.",
+    "subject": "Share-based payment arrangements",
+    "predicate_type": "causes",
+    "object_text": "issuance of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Share-based payment arrangements could result in the issuance of shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "compensation"
+    ],
+    "entities": [
+      "Share-based payment arrangements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3701da0d-c5f9-450c-b88c-3817482a72b8",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Written put options could result in the issuance of shares.",
+    "subject": "Written put options",
+    "predicate_type": "causes",
+    "object_text": "issuance of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Written put options could result in the issuance of shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives"
+    ],
+    "entities": [
+      "Written put options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a2269e9e-6f75-4fa3-b19e-7d16c12f6b9d",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Contingently issuable shares could result in the issuance of shares.",
+    "subject": "Contingently issuable shares",
+    "predicate_type": "causes",
+    "object_text": "issuance of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Contingently issuable shares could result in the issuance of shares.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "equity"
+    ],
+    "entities": [
+      "Contingently issuable shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "82d00514-a4c5-444c-96a2-36a566b4a473",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "The numerator used in calculating diluted EPS is adjusted to take into account the impact that the conversion of any securities would have on earnings.",
+    "subject": "numerator used in calculating diluted EPS",
+    "predicate_type": "requires",
+    "object_text": "adjusted to take into account the impact that the conversion of any securities would have on earnings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The numerator used in calculating diluted EPS is adjusted to take into account the impact that the conversion of any securities would have on earnings.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e5bd68d4-32a3-4bc9-b136-a34dec600dae",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Interest would be added back to earnings to reflect the conversion of any outstanding convertible bonds.",
+    "subject": "Interest",
+    "predicate_type": "requires",
+    "object_text": "added back to earnings to reflect the conversion of any outstanding convertible bonds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest would be added back to earnings to reflect the conversion of any outstanding convertible bonds.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings"
+    ],
+    "entities": [
+      "Convertible bonds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c60768ef-1ee3-4eeb-996e-c6e98bf44be5",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Preferred dividends would be added back to reflect the conversion of convertible preferred stock.",
+    "subject": "Preferred dividends",
+    "predicate_type": "requires",
+    "object_text": "added back to reflect the conversion of convertible preferred stock",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Preferred dividends would be added back to reflect the conversion of convertible preferred stock.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings"
+    ],
+    "entities": [
+      "Convertible preferred stock"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ec5d7aac-b3d1-463b-9b10-9a7cfa5da87b",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "The impact of changes on other financial items, such as royalties and taxes, would also be adjusted.",
+    "subject": "impact of changes on other financial items, such as royalties and taxes",
+    "predicate_type": "requires",
+    "object_text": "also be adjusted",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The impact of changes on other financial items, such as royalties and taxes, would also be adjusted.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_reporting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d6f6f76e-67a4-48fd-bc1d-5bf7564176d8",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Basic EPS = ($2,000,000 - ($1,000,000*10%))/50,000 = $38",
+    "subject": "Basic EPS",
+    "predicate_type": "defines",
+    "object_text": "($2,000,000 - ($1,000,000*10%))/50,000",
+    "object_value": 38.0,
+    "object_unit": "$",
+    "source_text": "Basic EPS = ($2,000,000 - ($1,000,000*10%))/50,000 = $38",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac5663fd-9d62-4b3f-87ec-d7d00332e942",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "Diluted EPS = ($2,000,000 + (25%*($1,000,000*10%))) / 50,000 + 50,000 = $20.25",
+    "subject": "Diluted EPS",
+    "predicate_type": "defines",
+    "object_text": "($2,000,000 + (25%*($1,000,000*10%))) / 50,000 + 50,000",
+    "object_value": 20.25,
+    "object_unit": "$",
+    "source_text": "Diluted EPS = ($2,000,000 + (25%*($1,000,000*10%))) / 50,000 + 50,000 = $20.25",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "earnings_per_share"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "799fc7fe-3f8f-4329-8374-c015667e01f8",
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "claim_text": "We also add back the taxes that would have been taken out from net income if the bonds were not converted.",
+    "subject": "taxes",
+    "predicate_type": "requires",
+    "object_text": "add back the taxes that would have been taken out from net income if the bonds were not converted",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "We also add back the taxes that would have been taken out from net income if the bonds were not converted.",
+    "source_document": "Earnings per share",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "taxation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

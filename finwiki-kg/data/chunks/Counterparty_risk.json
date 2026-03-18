@@ -1,0 +1,13 @@
+[
+  {
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "sequence": 0,
+    "section_title": "Mitigation",
+    "content": "Settlement risk may be mitigated through various techniques, including:\n\nLimits on the amount of transactions to settle with each counterparty on a given day to avoid developing a large exposure to a single counterparty;\nSettlement through a clearing house to reduce exposure and liquidity required by netting transactions (bilateral or multilateral);\nRequirement of initial margin deposits (also called \"collateral deposits\") and variation margin to provide a safety buffer;\nProvide independent valuation of trades and collateral and monitor the creditworthiness of the parties to enhance transparency and risk management;\nSet up a guarantee fund that can be used to cover losses that exceed a defaulting member's collateral on deposit;\nSettlement through a central counterparty clearing to mutualize or transfer the settlement risk (cf. novation);\nSettlement via Delivery versus payment or Payment versus payment mechanism;\nSettling foreign exchange via a special-purpose entity, such as the CLS Group;\nSettling via a cryptographic consensus system, such as a blockchain.",
+    "token_estimate": 155,
+    "title": "Settlement risk",
+    "url": "https://en.wikipedia.org/wiki/Settlement_risk",
+    "domain": "finance"
+  }
+]

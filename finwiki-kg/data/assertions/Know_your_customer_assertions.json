@@ -1,0 +1,2665 @@
+[
+  {
+    "assertion_id": "ae70bb36-422f-46e4-9b57-1f082f09e604",
+    "chunk_id": "fa40066a-1078-4702-b8e5-cb5e9ce581e0",
+    "document_id": "Know_your_customer",
+    "claim_text": "Enhanced due diligence is required when initial identity checks have been completed and high-risk factors have been identified for an individual or a business.",
+    "subject": "enhanced due diligence",
+    "predicate_type": "requires",
+    "object_text": "initial identity checks have been completed and high-risk factors have been identified for an individual or a business",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Enhanced due diligence is required when initial identity checks have been completed and high-risk factors have been identified for an individual or a business.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3bcf8375-9a5a-4524-b9ea-98567def643e",
+    "chunk_id": "fa40066a-1078-4702-b8e5-cb5e9ce581e0",
+    "document_id": "Know_your_customer",
+    "claim_text": "These measures may be needed based upon factors such as the jurisdiction the customer is based in, the products they are using, or the nature of the customer.",
+    "subject": "measures",
+    "predicate_type": "relates_to",
+    "object_text": "factors such as the jurisdiction the customer is based in, the products they are using, or the nature of the customer",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These measures may be needed based upon factors such as the jurisdiction the customer is based in, the products they are using, or the nature of the customer.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1cb2827-9493-4329-b48d-ea9c9673cddf",
+    "chunk_id": "fa40066a-1078-4702-b8e5-cb5e9ce581e0",
+    "document_id": "Know_your_customer",
+    "claim_text": "When these requirements have been met \"enhanced\" or additional due diligence above and beyond CDD is conducted which identifies the following information: Source of wealth and funds check",
+    "subject": "enhanced due diligence",
+    "predicate_type": "implements",
+    "object_text": "identifies the following information: Source of wealth and funds check",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When these requirements have been met \"enhanced\" or additional due diligence above and beyond CDD is conducted which identifies the following information: Source of wealth and funds check",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "source_of_funds"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1f021da6-1cdd-4efb-baa1-157abc86fdd7",
+    "chunk_id": "1e889925-5e40-4abd-9bd0-8fca59132ceb",
+    "document_id": "Know_your_customer",
+    "claim_text": "Reporting and Use of Certain Financial Transaction Information establishes customer due-diligence, record keeping, and reporting requirements for financial institutions as part of South Korea's anti-money laundering framework.",
+    "subject": "Reporting and Use of Certain Financial Transaction Information",
+    "predicate_type": "relates_to",
+    "object_text": "customer due-diligence, record keeping, and reporting requirements for financial institutions as part of South Korea's anti-money laundering framework",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Reporting and Use of Certain Financial Transaction Information establishes customer due-diligence, record keeping, and reporting requirements for financial institutions as part of South Korea's anti-money laundering framework.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "anti-money laundering",
+      "KYC"
+    ],
+    "entities": [
+      "Reporting and Use of Certain Financial Transaction Information"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fd9b1348-ecc2-4340-b480-2213a3572e4b",
+    "chunk_id": "1e889925-5e40-4abd-9bd0-8fca59132ceb",
+    "document_id": "Know_your_customer",
+    "claim_text": "The key guidelines overseeing KYC in the UAE are the Government Pronouncement Regulation No. (20) of 2018 On Anti Money Laundering and Battling the Supporting of Psychological warfare and Funding of Unlawful Bureau Choice No. (10) of 2019 Concerning the Carrying out Guideline of Pronouncement Regulation No.",
+    "subject": "key guidelines overseeing KYC in the UAE",
+    "predicate_type": "defines",
+    "object_text": "the Government Pronouncement Regulation No. (20) of 2018 On Anti Money Laundering and Battling the Supporting of Psychological warfare and Funding of Unlawful Bureau Choice No. (10) of 2019 Concerning the Carrying out Guideline of Pronouncement Regulation No.",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The key guidelines overseeing KYC in the UAE are the Government Pronouncement Regulation No. (20) of 2018 On Anti Money Laundering and Battling the Supporting of Psychological warfare and Funding of Unlawful Bureau Choice No. (10) of 2019 Concerning the Carrying out Guideline of Pronouncement Regulation No.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "anti-money laundering"
+    ],
+    "entities": [
+      "Government Pronouncement Regulation No. (20) of 2018",
+      "Anti Money Laundering and Battling the Supporting of Psychological warfare and Funding of Unlawful Bureau Choice No. (10) of 2019"
+    ],
+    "regulations": [
+      "Government Pronouncement Regulation No. (20) of 2018",
+      "Anti Money Laundering and Battling the Supporting of Psychological warfare and Funding of Unlawful Bureau Choice No. (10) of 2019"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dca8cab1-d69e-434d-85d7-7205dd48ca4c",
+    "chunk_id": "1e889925-5e40-4abd-9bd0-8fca59132ceb",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Money Laundering Regulations 2017 are the underlying rules that govern KYC in the UK.",
+    "subject": "The Money Laundering Regulations 2017",
+    "predicate_type": "governs",
+    "object_text": "KYC in the UK",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Money Laundering Regulations 2017 are the underlying rules that govern KYC in the UK.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "anti-money laundering"
+    ],
+    "entities": [
+      "The Money Laundering Regulations 2017"
+    ],
+    "regulations": [
+      "The Money Laundering Regulations 2017"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "49aa449a-f523-4adc-927e-8167212bfe50",
+    "chunk_id": "1e889925-5e40-4abd-9bd0-8fca59132ceb",
+    "document_id": "Know_your_customer",
+    "claim_text": "Many UK businesses use the guidance provided by the European Joint Money Laundering Steering Group along with the Financial Conduct Authority's 'Financial Crime: A guide for firms' as an aid to compliance.",
+    "subject": "Many UK businesses",
+    "predicate_type": "relates_to",
+    "object_text": "the guidance provided by the European Joint Money Laundering Steering Group along with the Financial Conduct Authority's 'Financial Crime: A guide for firms' as an aid to compliance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many UK businesses use the guidance provided by the European Joint Money Laundering Steering Group along with the Financial Conduct Authority's 'Financial Crime: A guide for firms' as an aid to compliance.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "compliance"
+    ],
+    "entities": [
+      "European Joint Money Laundering Steering Group",
+      "Financial Conduct Authority",
+      "Financial Crime: A guide for firms"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bd654b1d-3b80-4c23-a555-e7f0398fd7a2",
+    "chunk_id": "ab35fce9-e359-40ee-a1e0-047453389b61",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Bank Secrecy Act established the customer due diligence (CDD) rule as part of an effort to improve financial transparency and deter money laundering.",
+    "subject": "Bank Secrecy Act",
+    "predicate_type": "implements",
+    "object_text": "the customer due diligence (CDD) rule as part of an effort to improve financial transparency and deter money laundering",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Bank Secrecy Act established the customer due diligence (CDD) rule as part of an effort to improve financial transparency and deter money laundering.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money_laundering",
+      "regulatory_compliance"
+    ],
+    "entities": [
+      "Bank Secrecy Act"
+    ],
+    "regulations": [
+      "Bank Secrecy Act"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ab10fb47-686a-48a7-aa8b-f726da219dda",
+    "chunk_id": "ab35fce9-e359-40ee-a1e0-047453389b61",
+    "document_id": "Know_your_customer",
+    "claim_text": "The CDD rule enhances CDD requirements for \"U.S. banks, mutual funds, brokers or dealers in securities, futures commission merchants, and introducing brokers in commodities.\"",
+    "subject": "CDD rule",
+    "predicate_type": "requires",
+    "object_text": "CDD requirements for \"U.S. banks, mutual funds, brokers or dealers in securities, futures commission merchants, and introducing brokers in commodities\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The CDD rule enhances CDD requirements for \"U.S. banks, mutual funds, brokers or dealers in securities, futures commission merchants, and introducing brokers in commodities.\"",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_compliance"
+    ],
+    "entities": [
+      "CDD rule"
+    ],
+    "regulations": [
+      "CDD"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "60316e0c-9269-46fe-8b3d-97e2583dcbbc",
+    "chunk_id": "ab35fce9-e359-40ee-a1e0-047453389b61",
+    "document_id": "Know_your_customer",
+    "claim_text": "The CDD rule requires that financial institutions identify and verify the identity of customers associated with open accounts.",
+    "subject": "CDD rule",
+    "predicate_type": "requires",
+    "object_text": "that financial institutions identify and verify the identity of customers associated with open accounts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The CDD rule requires that financial institutions identify and verify the identity of customers associated with open accounts.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_identification"
+    ],
+    "entities": [
+      "CDD rule",
+      "financial institutions"
+    ],
+    "regulations": [
+      "CDD"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1311517-ae17-4aa8-a05b-26c131e0d788",
+    "chunk_id": "ab35fce9-e359-40ee-a1e0-047453389b61",
+    "document_id": "Know_your_customer",
+    "claim_text": "The CDD rule requires that financial institutions identify and verify the identity of the beneficial owners of companies opening accounts.",
+    "subject": "CDD rule",
+    "predicate_type": "requires",
+    "object_text": "that financial institutions identify and verify the identity of the beneficial owners of companies opening accounts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The CDD rule requires that financial institutions identify and verify the identity of the beneficial owners of companies opening accounts.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "beneficial_ownership"
+    ],
+    "entities": [
+      "CDD rule",
+      "financial institutions"
+    ],
+    "regulations": [
+      "CDD"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e62c0b7-3522-4c13-8aeb-f87b6a903351",
+    "chunk_id": "ab35fce9-e359-40ee-a1e0-047453389b61",
+    "document_id": "Know_your_customer",
+    "claim_text": "The CDD rule requires that financial institutions understand the nature and purpose of customer relationships to develop customer risk profiles.",
+    "subject": "CDD rule",
+    "predicate_type": "requires",
+    "object_text": "that financial institutions understand the nature and purpose of customer relationships to develop customer risk profiles",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The CDD rule requires that financial institutions understand the nature and purpose of customer relationships to develop customer risk profiles.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_risk_profile"
+    ],
+    "entities": [
+      "CDD rule",
+      "financial institutions"
+    ],
+    "regulations": [
+      "CDD"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e21549bf-6027-4f69-9174-be4c8ec263d0",
+    "chunk_id": "ab35fce9-e359-40ee-a1e0-047453389b61",
+    "document_id": "Know_your_customer",
+    "claim_text": "The CDD rule requires that financial institutions conduct ongoing monitoring to identify and report suspicious transactions, and on a risk basis, to maintain and update customer information.",
+    "subject": "CDD rule",
+    "predicate_type": "requires",
+    "object_text": "that financial institutions conduct ongoing monitoring to identify and report suspicious transactions, and on a risk basis, to maintain and update customer information",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The CDD rule requires that financial institutions conduct ongoing monitoring to identify and report suspicious transactions, and on a risk basis, to maintain and update customer information.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "suspicious_transactions",
+      "customer_information"
+    ],
+    "entities": [
+      "CDD rule",
+      "financial institutions"
+    ],
+    "regulations": [
+      "CDD"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "497c2a78-0ecc-42c2-9ef5-41b109a4a612",
+    "chunk_id": "ab35fce9-e359-40ee-a1e0-047453389b61",
+    "document_id": "Know_your_customer",
+    "claim_text": "Beneficial owner information is required for any individual who owns 25 percent or more of a legal entity.",
+    "subject": "beneficial owner information",
+    "predicate_type": "requires",
+    "object_text": "for any individual who owns 25 percent or more of a legal entity",
+    "object_value": 25.0,
+    "object_unit": "%",
+    "source_text": "Beneficial owner information is required for any individual who owns 25 percent or more of a legal entity.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "beneficial_ownership"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "998246bb-bb38-45f4-877e-c12549f36281",
+    "chunk_id": "ab35fce9-e359-40ee-a1e0-047453389b61",
+    "document_id": "Know_your_customer",
+    "claim_text": "Beneficial owner information is required for an individual who controls the legal entity.",
+    "subject": "beneficial owner information",
+    "predicate_type": "requires",
+    "object_text": "for an individual who controls the legal entity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Beneficial owner information is required for an individual who controls the legal entity.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "beneficial_ownership"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9a9506a4-e932-4dbc-8d7d-be4eacdd2640",
+    "chunk_id": "57937596-2132-45eb-81e6-8d47c1d60a39",
+    "document_id": "Know_your_customer",
+    "claim_text": "Know your customer's customer (KYCC) is a process that identifies a customer's customer activities and nature.",
+    "subject": "Know your customer's customer (KYCC)",
+    "predicate_type": "defines",
+    "object_text": "a process that identifies a customer's customer activities and nature",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Know your customer's customer (KYCC) is a process that identifies a customer's customer activities and nature.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "AML"
+    ],
+    "entities": [
+      "KYCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62139c8e-85dd-4472-8bac-657bdd65d984",
+    "chunk_id": "57937596-2132-45eb-81e6-8d47c1d60a39",
+    "document_id": "Know_your_customer",
+    "claim_text": "This includes the identification of the customer's customers and assessing the risk levels associated with their activities.",
+    "subject": "KYCC",
+    "predicate_type": "requires",
+    "object_text": "the identification of the customer's customers and assessing the risk levels associated with their activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This includes the identification of the customer's customers and assessing the risk levels associated with their activities.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "AML",
+      "risk_assessment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c2068b2d-f61d-4e2d-b4e7-640a74613a3d",
+    "chunk_id": "57937596-2132-45eb-81e6-8d47c1d60a39",
+    "document_id": "Know_your_customer",
+    "claim_text": "KYCC is a derivative of the standard KYC process that arose because of the growing risk of fraud obscured by second-tier business relationships (e.g. a customer's supplier).",
+    "subject": "KYCC",
+    "predicate_type": "relates_to",
+    "object_text": "a derivative of the standard KYC process that arose because of the growing risk of fraud obscured by second-tier business relationships (e.g. a customer's supplier)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "KYCC is a derivative of the standard KYC process that arose because of the growing risk of fraud obscured by second-tier business relationships (e.g. a customer's supplier).",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "AML",
+      "fraud"
+    ],
+    "entities": [
+      "KYCC",
+      "KYC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3dcde5e8-61ea-468f-8b12-18462bed3643",
+    "chunk_id": "57937596-2132-45eb-81e6-8d47c1d60a39",
+    "document_id": "Know_your_customer",
+    "claim_text": "KYCC is not just an issue of legal compliance, you need to know the beneficiaries of your client in order to protect your business from various risks, which can include the infiltration of illegal funds into your organization.",
+    "subject": "KYCC",
+    "predicate_type": "requires",
+    "object_text": "knowing the beneficiaries of your client in order to protect your business from various risks, which can include the infiltration of illegal funds into your organization",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "KYCC is not just an issue of legal compliance, you need to know the beneficiaries of your client in order to protect your business from various risks, which can include the infiltration of illegal funds into your organization.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "AML",
+      "legal_compliance",
+      "risk_management"
+    ],
+    "entities": [
+      "KYCC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62c16d2c-cab0-424a-bbee-145c9dd1852d",
+    "chunk_id": "57937596-2132-45eb-81e6-8d47c1d60a39",
+    "document_id": "Know_your_customer",
+    "claim_text": "By extending the steps of know your customer to all of your client's various connections, proper due diligence can be exercised.",
+    "subject": "extending the steps of know your customer to all of your client's various connections",
+    "predicate_type": "permits",
+    "object_text": "proper due diligence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By extending the steps of know your customer to all of your client's various connections, proper due diligence can be exercised.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "due_diligence"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "37b1acb0-7928-4560-a592-047f59b2afee",
+    "chunk_id": "3c441437-da01-4105-90f1-515832da75c8",
+    "document_id": "Know_your_customer",
+    "claim_text": "Electronic know your customer (eKYC) involves the use of internet or digital means of identity verification.",
+    "subject": "Electronic know your customer (eKYC)",
+    "predicate_type": "defines",
+    "object_text": "the use of internet or digital means of identity verification",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Electronic know your customer (eKYC) involves the use of internet or digital means of identity verification.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "identity_verification"
+    ],
+    "entities": [
+      "eKYC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "648aa972-bd5f-4f70-9957-8c90d2916a63",
+    "chunk_id": "3c441437-da01-4105-90f1-515832da75c8",
+    "document_id": "Know_your_customer",
+    "claim_text": "This may involve checking information provided is valid by using systems to validate ID and proof of address documents or by checking information against government databases such as the official passport database of a country.",
+    "subject": "checking information provided is valid",
+    "predicate_type": "relates_to",
+    "object_text": "using systems to validate ID and proof of address documents or by checking information against government databases such as the official passport database of a country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This may involve checking information provided is valid by using systems to validate ID and proof of address documents or by checking information against government databases such as the official passport database of a country.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "identity_verification",
+      "data_validation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e2573d7-2bdf-4c6a-ad0f-8d69a4a8067a",
+    "chunk_id": "3c441437-da01-4105-90f1-515832da75c8",
+    "document_id": "Know_your_customer",
+    "claim_text": "In response to the digitalization of financial services, especially by neobanks and fintech platforms, the adoption of eKYC procedures has accelerated globally.",
+    "subject": "adoption of eKYC procedures",
+    "predicate_type": "causes",
+    "object_text": "accelerated globally",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In response to the digitalization of financial services, especially by neobanks and fintech platforms, the adoption of eKYC procedures has accelerated globally.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "digitalization"
+    ],
+    "entities": [
+      "eKYC",
+      "neobanks",
+      "fintech platforms"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4020b6eb-fa4d-4f5d-8073-d7009cad7259",
+    "chunk_id": "3c441437-da01-4105-90f1-515832da75c8",
+    "document_id": "Know_your_customer",
+    "claim_text": "eKYC systems often combine ID document verification, biometric authentication (e.g., facial recognition and liveness checks), and real-time risk monitoring to authenticate users.",
+    "subject": "eKYC systems",
+    "predicate_type": "implements",
+    "object_text": "ID document verification, biometric authentication (e.g., facial recognition and liveness checks), and real-time risk monitoring to authenticate users",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "eKYC systems often combine ID document verification, biometric authentication (e.g., facial recognition and liveness checks), and real-time risk monitoring to authenticate users.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "identity_verification",
+      "risk_management"
+    ],
+    "entities": [
+      "eKYC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0b74e9ef-b792-44fb-9f5f-87c5b62864e8",
+    "chunk_id": "3c441437-da01-4105-90f1-515832da75c8",
+    "document_id": "Know_your_customer",
+    "claim_text": "Some countries have implemented national guidelines or regulations around eKYC.",
+    "subject": "countries",
+    "predicate_type": "governs",
+    "object_text": "national guidelines or regulations around eKYC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some countries have implemented national guidelines or regulations around eKYC.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "regulation"
+    ],
+    "entities": [
+      "eKYC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "af479b42-3890-46c6-a9ec-ea67d5a2c9d4",
+    "chunk_id": "3c441437-da01-4105-90f1-515832da75c8",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Qatar Central Bank introduced a formal eKYC framework in 2023 aligned with its national fintech strategy, allowing digital onboarding of non-resident users with regulatory approval.",
+    "subject": "Qatar Central Bank",
+    "predicate_type": "implements",
+    "object_text": "a formal eKYC framework in 2023 aligned with its national fintech strategy, allowing digital onboarding of non-resident users with regulatory approval",
+    "object_value": 2023,
+    "object_unit": null,
+    "source_text": "The Qatar Central Bank introduced a formal eKYC framework in 2023 aligned with its national fintech strategy, allowing digital onboarding of non-resident users with regulatory approval.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "fintech",
+      "digital_onboarding"
+    ],
+    "entities": [
+      "Qatar Central Bank",
+      "eKYC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": false,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Qatar"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad8f6d70-f3cf-42d3-86da-5111d8ef05ad",
+    "chunk_id": "3c441437-da01-4105-90f1-515832da75c8",
+    "document_id": "Know_your_customer",
+    "claim_text": "eKYC is also being explored in conjunction with digital identity wallets and verifiable credentials as part of broader digital identity initiatives in jurisdictions like the European Union under the eIDAS framework.",
+    "subject": "eKYC",
+    "predicate_type": "relates_to",
+    "object_text": "digital identity wallets and verifiable credentials as part of broader digital identity initiatives in jurisdictions like the European Union under the eIDAS framework",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "eKYC is also being explored in conjunction with digital identity wallets and verifiable credentials as part of broader digital identity initiatives in jurisdictions like the European Union under the eIDAS framework.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customer_due_diligence",
+      "digital_identity"
+    ],
+    "entities": [
+      "eKYC",
+      "eIDAS"
+    ],
+    "regulations": [
+      "eIDAS"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "European Union"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b427f9e4-c1d4-48e9-843f-da842d63c3fa",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "Different countries implement Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations through their respective financial intelligence units or regulatory authorities.",
+    "subject": "Different countries",
+    "predicate_type": "implements",
+    "object_text": "Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations through their respective financial intelligence units or regulatory authorities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Different countries implement Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations through their respective financial intelligence units or regulatory authorities.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "KYC",
+      "AML"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1850ec47-6495-45d1-99e3-fead95f749d4",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "Different countries implement Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations aligning with international standards set by the Financial Action Task Force (FATF).",
+    "subject": "Different countries",
+    "predicate_type": "implements",
+    "object_text": "Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations aligning with international standards set by the Financial Action Task Force (FATF)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Different countries implement Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations aligning with international standards set by the Financial Action Task Force (FATF).",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "AML"
+    ],
+    "entities": [
+      "Financial Action Task Force"
+    ],
+    "regulations": [
+      "KYC",
+      "AML"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e6ef6b06-03ab-48d3-945d-73d600a57f20",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Australian Transaction Reports and Analysis Centre (AUSTRAC) monitors financial transactions in Australia.",
+    "subject": "The Australian Transaction Reports and Analysis Centre (AUSTRAC)",
+    "predicate_type": "governs",
+    "object_text": "financial transactions in Australia",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Australian Transaction Reports and Analysis Centre (AUSTRAC) monitors financial transactions in Australia.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [
+      "The Australian Transaction Reports and Analysis Centre"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b7b73609-c133-413b-a963-87e8adfbeb02",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Australian Transaction Reports and Analysis Centre (AUSTRAC) sets client identification requirements under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.",
+    "subject": "The Australian Transaction Reports and Analysis Centre (AUSTRAC)",
+    "predicate_type": "requires",
+    "object_text": "client identification requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Australian Transaction Reports and Analysis Centre (AUSTRAC) sets client identification requirements under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML",
+      "CTF"
+    ],
+    "entities": [
+      "The Australian Transaction Reports and Analysis Centre"
+    ],
+    "regulations": [
+      "Anti-Money Laundering and Counter-Terrorism Financing Act 2006"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "83d0ef55-9211-4bd8-b9e1-fb68eba95fd3",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Australian Transaction Reports and Analysis Centre (AUSTRAC) was established in 1989.",
+    "subject": "The Australian Transaction Reports and Analysis Centre (AUSTRAC)",
+    "predicate_type": "defines",
+    "object_text": "established in 1989",
+    "object_value": 1989,
+    "object_unit": null,
+    "source_text": "The Australian Transaction Reports and Analysis Centre (AUSTRAC) was established in 1989.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [
+      "The Australian Transaction Reports and Analysis Centre"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6c7e4a72-b328-4cb8-ae42-b9a42ca12d32",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) is Canada's financial intelligence unit.",
+    "subject": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)",
+    "predicate_type": "defines",
+    "object_text": "Canada's financial intelligence unit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) is Canada's financial intelligence unit.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [
+      "The Financial Transactions and Reports Analysis Centre of Canada"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "97da0a93-1cfa-4c69-831e-bdcb76af285f",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) was established in 2000.",
+    "subject": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)",
+    "predicate_type": "defines",
+    "object_text": "established in 2000",
+    "object_value": 2000,
+    "object_unit": null,
+    "source_text": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) was established in 2000.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [
+      "The Financial Transactions and Reports Analysis Centre of Canada"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "12284e0f-7e62-426b-894b-ee40f825a5f8",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updated its regulations in June 2016 regarding acceptable methods to determine the identity of individual clients to ensure compliance with AML and KYC regulations.",
+    "subject": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)",
+    "predicate_type": "requires",
+    "object_text": "acceptable methods to determine the identity of individual clients to ensure compliance with AML and KYC regulations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) updated its regulations in June 2016 regarding acceptable methods to determine the identity of individual clients to ensure compliance with AML and KYC regulations.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML",
+      "KYC"
+    ],
+    "entities": [
+      "The Financial Transactions and Reports Analysis Centre of Canada"
+    ],
+    "regulations": [
+      "AML",
+      "KYC"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d4f8feec-668a-4bd2-b307-52c3521260e4",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The EU 4th AML directive came into effect in June 2016.",
+    "subject": "The EU 4th AML directive",
+    "predicate_type": "defines",
+    "object_text": "came into effect in June 2016",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The EU 4th AML directive came into effect in June 2016.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "EU 4th AML directive"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5767529a-d313-40b8-8734-b65202de326c",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The EU 4th AML directive requires the beneficial owner of companies be held in a central register.",
+    "subject": "The EU 4th AML directive",
+    "predicate_type": "requires",
+    "object_text": "the beneficial owner of companies be held in a central register",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The EU 4th AML directive requires the beneficial owner of companies be held in a central register.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "EU 4th AML directive"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "46ad7244-5a46-42ee-9327-4d643a598c0f",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The EU 4th AML directive strengthens due-diligence.",
+    "subject": "The EU 4th AML directive",
+    "predicate_type": "requires",
+    "object_text": "strengthens due-diligence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The EU 4th AML directive strengthens due-diligence.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "EU 4th AML directive"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2edcefa2-2636-4915-a21e-d1775bfe2b71",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Reserve Bank of India (RBI) first issued Know Your Customer (KYC) guidelines for banks in 2002.",
+    "subject": "The Reserve Bank of India (RBI)",
+    "predicate_type": "governs",
+    "object_text": "Know Your Customer (KYC) guidelines for banks in 2002",
+    "object_value": 2002,
+    "object_unit": null,
+    "source_text": "The Reserve Bank of India (RBI) first issued Know Your Customer (KYC) guidelines for banks in 2002.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC"
+    ],
+    "entities": [
+      "Reserve Bank of India"
+    ],
+    "regulations": [
+      "KYC"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0690192e-25ad-4741-931e-e5b8d80c2b65",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Reserve Bank of India (RBI) established standardized procedures for customer identification and verification.",
+    "subject": "The Reserve Bank of India (RBI)",
+    "predicate_type": "requires",
+    "object_text": "standardized procedures for customer identification and verification",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Reserve Bank of India (RBI) established standardized procedures for customer identification and verification.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC"
+    ],
+    "entities": [
+      "Reserve Bank of India"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "431d75ef-2283-4074-9df3-e7fa4077a491",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Banca d'Italia exercises regulation power for the financial industry.",
+    "subject": "The Banca d'Italia",
+    "predicate_type": "governs",
+    "object_text": "regulation power for the financial industry",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Banca d'Italia exercises regulation power for the financial industry.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory"
+    ],
+    "entities": [
+      "Banca d'Italia"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "468c822d-eb75-4e56-94ec-88817a41e3a3",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Banca d'Italia set KYC requirements for financial institutions that operate on Italian territory in 2007.",
+    "subject": "The Banca d'Italia",
+    "predicate_type": "requires",
+    "object_text": "KYC requirements for financial institutions that operate on Italian territory",
+    "object_value": 2007,
+    "object_unit": null,
+    "source_text": "The Banca d'Italia set KYC requirements for financial institutions that operate on Italian territory in 2007.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC"
+    ],
+    "entities": [
+      "Banca d'Italia"
+    ],
+    "regulations": [
+      "KYC"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c32cc090-137d-49e4-aea3-2515091a8f96",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "Japan enacted the Act on Identification of Customers by Financial Institutions 2003.",
+    "subject": "Japan",
+    "predicate_type": "implements",
+    "object_text": "the Act on Identification of Customers by Financial Institutions 2003",
+    "object_value": 2003,
+    "object_unit": null,
+    "source_text": "Japan enacted the Act on Identification of Customers by Financial Institutions 2003.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC"
+    ],
+    "entities": [],
+    "regulations": [
+      "Act on Identification of Customers by Financial Institutions"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d20128fe-2cc1-47f4-b0bb-4d5cbf0d677d",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Act on Identification of Customers by Financial Institutions requires financial institutions to verify customer identity and maintain transaction records as part of the countries anti-money laundering framework.",
+    "subject": "The Act on Identification of Customers by Financial Institutions",
+    "predicate_type": "requires",
+    "object_text": "financial institutions to verify customer identity and maintain transaction records as part of the countries anti-money laundering framework",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Act on Identification of Customers by Financial Institutions requires financial institutions to verify customer identity and maintain transaction records as part of the countries anti-money laundering framework.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "Act on Identification of Customers by Financial Institutions"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "93ff77c9-4127-432b-9e38-5d95e1318dcd",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "Mexico promulgated the \"Federal Law for Prevention and Identification of Operations with Resources from Illicit Origin\" in 2012 with president Felipe Calderon's administration.",
+    "subject": "Mexico",
+    "predicate_type": "implements",
+    "object_text": "the \"Federal Law for Prevention and Identification of Operations with Resources from Illicit Origin\" in 2012 with president Felipe Calderon's administration",
+    "object_value": 2012,
+    "object_unit": null,
+    "source_text": "Mexico promulgated the \"Federal Law for Prevention and Identification of Operations with Resources from Illicit Origin\" in 2012 with president Felipe Calderon's administration.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "Federal Law for Prevention and Identification of Operations with Resources from Illicit Origin"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a463e79e-066a-4161-8fd4-13de1037bd06",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The \"Federal Law for Prevention and Identification of Operations with Resources from Illicit Origin\" came into force in 2013 with the president Enrique Pe\u00f1a Nieto administration.",
+    "subject": "The \"Federal Law for Prevention and Identification of Operations with Resources from Illicit Origin\"",
+    "predicate_type": "defines",
+    "object_text": "came into force in 2013 with the president Enrique Pe\u00f1a Nieto administration",
+    "object_value": 2013,
+    "object_unit": null,
+    "source_text": "The \"Federal Law for Prevention and Identification of Operations with Resources from Illicit Origin\" came into force in 2013 with the president Enrique Pe\u00f1a Nieto administration.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "Federal Law for Prevention and Identification of Operations with Resources from Illicit Origin"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e2530cb6-f741-4cf0-b502-204d6c89fdb4",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "Namibia published Financial Intelligence Act, 2012 (Act No. 13 of 2012) as Government Notice 299 in Gazette 5096 of 14 December 2012.",
+    "subject": "Namibia",
+    "predicate_type": "implements",
+    "object_text": "Financial Intelligence Act, 2012 (Act No. 13 of 2012) as Government Notice 299 in Gazette 5096 of 14 December 2012",
+    "object_value": 2012,
+    "object_unit": null,
+    "source_text": "Namibia published Financial Intelligence Act, 2012 (Act No. 13 of 2012) as Government Notice 299 in Gazette 5096 of 14 December 2012.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "Financial Intelligence Act, 2012"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1fa91a7-8ac9-4358-8c60-cb383ea6309e",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "Financial Intelligence Act, 2012 establishes customer identification, record keeping, and reporting obligations for financial institutions as part of the country's anti-money laundering and counter-terrorism financing regime.",
+    "subject": "Financial Intelligence Act, 2012",
+    "predicate_type": "requires",
+    "object_text": "customer identification, record keeping, and reporting obligations for financial institutions as part of the country's anti-money laundering and counter-terrorism financing regime",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial Intelligence Act, 2012 establishes customer identification, record keeping, and reporting obligations for financial institutions as part of the country's anti-money laundering and counter-terrorism financing regime.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML",
+      "CTF"
+    ],
+    "entities": [],
+    "regulations": [
+      "Financial Intelligence Act, 2012"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f30d73b6-ccac-46b3-bf40-46f7d41a4b35",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "New Zealand updated KYC laws were enacted in late 2009 and entered into force in 2010.",
+    "subject": "New Zealand",
+    "predicate_type": "implements",
+    "object_text": "updated KYC laws were enacted in late 2009 and entered into force in 2010",
+    "object_value": 2009,
+    "object_unit": null,
+    "source_text": "New Zealand updated KYC laws were enacted in late 2009 and entered into force in 2010.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC"
+    ],
+    "entities": [],
+    "regulations": [
+      "KYC"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6119934d-ec0e-4c42-8e81-77a7ab7c1d35",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "KYC is mandatory for all registered banks and financial institutions in New Zealand.",
+    "subject": "KYC",
+    "predicate_type": "requires",
+    "object_text": "mandatory for all registered banks and financial institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "KYC is mandatory for all registered banks and financial institutions in New Zealand.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC"
+    ],
+    "entities": [],
+    "regulations": [
+      "KYC"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "89b8481f-a69d-400b-9187-0f8dc304be7a",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The Act on Reporting and Use of Certain Financial Transaction Information establishes customer due-diligence, record keeping, and reporting requirements for financial institutions as part of South Korea's anti-money laundering framework.",
+    "subject": "The Act on Reporting and Use of Certain Financial Transaction Information",
+    "predicate_type": "requires",
+    "object_text": "customer due-diligence, record keeping, and reporting requirements for financial institutions as part of South Korea's anti-money laundering framework",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Act on Reporting and Use of Certain Financial Transaction Information establishes customer due-diligence, record keeping, and reporting requirements for financial institutions as part of South Korea's anti-money laundering framework.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "51996ff9-22b9-41b6-be30-94b740d8a1fd",
+    "chunk_id": "2b1e07af-a429-4908-842c-290e05f52469",
+    "document_id": "Know_your_customer",
+    "claim_text": "The key guidelines overseeing KYC in the UAE are the Government Pronouncement Regulation No. (20) of 2018 On Anti Money Laundering.",
+    "subject": "The key guidelines overseeing KYC in the UAE",
+    "predicate_type": "defines",
+    "object_text": "the Government Pronouncement Regulation No. (20) of 2018 On Anti Money Laundering",
+    "object_value": 20,
+    "object_unit": null,
+    "source_text": "The key guidelines overseeing KYC in the UAE are the Government Pronouncement Regulation No. (20) of 2018 On Anti Money Laundering.",
+    "source_document": "Know your customer",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "KYC",
+      "AML"
+    ],
+    "entities": [],
+    "regulations": [
+      "Government Pronouncement Regulation No. (20) of 2018 On Anti Money Laundering"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

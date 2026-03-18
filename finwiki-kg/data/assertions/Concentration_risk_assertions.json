@@ -1,0 +1,394 @@
+[
+  {
+    "assertion_id": "d97466e5-0589-4019-9f71-4b83fadbe96c",
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "claim_text": "Concentration risk can be calculated for a single bank loan or whole portfolio using a \"concentration ratio\".",
+    "subject": "Concentration risk",
+    "predicate_type": "relates_to",
+    "object_text": "a \"concentration ratio\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Concentration risk can be calculated for a single bank loan or whole portfolio using a \"concentration ratio\".",
+    "source_document": "Concentration risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "concentration risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cf503c6d-042a-418f-ac56-75036e9718b3",
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "claim_text": "For a single loan, the concentration ratio is simply the proportion of the portfolio the loan represents",
+    "subject": "concentration ratio",
+    "predicate_type": "defines",
+    "object_text": "the proportion of the portfolio the loan represents",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For a single loan, the concentration ratio is simply the proportion of the portfolio the loan represents",
+    "source_document": "Concentration risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "concentration risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f943811d-daa1-4a44-8ae3-56af62d21c2f",
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "claim_text": "a $100 loan in a $1000 portfolio would have a ratio of 0.1 or 10%",
+    "subject": "a $100 loan in a $1000 portfolio",
+    "predicate_type": "relates_to",
+    "object_text": "a ratio of 0.1 or 10%",
+    "object_value": 0.1,
+    "object_unit": null,
+    "source_text": "a $100 loan in a $1000 portfolio would have a ratio of 0.1 or 10%",
+    "source_document": "Concentration risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "concentration risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ef7b0764-6f18-4354-adf7-09bcb4878faa",
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "claim_text": "For a whole portfolio, a herfindahl index is used to calculate the degree of concentration to a single name, sector of the economy or country.",
+    "subject": "herfindahl index",
+    "predicate_type": "implements",
+    "object_text": "calculate the degree of concentration to a single name, sector of the economy or country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For a whole portfolio, a herfindahl index is used to calculate the degree of concentration to a single name, sector of the economy or country.",
+    "source_document": "Concentration risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "concentration risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f2ab230f-6afd-4c9f-abe0-7b501fa5f057",
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "claim_text": "Separate concentration ratios must be calculated for each type of concentration.",
+    "subject": "concentration ratios",
+    "predicate_type": "requires",
+    "object_text": "Separate calculation for each type of concentration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Separate concentration ratios must be calculated for each type of concentration.",
+    "source_document": "Concentration risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "concentration risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2249cff-2e10-431e-8c9f-1ae6ebbfcb3f",
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "claim_text": "a portfolio with 10 equally sized loans would have a concentration ratio of 0.1 or 10%",
+    "subject": "a portfolio with 10 equally sized loans",
+    "predicate_type": "relates_to",
+    "object_text": "a concentration ratio of 0.1 or 10%",
+    "object_value": 0.1,
+    "object_unit": null,
+    "source_text": "a portfolio with 10 equally sized loans would have a concentration ratio of 0.1 or 10%",
+    "source_document": "Concentration risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "concentration risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "165c8645-7996-4af2-bc8b-71dede90f061",
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "claim_text": "a portfolio of 10 loans - 9 equally sized and 1 equal to half the value of the portfolio would have a concentration ratio of 0.27 or 27%",
+    "subject": "a portfolio of 10 loans - 9 equally sized and 1 equal to half the value of the portfolio",
+    "predicate_type": "relates_to",
+    "object_text": "a concentration ratio of 0.27 or 27%",
+    "object_value": 0.27,
+    "object_unit": null,
+    "source_text": "a portfolio of 10 loans - 9 equally sized and 1 equal to half the value of the portfolio would have a concentration ratio of 0.27 or 27%",
+    "source_document": "Concentration risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "concentration risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b60f3bd-54a5-4251-ae4a-f5ff14c81697",
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "claim_text": "The ratio is useful for bankers or investors at large to identify when a portfolio may be excessively exposed to the risk that a recession or downturn in one sector of the economy or another country may cause a high proportion of the bank's outstanding loans to default.",
+    "subject": "The ratio",
+    "predicate_type": "relates_to",
+    "object_text": "useful for bankers or investors at large to identify when a portfolio may be excessively exposed to the risk that a recession or downturn in one sector of the economy or another country may cause a high proportion of the bank's outstanding loans to default",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The ratio is useful for bankers or investors at large to identify when a portfolio may be excessively exposed to the risk that a recession or downturn in one sector of the economy or another country may cause a high proportion of the bank's outstanding loans to default.",
+    "source_document": "Concentration risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "concentration risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

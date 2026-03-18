@@ -1,0 +1,59 @@
+FINWIKI EVALUATION HARNESS v3 — RESULTS SUMMARY
+=================================================
+Run timestamp: 2026-03-14T19:04:37.596398
+Harness version: v3 (two-pass compliance retrieval — Condition E)
+Queries completed: 120 / 120
+Queries failed: 0
+
+AC ELIGIBILITY:
+  Queries with non-zero Toulmin neighborhood: 34 / 120 (28.3%)
+  Queries excluded from AC analysis (neighborhood_size=0): 86 (71.7%)
+
+─────────────────────────────────────────────────
+v2 PROPOSITIONS REPRODUCED (Conditions A–D)
+─────────────────────────────────────────────────
+
+PROPOSITION 1 (Epistemic type mismatch → compliance risk): [SUPPORTED]
+  VTP Condition A vs Condition D: 0.457 vs 0.873 | p=1.9833885054262123e-10 | d=0.776 [medium]
+
+PROPOSITION 2 (Argumentative truncation → compliance risk): [SUPPORTED]
+  AC Condition A vs Condition D: 0.882 vs 0.478 | p=0.00020858763308495394 | d=-0.797 [medium]
+  CWE: A=k=50.0 D=k=50.0
+
+PROPOSITION 3 (Validity-gated filtering → compliance risk reduction): [NOT SUPPORTED]
+  VTP Condition C vs Condition D: 0.858 vs 0.873 | p=0.7870914136949348 | d=0.092 [negligible]
+
+PROPOSITION 4 (Regulation-anchored assembly → compliance risk reduction): [SUPPORTED]
+  AC Condition B vs Condition D: 0.912 vs 0.478 | p=0.00012168146217711345 | d=-0.847 [large]
+
+─────────────────────────────────────────────────
+CONDITION E: TWO-PASS COMPLIANCE RETRIEVAL
+─────────────────────────────────────────────────
+
+PROPOSITION 5 (Two-pass VTP precision ≥ validity-gated C): [NOT SUPPORTED]
+  VTP Condition C vs Condition E: 0.858 vs 0.858 | p=nan | d=0.000 [negligible]
+  Interpretation: Pass 1 obligation identification achieves validity-type precision exceeding validity-gated baseline.
+
+PROPOSITION 6 (Two-pass AC completeness > discourse-typed D): [NOT SUPPORTED]
+  AC Condition D vs Condition E: 0.478 vs 0.537 | p=0.10247043485974937 | d=0.287 [small]
+  CWE: D=k=50.0 E=k=50.0
+  Effect size by epistemic type (D→E AC) — normative: 0.4021998331405101 constative: 0.0 mixed: 0.3015113443777636
+  Interpretation: Two-pass Toulmin expansion recovers AC completeness that Condition D sacrifices for VTP precision.
+
+PROPOSITION 7 (Two-pass dominates standard RAG on both VTP and AC): [SUPPORTED / SUPPORTED]
+  VTP Condition A vs Condition E: 0.457 vs 0.858 | p=6.584712095949703e-10 | d=0.749 [medium]
+  AC  Condition A vs Condition E: 0.882 vs 0.537 | p=0.0006152927968952894 | d=-0.725 [medium]
+
+PROPOSITION 8 (Two-pass AC > regulation-anchored GraphRAG B): [SUPPORTED]
+  AC Condition B vs Condition E: 0.912 vs 0.537 | p=0.00036593209595083936 | d=-0.772 [medium]
+
+CONFLICT DETECTION:
+  Condition D CSR rate (structural): 0.167
+  Condition E CSR rate (two-pass subgraph): 0.167
+
+CONDITION MEANS SUMMARY:
+  [A] VTP=0.457 AC=0.882 CWE=50.0 CSR=0.000
+  [B] VTP=0.468 AC=0.912 CWE=50.0 CSR=0.000
+  [C] VTP=0.858 AC=0.478 CWE=50.0 CSR=0.000
+  [D] VTP=0.873 AC=0.478 CWE=50.0 CSR=0.167
+  [E] VTP=0.858 AC=0.537 CWE=50.0 CSR=0.167

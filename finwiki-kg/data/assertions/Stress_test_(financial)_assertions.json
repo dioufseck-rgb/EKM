@@ -1,0 +1,2464 @@
+[
+  {
+    "assertion_id": "33555c02-e02d-4225-9b8f-0398076cc44d",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The PRA in the UK has taken up stress testing as a regulatory requirement on certain financial institutions.",
+    "subject": "PRA",
+    "predicate_type": "requires",
+    "object_text": "stress testing as a regulatory requirement on certain financial institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The PRA in the UK has taken up stress testing as a regulatory requirement on certain financial institutions.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "regulation"
+    ],
+    "entities": [
+      "PRA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e9f2b810-309c-4b4c-9c39-34d846f0667e",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Inter-governmental bodies such as the European Banking Authority (EBA) and the International Monetary Fund have taken up stress testing as a regulatory requirement on certain financial institutions.",
+    "subject": "European Banking Authority (EBA) and the International Monetary Fund",
+    "predicate_type": "requires",
+    "object_text": "stress testing as a regulatory requirement on certain financial institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Inter-governmental bodies such as the European Banking Authority (EBA) and the International Monetary Fund have taken up stress testing as a regulatory requirement on certain financial institutions.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "regulation"
+    ],
+    "entities": [
+      "European Banking Authority",
+      "EBA",
+      "International Monetary Fund"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "81035e19-a529-4375-a4a2-6f27fcd84ceb",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Stress testing is a regulatory requirement on certain financial institutions to ensure adequate capital allocation levels to cover potential losses incurred during extreme, but plausible, events.",
+    "subject": "stress testing",
+    "predicate_type": "requires",
+    "object_text": "adequate capital allocation levels to cover potential losses incurred during extreme, but plausible, events",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Stress testing is a regulatory requirement on certain financial institutions to ensure adequate capital allocation levels to cover potential losses incurred during extreme, but plausible, events.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "22963d00-e507-415c-890d-889a9d12547c",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The EBA's regulatory stress tests have been referred to as \"a walk in the park\" by Saxo Bank's Chief Economist.",
+    "subject": "EBA's regulatory stress tests",
+    "predicate_type": "relates_to",
+    "object_text": "\"a walk in the park\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The EBA's regulatory stress tests have been referred to as \"a walk in the park\" by Saxo Bank's Chief Economist.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [
+      "EBA",
+      "Saxo Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7bd37638-9aa5-4700-931f-2119699cebba",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Modifications to banking regulations such as Basel II have further enhanced the emphasis on adequate, risk adjusted determination of capital.",
+    "subject": "Modifications to banking regulations such as Basel II",
+    "predicate_type": "causes",
+    "object_text": "further enhanced the emphasis on adequate, risk adjusted determination of capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Modifications to banking regulations such as Basel II have further enhanced the emphasis on adequate, risk adjusted determination of capital.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "daa15882-caaf-45b0-bba6-427754f550ef",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Stress testing models typically allow the testing of individual stressors.",
+    "subject": "Stress testing models",
+    "predicate_type": "permits",
+    "object_text": "the testing of individual stressors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Stress testing models typically allow the testing of individual stressors.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "c1c2694c-e262-4e32-8f64-639a665b4e6f",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Stress testing models typically allow combinations of different events.",
+    "subject": "Stress testing models",
+    "predicate_type": "permits",
+    "object_text": "combinations of different events",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Stress testing models typically allow combinations of different events.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "9ec0f255-feb3-4c66-af1d-f722bd5e906d",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "There is usually the ability to test the current exposure to a known historical scenario.",
+    "subject": "Stress testing models",
+    "predicate_type": "permits",
+    "object_text": "the ability to test the current exposure to a known historical scenario",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There is usually the ability to test the current exposure to a known historical scenario.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "46846c41-7447-4267-a3a2-6da5157b2f88",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The Russian debt default in 1998 is a known historical scenario.",
+    "subject": "Russian debt default",
+    "predicate_type": "classifies",
+    "object_text": "known historical scenario",
+    "object_value": 1998,
+    "object_unit": null,
+    "source_text": "The Russian debt default in 1998 is a known historical scenario.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "921e4927-50ad-4f36-8340-a0002dc6b6d8",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The 9/11 attacks are a known historical scenario.",
+    "subject": "9/11 attacks",
+    "predicate_type": "classifies",
+    "object_text": "known historical scenario",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 9/11 attacks are a known historical scenario.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9fdba19-2771-455e-8dd7-0c4eab38b800",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Stress testing models ensure the liquidity of the institution.",
+    "subject": "Stress testing models",
+    "predicate_type": "relates_to",
+    "object_text": "the liquidity of the institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Stress testing models ensure the liquidity of the institution.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "liquidity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "83cf838a-a8e5-4535-8d65-220c470b071b",
+    "chunk_id": "d97f44f3-91c2-46d9-b87b-ddec15232a1f",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "25 banks failed in a stress test conducted by EBA in 2014.",
+    "subject": "25 banks",
+    "predicate_type": "relates_to",
+    "object_text": "failed in a stress test conducted by EBA",
+    "object_value": 25.0,
+    "object_unit": null,
+    "source_text": "25 banks failed in a stress test conducted by EBA in 2014.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [
+      "EBA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9c18737d-7a54-4c29-8a17-178fa75e3a00",
+    "chunk_id": "9f5334a6-b2b6-474c-8899-c52945220ba9",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The stress test is limited by the imaginative capacities of those designing the stress test scenarios.",
+    "subject": "stress test",
+    "predicate_type": "constrains",
+    "object_text": "imaginative capacities of those designing the stress test scenarios",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The stress test is limited by the imaginative capacities of those designing the stress test scenarios.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1871afac-f49d-4183-a9e6-773be0edb9f1",
+    "chunk_id": "9f5334a6-b2b6-474c-8899-c52945220ba9",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The stress test's designers fail to imagine plausible future scenarios.",
+    "subject": "stress test's designers",
+    "predicate_type": "causes",
+    "object_text": "failure to imagine plausible future scenarios",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The stress test's designers fail to imagine plausible future scenarios.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f2087345-385c-41e0-9e25-6b7dba176da9",
+    "chunk_id": "9f5334a6-b2b6-474c-8899-c52945220ba9",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "There was a failure by the great majority of financial experts to predict the 2008 financial crisis.",
+    "subject": "great majority of financial experts",
+    "predicate_type": "causes",
+    "object_text": "failure to predict the 2008 financial crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There was a failure by the great majority of financial experts to predict the 2008 financial crisis.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_crisis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4b98b050-0a66-48d9-8c18-f2d8bde96d54",
+    "chunk_id": "9f5334a6-b2b6-474c-8899-c52945220ba9",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The 2009 and 2010 stress tests assumed even in their adverse scenarios a relatively benign macro-economic environment of -0.6% economic growth in the Euro area.",
+    "subject": "2009 and 2010 stress tests",
+    "predicate_type": "relates_to",
+    "object_text": "relatively benign macro-economic environment of -0.6% economic growth in the Euro area",
+    "object_value": -0.6,
+    "object_unit": "%",
+    "source_text": "The 2009 and 2010 stress tests assumed even in their adverse scenarios a relatively benign macro-economic environment of -0.6% economic growth in the Euro area.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "macroeconomics"
+    ],
+    "entities": [
+      "European Banking Authority",
+      "Committee of European Banking Supervisors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "af558afb-bb47-48d8-8b70-92818648037d",
+    "chunk_id": "9f5334a6-b2b6-474c-8899-c52945220ba9",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The adverse scenario had to be adjusted to a -4.0% growth scenario.",
+    "subject": "adverse scenario",
+    "predicate_type": "requires",
+    "object_text": "adjustment to a -4.0% growth scenario",
+    "object_value": -4.0,
+    "object_unit": "%",
+    "source_text": "The adverse scenario had to be adjusted to a -4.0% growth scenario.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4edeeaf2-d62e-4578-9e75-4ff4056b46b6",
+    "chunk_id": "9f5334a6-b2b6-474c-8899-c52945220ba9",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Those reviewing and using the results of stress tests must cast a critical eye on the scenarios used in the stress test.",
+    "subject": "Those reviewing and using the results of stress tests",
+    "predicate_type": "requires",
+    "object_text": "cast a critical eye on the scenarios used in the stress test",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Those reviewing and using the results of stress tests must cast a critical eye on the scenarios used in the stress test.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "60df3b7f-c1ec-417b-ba5c-dc64c7d7732f",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "A bank stress test is a type of simulation that evaluates a financial institution\u2019s ability to withstand adverse economic or market conditions by examining its balance sheet.",
+    "subject": "bank stress test",
+    "predicate_type": "defines",
+    "object_text": "a type of simulation that evaluates a financial institution\u2019s ability to withstand adverse economic or market conditions by examining its balance sheet",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A bank stress test is a type of simulation that evaluates a financial institution\u2019s ability to withstand adverse economic or market conditions by examining its balance sheet.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "82e7ea81-21a9-4167-96e3-23f1fd2709c0",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Large international banks began conducting internal stress tests in the early 1990s.",
+    "subject": "Large international banks",
+    "predicate_type": "implements",
+    "object_text": "conducting internal stress tests",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Large international banks began conducting internal stress tests in the early 1990s.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d94d4fe3-0815-4604-b518-56a8774e9963",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "In 1996, the Basel Capital Accord was amended to require banks and investment firms to carry out stress tests to assess their ability to respond to significant market events.",
+    "subject": "Basel Capital Accord",
+    "predicate_type": "requires",
+    "object_text": "banks and investment firms to carry out stress tests to assess their ability to respond to significant market events",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1996, the Basel Capital Accord was amended to require banks and investment firms to carry out stress tests to assess their ability to respond to significant market events.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "capital_adequacy",
+      "market_risk"
+    ],
+    "entities": [
+      "Basel Capital Accord"
+    ],
+    "regulations": [
+      "Basel Capital Accord"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "19aef65c-0d85-446d-9c16-f3babdaafe09",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Prior to the 2007\u20132008 financial crisis, stress testing was generally used only for internal risk management and self-assessment rather than for external regulatory oversight.",
+    "subject": "stress testing",
+    "predicate_type": "relates_to",
+    "object_text": "generally used only for internal risk management and self-assessment rather than for external regulatory oversight",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Prior to the 2007\u20132008 financial crisis, stress testing was generally used only for internal risk management and self-assessment rather than for external regulatory oversight.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "risk_management",
+      "regulatory_oversight"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "69317019-0e83-47b5-af54-b94a7fb59854",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Beginning in 2007, governmental regulatory bodies became interested in conducting their own stress tests to insure the effective operation of financial institutions.",
+    "subject": "governmental regulatory bodies",
+    "predicate_type": "relates_to",
+    "object_text": "became interested in conducting their own stress tests to insure the effective operation of financial institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Beginning in 2007, governmental regulatory bodies became interested in conducting their own stress tests to insure the effective operation of financial institutions.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "financial_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2230bddb-0984-43f8-9aca-e2a4e205d5fb",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Since then, stress tests have been routinely performed by financial regulators in different countries or regions, to ensure that the banks under their authority are engaging in practices likely to avoid negative outcomes.",
+    "subject": "stress tests",
+    "predicate_type": "implements",
+    "object_text": "routinely performed by financial regulators in different countries or regions, to ensure that the banks under their authority are engaging in practices likely to avoid negative outcomes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Since then, stress tests have been routinely performed by financial regulators in different countries or regions, to ensure that the banks under their authority are engaging in practices likely to avoid negative outcomes.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "financial_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7219b57-bc78-4638-9294-3e22254b8337",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "In India, legislation was enacted in 2007 requiring banks to undergo regular stress tests.",
+    "subject": "legislation",
+    "predicate_type": "requires",
+    "object_text": "banks to undergo regular stress tests",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In India, legislation was enacted in 2007 requiring banks to undergo regular stress tests.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "financial_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aa2e4133-6faa-4caa-aaea-db521114836e",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "In October 2012, U.S. regulators unveiled new rules expanding this practice by requiring the largest American banks to undergo stress tests twice per year, once internally and once conducted by the regulators.",
+    "subject": "U.S. regulators",
+    "predicate_type": "requires",
+    "object_text": "the largest American banks to undergo stress tests twice per year, once internally and once conducted by the regulators",
+    "object_value": 2.0,
+    "object_unit": "per year",
+    "source_text": "In October 2012, U.S. regulators unveiled new rules expanding this practice by requiring the largest American banks to undergo stress tests twice per year, once internally and once conducted by the regulators.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "financial_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f8e77924-aa38-4348-93d9-6875fabe3d0c",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Starting in 2014 midsized firms (i.e., those with $10\u201350 billion in assets) are also being required to conduct Dodd-Frank Act Stress Testing.",
+    "subject": "midsized firms",
+    "predicate_type": "requires",
+    "object_text": "to conduct Dodd-Frank Act Stress Testing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Starting in 2014 midsized firms (i.e., those with $10\u201350 billion in assets) are also being required to conduct Dodd-Frank Act Stress Testing.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "financial_regulation"
+    ],
+    "entities": [
+      "Dodd-Frank Act"
+    ],
+    "regulations": [
+      "Dodd-Frank Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b40a4af0-6a89-4e8d-a007-2b937779a10e",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "In 2012, federal regulators also began recommending portfolio stress testing as a sound risk management practice for community banks or institutions that were too small to fall under Dodd-Frank's requirements.",
+    "subject": "federal regulators",
+    "predicate_type": "relates_to",
+    "object_text": "recommending portfolio stress testing as a sound risk management practice for community banks or institutions that were too small to fall under Dodd-Frank's requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2012, federal regulators also began recommending portfolio stress testing as a sound risk management practice for community banks or institutions that were too small to fall under Dodd-Frank's requirements.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "risk_management"
+    ],
+    "entities": [
+      "Dodd-Frank Act"
+    ],
+    "regulations": [
+      "Dodd-Frank Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7e155b1f-3216-4c48-a302-e24537b8ebd2",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The Office of the Comptroller of the Currency (OCC) in an October 18, 2012, Bulletin recommends stress testing as a means to identify and quantify loan portfolio risk.",
+    "subject": "Office of the Comptroller of the Currency (OCC)",
+    "predicate_type": "relates_to",
+    "object_text": "recommends stress testing as a means to identify and quantify loan portfolio risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Office of the Comptroller of the Currency (OCC) in an October 18, 2012, Bulletin recommends stress testing as a means to identify and quantify loan portfolio risk.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "risk_management"
+    ],
+    "entities": [
+      "Office of the Comptroller of the Currency"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "32a3a77e-b200-490b-97de-c674408170dd",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The FDIC made similar recommendations for community banks.",
+    "subject": "FDIC",
+    "predicate_type": "relates_to",
+    "object_text": "made similar recommendations for community banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FDIC made similar recommendations for community banks.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "risk_management"
+    ],
+    "entities": [
+      "FDIC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7da9842-2163-4b77-b1da-31925ed6fbd0",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Since the Federal Reserve began conducting Dodd\u2013Frank Act Stress Tests, post-stress capital levels across large banking institutions have generally increased.",
+    "subject": "post-stress capital levels across large banking institutions",
+    "predicate_type": "causes",
+    "object_text": "have generally increased",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Since the Federal Reserve began conducting Dodd\u2013Frank Act Stress Tests, post-stress capital levels across large banking institutions have generally increased.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Federal Reserve",
+      "Dodd-Frank Act"
+    ],
+    "regulations": [
+      "Dodd-Frank Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "460fd08e-b180-4ef0-8983-13946d4d6a6d",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The Federal Reserve has also continued to expand its expectations over time by introducing more sophisticated and challenging stress-testing scenarios.",
+    "subject": "The Federal Reserve",
+    "predicate_type": "relates_to",
+    "object_text": "continued to expand its expectations over time by introducing more sophisticated and challenging stress-testing scenarios",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Federal Reserve has also continued to expand its expectations over time by introducing more sophisticated and challenging stress-testing scenarios.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "financial_regulation"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "93bd8011-3540-4036-a0d3-d6cbd9b0fee7",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Statistician and risk analyst Nassim Taleb has advocated a different approach to stress testing saying that stress tests based on arbitrary numbers can be gamed.",
+    "subject": "Statistician and risk analyst Nassim Taleb",
+    "predicate_type": "relates_to",
+    "object_text": "has advocated a different approach to stress testing saying that stress tests based on arbitrary numbers can be gamed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Statistician and risk analyst Nassim Taleb has advocated a different approach to stress testing saying that stress tests based on arbitrary numbers can be gamed.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "risk_management"
+    ],
+    "entities": [
+      "Nassim Taleb"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c5dcc95f-805e-461c-ab63-f318a7014bb1",
+    "chunk_id": "09c78ba0-7ab2-4361-a07e-1119f3257882",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "A more effective test is to assess the fragility of a bank by applying one stress test and scaling it up, which provides an indicator of how sensitive a bank is to changes in economic conditions.",
+    "subject": "test",
+    "predicate_type": "relates_to",
+    "object_text": "assess the fragility of a bank by applying one stress test and scaling it up, which provides an indicator of how sensitive a bank is to changes in economic conditions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A more effective test is to assess the fragility of a bank by applying one stress test and scaling it up, which provides an indicator of how sensitive a bank is to changes in economic conditions.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17a9a5f3-9f9b-4685-a983-488d5e59d23c",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Another form of financial stress testing is the stress testing of financial market infrastructure.",
+    "subject": "financial stress testing",
+    "predicate_type": "classifies",
+    "object_text": "stress testing of financial market infrastructure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Another form of financial stress testing is the stress testing of financial market infrastructure.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability",
+      "stress_testing"
+    ],
+    "entities": [
+      "financial market infrastructure"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "86be2c03-668b-4dfa-8432-2eef3c541f93",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "As part of Central Banks' market infrastructure oversight functions, stress tests have been applied to payment and securities settlement systems.",
+    "subject": "stress tests",
+    "predicate_type": "implements",
+    "object_text": "Central Banks' market infrastructure oversight functions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As part of Central Banks' market infrastructure oversight functions, stress tests have been applied to payment and securities settlement systems.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability",
+      "stress_testing"
+    ],
+    "entities": [
+      "Central Banks",
+      "payment systems",
+      "securities settlement systems"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f5359cc9-7ac9-4b69-b838-1fd69c70da3e",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Banks need to meet their obligations in Central Bank money held in payment systems that are commonly operated or closely supervised by central banks.",
+    "subject": "Banks",
+    "predicate_type": "requires",
+    "object_text": "meet their obligations in Central Bank money held in payment systems that are commonly operated or closely supervised by central banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks need to meet their obligations in Central Bank money held in payment systems that are commonly operated or closely supervised by central banks.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment_systems",
+      "liquidity"
+    ],
+    "entities": [
+      "Central Bank",
+      "payment systems"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "928df0d0-0b8b-4bec-895e-d18408c773e2",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "It is of great interest to monitor these systems' participants' (mainly banks) liquidity positions.",
+    "subject": "liquidity positions",
+    "predicate_type": "relates_to",
+    "object_text": "systems' participants' (mainly banks)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is of great interest to monitor these systems' participants' (mainly banks) liquidity positions.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity",
+      "payment_systems"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "abc9f3fb-e96b-4d88-9f88-6af46892904f",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The amount of liquidity held by banks on their accounts can be a lot less than the total value of transferred payments during a day.",
+    "subject": "liquidity held by banks on their accounts",
+    "predicate_type": "relates_to",
+    "object_text": "total value of transferred payments during a day",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The amount of liquidity held by banks on their accounts can be a lot less than the total value of transferred payments during a day.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity",
+      "payment_systems"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e6ab1c1-e85e-4683-9fa1-aadb68e693fd",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The total amount of liquidity needed by banks to settle a given set of payments is dependent on the balancedness of the circulation of money from account to account (reciprocity of payments), the timing of payments and the netting procedures used.",
+    "subject": "total amount of liquidity needed by banks to settle a given set of payments",
+    "predicate_type": "relates_to",
+    "object_text": "the balancedness of the circulation of money from account to account (reciprocity of payments), the timing of payments and the netting procedures used",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The total amount of liquidity needed by banks to settle a given set of payments is dependent on the balancedness of the circulation of money from account to account (reciprocity of payments), the timing of payments and the netting procedures used.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity",
+      "payment_systems"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0226748b-cadc-408c-9190-f1ec2ca53295",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The inability of some participants to send payments can cause severe falls in settlement ratios of payments.",
+    "subject": "inability of some participants to send payments",
+    "predicate_type": "causes",
+    "object_text": "severe falls in settlement ratios of payments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The inability of some participants to send payments can cause severe falls in settlement ratios of payments.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment_systems",
+      "settlement"
+    ],
+    "entities": [
+      "participants"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "20041234-7be7-4f4f-bc2e-45e803d0a185",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "The failure of one participant to send payments can have negative contagion effects on other participants' liquidity positions and their potential to send payments.",
+    "subject": "failure of one participant to send payments",
+    "predicate_type": "causes",
+    "object_text": "negative contagion effects on other participants' liquidity positions and their potential to send payments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The failure of one participant to send payments can have negative contagion effects on other participants' liquidity positions and their potential to send payments.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment_systems",
+      "liquidity"
+    ],
+    "entities": [
+      "participants"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "07317be4-d31c-42d2-b4ab-b63422662652",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "By using stress tests it is possible to evaluate the short term effects of events such as bank failures or technical communication breakdowns that lead to the inability of chosen participants to send payments.",
+    "subject": "stress tests",
+    "predicate_type": "permits",
+    "object_text": "evaluate the short term effects of events such as bank failures or technical communication breakdowns that lead to the inability of chosen participants to send payments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By using stress tests it is possible to evaluate the short term effects of events such as bank failures or technical communication breakdowns that lead to the inability of chosen participants to send payments.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "bank_failures"
+    ],
+    "entities": [
+      "banks",
+      "participants"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67719047-ffa5-48b8-904a-91270702b3d9",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "These effects can be viewed as direct effects on the participant, but also as systemic contagion effects.",
+    "subject": "effects of events such as bank failures or technical communication breakdowns",
+    "predicate_type": "classifies",
+    "object_text": "direct effects on the participant, but also as systemic contagion effects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These effects can be viewed as direct effects on the participant, but also as systemic contagion effects.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "bank_failures"
+    ],
+    "entities": [
+      "banks",
+      "participants"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3f328d6b-8fb8-478e-b99e-d3408b9f7d1c",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "How hard the other participants will be hit by a chosen failure scenario will be dependent on the available collateral and initial liquidity of participants, and their potential to bring in more liquidity.",
+    "subject": "impact on participants in a failure scenario",
+    "predicate_type": "relates_to",
+    "object_text": "available collateral and initial liquidity of participants, and their potential to bring in more liquidity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "How hard the other participants will be hit by a chosen failure scenario will be dependent on the available collateral and initial liquidity of participants, and their potential to bring in more liquidity.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "bank_failures",
+      "liquidity"
+    ],
+    "entities": [
+      "participants"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "04c001c3-2102-4b86-9d5f-68391c7fd0de",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Stress test conducted on payment systems help to evaluate the short term adequacy and sufficiency of the prevailing liquidity levels and buffers of banks, and the contingency measures of the studied payment systems.",
+    "subject": "Stress test conducted on payment systems",
+    "predicate_type": "relates_to",
+    "object_text": "evaluate the short term adequacy and sufficiency of the prevailing liquidity levels and buffers of banks, and the contingency measures of the studied payment systems",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Stress test conducted on payment systems help to evaluate the short term adequacy and sufficiency of the prevailing liquidity levels and buffers of banks, and the contingency measures of the studied payment systems.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing",
+      "payment_systems",
+      "liquidity"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "77e69b08-acab-42a6-9866-140ed7eea4b1",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "A financial stress test is only as good as the scenarios on which it is based.",
+    "subject": "financial stress test",
+    "predicate_type": "relates_to",
+    "object_text": "the scenarios on which it is based",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A financial stress test is only as good as the scenarios on which it is based.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1686d34e-d1e3-4423-b4fd-fc67920c9b9c",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "Those designing stress tests must literally imagine possible futures that the financial system might face.",
+    "subject": "designers of stress tests",
+    "predicate_type": "requires",
+    "object_text": "literally imagine possible futures that the financial system might face",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Those designing stress tests must literally imagine possible futures that the financial system might face.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7692d78-5671-4cac-ac0a-feaf8685c24c",
+    "chunk_id": "e290059e-57d4-4453-9f14-2715c06387a5",
+    "document_id": "Stress_test_(financial)",
+    "claim_text": "As an exercise of the imagination, the stress test is limited by the imaginative capacities of those designing the stress test scenarios.",
+    "subject": "stress test",
+    "predicate_type": "constrains",
+    "object_text": "imaginative capacities of those designing the stress test scenarios",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As an exercise of the imagination, the stress test is limited by the imaginative capacities of those designing the stress test scenarios.",
+    "source_document": "Stress test (financial)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

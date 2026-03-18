@@ -1,0 +1,650 @@
+[
+  {
+    "assertion_id": "5d414b47-5e07-4626-9b33-aef0f7802747",
+    "chunk_id": "89aed88a-9e7d-4606-95cb-5e60b70c2b4f",
+    "document_id": "Hedge_accounting",
+    "claim_text": "All entities are exposed to some form of market risk.",
+    "subject": "entities",
+    "predicate_type": "relates_to",
+    "object_text": "some form of market risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All entities are exposed to some form of market risk.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "380f074f-4410-416c-bbe7-4b5ad077de21",
+    "chunk_id": "89aed88a-9e7d-4606-95cb-5e60b70c2b4f",
+    "document_id": "Hedge_accounting",
+    "claim_text": "Many financial institutions and corporate businesses (entities) use derivative financial instruments to hedge their exposure to different risks (for example interest rate risk, foreign exchange risk, commodity risk, etc.).",
+    "subject": "financial institutions and corporate businesses (entities)",
+    "predicate_type": "relates_to",
+    "object_text": "derivative financial instruments to hedge their exposure to different risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many financial institutions and corporate businesses (entities) use derivative financial instruments to hedge their exposure to different risks (for example interest rate risk, foreign exchange risk, commodity risk, etc.).",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "risk management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c0f431aa-d0a4-43e5-8a6d-b4672d5bfccc",
+    "chunk_id": "89aed88a-9e7d-4606-95cb-5e60b70c2b4f",
+    "document_id": "Hedge_accounting",
+    "claim_text": "Accounting for derivative financial instruments under International Accounting Standards is covered by IAS39 (Financial Instrument: Recognition and Measurement).",
+    "subject": "Accounting for derivative financial instruments under International Accounting Standards",
+    "predicate_type": "governs",
+    "object_text": "IAS39 (Financial Instrument: Recognition and Measurement)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Accounting for derivative financial instruments under International Accounting Standards is covered by IAS39 (Financial Instrument: Recognition and Measurement).",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "accounting standards"
+    ],
+    "entities": [
+      "IAS39"
+    ],
+    "regulations": [
+      "IAS39"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2adfcc23-e658-4225-95b4-8149c1564609",
+    "chunk_id": "89aed88a-9e7d-4606-95cb-5e60b70c2b4f",
+    "document_id": "Hedge_accounting",
+    "claim_text": "IAS39 requires that all derivatives are marked-to-market with changes in the mark-to-market being taken to the profit and loss account.",
+    "subject": "IAS39",
+    "predicate_type": "requires",
+    "object_text": "that all derivatives are marked-to-market with changes in the mark-to-market being taken to the profit and loss account",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IAS39 requires that all derivatives are marked-to-market with changes in the mark-to-market being taken to the profit and loss account.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "mark-to-market accounting"
+    ],
+    "entities": [
+      "IAS39"
+    ],
+    "regulations": [
+      "IAS39"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb7add52-2dcc-4b54-8159-d39d39254a93",
+    "chunk_id": "89aed88a-9e7d-4606-95cb-5e60b70c2b4f",
+    "document_id": "Hedge_accounting",
+    "claim_text": "For many entities this would result in a significant amount of profit and loss volatility arising from the use of derivatives.",
+    "subject": "the use of derivatives",
+    "predicate_type": "causes",
+    "object_text": "a significant amount of profit and loss volatility",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For many entities this would result in a significant amount of profit and loss volatility arising from the use of derivatives.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "profit and loss",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1cb80925-3f17-4159-a160-2cdd34063250",
+    "chunk_id": "89aed88a-9e7d-4606-95cb-5e60b70c2b4f",
+    "document_id": "Hedge_accounting",
+    "claim_text": "An entity can mitigate the profit and loss effect arising from derivatives used for hedging, through an optional part of IAS39 relating to hedge accounting.",
+    "subject": "entity",
+    "predicate_type": "permits",
+    "object_text": "mitigate the profit and loss effect arising from derivatives used for hedging, through an optional part of IAS39 relating to hedge accounting",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An entity can mitigate the profit and loss effect arising from derivatives used for hedging, through an optional part of IAS39 relating to hedge accounting.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "hedge accounting"
+    ],
+    "entities": [
+      "IAS39"
+    ],
+    "regulations": [
+      "IAS39"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e75497e6-0045-4b94-8e4b-bab1eaa2ee6b",
+    "chunk_id": "8c2e75ca-5dda-43ee-9c77-ad60c0729a99",
+    "document_id": "Hedge_accounting",
+    "claim_text": "A specific type of hedging transaction that entities can engage in aims to manage foreign currency exposure.",
+    "subject": "hedging transaction",
+    "predicate_type": "relates_to",
+    "object_text": "manage foreign currency exposure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A specific type of hedging transaction that entities can engage in aims to manage foreign currency exposure.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hedge_accounting",
+      "foreign_currency_exposure"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae84404c-8ec6-4416-8597-4ff2b8d4eb94",
+    "chunk_id": "8c2e75ca-5dda-43ee-9c77-ad60c0729a99",
+    "document_id": "Hedge_accounting",
+    "claim_text": "These hedges are undertaken for the economic aim of reducing potential loss from fluctuations in foreign exchange rates.",
+    "subject": "hedges",
+    "predicate_type": "relates_to",
+    "object_text": "economic aim of reducing potential loss from fluctuations in foreign exchange rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These hedges are undertaken for the economic aim of reducing potential loss from fluctuations in foreign exchange rates.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hedge_accounting",
+      "foreign_exchange_rates"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9cdf4090-2f8c-4f3f-9fba-c3080b62f20d",
+    "chunk_id": "8c2e75ca-5dda-43ee-9c77-ad60c0729a99",
+    "document_id": "Hedge_accounting",
+    "claim_text": "Not all hedges are designated for special accounting treatment.",
+    "subject": "hedges",
+    "predicate_type": "constrains",
+    "object_text": "special accounting treatment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Not all hedges are designated for special accounting treatment.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hedge_accounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae29a812-0a68-414f-8910-bf048cf03f87",
+    "chunk_id": "8c2e75ca-5dda-43ee-9c77-ad60c0729a99",
+    "document_id": "Hedge_accounting",
+    "claim_text": "Accounting standards enable hedge accounting for three different designated forex hedges.",
+    "subject": "Accounting standards",
+    "predicate_type": "permits",
+    "object_text": "hedge accounting for three different designated forex hedges",
+    "object_value": 3.0,
+    "object_unit": null,
+    "source_text": "Accounting standards enable hedge accounting for three different designated forex hedges.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hedge_accounting",
+      "forex_hedges"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b239b4e9-4676-4e7e-9ed4-10241aa08f2a",
+    "chunk_id": "8c2e75ca-5dda-43ee-9c77-ad60c0729a99",
+    "document_id": "Hedge_accounting",
+    "claim_text": "A cash flow hedge may be designated for a highly probable forecasted transaction, a firm commitment (not recorded on the balance sheet), foreign currency cash flows of a recognized asset or liability, or a forecasted intercompany transaction.",
+    "subject": "cash flow hedge",
+    "predicate_type": "relates_to",
+    "object_text": "may be designated for a highly probable forecasted transaction, a firm commitment (not recorded on the balance sheet), foreign currency cash flows of a recognized asset or liability, or a forecasted intercompany transaction",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A cash flow hedge may be designated for a highly probable forecasted transaction, a firm commitment (not recorded on the balance sheet), foreign currency cash flows of a recognized asset or liability, or a forecasted intercompany transaction.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hedge_accounting",
+      "cash_flow_hedge"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "02053e65-7ebf-4e9b-a760-297913e58b9f",
+    "chunk_id": "8c2e75ca-5dda-43ee-9c77-ad60c0729a99",
+    "document_id": "Hedge_accounting",
+    "claim_text": "A fair value hedge may be designated for a firm commitment (not recorded) or foreign currency cash flows of a recognized asset or liability.",
+    "subject": "fair value hedge",
+    "predicate_type": "relates_to",
+    "object_text": "may be designated for a firm commitment (not recorded) or foreign currency cash flows of a recognized asset or liability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A fair value hedge may be designated for a firm commitment (not recorded) or foreign currency cash flows of a recognized asset or liability.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hedge_accounting",
+      "fair_value_hedge"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a554197e-a5e6-4da8-8d46-f48c17fa6363",
+    "chunk_id": "8c2e75ca-5dda-43ee-9c77-ad60c0729a99",
+    "document_id": "Hedge_accounting",
+    "claim_text": "A net investment hedge may be designated for the net investment in a foreign operation.",
+    "subject": "net investment hedge",
+    "predicate_type": "relates_to",
+    "object_text": "may be designated for the net investment in a foreign operation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A net investment hedge may be designated for the net investment in a foreign operation.",
+    "source_document": "Hedge accounting",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "hedge_accounting",
+      "net_investment_hedge"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

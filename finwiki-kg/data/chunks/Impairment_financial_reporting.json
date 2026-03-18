@@ -1,0 +1,24 @@
+[
+  {
+    "chunk_id": "f1158e4e-99aa-414d-88c3-0369bbd6f819",
+    "document_id": "Impaired_asset",
+    "sequence": 0,
+    "section_title": "History",
+    "content": "Asset impairment was first addressed by the International Accounting Standards Board (IASB) in IAS 16, which became effective in 1983. It was replaced by IAS 36, effective July 1999.\nIn United States GAAP, the Financial Accounting Standards Board (FASB) introduced the concept in 1995 with the release of SFAS 121. SFAS 121 was subsequently replaced by SFAS 144 in August 2001.\nThe issue of impairment of financial assets exposed deficiencies in the IAS 36 framework during the 2008 financial crisis, and the IASB issued an exposure draft in November 2009 that proposed an impairment model based on expected losses rather than incurred losses for all financial assets recorded at amortised cost. The IASB and FASB made joint efforts to devise a common impairment model, but the FASB eventually decided to propose an alternative scheme in January 2011. The IASB issued a new exposure draft in January 2013, which later led to the adoption of IFRS 9 in July 2014, effective for annual periods beginning on or after January 1, 2018. The FASB is still considering the matter.",
+    "token_estimate": 177,
+    "title": "Impaired asset",
+    "url": "https://en.wikipedia.org/wiki/Impaired_asset",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "ac046dc1-b25e-4e47-8d75-f4b6d039eb45",
+    "document_id": "Impaired_asset",
+    "sequence": 1,
+    "section_title": "Incurred loss model",
+    "content": "An investment is recognized as impaired when there is no longer reasonable assurance that the future cash flows associated with it will be collected either in their entirety or when due. Entities look for evidence of situations that would indicate impairment. Such triggering events include when the entity:\n\nis experiencing notable financial difficulties, or\nhas defaulted on or is late making interest payments or principal payments, or\nis likely to undergo a major financial reorganization or enter bankruptcy, or\nis in a market that is experiencing significant negative economic change.\nIf such evidence exists, the next step is to estimate the recoverable amount of investments. The impairment cost would then be calculated as follows:\n\n  \n    \n      \n        \n          \n            Impairment Cost\n          \n        \n        =\n        \n          \n            \n              Recoverable Amount\n            \n          \n          \u2212\n          \n            \n              Carrying Value\n            \n          \n        \n      \n    \n    {\\displaystyle {\\mbox{Impairment Cost}}={{\\mbox{Recoverable Amount}}-{\\mbox{Carrying Value}}}}\n  \n\nThe carrying value is defined as the value of the asset appearing on the balance sheet. The recoverable amount is the higher of either the asset's future value for the company or the amount it can be sold for, minus any transaction costs.",
+    "token_estimate": 170,
+    "title": "Impaired asset",
+    "url": "https://en.wikipedia.org/wiki/Impaired_asset",
+    "domain": "finance"
+  }
+]

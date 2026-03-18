@@ -1,0 +1,24 @@
+[
+  {
+    "chunk_id": "285e47ce-c3f0-4714-916c-1defac8ff2a0",
+    "document_id": "Sharpe_ratio",
+    "sequence": 0,
+    "section_title": "Use in finance",
+    "content": "The Sharpe ratio seeks to characterize how well the return of an asset compensates the investor for the risk taken.  When comparing two assets, the one with a higher Sharpe ratio appears to provide better return for the same risk, which is usually attractive to investors.\nHowever, financial assets are often not normally distributed, so that standard deviation does not capture all aspects of risk.  Ponzi schemes, for example, will have a high empirical Sharpe ratio until they fail. Similarly, a fund that sells low-strike put options will have a high empirical Sharpe ratio until one of those puts is exercised, creating a large loss. In both cases, the empirical standard deviation before failure gives no real indication of the size of the risk being run.\nEven in less extreme cases, a reliable empirical estimate of Sharpe ratio still requires the collection of return data over sufficient period for all aspects of the strategy returns to be observed. For example, data must be taken over decades if the algorithm sells an insurance that involves a high liability payout once every 5\u201310 years, and a high-frequency trading algorithm may only require a week of data if each trade occurs every 50 milliseconds, with care taken toward risk from unexpected but rare results that such testing did not capture (see flash crash).\nAdditionally, when examining the investment performance of assets with smoothing of returns (such as with-profits funds), the Sharpe ratio should be derived from the performance of the underlying assets rather than the fund returns (Such a model would invalidate the aforementioned Ponzi scheme, as desired).\nSharpe ratios, along with Treynor ratios and Jensen's alphas, are often used to rank the performance of portfolio or mutual fund managers.  Berkshire Hathaway had a Sharpe ratio of 0.79 for the period 1976 to 2017, higher than any other stock or mutual fund with a history of more than 30 years. The stock market had a Sharpe ratio of 0.49 for the same period.",
+    "token_estimate": 330,
+    "title": "Sharpe ratio",
+    "url": "https://en.wikipedia.org/wiki/Sharpe_ratio",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "706a4f95-64ab-46ed-8e2b-daa959c10b80",
+    "document_id": "Sharpe_ratio",
+    "sequence": 1,
+    "section_title": "Drawback as fund selection criteria",
+    "content": "Bailey and L\u00f3pez de Prado (2012) show that Sharpe ratios tend to be overstated in the case of hedge funds with short track records. These authors propose a deflated Sharpe ratio that takes into account the asymmetry and fat-tails of the returns' distribution, sample length, and selection bias. With regards to the selection of portfolio managers on the basis of their Sharpe ratios, these authors have proposed a Sharpe ratio indifference curve This curve illustrates the fact that it is efficient to hire portfolio managers with low and even negative Sharpe ratios, as long as their correlation to the other portfolio managers is sufficiently low.\nGoetzmann, Ingersoll, Spiegel, and Welch (2002) determined that the best strategy to maximize a portfolio's Sharpe ratio, when both securities and options contracts on these securities are available for investment, is a portfolio of selling one out-of-the-money call and selling one out-of-the-money put. This portfolio generates an immediate positive payoff, has a large probability of generating modestly high returns, and has a small probability of generating huge losses. Shah (2014) observed that such a portfolio is not suitable for many investors, but fund sponsors who select fund managers primarily based on the Sharpe ratio will give incentives for fund managers to adopt such a strategy.\nIn recent years, many financial websites have promoted the idea that a Sharpe Ratio \"greater than 1 is considered acceptable; a ratio higher than 2.0 is considered very good; and a ratio above 3.0 is excellent.\"  While it is unclear where this rubric originated online, it makes little sense since the magnitude of the Sharpe ratio is sensitive to the time period over which the underlying returns are measured.  This is because the nominator of the ratio (returns) scales in proportion to time; while the denominator of the ratio (standard deviation) scales in proportion to the square root of time.  Most diversified indexes of equities, bonds, mortgages or commodities have annualized Sharpe ratios below 1, which suggests that a Sharpe ratio consistently above 2.0 or 3.0 is unrealistic.",
+    "token_estimate": 338,
+    "title": "Sharpe ratio",
+    "url": "https://en.wikipedia.org/wiki/Sharpe_ratio",
+    "domain": "finance"
+  }
+]

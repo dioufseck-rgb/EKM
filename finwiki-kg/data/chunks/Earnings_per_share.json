@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "6fca3a84-9ed9-4460-a7d6-9b1705fb76b9",
+    "document_id": "Earnings_per_share",
+    "sequence": 0,
+    "section_title": "Calculation",
+    "content": "Preferred stock rights have precedence over common stock. Therefore, dividends on preferred shares are subtracted before calculating the EPS. When preferred shares are cumulative (i.e. dividends accumulate as payable if unpaid in the given accounting year), annual dividends are deducted whether or not they have been declared. Dividends in arrears are not relevant when calculating EPS. \"Average common shares\" in the formulae below refers to the average number of common shares outstanding during the time period.\n\nBasic formula\nEarnings per share = \u2060profit \u2212 preferred dividends/weighted average common shares\u2060\nNet income formula\nEarnings per share = \u2060net income \u2212 preferred dividends/average common shares\u2060\nContinuing operations formula\nEarnings per share = \u2060income from continuing operations \u2212 preferred dividends/weighted average common shares\u2060",
+    "token_estimate": 120,
+    "title": "Earnings per share",
+    "url": "https://en.wikipedia.org/wiki/Earnings_per_share",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "b9300840-ad3b-47a7-a6e7-9245528a81aa",
+    "document_id": "Earnings_per_share",
+    "sequence": 1,
+    "section_title": "U.S. GAAP",
+    "content": "Calculations of diluted EPS under U.S. GAAP are described under Statement No. 128 of the Financial Accounting Standards Board (FAS No. 128). The objective of diluted EPS is to measure the performance of a company over the reporting period taking into account the dilutive effect of potential common stock that could be issued by the company. To compute diluted EPS, both the denominator (outstanding shares) and the numerator (earnings) may need to be adjusted.\nDiluted shares: \nTo calculate the total number of shares used in the calculation, FASB prescribes using the treasury method to calculate the dilutive effect of any instruments that could result in the issuance of shares, including:\n\nStock options\nStock Warrants\nConvertible preferred stock\nConvertible bonds\nShare-based payment arrangements\nWritten put options\nContingently issuable shares\nEarnings: \nThe numerator used in calculating diluted EPS is adjusted to take into account the impact that the conversion of any securities would have on earnings. For example, interest would be added back to earnings to reflect the conversion of any outstanding convertible bonds, preferred dividends would be added back to reflect the conversion of convertible preferred stock, and any impact of these changes on other financial items, such as royalties and taxes, would also be adjusted.\nOne way to consider the effect of dilutive instruments on EPS is to think about the \"as if\" method, in the sense that \"if the instrument is converted, how does it affect EPS?\" For example, let Company XYZ have net income = $2,000,000, there are 50,000 shares of common stock outstanding, and $1,000,000 of 10% bonds, convertible into 50,000 shares of common stock. Company A's tax rate is 25%.\nBasic EPS = ($2,000,000 - ($1,000,000*10%))/50,000 = $38 \nDiluted EPS = ($2,000,000 + (25%*($1,000,000*10%))) / 50,000 + 50,000 = $20.25\nNote that other than accounting for the shares of common stock added in the denominator of the EPS equation, we also add back the taxes that would have been taken out from net income if the bonds were not converted. In conclusion, the \"as if\" method is helpful in considering the effect on dilutive instruments on EPS because it helps us think about the overall effect rather than just thinking about the numerator and denominator of the equation separately.",
+    "token_estimate": 373,
+    "title": "Earnings per share",
+    "url": "https://en.wikipedia.org/wiki/Earnings_per_share",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "8412c4f6-4317-413b-b6e8-07239ff9d7f7",
+    "document_id": "Earnings_per_share",
+    "sequence": 2,
+    "section_title": "International financial reporting standards",
+    "content": "Under International Financial Reporting Standards, diluted earnings per share is calculated by adjusting the earnings and number of shares for the effects of dilutive options and other dilutive potential common stock. Dilutive potential common stock includes:\n\nconvertible debt\nconvertible preferred stock\nshare warrants\nshare options\nshare rights\nEmployee stock purchase plans\ncontractual rights to purchase shares\ncontingent issuance contracts or agreements.\nThe earnings per share requirements of U.S. GAAP, FASB ASC 260: EPS, are a result of the FASB's cooperation with the IASB to narrow the difference between IFRS and US GAAP. A few differences remain.\nThe differences that remain are the result of differences in the application of the treasury stock method, the treatment of contracts that may be settled in shares or cash, and contingently issuable shares.",
+    "token_estimate": 129,
+    "title": "Earnings per share",
+    "url": "https://en.wikipedia.org/wiki/Earnings_per_share",
+    "domain": "finance"
+  }
+]

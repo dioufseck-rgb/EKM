@@ -1,0 +1,545 @@
+[
+  {
+    "assertion_id": "a42b6e8e-36df-4a18-abc6-bbbbceabebc7",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Settlement risk may be mitigated through various techniques.",
+    "subject": "Settlement risk",
+    "predicate_type": "relates_to",
+    "object_text": "may be mitigated through various techniques",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Settlement risk may be mitigated through various techniques.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7fe9b053-8b4d-4adc-9216-a6f7219d2eeb",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Limits on the amount of transactions to settle with each counterparty on a given day avoid developing a large exposure to a single counterparty.",
+    "subject": "Limits on the amount of transactions",
+    "predicate_type": "causes",
+    "object_text": "avoid developing a large exposure to a single counterparty",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Limits on the amount of transactions to settle with each counterparty on a given day avoid developing a large exposure to a single counterparty.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f29e4eea-19cd-418a-ae15-7ae5778a4ea8",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Settlement through a clearing house reduces exposure and liquidity required by netting transactions (bilateral or multilateral).",
+    "subject": "Settlement through a clearing house",
+    "predicate_type": "causes",
+    "object_text": "reduce exposure and liquidity required by netting transactions (bilateral or multilateral)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Settlement through a clearing house reduces exposure and liquidity required by netting transactions (bilateral or multilateral).",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62b63f78-6c22-4e80-b907-bee9635d1054",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Requirement of initial margin deposits (also called \"collateral deposits\") and variation margin provide a safety buffer.",
+    "subject": "Requirement of initial margin deposits and variation margin",
+    "predicate_type": "causes",
+    "object_text": "provide a safety buffer",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Requirement of initial margin deposits (also called \"collateral deposits\") and variation margin provide a safety buffer.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8de18e11-1f23-4844-9106-02aa21f7378f",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Independent valuation of trades and collateral and monitor the creditworthiness of the parties enhance transparency and risk management.",
+    "subject": "Independent valuation of trades and collateral and monitor the creditworthiness of the parties",
+    "predicate_type": "causes",
+    "object_text": "enhance transparency and risk management",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Independent valuation of trades and collateral and monitor the creditworthiness of the parties enhance transparency and risk management.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "20fa37f4-2903-4c37-b99e-6a254a39c407",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "A guarantee fund can be used to cover losses that exceed a defaulting member's collateral on deposit.",
+    "subject": "A guarantee fund",
+    "predicate_type": "permits",
+    "object_text": "can be used to cover losses that exceed a defaulting member's collateral on deposit",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A guarantee fund can be used to cover losses that exceed a defaulting member's collateral on deposit.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9224198c-287d-49b0-b56c-04725584a964",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Settlement through a central counterparty clearing mutualizes or transfers the settlement risk.",
+    "subject": "Settlement through a central counterparty clearing",
+    "predicate_type": "causes",
+    "object_text": "mutualizes or transfers the settlement risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Settlement through a central counterparty clearing mutualizes or transfers the settlement risk.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a62a0515-fca1-4ac4-aa63-b058e8624d9b",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Settlement through a central counterparty clearing is novation.",
+    "subject": "Settlement through a central counterparty clearing",
+    "predicate_type": "defines",
+    "object_text": "novation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Settlement through a central counterparty clearing is novation.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac9d41b5-1e98-4a14-a184-4bfbe05427a6",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Settlement occurs via Delivery versus payment or Payment versus payment mechanism.",
+    "subject": "Settlement",
+    "predicate_type": "relates_to",
+    "object_text": "via Delivery versus payment or Payment versus payment mechanism",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Settlement occurs via Delivery versus payment or Payment versus payment mechanism.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5f1bc980-b95b-46c4-86e4-ed18591e653c",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Foreign exchange is settled via a special-purpose entity, such as the CLS Group.",
+    "subject": "Foreign exchange",
+    "predicate_type": "relates_to",
+    "object_text": "is settled via a special-purpose entity, such as the CLS Group",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Foreign exchange is settled via a special-purpose entity, such as the CLS Group.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [
+      "CLS Group"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41c5d954-5082-4e2c-96ac-507134bfb79c",
+    "chunk_id": "880053dc-ff55-4c59-8cf5-5f2163f1ae87",
+    "document_id": "Settlement_risk",
+    "claim_text": "Settling occurs via a cryptographic consensus system, such as a blockchain.",
+    "subject": "Settling",
+    "predicate_type": "relates_to",
+    "object_text": "via a cryptographic consensus system, such as a blockchain",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Settling occurs via a cryptographic consensus system, such as a blockchain.",
+    "source_document": "Settlement risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "settlement"
+    ],
+    "entities": [
+      "blockchain"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

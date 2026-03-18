@@ -1,0 +1,68 @@
+[
+  {
+    "chunk_id": "11c767b4-7c23-4a0c-be2e-e91f16763018",
+    "document_id": "Revenue_recognition",
+    "sequence": 0,
+    "section_title": "In accounting, the revenue recognition principle states that revenues are earned and recognized when they are realized or realizable, no matter when cash is received.",
+    "content": "It is a cornerstone of accrual accounting together with the matching principle. Together, they determine the accounting period in which revenues and expenses are recognized. In contrast, the cash accounting recognizes revenues when cash is received, no matter when goods or services are sold.\nCash can be received in an earlier or later period than when obligations are met, resulting in the following two types of accounts:\n\nAccrued revenue: Revenue is recognized before cash is received.\nDeferred revenue: Revenue is recognized when cash is received.",
+    "token_estimate": 85,
+    "title": "Revenue recognition",
+    "url": "https://en.wikipedia.org/wiki/Revenue_recognition",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "9e840573-6ad1-4440-bfa8-36f41eec4578",
+    "document_id": "Revenue_recognition",
+    "sequence": 1,
+    "section_title": "Rules",
+    "content": "Under the revenue recognition principle, when a company received an advance payment, it is not recognized as revenue but as liabilities in the form of deferred income (which requires the company to perform certain obligations), until the following conditions are met:\n\nThe cash or accounts receivables are received, that is, when the advances are readily convertible to cash or receivables.\nWhen such goods or services are transferred or rendered.\nFor example: Revenues from selling inventory are recognized at the date of sale, often the date of delivery. Revenues from rendering services are recognized when services are completed and billed. Revenue from permission to use company's assets is recognized as time passes or as assets are used. Revenue from selling an asset other than inventory is recognized at the point of sale, when it takes place.",
+    "token_estimate": 135,
+    "title": "Revenue recognition",
+    "url": "https://en.wikipedia.org/wiki/Revenue_recognition",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "0a4356bd-6c6d-45ed-ae2f-c73a6adf0951",
+    "document_id": "Revenue_recognition",
+    "sequence": 2,
+    "section_title": "Revenue Recognition under ASC 606 / IFRS 15",
+    "content": "In May 2014, the FASB and IASB issued new, converged guidance on revenue recognition. This guidance, known as ASC 606 (or IFRS 15), aims to improve consistency in recognizing revenue from contracts with customers. ASC 606 became effective in 2017 for public companies and 2018 for private companies.\nASC 606 introduces a five-step model for recognizing revenue:\n\nIdentify the contract: A valid contract exists when the parties are committed, the rights and payment terms are clear, and the contract has commercial substance.\nIdentify the performance obligations: Determine what goods or services are promised in the contract.\nDetermine the transaction price: The amount expected in exchange for the promised goods or services.\nAllocate the transaction price: Split the transaction price based on the standalone selling price of each performance obligation.\nRecognize revenue: Revenue is recognized when control of the goods or services is transferred to the customer.\nThis model applies to a wide range of industries, ensuring uniformity in how companies report revenue.",
+    "token_estimate": 162,
+    "title": "Revenue recognition",
+    "url": "https://en.wikipedia.org/wiki/Revenue_recognition",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "0bc97cef-0358-45bb-b674-c538962a2d75",
+    "document_id": "Revenue_recognition",
+    "sequence": 3,
+    "section_title": "Revenues not recognized at sale",
+    "content": "The rule says that revenue from selling inventory is recognized at the point of sale, but there are several exceptions.\n\nBuyback agreements: buyback agreement means that a company sells a product and agrees to buy it back after some time. If buyback price covers all costs of the inventory plus related holding costs, the inventory remains on the seller's books. In plain: there was no sale.\nReturns: companies which cannot reasonably estimate the amount of future returns and/or have extremely high rates of returns should recognize revenues only when the right to return expires. Those companies that can estimate the number of future returns and have a relatively small return rate can recognize revenues at the point of sale, but must deduct estimated future returns.",
+    "token_estimate": 125,
+    "title": "Revenue recognition",
+    "url": "https://en.wikipedia.org/wiki/Revenue_recognition",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "4778dd3c-c282-4298-bf24-d3510789a330",
+    "document_id": "Revenue_recognition",
+    "sequence": 4,
+    "section_title": "= Long-term contracts =",
+    "content": "This exception primarily deals with long-term contracts such as constructions (buildings, stadiums, bridges, highways, etc.), development of aircraft, weapons, and spaceflight systems. Such contracts must allow the builder (seller) to bill the purchaser at various parts of the project (e.g. every 10 miles of road built).\n\nThe percentage-of-completion method says that if the contract clearly specifies the price and payment options with transfer of ownership, the buyer is expected to pay the whole amount and the seller is expected to complete the project, then revenues, costs, and gross profit can be recognized each period based upon the progress of construction (that is, percentage of completion). For example, if during the year, 25% of the building was completed, the builder can recognize 25% of the expected total profit on the contract. This method is preferred. However, expected loss should be recognized fully and immediately due to conservatism constraint. Apart from accounting requirement, there is a need for calculating the percentage of completion for comparing budgets and actuals to control the cost of long-term projects and optimize Material, Man, Machine, Money and time (OPTM4). The method used for determining revenue of a long-term contract can be complex. Usually two methods are employed to calculate the percentage of completion: (i) by calculating the percentage of accumulated cost incurred to the total budgeted cost; (ii) by determining the percentage of deliverable completed as a percentage of total deliverable. The second method is accurate but cumbersome. To achieve this, one needs the help of a software ERP package which integrates Financial, inventory, Human resources and WBS (work breakdown structure) based planning and scheduling while booking of all cost components should be done with reference to one of the WBS elements. There are very few contracting ERP software packages which have the complete integrated module to do this.\nThe completed-contract method should be used only if percentage-of-completion is not applicable or the contract involves extremely high risks. Under this method, revenues, costs, and gross profit are recognized only after the project is fully completed. Thus, if a company is working only on one project, its income statement will show $0 revenues and $0 construction-related costs until the final year. However, expected loss should be recognized fully and immediately due to conservatism constraint.",
+    "token_estimate": 376,
+    "title": "Revenue recognition",
+    "url": "https://en.wikipedia.org/wiki/Revenue_recognition",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "b0ff82ba-8167-4a15-b128-b97d666ac27c",
+    "document_id": "Revenue_recognition",
+    "sequence": 5,
+    "section_title": "Revenues recognized after Sale",
+    "content": "Sometimes, the collection of receivables involves a high level of risk. If there is a high degree of uncertainty regarding collectibility then a company must defer the recognition of revenue. There are three methods which deal with this situation:\n\nInstallment sales method allows recognizing income after the sale is made, and proportionately to the product of gross profit percentage and cash collected calculated. The unearned income is deferred and then recognized to income when cash is collected. For example, if a company collected 45% of total product price, it can recognize 45% of total profit on that product.\nCost recovery method is used when there is an extremely high probability of uncollectable payments. Under this method no profit is recognized until cash collections exceed the seller's cost of the merchandise sold. For example, if a company sold a machine worth $10,000 for $15,000, it can start recording profit only when the buyer pays more than $10,000. In other words, for each dollar collected greater than $10,000 goes towards your anticipated gross profit of $5,000.\nDeposit method is used when the company receives cash before sufficient transfer of ownership occurs. Revenue is not recognized because the risks and rewards of ownership have not transferred to the buyer.\nGenerally accepted accounting principles\nComparison of cash and accrual methods of accounting\nVendor-specific objective evidence",
+    "token_estimate": 221,
+    "title": "Revenue recognition",
+    "url": "https://en.wikipedia.org/wiki/Revenue_recognition",
+    "domain": "finance"
+  }
+]

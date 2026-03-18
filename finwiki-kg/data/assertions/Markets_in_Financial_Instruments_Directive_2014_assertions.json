@@ -1,0 +1,5443 @@
+[
+  {
+    "assertion_id": "c4e4764d-7deb-4452-9644-01ddaf137545",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "To determine which firms are affected by MiFID 1 and which are not the directive distinguishes between \"investment services and activities\" (\"core\" services) and \"ancillary services\" (\"non-core\" services).",
+    "subject": "directive",
+    "predicate_type": "defines",
+    "object_text": "distinction between \"investment services and activities\" (\"core\" services) and \"ancillary services\" (\"non-core\" services) to determine which firms are affected by MiFID 1 and which are not",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To determine which firms are affected by MiFID 1 and which are not the directive distinguishes between \"investment services and activities\" (\"core\" services) and \"ancillary services\" (\"non-core\" services).",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial services",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "becdc1b9-27a9-4aa4-a21b-f1559ba11a26",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "If a firm performs investment services and activities, it is subject to MiFID 1 in respect to both of these and also of ancillary services.",
+    "subject": "firm",
+    "predicate_type": "requires",
+    "object_text": "subject to MiFID 1 in respect to both investment services and activities and also of ancillary services",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a firm performs investment services and activities, it is subject to MiFID 1 in respect to both of these and also of ancillary services.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial services",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a5433502-0387-40c1-9689-ac5c4d8be0b0",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "If a firm performs investment services and activities, it can use the MiFID 1 passport to provide them to member states other than its home state.",
+    "subject": "firm",
+    "predicate_type": "permits",
+    "object_text": "use the MiFID 1 passport to provide them to member states other than its home state",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a firm performs investment services and activities, it can use the MiFID 1 passport to provide them to member states other than its home state.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial services",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "61403724-90e8-42a3-9afc-cef71a2a2a52",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "If a firm only performs ancillary services, it is not subject to MiFID 1.",
+    "subject": "firm",
+    "predicate_type": "prohibits",
+    "object_text": "subject to MiFID 1",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a firm only performs ancillary services, it is not subject to MiFID 1.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial services",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "428629be-5216-43e5-9b13-e4dae10900e4",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "If a firm only performs ancillary services, it can not benefit from the MiFID 1 passport.",
+    "subject": "firm",
+    "predicate_type": "prohibits",
+    "object_text": "benefit from the MiFID 1 passport",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a firm only performs ancillary services, it can not benefit from the MiFID 1 passport.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial services",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "13290140-672c-4c82-850f-65a5f6e81f15",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 covers almost all tradable financial products except for certain foreign exchange trades.",
+    "subject": "MiFID 1",
+    "predicate_type": "relates_to",
+    "object_text": "almost all tradable financial products except for certain foreign exchange trades",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 covers almost all tradable financial products except for certain foreign exchange trades.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial products",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2518bbe5-01cb-4302-a7ee-a019b5df1cea",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Commodity and other derivatives such as freight, climate and carbon derivatives, which were not covered by ISD, are included in MiFID 1.",
+    "subject": "Commodity and other derivatives such as freight, climate and carbon derivatives",
+    "predicate_type": "relates_to",
+    "object_text": "included in MiFID 1",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Commodity and other derivatives such as freight, climate and carbon derivatives, which were not covered by ISD, are included in MiFID 1.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1",
+      "ISD"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d736ef54-c237-4259-afb1-92a378144ccd",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "That part of a firm's business that is not covered by the above is not subject to MiFID 1.",
+    "subject": "part of a firm's business",
+    "predicate_type": "prohibits",
+    "object_text": "subject to MiFID 1",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "That part of a firm's business that is not covered by the above is not subject to MiFID 1.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial services",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9f92246a-5adc-4555-a80f-afe1c841e916",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Celent estimated in 2007 that under MiFID 1, the three largest EU jurisdictions\u2014France (Germany), and the UK\u2014would require publication of over 100 million additional trades annually.",
+    "subject": "the three largest EU jurisdictions\u2014France (Germany), and the UK",
+    "predicate_type": "requires",
+    "object_text": "publication of over 100 million additional trades annually",
+    "object_value": 100000000.0,
+    "object_unit": "trades",
+    "source_text": "Celent estimated in 2007 that under MiFID 1, the three largest EU jurisdictions\u2014France (Germany), and the UK\u2014would require publication of over 100 million additional trades annually.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial services",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1",
+      "Celent"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "France",
+          "Germany",
+          "UK"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cefc25b5-fd55-4209-8f89-84b9173c7f69",
+    "chunk_id": "84c2b7e0-e96a-4cfd-a455-3a14e1dd76b0",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Celent estimated in 2007 that under MiFID 1, spending would increase from \u20ac38 million yearly to close to \u20ac50 million.",
+    "subject": "spending",
+    "predicate_type": "causes",
+    "object_text": "increase from \u20ac38 million yearly to close to \u20ac50 million",
+    "object_value": 38000000.0,
+    "object_unit": "\u20ac",
+    "source_text": "Celent estimated in 2007 that under MiFID 1, spending would increase from \u20ac38 million yearly to close to \u20ac50 million.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial services",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1",
+      "Celent"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "97f963e4-2262-49a1-8584-3062a0a43712",
+    "chunk_id": "80aa234c-04d3-4181-a34b-26c27261c718",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The Financial Services Authority (FSA), now the FCA, was the body responsible for the regulation of the securities industry in the United Kingdom during the period of implementation.",
+    "subject": "Financial Services Authority (FSA)",
+    "predicate_type": "governs",
+    "object_text": "regulation of the securities industry in the United Kingdom during the period of implementation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Financial Services Authority (FSA), now the FCA, was the body responsible for the regulation of the securities industry in the United Kingdom during the period of implementation.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities regulation"
+    ],
+    "entities": [
+      "Financial Services Authority",
+      "FCA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "10df91f6-84f5-45d5-a9cb-f4bbb5df63e2",
+    "chunk_id": "80aa234c-04d3-4181-a34b-26c27261c718",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Prior to Brexit, the UK FCA was proactive in pursuing enforcement actions under MiFID 2, especially concerning the accurate and timely reporting of transactions.",
+    "subject": "UK FCA",
+    "predicate_type": "implements",
+    "object_text": "enforcement actions under MiFID 2, especially concerning the accurate and timely reporting of transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Prior to Brexit, the UK FCA was proactive in pursuing enforcement actions under MiFID 2, especially concerning the accurate and timely reporting of transactions.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "transaction reporting",
+      "enforcement"
+    ],
+    "entities": [
+      "UK FCA",
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6651357d-9951-4dff-ba5f-ee8a52aaf945",
+    "chunk_id": "80aa234c-04d3-4181-a34b-26c27261c718",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The FCA brought numerous cases involving serious infringements to MiFD 2 before British courts, which usually resulted in the imposition of fines on major financial institutions like UBS and Goldman Sachs.",
+    "subject": "FCA",
+    "predicate_type": "implements",
+    "object_text": "brought numerous cases involving serious infringements to MiFD 2 before British courts, which usually resulted in the imposition of fines on major financial institutions like UBS and Goldman Sachs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FCA brought numerous cases involving serious infringements to MiFD 2 before British courts, which usually resulted in the imposition of fines on major financial institutions like UBS and Goldman Sachs.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "enforcement",
+      "fines"
+    ],
+    "entities": [
+      "FCA",
+      "MiFD 2",
+      "UBS",
+      "Goldman Sachs"
+    ],
+    "regulations": [
+      "MiFD 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4b2ff64d-c463-4853-a7f0-91f886d41d82",
+    "chunk_id": "80aa234c-04d3-4181-a34b-26c27261c718",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Such institutions were often found by the courts to have failed in reporting millions of transactions.",
+    "subject": "institutions",
+    "predicate_type": "relates_to",
+    "object_text": "often found by the courts to have failed in reporting millions of transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such institutions were often found by the courts to have failed in reporting millions of transactions.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "transaction reporting",
+      "enforcement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ca12aa60-4955-4baa-a242-c769dbd5290f",
+    "chunk_id": "80aa234c-04d3-4181-a34b-26c27261c718",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Post-Brexit, the UK is no longer bound by MiFD 2.",
+    "subject": "UK",
+    "predicate_type": "constrains",
+    "object_text": "no longer bound by MiFD 2",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Post-Brexit, the UK is no longer bound by MiFD 2.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFD 2"
+    ],
+    "regulations": [
+      "MiFD 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "86c3d846-9032-4d3a-b5d9-ae759e7a71a3",
+    "chunk_id": "80aa234c-04d3-4181-a34b-26c27261c718",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "To maintain market stability and ensure smooth cross-border financial services, the UK initially incorporated MiFID 2 into its domestic law under the European Union (Withdrawal) Act.",
+    "subject": "UK",
+    "predicate_type": "implements",
+    "object_text": "initially incorporated MiFID 2 into its domestic law under the European Union (Withdrawal) Act",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To maintain market stability and ensure smooth cross-border financial services, the UK initially incorporated MiFID 2 into its domestic law under the European Union (Withdrawal) Act.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market stability",
+      "cross-border financial services"
+    ],
+    "entities": [
+      "MiFID 2",
+      "European Union (Withdrawal) Act"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7c25c8e4-25c4-4bcd-918d-31470b88d15e",
+    "chunk_id": "80aa234c-04d3-4181-a34b-26c27261c718",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The FCA continues to enforce MiFID-like rules domestically.",
+    "subject": "FCA",
+    "predicate_type": "implements",
+    "object_text": "enforce MiFID-like rules domestically",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FCA continues to enforce MiFID-like rules domestically.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "enforcement"
+    ],
+    "entities": [
+      "FCA",
+      "MiFID"
+    ],
+    "regulations": [
+      "MiFID"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5049c51f-81e3-4e95-a54b-bd2e513f1692",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 was intended to replace Directive 93/22/EEC, which was adopted in 1993.",
+    "subject": "MiFID 1",
+    "predicate_type": "supersedes",
+    "object_text": "Directive 93/22/EEC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 was intended to replace Directive 93/22/EEC, which was adopted in 1993.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_framework"
+    ],
+    "entities": [
+      "MiFID 1",
+      "Directive 93/22/EEC"
+    ],
+    "regulations": [
+      "MiFID 1",
+      "Directive 93/22/EEC"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad42a031-0a83-4ae2-9b68-81234c861e1f",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The law creates a single market for investment services and activities.",
+    "subject": "The law",
+    "predicate_type": "defines",
+    "object_text": "a single market for investment services and activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The law creates a single market for investment services and activities.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_regulation",
+      "investment_services"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "45e9beac-e134-4cb0-9216-c9a049f85d5a",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The law improves the competitiveness in EU markets.",
+    "subject": "The law",
+    "predicate_type": "causes",
+    "object_text": "improved competitiveness in EU markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The law improves the competitiveness in EU markets.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_regulation",
+      "competitiveness"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e80f95ad-b0c8-490e-ad81-0977719a44e6",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 was also intended to make changes to share trading, and it set guidelines for the use of related financial instruments.",
+    "subject": "MiFID 1",
+    "predicate_type": "governs",
+    "object_text": "share trading and the use of related financial instruments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 was also intended to make changes to share trading, and it set guidelines for the use of related financial instruments.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_regulation",
+      "share_trading",
+      "financial_instruments"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bddebdd2-a2c4-4264-8569-4ee342db01e3",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The law was introduced in order to reduce systemic risk and strengthen existing investor protections.",
+    "subject": "The law",
+    "predicate_type": "causes",
+    "object_text": "reduced systemic risk and strengthened existing investor protections",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The law was introduced in order to reduce systemic risk and strengthen existing investor protections.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "investor_protection"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "449cb0b4-2cd5-4411-b055-607fdc452ce0",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "A proposal from the European Commission (EC) was read by the European Parliament (EP) in March 2004.",
+    "subject": "A proposal from the European Commission (EC)",
+    "predicate_type": "relates_to",
+    "object_text": "read by the European Parliament (EP) in March 2004",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A proposal from the European Commission (EC) was read by the European Parliament (EP) in March 2004.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_process"
+    ],
+    "entities": [
+      "European Commission",
+      "European Parliament"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "043e0ef4-d94c-4e72-b8b9-c3c7a7c46997",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "In April 2006, the Commission published consultation responses it received in 2005.",
+    "subject": "the Commission",
+    "predicate_type": "relates_to",
+    "object_text": "published consultation responses it received in 2005",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In April 2006, the Commission published consultation responses it received in 2005.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_process"
+    ],
+    "entities": [
+      "Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da349c70-0271-475c-824a-baf45d257580",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "In June 2006, the Commission published a new draft.",
+    "subject": "the Commission",
+    "predicate_type": "relates_to",
+    "object_text": "published a new draft",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In June 2006, the Commission published a new draft.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_process"
+    ],
+    "entities": [
+      "Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "40834cc5-faa7-4810-a4bd-32a0db897570",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The EC and EP discussed any suggested amendments to approve Level One texts.",
+    "subject": "The EC and EP",
+    "predicate_type": "relates_to",
+    "object_text": "discussed any suggested amendments to approve Level One texts",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The EC and EP discussed any suggested amendments to approve Level One texts.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_process"
+    ],
+    "entities": [
+      "EC",
+      "EP"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "96a68f7b-5241-447d-910a-eabee45937b4",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 was introduced under the Lamfalussy procedure, which was designed to accelerate the adoption of legislation based on a four-level approach recommended by the Committee of Wise Men.",
+    "subject": "MiFID 1",
+    "predicate_type": "implements",
+    "object_text": "the Lamfalussy procedure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 was introduced under the Lamfalussy procedure, which was designed to accelerate the adoption of legislation based on a four-level approach recommended by the Committee of Wise Men.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_process"
+    ],
+    "entities": [
+      "MiFID 1",
+      "Lamfalussy procedure",
+      "Committee of Wise Men"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6df7ead7-8c61-4b1a-bcba-8583dd3c70ad",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The Committee was chaired by Baron Alexandre Lamfalussy.",
+    "subject": "The Committee",
+    "predicate_type": "relates_to",
+    "object_text": "chaired by Baron Alexandre Lamfalussy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Committee was chaired by Baron Alexandre Lamfalussy.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_process"
+    ],
+    "entities": [
+      "Committee",
+      "Baron Alexandre Lamfalussy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "49e865aa-aa17-4d0f-ad75-0f1f97db4a77",
+    "chunk_id": "5bdcb941-18f3-4a56-a850-cea745a6f45c",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "There are three other \"Lamfalussy Directives\": the Prospectus Directive, the Market Abuse Directive, and the Transparency Directive.",
+    "subject": "Lamfalussy Directives",
+    "predicate_type": "classifies",
+    "object_text": "the Prospectus Directive, the Market Abuse Directive, and the Transparency Directive",
+    "object_value": 3.0,
+    "object_unit": null,
+    "source_text": "There are three other \"Lamfalussy Directives\": the Prospectus Directive, the Market Abuse Directive, and the Transparency Directive.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_framework"
+    ],
+    "entities": [
+      "Prospectus Directive",
+      "Market Abuse Directive",
+      "Transparency Directive"
+    ],
+    "regulations": [
+      "Prospectus Directive",
+      "Market Abuse Directive",
+      "Transparency Directive"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2c5b5fa0-9b7e-4c28-a504-486fc9be80ba",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2 and its accompanying implementing directive were transposed in full and on time, with minor exceptions.",
+    "subject": "MiFID 2",
+    "predicate_type": "implements",
+    "object_text": "transposed in full and on time, with minor exceptions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 2 and its accompanying implementing directive were transposed in full and on time, with minor exceptions.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f17041f5-d9b9-417d-8ece-23c72e8d926b",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The European Commission has published a transposition table linking to lists of national provisions which transpose directives.",
+    "subject": "European Commission",
+    "predicate_type": "relates_to",
+    "object_text": "a transposition table linking to lists of national provisions which transpose directives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The European Commission has published a transposition table linking to lists of national provisions which transpose directives.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [
+      "European Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "870ef907-6603-4283-bec5-4b78fc70ee26",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "National courts play an especially important role in the enforcement of the directive.",
+    "subject": "National courts",
+    "predicate_type": "relates_to",
+    "object_text": "an especially important role in the enforcement of the directive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "National courts play an especially important role in the enforcement of the directive.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b74bb805-804f-42ba-b796-216c751d349b",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "National courts are tasked with adjudicating cases involving breaches of MiFID 2 regulations.",
+    "subject": "National courts",
+    "predicate_type": "relates_to",
+    "object_text": "adjudicating cases involving breaches of MiFID 2 regulations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "National courts are tasked with adjudicating cases involving breaches of MiFID 2 regulations.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a22c1745-7015-4e2b-a3e3-34e2637a5f4b",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "National courts can impose sanctions, fines, and order corrective actions to ensure compliance.",
+    "subject": "National courts",
+    "predicate_type": "permits",
+    "object_text": "impose sanctions, fines, and order corrective actions to ensure compliance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "National courts can impose sanctions, fines, and order corrective actions to ensure compliance.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0a3969f-7073-4129-8fee-691626b11dd3",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Courts also interpret how MiFID 2 should be applied in specific national contexts, hence shaping the practical impact of the directive across different jurisdictions.",
+    "subject": "Courts",
+    "predicate_type": "relates_to",
+    "object_text": "interpret how MiFID 2 should be applied in specific national contexts, hence shaping the practical impact of the directive across different jurisdictions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Courts also interpret how MiFID 2 should be applied in specific national contexts, hence shaping the practical impact of the directive across different jurisdictions.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b775f077-70b4-4d93-af8c-a4102526fd13",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "This judicial oversight ensures that financial institutions adhere to MiFID 2\u2019s high standards.",
+    "subject": "judicial oversight",
+    "predicate_type": "causes",
+    "object_text": "financial institutions adhere to MiFID 2\u2019s high standards",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This judicial oversight ensures that financial institutions adhere to MiFID 2\u2019s high standards.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62741807-28ea-4cf0-90cc-407c7ef45be5",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The UK Financial Conduct Authority (FCA)\u2019s use of British courts to enforce financial regulations is a notable example of how national courts have dealt with several MiFID 2-related cases.",
+    "subject": "UK Financial Conduct Authority (FCA)",
+    "predicate_type": "relates_to",
+    "object_text": "use of British courts to enforce financial regulations is a notable example of how national courts have dealt with several MiFID 2-related cases",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The UK Financial Conduct Authority (FCA)\u2019s use of British courts to enforce financial regulations is a notable example of how national courts have dealt with several MiFID 2-related cases.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [
+      "UK Financial Conduct Authority",
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d095920e-6627-4e90-a405-10ae1647097d",
+    "chunk_id": "959411b1-e935-4bc3-85ba-0f4e0ddf1f10",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Germany\u2019s BaFin v. Deutsche Bank protected MiFD 2\u2019s regulations for German financial companies.",
+    "subject": "Germany\u2019s BaFin v. Deutsche Bank",
+    "predicate_type": "relates_to",
+    "object_text": "protected MiFD 2\u2019s regulations for German financial companies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Germany\u2019s BaFin v. Deutsche Bank protected MiFD 2\u2019s regulations for German financial companies.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation"
+    ],
+    "entities": [
+      "BaFin",
+      "Deutsche Bank",
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15f75066-9516-44d1-813a-509d8478c71f",
+    "chunk_id": "55d79797-c64c-4451-991b-e27ffb32e31e",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2 severely restricts asset managers' ability to obtain investment research with client commissions.",
+    "subject": "MiFID 2",
+    "predicate_type": "constrains",
+    "object_text": "asset managers' ability to obtain investment research with client commissions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 2 severely restricts asset managers' ability to obtain investment research with client commissions.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment research",
+      "financial regulation"
+    ],
+    "entities": [
+      "MiFID 2",
+      "asset managers"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "580b8c43-139c-4a8b-be35-f01ee752425f",
+    "chunk_id": "55d79797-c64c-4451-991b-e27ffb32e31e",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Best execution Directive 2014/65/EU requires that firms take all sufficient steps to obtain the best possible result in the execution of an order for a client.",
+    "subject": "Best execution Directive 2014/65/EU",
+    "predicate_type": "requires",
+    "object_text": "that firms take all sufficient steps to obtain the best possible result in the execution of an order for a client",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Best execution Directive 2014/65/EU requires that firms take all sufficient steps to obtain the best possible result in the execution of an order for a client.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "best execution",
+      "order execution"
+    ],
+    "entities": [
+      "Best execution Directive 2014/65/EU",
+      "firms"
+    ],
+    "regulations": [
+      "Directive 2014/65/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1d68504c-9863-4eb2-878d-72a1b7c40e88",
+    "chunk_id": "55d79797-c64c-4451-991b-e27ffb32e31e",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The best possible result is not limited to execution price but also includes cost, speed, the likelihood of execution and likelihood of settlement and any other factors deemed relevant.",
+    "subject": "best possible result",
+    "predicate_type": "defines",
+    "object_text": "not limited to execution price but also includes cost, speed, the likelihood of execution and likelihood of settlement and any other factors deemed relevant",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The best possible result is not limited to execution price but also includes cost, speed, the likelihood of execution and likelihood of settlement and any other factors deemed relevant.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "best execution",
+      "order execution"
+    ],
+    "entities": [],
+    "regulations": [
+      "Directive 2014/65/EU"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "653639c2-f5ae-4c0a-bda8-b6f6e2560295",
+    "chunk_id": "55d79797-c64c-4451-991b-e27ffb32e31e",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2's \"all sufficient steps\" test sets a somewhat higher standard than the previous \"all reasonable steps\" standard in MiFID 1.",
+    "subject": "MiFID 2's \"all sufficient steps\" test",
+    "predicate_type": "supersedes",
+    "object_text": "the previous \"all reasonable steps\" standard in MiFID 1",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 2's \"all sufficient steps\" test sets a somewhat higher standard than the previous \"all reasonable steps\" standard in MiFID 1.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "best execution",
+      "regulatory compliance"
+    ],
+    "entities": [
+      "MiFID 2",
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 2",
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dd10fbf2-f81b-47d0-92a8-4b6457832b26",
+    "chunk_id": "55d79797-c64c-4451-991b-e27ffb32e31e",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "A Systematic Internaliser is a firm that executes orders from its clients against its own book or against orders from other clients.",
+    "subject": "Systematic Internaliser",
+    "predicate_type": "defines",
+    "object_text": "a firm that executes orders from its clients against its own book or against orders from other clients",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A Systematic Internaliser is a firm that executes orders from its clients against its own book or against orders from other clients.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market structure",
+      "order execution"
+    ],
+    "entities": [
+      "Systematic Internaliser",
+      "firms"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "22c2e6df-2ad4-4a81-bf62-3a18fb75bfe7",
+    "chunk_id": "55d79797-c64c-4451-991b-e27ffb32e31e",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2 will treat Systematic Internalisers as mini-exchanges",
+    "subject": "MiFID 2",
+    "predicate_type": "classifies",
+    "object_text": "Systematic Internalisers as mini-exchanges",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 2 will treat Systematic Internalisers as mini-exchanges",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market structure",
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 2",
+      "Systematic Internalisers"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59629821-e7bf-462a-8740-5fc150cde0b8",
+    "chunk_id": "55d79797-c64c-4451-991b-e27ffb32e31e",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Systematic Internalisers will be subject to pre-trade and post-trade transparency requirements.",
+    "subject": "Systematic Internalisers",
+    "predicate_type": "requires",
+    "object_text": "pre-trade and post-trade transparency requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systematic Internalisers will be subject to pre-trade and post-trade transparency requirements.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market transparency",
+      "regulation"
+    ],
+    "entities": [
+      "Systematic Internalisers"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eafa6dae-0c21-4966-a764-00d6f9b48ef2",
+    "chunk_id": "32b4e52d-e44f-4949-8eaa-bdf05e6ffd92",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2 came into force on the revised date of 3 January 2018.",
+    "subject": "MiFID 2",
+    "predicate_type": "implements",
+    "object_text": "into force on the revised date of 3 January 2018",
+    "object_value": 2018.0,
+    "object_unit": null,
+    "source_text": "MiFID 2 came into force on the revised date of 3 January 2018.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae9b1eaa-28c3-40c9-af13-1d1bfe1c0e97",
+    "chunk_id": "32b4e52d-e44f-4949-8eaa-bdf05e6ffd92",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Some analysts believe the impact of MiFID 2 will lead to global investment research expenditures falling by as much as $1.5 billion annually when the rules come into force.",
+    "subject": "MiFID 2",
+    "predicate_type": "causes",
+    "object_text": "global investment research expenditures falling by as much as $1.5 billion annually when the rules come into force",
+    "object_value": 1.5,
+    "object_unit": "billion",
+    "source_text": "Some analysts believe the impact of MiFID 2 will lead to global investment research expenditures falling by as much as $1.5 billion annually when the rules come into force.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment research",
+      "expenditures"
+    ],
+    "entities": [
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "585af8e8-8dbb-4a54-8147-b8674c9ebd4e",
+    "chunk_id": "32b4e52d-e44f-4949-8eaa-bdf05e6ffd92",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Intercontinental Exchange announced plans to transfer trading in 245 energy futures contracts from London to the US.",
+    "subject": "Intercontinental Exchange",
+    "predicate_type": "relates_to",
+    "object_text": "plans to transfer trading in 245 energy futures contracts from London to the US",
+    "object_value": 245.0,
+    "object_unit": null,
+    "source_text": "Intercontinental Exchange announced plans to transfer trading in 245 energy futures contracts from London to the US.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "trading",
+      "energy futures"
+    ],
+    "entities": [
+      "Intercontinental Exchange"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6fa349fe-c59b-4790-b732-c45fb6f98428",
+    "chunk_id": "32b4e52d-e44f-4949-8eaa-bdf05e6ffd92",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The transfer puts transactions under the oversight of US, rather than European, regulators.",
+    "subject": "transfer",
+    "predicate_type": "relates_to",
+    "object_text": "puts transactions under the oversight of US, rather than European, regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The transfer puts transactions under the oversight of US, rather than European, regulators.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8857d64f-f4ea-47d7-ba13-5f92cab197a5",
+    "chunk_id": "32b4e52d-e44f-4949-8eaa-bdf05e6ffd92",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "By 3 March 2021, the European Commission will need to present a report to the European Parliament and Council on the functioning of the directive.",
+    "subject": "European Commission",
+    "predicate_type": "requires",
+    "object_text": "to present a report to the European Parliament and Council on the functioning of the directive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By 3 March 2021, the European Commission will need to present a report to the European Parliament and Council on the functioning of the directive.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reporting"
+    ],
+    "entities": [
+      "European Commission",
+      "European Parliament",
+      "Council"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "49b23b1b-877a-4a84-b62d-5beee77722cd",
+    "chunk_id": "32b4e52d-e44f-4949-8eaa-bdf05e6ffd92",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The report will cover a broad range of issues, including the impact of requirements regarding algorithmic trading and the development in prices for pre and post trade transparency data.",
+    "subject": "report",
+    "predicate_type": "relates_to",
+    "object_text": "cover a broad range of issues, including the impact of requirements regarding algorithmic trading and the development in prices for pre and post trade transparency data",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The report will cover a broad range of issues, including the impact of requirements regarding algorithmic trading and the development in prices for pre and post trade transparency data.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "algorithmic trading",
+      "transparency",
+      "market data"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5420bae9-7c69-43b4-8658-f343b3838cd9",
+    "chunk_id": "32b4e52d-e44f-4949-8eaa-bdf05e6ffd92",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The European Securities and Markets Authority is to support the Commission with this exercise.",
+    "subject": "European Securities and Markets Authority",
+    "predicate_type": "relates_to",
+    "object_text": "to support the Commission with this exercise",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The European Securities and Markets Authority is to support the Commission with this exercise.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "European Securities and Markets Authority",
+      "Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8a1b619b-4f25-4b4a-b55c-154bdb7bb468",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 was a cornerstone of the European Commission's Financial Services Action Plan.",
+    "subject": "MiFID 1",
+    "predicate_type": "relates_to",
+    "object_text": "cornerstone of the European Commission's Financial Services Action Plan",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 was a cornerstone of the European Commission's Financial Services Action Plan.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1",
+      "European Commission"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "325145a3-d578-4da1-94dd-1d63301576e1",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The European Commission's Financial Services Action Plan changed how EU financial service markets operate.",
+    "subject": "European Commission's Financial Services Action Plan",
+    "predicate_type": "causes",
+    "object_text": "changed how EU financial service markets operate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The European Commission's Financial Services Action Plan changed how EU financial service markets operate.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_markets"
+    ],
+    "entities": [
+      "European Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cadebe34-4e10-4fd3-b59b-2344b7f4702a",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 is the most significant piece of legislation introduced in the Lamfalussy process.",
+    "subject": "MiFID 1",
+    "predicate_type": "relates_to",
+    "object_text": "the most significant piece of legislation introduced in the Lamfalussy process",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 is the most significant piece of legislation introduced in the Lamfalussy process.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d493dd3f-85f8-4a7b-8318-a7789c9afae9",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The Lamfalussy process was designed to accelerate the adoption of legislation based on a four-level approach recommended by the Committee of Wise Men chaired by Baron Alexandre Lamfalussy.",
+    "subject": "Lamfalussy process",
+    "predicate_type": "relates_to",
+    "object_text": "designed to accelerate the adoption of legislation based on a four-level approach recommended by the Committee of Wise Men chaired by Baron Alexandre Lamfalussy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Lamfalussy process was designed to accelerate the adoption of legislation based on a four-level approach recommended by the Committee of Wise Men chaired by Baron Alexandre Lamfalussy.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Committee of Wise Men",
+      "Baron Alexandre Lamfalussy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "364aa87d-a838-46db-9528-da320c3d1998",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Directive 2003/71/EC was replaced with Regulation (EU) 2017/1129 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market.",
+    "subject": "Directive 2003/71/EC",
+    "predicate_type": "supersedes",
+    "object_text": "Regulation (EU) 2017/1129 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Directive 2003/71/EC was replaced with Regulation (EU) 2017/1129 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "prospectus",
+      "securities"
+    ],
+    "entities": [
+      "Directive 2003/71/EC",
+      "Regulation (EU) 2017/1129"
+    ],
+    "regulations": [
+      "Directive 2003/71/EC",
+      "Regulation (EU) 2017/1129"
+    ],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfc3c9d3-a8ae-41d0-aa30-c49d68bd377f",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Directive 93/22/EEC introduced the principles of the EU \"passport\".",
+    "subject": "Directive 93/22/EEC",
+    "predicate_type": "implements",
+    "object_text": "the principles of the EU \"passport\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Directive 93/22/EEC introduced the principles of the EU \"passport\".",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Directive 93/22/EEC"
+    ],
+    "regulations": [
+      "Directive 93/22/EEC"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5b50f143-bbca-4d57-bfb4-7855e2d5102c",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 retained the principles of the EU \"passport\" introduced by Directive 93/22/EEC.",
+    "subject": "MiFID 1",
+    "predicate_type": "relates_to",
+    "object_text": "retained the principles of the EU \"passport\" introduced by Directive 93/22/EEC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 retained the principles of the EU \"passport\" introduced by Directive 93/22/EEC.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1",
+      "Directive 93/22/EEC"
+    ],
+    "regulations": [
+      "MiFID 1",
+      "Directive 93/22/EEC"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5fbd9529-4d82-4503-9627-535d83a60b2a",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 introduced the concept of \"maximum harmonization\".",
+    "subject": "MiFID 1",
+    "predicate_type": "implements",
+    "object_text": "the concept of \"maximum harmonization\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 introduced the concept of \"maximum harmonization\".",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "492387ee-35d1-498f-a5d8-1132ee3599c8",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "\"Maximum harmonization\" places more emphasis on home state supervision.",
+    "subject": "\"Maximum harmonization\"",
+    "predicate_type": "relates_to",
+    "object_text": "places more emphasis on home state supervision",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "\"Maximum harmonization\" places more emphasis on home state supervision.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "24601451-7a9f-4427-8a0e-a6315593afed",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Prior EU financial service legislation featured a \"minimum harmonization and mutual recognition\" concept.",
+    "subject": "Prior EU financial service legislation",
+    "predicate_type": "relates_to",
+    "object_text": "featured a \"minimum harmonization and mutual recognition\" concept",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Prior EU financial service legislation featured a \"minimum harmonization and mutual recognition\" concept.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2db0fa0c-f76f-45f9-87e8-d2226090f656",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "\"Maximum harmonization\" does not permit states to be \"super equivalent\" or to \"gold-plate\" EU requirements detrimental to a \"level playing field\".",
+    "subject": "\"Maximum harmonization\"",
+    "predicate_type": "prohibits",
+    "object_text": "states to be \"super equivalent\" or to \"gold-plate\" EU requirements detrimental to a \"level playing field\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "\"Maximum harmonization\" does not permit states to be \"super equivalent\" or to \"gold-plate\" EU requirements detrimental to a \"level playing field\".",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2068e792-1bee-4639-971f-9d318779f100",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Member states could require investment firms to route client orders through regulated markets under the \"concentration rule\".",
+    "subject": "member states",
+    "predicate_type": "permits",
+    "object_text": "require investment firms to route client orders through regulated markets under the \"concentration rule\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Member states could require investment firms to route client orders through regulated markets under the \"concentration rule\".",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b5915faf-1f1d-4916-8d21-e1292cc9be18",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 set out a detailed framework for the legislation.",
+    "subject": "MiFID 1",
+    "predicate_type": "relates_to",
+    "object_text": "a detailed framework for the legislation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 set out a detailed framework for the legislation.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b3528868-6fa4-4fbc-b592-c848630a20c2",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Twenty articles of MiFID 1 specified technical implementation measures (Level 2).",
+    "subject": "articles of MiFID 1",
+    "predicate_type": "relates_to",
+    "object_text": "specified technical implementation measures (Level 2)",
+    "object_value": 20.0,
+    "object_unit": null,
+    "source_text": "Twenty articles of MiFID 1 specified technical implementation measures (Level 2).",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4b8430df-b2f1-4970-9e7e-3b18c61ee259",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The European Commission adopted technical implementation measures based on technical advice from the Committee of European Securities Regulators and negotiations in the European Securities Committee, with oversight by the European Parliament.",
+    "subject": "European Commission",
+    "predicate_type": "implements",
+    "object_text": "technical implementation measures based on technical advice from the Committee of European Securities Regulators and negotiations in the European Securities Committee, with oversight by the European Parliament",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The European Commission adopted technical implementation measures based on technical advice from the Committee of European Securities Regulators and negotiations in the European Securities Committee, with oversight by the European Parliament.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "European Commission",
+      "Committee of European Securities Regulators",
+      "European Securities Committee",
+      "European Parliament"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "744d6ddb-9532-4293-bffd-299174592832",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Implementation measures in the form of a Commission Directive and Commission Regulation were officially published on 2 September 2006.",
+    "subject": "Implementation measures",
+    "predicate_type": "relates_to",
+    "object_text": "in the form of a Commission Directive and Commission Regulation were officially published on 2 September 2006",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implementation measures in the form of a Commission Directive and Commission Regulation were officially published on 2 September 2006.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Commission Directive",
+      "Commission Regulation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "edf77991-af8e-4b0c-a0a9-dd41d3346a4b",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 was intended to be reviewed after its initial implementation.",
+    "subject": "MiFID 1",
+    "predicate_type": "relates_to",
+    "object_text": "intended to be reviewed after its initial implementation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 was intended to be reviewed after its initial implementation.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b5bf7eb-4d24-4e8f-b387-351db0f43835",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The European Parliament approved both MiFID 2, an updated version of MiFID 1, and its accompanying Regulation (EU) No 600/2014 in April 2014.",
+    "subject": "European Parliament",
+    "predicate_type": "relates_to",
+    "object_text": "approved both MiFID 2, an updated version of MiFID 1, and its accompanying Regulation (EU) No 600/2014",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The European Parliament approved both MiFID 2, an updated version of MiFID 1, and its accompanying Regulation (EU) No 600/2014 in April 2014.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "European Parliament",
+      "MiFID 2",
+      "MiFID 1",
+      "Regulation (EU) No 600/2014"
+    ],
+    "regulations": [
+      "MiFID 2",
+      "MiFID 1",
+      "Regulation (EU) No 600/2014"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "18c898e7-73ed-4dbb-9e9e-e64c9d4f6742",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2 is an updated version of MiFID 1.",
+    "subject": "MiFID 2",
+    "predicate_type": "supersedes",
+    "object_text": "an updated version of MiFID 1",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 2 is an updated version of MiFID 1.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 2",
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 2",
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7bc74f00-cf13-4583-b0db-bf4400e0fba6",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The directive and regulation include fewer exemptions.",
+    "subject": "directive and regulation",
+    "predicate_type": "relates_to",
+    "object_text": "include fewer exemptions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The directive and regulation include fewer exemptions.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "994df7e7-7410-4d5d-91b3-afbfba193afe",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The directive and regulation expand the scope of MiFID 1 to cover a larger group of companies and financial products.",
+    "subject": "directive and regulation",
+    "predicate_type": "relates_to",
+    "object_text": "expand the scope of MiFID 1 to cover a larger group of companies and financial products",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The directive and regulation expand the scope of MiFID 1 to cover a larger group of companies and financial products.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9f3056ea-5b92-43ee-b681-1fd672558c25",
+    "chunk_id": "ff631749-677a-435b-b819-151daa7c3068",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Both MiFID 2 and Regulation (EU) No 600/2014 have been effective from 3 January 2018.",
+    "subject": "MiFID 2 and Regulation (EU) No 600/2014",
+    "predicate_type": "relates_to",
+    "object_text": "have been effective from 3 January 2018",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Both MiFID 2 and Regulation (EU) No 600/2014 have been effective from 3 January 2018.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "MiFID 2",
+      "Regulation (EU) No 600/2014"
+    ],
+    "regulations": [
+      "MiFID 2",
+      "Regulation (EU) No 600/2014"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1edb3db-5024-4a5a-8b49-600a0b1f064e",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Firms covered by MiFID 1 will be authorised and regulated in their \"home state\".",
+    "subject": "firms covered by MiFID 1",
+    "predicate_type": "requires",
+    "object_text": "to be authorised and regulated in their \"home state\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Firms covered by MiFID 1 will be authorised and regulated in their \"home state\".",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fec58ce1-7038-4f1c-b62e-dd9fdb104486",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Once a firm has been authorised, it will be able to use the MiFID 1 passport to provide services to customers in other EU member states.",
+    "subject": "a firm",
+    "predicate_type": "permits",
+    "object_text": "to use the MiFID 1 passport to provide services to customers in other EU member states once authorised",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Once a firm has been authorised, it will be able to use the MiFID 1 passport to provide services to customers in other EU member states.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1fb59893-98df-47b0-a967-0c3f50600328",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "These services will be regulated by the member state in their \"home state\".",
+    "subject": "services",
+    "predicate_type": "requires",
+    "object_text": "to be regulated by the member state in their \"home state\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These services will be regulated by the member state in their \"home state\".",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a30a6140-2533-4760-967e-0c911540d4a9",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 requires firms to categorise clients as \"eligible counterparties\", professional clients, or retail clients.",
+    "subject": "MiFID 1",
+    "predicate_type": "requires",
+    "object_text": "firms to categorise clients as \"eligible counterparties\", professional clients, or retail clients",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 requires firms to categorise clients as \"eligible counterparties\", professional clients, or retail clients.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "client categorization"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "16dcbbc1-4b01-4985-a414-5c7236f38135",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Clear procedures must be in place to categorise clients and assess their suitability for each type of investment product.",
+    "subject": "procedures",
+    "predicate_type": "requires",
+    "object_text": "to be in place to categorise clients and assess their suitability for each type of investment product",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Clear procedures must be in place to categorise clients and assess their suitability for each type of investment product.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "client categorization",
+      "suitability assessment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "585be4f5-5b96-44d6-a91e-680146ff861a",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The appropriateness of any investment advice or suggested financial transaction must still be verified before being given.",
+    "subject": "appropriateness of any investment advice or suggested financial transaction",
+    "predicate_type": "requires",
+    "object_text": "to be verified before being given",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The appropriateness of any investment advice or suggested financial transaction must still be verified before being given.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment advice",
+      "financial transactions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "941d4ab1-a576-4ff7-8bd5-08dfe7a92d21",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 has requirements relating to the information that needs to be captured when accepting client orders.",
+    "subject": "MiFID 1",
+    "predicate_type": "requires",
+    "object_text": "information that needs to be captured when accepting client orders",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 has requirements relating to the information that needs to be captured when accepting client orders.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "client order handling"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "21d8ce68-76f9-44d1-a1cf-7dd4b411f8a3",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 has requirements relating to ensuring that a firm is acting in a client's best interests.",
+    "subject": "MiFID 1",
+    "predicate_type": "requires",
+    "object_text": "ensuring that a firm is acting in a client's best interests",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 has requirements relating to ensuring that a firm is acting in a client's best interests.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "client order handling"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2f1d138-fe58-4914-a6a8-79ba65780207",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 has requirements as to how orders from different clients may be aggregated.",
+    "subject": "MiFID 1",
+    "predicate_type": "requires",
+    "object_text": "how orders from different clients may be aggregated",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 has requirements as to how orders from different clients may be aggregated.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "client order handling"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a9a7675-bad9-47c5-91eb-1b477b250383",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 requires that operators of continuous order-matching systems must make aggregated order information on \"liquid shares\" available at the five best price levels on the buy and sell-side.",
+    "subject": "MiFID 1",
+    "predicate_type": "requires",
+    "object_text": "operators of continuous order-matching systems must make aggregated order information on \"liquid shares\" available at the five best price levels on the buy and sell-side",
+    "object_value": 5.0,
+    "object_unit": null,
+    "source_text": "MiFID 1 requires that operators of continuous order-matching systems must make aggregated order information on \"liquid shares\" available at the five best price levels on the buy and sell-side.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "pre-trade transparency"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "57a53cea-81a8-4a72-b4f5-d3dfca623b8b",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "For quote-driven markets, the best bids and offers of market makers must be made available.",
+    "subject": "best bids and offers of market makers",
+    "predicate_type": "requires",
+    "object_text": "to be made available",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For quote-driven markets, the best bids and offers of market makers must be made available.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "pre-trade transparency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "54b4e3fe-c646-4da7-896b-c4096b55be51",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Under Article 65(1) of MiFID 1, the European Commission is due to submit a report to the European Parliament and to the Council on extending pre and post-trade transparency requirements to transactions in financial instruments other than shares by October 2007.",
+    "subject": "European Commission",
+    "predicate_type": "requires",
+    "object_text": "to submit a report to the European Parliament and to the Council on extending pre and post-trade transparency requirements to transactions in financial instruments other than shares by October 2007",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Under Article 65(1) of MiFID 1, the European Commission is due to submit a report to the European Parliament and to the Council on extending pre and post-trade transparency requirements to transactions in financial instruments other than shares by October 2007.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "pre-trade transparency",
+      "post-trade transparency"
+    ],
+    "entities": [
+      "European Commission",
+      "European Parliament",
+      "Council",
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "808bdb47-a489-4812-aa23-4a7b65caa2c4",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 requires firms to publish the price, volume, and time of all trades in listed shares, even if executed outside of a regulated market, unless certain requirements are met to allow for deferred publication.",
+    "subject": "MiFID 1",
+    "predicate_type": "requires",
+    "object_text": "firms to publish the price, volume, and time of all trades in listed shares, even if executed outside of a regulated market, unless certain requirements are met to allow for deferred publication",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 requires firms to publish the price, volume, and time of all trades in listed shares, even if executed outside of a regulated market, unless certain requirements are met to allow for deferred publication.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "post-trade transparency"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "86ff51a7-33ee-4c6e-9626-4c766e16fc0a",
+    "chunk_id": "17f20cda-f4ac-437d-bc89-86db3a3e3840",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Directive 2014/65/EU requires that firms take all sufficient steps to obtain the best possible result in the execution of an order for a client.",
+    "subject": "Directive 2014/65/EU",
+    "predicate_type": "requires",
+    "object_text": "firms take all sufficient steps to obtain the best possible result in the execution of an order for a client",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Directive 2014/65/EU requires that firms take all sufficient steps to obtain the best possible result in the execution of an order for a client.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "best execution"
+    ],
+    "entities": [],
+    "regulations": [
+      "Directive 2014/65/EU"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae712c7b-54ea-488c-929f-f2f69ec6f0b8",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "In April 2010, CESR issued consultation papers on MiFID 2 review.",
+    "subject": "CESR",
+    "predicate_type": "relates_to",
+    "object_text": "consultation papers on MiFID 2 review",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In April 2010, CESR issued consultation papers on MiFID 2 review.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "CESR",
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb64faa3-c002-4802-ac48-7bd1c3439a8d",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The consultation period was short and ended on 31 May 2010.",
+    "subject": "consultation period",
+    "predicate_type": "relates_to",
+    "object_text": "ended on 31 May 2010",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The consultation period was short and ended on 31 May 2010.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e57645a3-40c9-46ab-94cc-890074b548e3",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "There was one day of open hearings in Paris on 17 May 2010.",
+    "subject": "open hearings",
+    "predicate_type": "relates_to",
+    "object_text": "one day of open hearings in Paris",
+    "object_value": 1.0,
+    "object_unit": "days",
+    "source_text": "There was one day of open hearings in Paris on 17 May 2010.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb74f8a4-43f2-4dcf-b2bb-6ccc07ef28f3",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "On 8 December 2010, the European Commission released a substantial public consultation relating to the review of MiFID 2, accompanied by a press release and frequently asked questions.",
+    "subject": "European Commission",
+    "predicate_type": "relates_to",
+    "object_text": "released a substantial public consultation relating to the review of MiFID 2, accompanied by a press release and frequently asked questions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 8 December 2010, the European Commission released a substantial public consultation relating to the review of MiFID 2, accompanied by a press release and frequently asked questions.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "European Commission",
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9f6bc503-7dea-48bf-a9ac-ff32979c6512",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The public consultation period was scheduled to close on 2 February 2011.",
+    "subject": "public consultation period",
+    "predicate_type": "relates_to",
+    "object_text": "scheduled to close on 2 February 2011",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The public consultation period was scheduled to close on 2 February 2011.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dde89f4f-652c-4cd6-ac51-f3bf5075590c",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "On 26 May 2011, the Commission was reported to be working to present its proposals before the end of 2011.",
+    "subject": "Commission",
+    "predicate_type": "relates_to",
+    "object_text": "working to present its proposals before the end of 2011",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 26 May 2011, the Commission was reported to be working to present its proposals before the end of 2011.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "19f6adce-2b78-44c6-90e4-ba95800082fd",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "On 20 October 2011, the European Commission adopted formal proposals for a \"Directive on markets in financial instruments repealing MiFID 1 of the European Parliament and of the Council\", and for a \"Regulation on markets in financial instruments\", which would also amend Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories.",
+    "subject": "European Commission",
+    "predicate_type": "relates_to",
+    "object_text": "adopted formal proposals for a \"Directive on markets in financial instruments repealing MiFID 1 of the European Parliament and of the Council\", and for a \"Regulation on markets in financial instruments\", which would also amend Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 20 October 2011, the European Commission adopted formal proposals for a \"Directive on markets in financial instruments repealing MiFID 1 of the European Parliament and of the Council\", and for a \"Regulation on markets in financial instruments\", which would also amend Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "European Commission",
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1",
+      "Regulation (EU) No 648/2012"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05066a2b-13ac-4379-8a70-f7cb61ee9786",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "In March 2012, MEP Markus Ferber suggested amendments to the European Commission's proposals, intended to strengthen restrictions on high-frequency trading and commodity price manipulation.",
+    "subject": "MEP Markus Ferber",
+    "predicate_type": "relates_to",
+    "object_text": "suggested amendments to the European Commission's proposals, intended to strengthen restrictions on high-frequency trading and commodity price manipulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In March 2012, MEP Markus Ferber suggested amendments to the European Commission's proposals, intended to strengthen restrictions on high-frequency trading and commodity price manipulation.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "high-frequency trading",
+      "commodity price manipulation"
+    ],
+    "entities": [
+      "MEP Markus Ferber",
+      "European Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23a73c19-7848-44cf-abcb-13b3de3f1b00",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The Association for Financial Markets in Europe (AFME)'s formal response to Ferber particularly cited concern with the requirement that all algorithms run continuously as this would preclude the use of broker algorithms to execute client orders.",
+    "subject": "Association for Financial Markets in Europe (AFME)",
+    "predicate_type": "relates_to",
+    "object_text": "formal response to Ferber particularly cited concern with the requirement that all algorithms run continuously as this would preclude the use of broker algorithms to execute client orders",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Association for Financial Markets in Europe (AFME)'s formal response to Ferber particularly cited concern with the requirement that all algorithms run continuously as this would preclude the use of broker algorithms to execute client orders.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "algorithmic trading"
+    ],
+    "entities": [
+      "Association for Financial Markets in Europe (AFME)",
+      "Ferber"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a192366-a204-45cb-8f8e-04010ed97e9a",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The creation of the Organized Trading Facility (OTF) rules have also caused concern because of their proposed ban on proprietary trading in broker crossing networks, which would prevent brokers from using their pools to unwind risk on behalf of a client or the bank itself.",
+    "subject": "Organized Trading Facility (OTF) rules",
+    "predicate_type": "relates_to",
+    "object_text": "caused concern because of their proposed ban on proprietary trading in broker crossing networks, which would prevent brokers from using their pools to unwind risk on behalf of a client or the bank itself",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The creation of the Organized Trading Facility (OTF) rules have also caused concern because of their proposed ban on proprietary trading in broker crossing networks, which would prevent brokers from using their pools to unwind risk on behalf of a client or the bank itself.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "proprietary trading"
+    ],
+    "entities": [
+      "Organized Trading Facility (OTF)"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e0e5d8a9-e58b-4858-9175-e3e3b5964616",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "Both MiFID 2 and Regulation (EU) No 600/2014 entered into force on 2 July 2014.",
+    "subject": "MiFID 2 and Regulation (EU) No 600/2014",
+    "predicate_type": "relates_to",
+    "object_text": "entered into force on 2 July 2014",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Both MiFID 2 and Regulation (EU) No 600/2014 entered into force on 2 July 2014.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "MiFID 2",
+      "Regulation (EU) No 600/2014"
+    ],
+    "regulations": [
+      "MiFID 2",
+      "Regulation (EU) No 600/2014"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5be86cfc-c3f9-44d5-b44d-48e9b5f5e13a",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2 replaced MiFID 1",
+    "subject": "MiFID 2",
+    "predicate_type": "supersedes",
+    "object_text": "MiFID 1",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 2 replaced MiFID 1",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "MiFID 2",
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 2",
+      "MiFID 1"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cad86b88-d11f-4dc7-a65d-80d877b1ac5e",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 1 replaced Directive 93/22/EEC.",
+    "subject": "MiFID 1",
+    "predicate_type": "supersedes",
+    "object_text": "Directive 93/22/EEC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 1 replaced Directive 93/22/EEC.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "MiFID 1"
+    ],
+    "regulations": [
+      "MiFID 1",
+      "Directive 93/22/EEC"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c07bb73d-7c9c-4334-992c-ef68aec4a452",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2 is complemented by Regulation (EU) No. 600/2014 on markets in financial instruments",
+    "subject": "MiFID 2",
+    "predicate_type": "relates_to",
+    "object_text": "Regulation (EU) No. 600/2014 on markets in financial instruments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 2 is complemented by Regulation (EU) No. 600/2014 on markets in financial instruments",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "MiFID 2",
+      "Regulation (EU) No. 600/2014"
+    ],
+    "regulations": [
+      "MiFID 2",
+      "Regulation (EU) No. 600/2014"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e76899ca-382e-46fe-b9c6-e74128d36ee9",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The initial date for implementation by the Member States was 3 January 2017, however, in February 2016 the European Commission delayed this until 3 January 2018 to allow for the building of IT systems to enable enforcement of the new package.",
+    "subject": "implementation by the Member States",
+    "predicate_type": "relates_to",
+    "object_text": "initial date for implementation was 3 January 2017, delayed until 3 January 2018",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The initial date for implementation by the Member States was 3 January 2017, however, in February 2016 the European Commission delayed this until 3 January 2018 to allow for the building of IT systems to enable enforcement of the new package.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "European Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac5742e7-a3dc-47da-a057-d7db13040de8",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "The European Commission delayed the implementation date until 3 January 2018 to allow for the building of IT systems to enable enforcement of the new package.",
+    "subject": "European Commission",
+    "predicate_type": "causes",
+    "object_text": "delayed the implementation date until 3 January 2018 to allow for the building of IT systems to enable enforcement of the new package",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The European Commission delayed the implementation date until 3 January 2018 to allow for the building of IT systems to enable enforcement of the new package.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "European Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ef1d0560-9fef-4c09-b857-57c94d164c61",
+    "chunk_id": "fd6b13ae-e411-4078-9d80-ade0f20ddc20",
+    "document_id": "Markets_in_Financial_Instruments_Directive_2014",
+    "claim_text": "MiFID 2 came into force on the revised date of 3 January 2018.",
+    "subject": "MiFID 2",
+    "predicate_type": "relates_to",
+    "object_text": "came into force on the revised date of 3 January 2018",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "MiFID 2 came into force on the revised date of 3 January 2018.",
+    "source_document": "Markets in Financial Instruments Directive 2014",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "MiFID 2"
+    ],
+    "regulations": [
+      "MiFID 2"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

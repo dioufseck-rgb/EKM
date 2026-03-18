@@ -1,0 +1,2519 @@
+[
+  {
+    "assertion_id": "df6a4f24-43c4-494b-a424-df5ed2687203",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "In late July 2016, after the world markets had faced a number of crises, including terrorism and the UK's decision to leave the European Union, Carney sent a letter to Finance Ministers attending the G20 Summit and to Central Bank Governors outlining the reforms the FSB had made.",
+    "subject": "Carney",
+    "predicate_type": "relates_to",
+    "object_text": "sent a letter to Finance Ministers attending the G20 Summit and to Central Bank Governors outlining the reforms the FSB had made",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In late July 2016, after the world markets had faced a number of crises, including terrorism and the UK's decision to leave the European Union, Carney sent a letter to Finance Ministers attending the G20 Summit and to Central Bank Governors outlining the reforms the FSB had made.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability",
+      "international_cooperation"
+    ],
+    "entities": [
+      "Financial Stability Board",
+      "G20"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "045d7ada-fb1b-4dd3-85fd-50776b63fe13",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The global economy and financial system had \"continued to function effectively\" and had \"weathered\" the \"spikes in uncertainty and risk aversion\".",
+    "subject": "global economy and financial system",
+    "predicate_type": "relates_to",
+    "object_text": "had \"continued to function effectively\" and had \"weathered\" the \"spikes in uncertainty and risk aversion\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The global economy and financial system had \"continued to function effectively\" and had \"weathered\" the \"spikes in uncertainty and risk aversion\".",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0ba14d7f-d0af-4843-8dc0-78b5a7080ae5",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Resilience in the face of stress demonstrates the enduring benefits of G20 post-crisis reforms.",
+    "subject": "Resilience in the face of stress",
+    "predicate_type": "relates_to",
+    "object_text": "demonstrates the enduring benefits of G20 post-crisis reforms",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Resilience in the face of stress demonstrates the enduring benefits of G20 post-crisis reforms.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_reform"
+    ],
+    "entities": [
+      "G20"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9968bb9a-012f-45f6-a2a2-9676859a4187",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB published the pre-G20 summit letter in light of the \"two spikes in uncertainty and risk aversion\" weathered by the global economy and financial system as of late July 2016.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "published the pre-G20 summit letter in light of the \"two spikes in uncertainty and risk aversion\" weathered by the global economy and financial system as of late July 2016",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSB published the pre-G20 summit letter in light of the \"two spikes in uncertainty and risk aversion\" weathered by the global economy and financial system as of late July 2016.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "FSB",
+      "G20"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "673af70d-6ae2-4d71-9413-773b38bb416c",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB sought to promote a coordinated program of reforms to deliver resilient sources of market-based finance, including addressing structural vulnerabilities associated with asset management.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "promote a coordinated program of reforms to deliver resilient sources of market-based finance, including addressing structural vulnerabilities associated with asset management",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSB sought to promote a coordinated program of reforms to deliver resilient sources of market-based finance, including addressing structural vulnerabilities associated with asset management.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_reform",
+      "asset_management"
+    ],
+    "entities": [
+      "FSB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da48b506-f898-4ab1-be26-aa508bf077bd",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB sought to develop robust financial market infrastructure, including assessing policies on central counterparty resilience, recovery, and resolvability, and recommending any necessary improvements.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "develop robust financial market infrastructure, including assessing policies on central counterparty resilience, recovery, and resolvability, and recommending any necessary improvements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSB sought to develop robust financial market infrastructure, including assessing policies on central counterparty resilience, recovery, and resolvability, and recommending any necessary improvements.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_market_infrastructure",
+      "central_counterparties"
+    ],
+    "entities": [
+      "FSB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f3c6cbc8-b889-48b3-a76a-8ef80dab088b",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB sought to support effective macroprudential arrangements by drawing lessons from countries that have applied macroprudential policy frameworks and tools, working in partnership with the International Monetary Fund and Bank for International Settlements.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "support effective macroprudential arrangements by drawing lessons from countries that have applied macroprudential policy frameworks and tools, working in partnership with the International Monetary Fund and Bank for International Settlements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSB sought to support effective macroprudential arrangements by drawing lessons from countries that have applied macroprudential policy frameworks and tools, working in partnership with the International Monetary Fund and Bank for International Settlements.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "macroprudential_policy"
+    ],
+    "entities": [
+      "FSB",
+      "International Monetary Fund",
+      "Bank for International Settlements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cc3b9198-6740-4b43-a720-c316b70bb417",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB also sought to pursue the full and consistent implementation of post-crisis reforms, while addressing material unintended consequences.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "pursue the full and consistent implementation of post-crisis reforms, while addressing material unintended consequences",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSB also sought to pursue the full and consistent implementation of post-crisis reforms, while addressing material unintended consequences.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_reform"
+    ],
+    "entities": [
+      "FSB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a45da1b-1d5c-4471-b5ef-2b64675c55c0",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB also sought to address new and emerging vulnerabilities in the financial system, including those associated with conduct, correspondent banking and climate change.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "address new and emerging vulnerabilities in the financial system, including those associated with conduct, correspondent banking and climate change",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSB also sought to address new and emerging vulnerabilities in the financial system, including those associated with conduct, correspondent banking and climate change.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability",
+      "climate_change",
+      "banking"
+    ],
+    "entities": [
+      "FSB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "078ee1f3-dcce-4489-8516-b486e00ffae4",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB also sought to monitor the potentially systemic implications of financial technology innovations, and the systemic risks arising from operational disruptions.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "monitor the potentially systemic implications of financial technology innovations, and the systemic risks arising from operational disruptions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSB also sought to monitor the potentially systemic implications of financial technology innovations, and the systemic risks arising from operational disruptions.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_innovation",
+      "systemic_risk"
+    ],
+    "entities": [
+      "FSB"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "97f10d3a-b6da-451f-8129-9f66534c9c88",
+    "chunk_id": "42df46f2-b9f4-45eb-ad9a-01c6812a647d",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "In November 2016, the FSB and the board of the Bank for International Settlements agreed to a further five-year extension of the agreement from January 2018 to 2023.",
+    "subject": "FSB and the board of the Bank for International Settlements",
+    "predicate_type": "relates_to",
+    "object_text": "agreed to a further five-year extension of the agreement from January 2018 to 2023",
+    "object_value": 5.0,
+    "object_unit": "years",
+    "source_text": "In November 2016, the FSB and the board of the Bank for International Settlements agreed to a further five-year extension of the agreement from January 2018 to 2023.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "international_cooperation"
+    ],
+    "entities": [
+      "FSB",
+      "Bank for International Settlements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "99541ffc-8947-48d5-b2f2-af8e362ef436",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The High-Level Panel on the Governance of the FSB was an independent initiative coordinated by Domenico Lombardi of the Brookings Institution and funded by the Connect U.S. Fund.",
+    "subject": "The High-Level Panel on the Governance of the FSB",
+    "predicate_type": "relates_to",
+    "object_text": "an independent initiative coordinated by Domenico Lombardi of the Brookings Institution and funded by the Connect U.S. Fund",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The High-Level Panel on the Governance of the FSB was an independent initiative coordinated by Domenico Lombardi of the Brookings Institution and funded by the Connect U.S. Fund.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "Financial Stability Board",
+      "Domenico Lombardi",
+      "Brookings Institution",
+      "Connect U.S. Fund"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f3b27d0d-6566-42b5-9d2d-19cc3dfcd384",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "It assembled a high-level panel of experts, including Uganda's former Finance Minister and Central Bank Governor of Uganda Ezra Suruma, former Prime Minister of Kyrgyzstan Djoomart Otorbaev, former Finance Minister of Colombia Jos\u00e9 Antonio Ocampo, and Jacques Mistral, a former member of France's Council of Economic Analysis.",
+    "subject": "High-Level Panel on the Governance of the FSB",
+    "predicate_type": "relates_to",
+    "object_text": "assembled a high-level panel of experts, including Uganda's former Finance Minister and Central Bank Governor of Uganda Ezra Suruma, former Prime Minister of Kyrgyzstan Djoomart Otorbaev, former Finance Minister of Colombia Jos\u00e9 Antonio Ocampo, and Jacques Mistral, a former member of France's Council of Economic Analysis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It assembled a high-level panel of experts, including Uganda's former Finance Minister and Central Bank Governor of Uganda Ezra Suruma, former Prime Minister of Kyrgyzstan Djoomart Otorbaev, former Finance Minister of Colombia Jos\u00e9 Antonio Ocampo, and Jacques Mistral, a former member of France's Council of Economic Analysis.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "Ezra Suruma",
+      "Djoomart Otorbaev",
+      "Jos\u00e9 Antonio Ocampo",
+      "Jacques Mistral",
+      "France's Council of Economic Analysis"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d5ca3a2-1cd9-4fe9-bacf-6748e1a29af9",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Lombardi published the panel's final report in September 2011 as a Brookings Issue Paper, concluding that the FSB's governance had not evolved as quickly as its prominence.",
+    "subject": "Lombardi",
+    "predicate_type": "relates_to",
+    "object_text": "published the panel's final report in September 2011 as a Brookings Issue Paper, concluding that the FSB's governance had not evolved as quickly as its prominence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Lombardi published the panel's final report in September 2011 as a Brookings Issue Paper, concluding that the FSB's governance had not evolved as quickly as its prominence.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "Financial Stability Board",
+      "Brookings Institution"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "efafcc80-ed33-42fd-b9d1-01c031745eb6",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "At the 2011 G20 Cannes summit, the G20 called for a strengthening of the FSB's capacity resources and governance by establishing the FSB \"on an enduring organizational basis\".",
+    "subject": "G20",
+    "predicate_type": "requires",
+    "object_text": "a strengthening of the FSB's capacity resources and governance by establishing the FSB \"on an enduring organizational basis\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "At the 2011 G20 Cannes summit, the G20 called for a strengthening of the FSB's capacity resources and governance by establishing the FSB \"on an enduring organizational basis\".",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dedcf25d-b154-420a-b550-51520dcc51a4",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "In its 2012 report to the G20 Los Cabos summit, the FSB set out concrete steps to strengthen the organization's capacity, resources, and governance as well as establish it on an enduring organizational footing.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "set out concrete steps to strengthen the organization's capacity, resources, and governance as well as establish it on an enduring organizational footing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In its 2012 report to the G20 Los Cabos summit, the FSB set out concrete steps to strengthen the organization's capacity, resources, and governance as well as establish it on an enduring organizational footing.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb643282-22af-4286-a96d-ac8b24d14502",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The G20 endorsed the FSB's restated and amended charter.",
+    "subject": "G20",
+    "predicate_type": "relates_to",
+    "object_text": "endorsed the FSB's restated and amended charter",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The G20 endorsed the FSB's restated and amended charter.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7c91c23e-626b-4348-b209-9ca31b5e0a95",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "In January 2013, the FSB became a separate legal entity in the form of an association or \"Verein\" under Swiss law, when its Articles of Association were adopted by the FSB Plenary.",
+    "subject": "FSB",
+    "predicate_type": "defines",
+    "object_text": "a separate legal entity in the form of an association or \"Verein\" under Swiss law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In January 2013, the FSB became a separate legal entity in the form of an association or \"Verein\" under Swiss law, when its Articles of Association were adopted by the FSB Plenary.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e562c10b-7807-4a6d-b562-9c2510a1a781",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB is hosted and funded by the Bank for International Settlements under a five-year agreement executed between the two in January 2013.",
+    "subject": "FSB",
+    "predicate_type": "relates_to",
+    "object_text": "hosted and funded by the Bank for International Settlements under a five-year agreement executed between the two in January 2013",
+    "object_value": 5.0,
+    "object_unit": "years",
+    "source_text": "The FSB is hosted and funded by the Bank for International Settlements under a five-year agreement executed between the two in January 2013.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "funding"
+    ],
+    "entities": [
+      "Financial Stability Board",
+      "Bank for International Settlements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9d049d3-1f33-40a9-8d6e-14affb31c7f1",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The bank bears the majority of the FSB's operating expenses, and the FSB does not have any assets, liabilities, or revenue.",
+    "subject": "Bank for International Settlements",
+    "predicate_type": "relates_to",
+    "object_text": "bears the majority of the FSB's operating expenses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The bank bears the majority of the FSB's operating expenses, and the FSB does not have any assets, liabilities, or revenue.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "funding"
+    ],
+    "entities": [
+      "Financial Stability Board",
+      "Bank for International Settlements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b11ca89e-fd70-4e62-8343-2a1f093f1a22",
+    "chunk_id": "44e00cc6-c6db-4fbd-b0f1-ec674c658446",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSB does not have any assets, liabilities, or revenue.",
+    "subject": "FSB",
+    "predicate_type": "prohibits",
+    "object_text": "any assets, liabilities, or revenue",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSB does not have any assets, liabilities, or revenue.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "funding"
+    ],
+    "entities": [
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "86a16e07-ad6d-45c6-8106-80a7a692b91f",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The Financial Stability Forum met in Rome on 28\u201329 March 2008 in connection with the Bank for International Settlements.",
+    "subject": "Financial Stability Forum",
+    "predicate_type": "relates_to",
+    "object_text": "met in Rome on 28\u201329 March 2008 in connection with the Bank for International Settlements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Financial Stability Forum met in Rome on 28\u201329 March 2008 in connection with the Bank for International Settlements.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "Financial Stability Forum",
+      "Bank for International Settlements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": [
+          "March"
+        ]
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aab78164-2271-4409-b923-e6151127b8a0",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Members discussed current challenges in financial markets, and various policy options to address them from this point forward.",
+    "subject": "Members",
+    "predicate_type": "relates_to",
+    "object_text": "discussed current challenges in financial markets, and various policy options to address them from this point forward",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Members discussed current challenges in financial markets, and various policy options to address them from this point forward.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "271067f5-d03c-4f24-bb3d-13aa2b3eb37b",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSF discussed a report to be delivered to G7 Finance Ministers and Central Bank Governors in April 2008.",
+    "subject": "FSF",
+    "predicate_type": "relates_to",
+    "object_text": "discussed a report to be delivered to G7 Finance Ministers and Central Bank Governors in April 2008",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSF discussed a report to be delivered to G7 Finance Ministers and Central Bank Governors in April 2008.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "FSF",
+      "G7"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": [
+          "April"
+        ]
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0b7546bd-84c4-4ceb-9a15-a74ad17d3b96",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The report identifies key weaknesses underlying current financial turmoil.",
+    "subject": "report",
+    "predicate_type": "relates_to",
+    "object_text": "identifies key weaknesses underlying current financial turmoil",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The report identifies key weaknesses underlying current financial turmoil.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bdb34975-7b9c-4967-be2e-ed142cec9f1c",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The report recommends actions to improve market and institutional resilience.",
+    "subject": "report",
+    "predicate_type": "relates_to",
+    "object_text": "recommends actions to improve market and institutional resilience",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The report recommends actions to improve market and institutional resilience.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ed12853-12b1-478e-a4c7-f6c4215b393d",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The FSF discussed work underway at the International Monetary Fund and Organisation for Economic Co-operation and Development with regard to sovereign wealth funds.",
+    "subject": "FSF",
+    "predicate_type": "relates_to",
+    "object_text": "discussed work underway at the International Monetary Fund and Organisation for Economic Co-operation and Development with regard to sovereign wealth funds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The FSF discussed work underway at the International Monetary Fund and Organisation for Economic Co-operation and Development with regard to sovereign wealth funds.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "sovereign_wealth_funds"
+    ],
+    "entities": [
+      "FSF",
+      "International Monetary Fund",
+      "Organisation for Economic Co-operation and Development",
+      "sovereign wealth funds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3fea85a0-71f6-4c54-8123-f466b33c1e5d",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The International Monetary Fund is working closely with sovereign wealth funds to identify a set of voluntary best practice guidelines.",
+    "subject": "International Monetary Fund",
+    "predicate_type": "relates_to",
+    "object_text": "is working closely with sovereign wealth funds to identify a set of voluntary best practice guidelines",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The International Monetary Fund is working closely with sovereign wealth funds to identify a set of voluntary best practice guidelines.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "sovereign_wealth_funds"
+    ],
+    "entities": [
+      "International Monetary Fund",
+      "sovereign wealth funds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b70688ba-e813-4a03-8b7a-8e64e70d56ec",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "The International Monetary Fund is focusing on the governance, institutional arrangements and transparency of sovereign wealth funds.",
+    "subject": "International Monetary Fund",
+    "predicate_type": "relates_to",
+    "object_text": "is focusing on the governance, institutional arrangements and transparency of sovereign wealth funds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The International Monetary Fund is focusing on the governance, institutional arrangements and transparency of sovereign wealth funds.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "sovereign_wealth_funds"
+    ],
+    "entities": [
+      "International Monetary Fund",
+      "sovereign wealth funds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1aeb4836-c428-4ac9-aed6-18d90165904b",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "On 12 April 2008, the FSF delivered a report to the G7 Finance Ministers detailing its recommendations.",
+    "subject": "FSF",
+    "predicate_type": "relates_to",
+    "object_text": "delivered a report to the G7 Finance Ministers detailing its recommendations on 12 April 2008",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 12 April 2008, the FSF delivered a report to the G7 Finance Ministers detailing its recommendations.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "FSF",
+      "G7"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": [
+          "April"
+        ]
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f4e91cf-02b2-4095-b9a1-9752f65dc1b8",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "FSF recommends strengthening prudential oversight of capital, liquidity, and risk management.",
+    "subject": "FSF",
+    "predicate_type": "requires",
+    "object_text": "strengthening prudential oversight of capital, liquidity, and risk management",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FSF recommends strengthening prudential oversight of capital, liquidity, and risk management.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "liquidity",
+      "risk_management"
+    ],
+    "entities": [
+      "FSF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d3bbb7d-a8b9-42a0-8c4c-09c49e6dd137",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "FSF recommends enhancing transparency and valuation.",
+    "subject": "FSF",
+    "predicate_type": "requires",
+    "object_text": "enhancing transparency and valuation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FSF recommends enhancing transparency and valuation.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "transparency",
+      "valuation"
+    ],
+    "entities": [
+      "FSF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4f1740d7-ee40-4ae3-ad9e-1b450fec204a",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "FSF recommends changing the role and uses of credit ratings.",
+    "subject": "FSF",
+    "predicate_type": "requires",
+    "object_text": "changing the role and uses of credit ratings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FSF recommends changing the role and uses of credit ratings.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_ratings"
+    ],
+    "entities": [
+      "FSF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "858e5fa9-a7ed-43c8-a4fb-998bd6757a56",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "FSF recommends strengthening the authorities' responsiveness to risks.",
+    "subject": "FSF",
+    "predicate_type": "requires",
+    "object_text": "strengthening the authorities' responsiveness to risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FSF recommends strengthening the authorities' responsiveness to risks.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [
+      "FSF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "30666ae6-e542-40dd-a8b6-a0894896172d",
+    "chunk_id": "bcafdf80-84de-4869-b60e-8e07fda0356c",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "FSF recommends making robust arrangements for dealing with stress in the financial system.",
+    "subject": "FSF",
+    "predicate_type": "requires",
+    "object_text": "making robust arrangements for dealing with stress in the financial system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "FSF recommends making robust arrangements for dealing with stress in the financial system.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "FSF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "92cb3411-0845-4b81-ac51-38eadb1118b7",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "As a 2011 Brookings Institution report noted, there are no set rules for how the FSB chair is selected, reflecting the FSB's newness as well as the \"central banking culture of discretion and informality that permeates the institution\".",
+    "subject": "selection of the FSB chair",
+    "predicate_type": "relates_to",
+    "object_text": "no set rules",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As a 2011 Brookings Institution report noted, there are no set rules for how the FSB chair is selected, reflecting the FSB's newness as well as the \"central banking culture of discretion and informality that permeates the institution\".",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "governance"
+    ],
+    "entities": [
+      "Financial Stability Board",
+      "Brookings Institution"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f92c00cd-4a02-4a72-b1d2-bd682419f810",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Mario Draghi was the Governor of the Bank of Italy from 2006 to 2011.",
+    "subject": "Mario Draghi",
+    "predicate_type": "relates_to",
+    "object_text": "Governor of the Bank of Italy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mario Draghi was the Governor of the Bank of Italy from 2006 to 2011.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Mario Draghi",
+      "Bank of Italy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cb5c603b-631f-4c9c-9753-49159358104a",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Mario Draghi was the President of the European Central Bank from 2011 to 2019.",
+    "subject": "Mario Draghi",
+    "predicate_type": "relates_to",
+    "object_text": "President of the European Central Bank",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mario Draghi was the President of the European Central Bank from 2011 to 2019.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Mario Draghi",
+      "European Central Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "041b8156-1d5e-4cb3-95ec-8236cc23e661",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Mario Draghi was the Prime Minister of Italy from 2021 to 2022.",
+    "subject": "Mario Draghi",
+    "predicate_type": "relates_to",
+    "object_text": "Prime Minister of Italy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mario Draghi was the Prime Minister of Italy from 2021 to 2022.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Mario Draghi",
+      "Italy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "21554c6e-e47c-4ba0-9b86-e1a8737d38da",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Mario Draghi was the chair of the FSB from 2009 to 2011.",
+    "subject": "Mario Draghi",
+    "predicate_type": "relates_to",
+    "object_text": "chair of the FSB",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mario Draghi was the chair of the FSB from 2009 to 2011.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Mario Draghi",
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4d710aee-b88b-4973-9844-205ba970ca17",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Mark Carney was the Governor of the Bank of Canada from 2008 to 2013.",
+    "subject": "Mark Carney",
+    "predicate_type": "relates_to",
+    "object_text": "Governor of the Bank of Canada",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mark Carney was the Governor of the Bank of Canada from 2008 to 2013.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Mark Carney",
+      "Bank of Canada"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ea3a06c-fd04-4d16-a6c8-88b4c6ceaa35",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Mark Carney was the Governor of the Bank of England from 2013 to 2020.",
+    "subject": "Mark Carney",
+    "predicate_type": "relates_to",
+    "object_text": "Governor of the Bank of England",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mark Carney was the Governor of the Bank of England from 2013 to 2020.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Mark Carney",
+      "Bank of England"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "df70adfc-ea96-47c9-935a-96506158e29f",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Mark Carney was the Prime Minister of Canada from 2025 to present.",
+    "subject": "Mark Carney",
+    "predicate_type": "relates_to",
+    "object_text": "Prime Minister of Canada",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mark Carney was the Prime Minister of Canada from 2025 to present.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Mark Carney",
+      "Canada"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eb34075d-093b-4fd4-91ce-3625c01d5a93",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Mark Carney was the chair of the FSB from 2011 to 2018.",
+    "subject": "Mark Carney",
+    "predicate_type": "relates_to",
+    "object_text": "chair of the FSB",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mark Carney was the chair of the FSB from 2011 to 2018.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Mark Carney",
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "44a0ddf1-a320-44f6-bb92-2b2c74c0cbed",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Randal Quarles was the Vice Chair for Supervision of the U.S. Federal Reserve from 2017 to 2021.",
+    "subject": "Randal Quarles",
+    "predicate_type": "relates_to",
+    "object_text": "Vice Chair for Supervision of the U.S. Federal Reserve",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Randal Quarles was the Vice Chair for Supervision of the U.S. Federal Reserve from 2017 to 2021.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Randal Quarles",
+      "U.S. Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4d5de47-c90f-45cb-826e-e7611ff894ed",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Randal Quarles was the chair of the FSB from 2018 to 2021.",
+    "subject": "Randal Quarles",
+    "predicate_type": "relates_to",
+    "object_text": "chair of the FSB",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Randal Quarles was the chair of the FSB from 2018 to 2021.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Randal Quarles",
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "813e7a03-e81a-4960-a1e4-06d68ad250b7",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Klaas Knot is the President of De Nederlandsche Bank from 2011 to 2025.",
+    "subject": "Klaas Knot",
+    "predicate_type": "relates_to",
+    "object_text": "President of De Nederlandsche Bank",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Klaas Knot is the President of De Nederlandsche Bank from 2011 to 2025.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Klaas Knot",
+      "De Nederlandsche Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5daa7a3d-108b-4027-bf8e-d7c17bcb744a",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Klaas Knot was the chair of the FSB from 2021 to 2025.",
+    "subject": "Klaas Knot",
+    "predicate_type": "relates_to",
+    "object_text": "chair of the FSB",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Klaas Knot was the chair of the FSB from 2021 to 2025.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Klaas Knot",
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "97967387-53c3-4a77-b308-a9d0ac77cdb7",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Andrew Bailey is the Governor of the Bank of England from 2020 to present.",
+    "subject": "Andrew Bailey",
+    "predicate_type": "relates_to",
+    "object_text": "Governor of the Bank of England",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Andrew Bailey is the Governor of the Bank of England from 2020 to present.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Andrew Bailey",
+      "Bank of England"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65bae019-b5cf-4b30-9c92-aaf59acc9305",
+    "chunk_id": "43072ff3-bffd-4492-ba03-cecc7a94d79b",
+    "document_id": "Financial_Stability_Board",
+    "claim_text": "Andrew Bailey will be the chair of the FSB from 2025 to present.",
+    "subject": "Andrew Bailey",
+    "predicate_type": "relates_to",
+    "object_text": "chair of the FSB",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Andrew Bailey will be the chair of the FSB from 2025 to present.",
+    "source_document": "Financial Stability Board",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Andrew Bailey",
+      "Financial Stability Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

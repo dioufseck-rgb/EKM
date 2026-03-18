@@ -1,0 +1,409 @@
+[
+  {
+    "assertion_id": "4efcc04d-3a4b-4bcc-a8f4-fac4a5e5d671",
+    "chunk_id": "1ac4d653-560d-4911-a198-3b62afa19ecd",
+    "document_id": "Net_stable_funding_ratio",
+    "claim_text": "The Basel Committee on Banking Supervision (BCBS) does not have the power to issue legally binding regulation.",
+    "subject": "Basel Committee on Banking Supervision (BCBS)",
+    "predicate_type": "prohibits",
+    "object_text": "power to issue legally binding regulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel Committee on Banking Supervision (BCBS) does not have the power to issue legally binding regulation.",
+    "source_document": "Net stable funding ratio",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "53ec8404-c250-4741-908d-d74b6564d81d",
+    "chunk_id": "1ac4d653-560d-4911-a198-3b62afa19ecd",
+    "document_id": "Net_stable_funding_ratio",
+    "claim_text": "The Basel III standards have to be implemented by national authorities.",
+    "subject": "Basel III standards",
+    "predicate_type": "requires",
+    "object_text": "to be implemented by national authorities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Basel III standards have to be implemented by national authorities.",
+    "source_document": "Net stable funding ratio",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "implementation"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2af25a24-f2cf-492a-b71b-6d622d032d54",
+    "chunk_id": "1ac4d653-560d-4911-a198-3b62afa19ecd",
+    "document_id": "Net_stable_funding_ratio",
+    "claim_text": "There are differences among countries with respect to both content and timing.",
+    "subject": "countries",
+    "predicate_type": "relates_to",
+    "object_text": "differences with respect to both content and timing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are differences among countries with respect to both content and timing.",
+    "source_document": "Net stable funding ratio",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "implementation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "40c6b161-87b7-4db2-a231-0a8dc147075c",
+    "chunk_id": "1ac4d653-560d-4911-a198-3b62afa19ecd",
+    "document_id": "Net_stable_funding_ratio",
+    "claim_text": "The NSFR became a minimum standard on 1 January 2018.",
+    "subject": "NSFR",
+    "predicate_type": "implements",
+    "object_text": "minimum standard",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NSFR became a minimum standard on 1 January 2018.",
+    "source_document": "Net stable funding ratio",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "nsfr"
+    ],
+    "entities": [
+      "NSFR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e993790d-9e10-47be-8710-f335ca857728",
+    "chunk_id": "1ac4d653-560d-4911-a198-3b62afa19ecd",
+    "document_id": "Net_stable_funding_ratio",
+    "claim_text": "Implementation has been delayed in many countries.",
+    "subject": "implementation",
+    "predicate_type": "relates_to",
+    "object_text": "delayed in many countries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Implementation has been delayed in many countries.",
+    "source_document": "Net stable funding ratio",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "nsfr",
+      "implementation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c64b0912-34a7-4c6f-a5fc-1efffec8059e",
+    "chunk_id": "1ac4d653-560d-4911-a198-3b62afa19ecd",
+    "document_id": "Net_stable_funding_ratio",
+    "claim_text": "Less than half of the G20 members have implemented the rules as of 2018.",
+    "subject": "G20 members",
+    "predicate_type": "implements",
+    "object_text": "less than half have implemented the rules",
+    "object_value": 0.5,
+    "object_unit": null,
+    "source_text": "Less than half of the G20 members have implemented the rules as of 2018.",
+    "source_document": "Net stable funding ratio",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "nsfr",
+      "implementation"
+    ],
+    "entities": [
+      "G20"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a3a6a1f-048a-4579-ab6e-13bbe90340f6",
+    "chunk_id": "1ac4d653-560d-4911-a198-3b62afa19ecd",
+    "document_id": "Net_stable_funding_ratio",
+    "claim_text": "The compliant countries include Australia, Brazil, China, Indonesia and Russia.",
+    "subject": "countries",
+    "predicate_type": "relates_to",
+    "object_text": "Australia, Brazil, China, Indonesia and Russia",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The compliant countries include Australia, Brazil, China, Indonesia and Russia.",
+    "source_document": "Net stable funding ratio",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "nsfr",
+      "implementation"
+    ],
+    "entities": [
+      "Australia",
+      "Brazil",
+      "China",
+      "Indonesia",
+      "Russia"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90c66c7f-9e8d-484a-8e00-00a069d98089",
+    "chunk_id": "1ac4d653-560d-4911-a198-3b62afa19ecd",
+    "document_id": "Net_stable_funding_ratio",
+    "claim_text": "Over time NSFR calibration will be reviewed as proposals are developed and industry standards implemented.",
+    "subject": "NSFR calibration",
+    "predicate_type": "relates_to",
+    "object_text": "will be reviewed as proposals are developed and industry standards implemented",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Over time NSFR calibration will be reviewed as proposals are developed and industry standards implemented.",
+    "source_document": "Net stable funding ratio",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "nsfr"
+    ],
+    "entities": [
+      "NSFR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

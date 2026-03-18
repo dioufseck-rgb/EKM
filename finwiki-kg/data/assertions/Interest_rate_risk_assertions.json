@@ -1,0 +1,1476 @@
+[
+  {
+    "assertion_id": "a95f9e7a-fa29-48b1-8d45-e333f2bb5a0e",
+    "chunk_id": "084d81e3-5af1-4450-8109-92f330dd8c86",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "The assessment of interest rate risk is a very large topic at banks, thrifts, saving and loans, credit unions, and other finance companies, and among their regulators.",
+    "subject": "assessment of interest rate risk",
+    "predicate_type": "relates_to",
+    "object_text": "a very large topic at banks, thrifts, saving and loans, credit unions, and other finance companies, and among their regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The assessment of interest rate risk is a very large topic at banks, thrifts, saving and loans, credit unions, and other finance companies, and among their regulators.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk"
+    ],
+    "entities": [
+      "banks",
+      "thrifts",
+      "saving and loans",
+      "credit unions",
+      "finance companies",
+      "regulators"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3c052a96-ff17-403a-a112-887738c6fd28",
+    "chunk_id": "084d81e3-5af1-4450-8109-92f330dd8c86",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "The widely deployed CAMELS rating system assesses a financial institution's Capital adequacy, Assets, Management, Earnings, Liquidity, and Sensitivity to market risk.",
+    "subject": "CAMELS rating system",
+    "predicate_type": "classifies",
+    "object_text": "a financial institution's Capital adequacy, Assets, Management, Earnings, Liquidity, and Sensitivity to market risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The widely deployed CAMELS rating system assesses a financial institution's Capital adequacy, Assets, Management, Earnings, Liquidity, and Sensitivity to market risk.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation",
+      "risk_management"
+    ],
+    "entities": [
+      "CAMELS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f6268ed9-7b23-45db-9d74-53954e8a805b",
+    "chunk_id": "084d81e3-5af1-4450-8109-92f330dd8c86",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "A large portion of the Sensitivity in CAMELS is interest rate risk.",
+    "subject": "Sensitivity in CAMELS",
+    "predicate_type": "relates_to",
+    "object_text": "interest rate risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A large portion of the Sensitivity in CAMELS is interest rate risk.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "risk_management"
+    ],
+    "entities": [
+      "CAMELS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fca0a656-e119-4b00-b5ff-c11744e9319a",
+    "chunk_id": "084d81e3-5af1-4450-8109-92f330dd8c86",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Much of what is known about assessing interest rate risk has been developed by the interaction of financial institutions with their regulators since the 1990s.",
+    "subject": "assessing interest rate risk",
+    "predicate_type": "relates_to",
+    "object_text": "developed by the interaction of financial institutions with their regulators since the 1990s",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Much of what is known about assessing interest rate risk has been developed by the interaction of financial institutions with their regulators since the 1990s.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk"
+    ],
+    "entities": [
+      "financial institutions",
+      "regulators"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ad137795-afc0-4412-a80c-fc83ff3d4ab4",
+    "chunk_id": "084d81e3-5af1-4450-8109-92f330dd8c86",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Interest rate risk is the largest part of the sensitivity analysis in the CAMELS system for most banking institutions.",
+    "subject": "Interest rate risk",
+    "predicate_type": "relates_to",
+    "object_text": "the largest part of the sensitivity analysis in the CAMELS system for most banking institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate risk is the largest part of the sensitivity analysis in the CAMELS system for most banking institutions.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "risk_management"
+    ],
+    "entities": [
+      "CAMELS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7d23805e-56e0-49a5-9207-bbbba632bdd7",
+    "chunk_id": "084d81e3-5af1-4450-8109-92f330dd8c86",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "When a bank receives a poor CAMELS rating (a 4 or 5 on the ratings scale), it is indicative of taking excessive risks and it's likely the bank is in an overall troubled condition and may be included on the FDIC problem bank list.",
+    "subject": "bank with a poor CAMELS rating (4 or 5)",
+    "predicate_type": "causes",
+    "object_text": "taking excessive risks and it's likely the bank is in an overall troubled condition and may be included on the FDIC problem bank list",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When a bank receives a poor CAMELS rating (a 4 or 5 on the ratings scale), it is indicative of taking excessive risks and it's likely the bank is in an overall troubled condition and may be included on the FDIC problem bank list.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "financial_stability"
+    ],
+    "entities": [
+      "CAMELS",
+      "FDIC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "34c89929-3c5d-4d3a-b444-4de273fa6823",
+    "chunk_id": "084d81e3-5af1-4450-8109-92f330dd8c86",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "The assessment of interest rate risk is typically informed by some type of stress testing.",
+    "subject": "assessment of interest rate risk",
+    "predicate_type": "requires",
+    "object_text": "some type of stress testing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The assessment of interest rate risk is typically informed by some type of stress testing.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "afe52a5c-0603-420e-8b91-399fae0cae55",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Fluctuating interest rates expose bond owners to risk.",
+    "subject": "fluctuating interest rates",
+    "predicate_type": "causes",
+    "object_text": "risk to bond owners",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Fluctuating interest rates expose bond owners to risk.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "bonds"
+    ],
+    "entities": [
+      "bond owners"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0f2f6003-4e9d-426d-811a-4890220b9102",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "How much interest rate risk a bond has depends on how sensitive its price is to interest rate changes in the market.",
+    "subject": "interest rate risk of a bond",
+    "predicate_type": "relates_to",
+    "object_text": "sensitivity of its price to interest rate changes in the market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "How much interest rate risk a bond has depends on how sensitive its price is to interest rate changes in the market.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "bonds"
+    ],
+    "entities": [
+      "bond"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9bf1401a-d5ed-4e10-a6e0-415ad400f030",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "The sensitivity depends on two things, the bond's time to maturity, and the coupon rate of the bond.",
+    "subject": "sensitivity",
+    "predicate_type": "relates_to",
+    "object_text": "the bond's time to maturity, and the coupon rate of the bond",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The sensitivity depends on two things, the bond's time to maturity, and the coupon rate of the bond.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "bonds"
+    ],
+    "entities": [
+      "bond"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "37c6c067-1df1-480b-8681-57d51c82f045",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Interest rate risk analysis is almost always based on simulating movements in one or more yield curves using the Heath-Jarrow-Morton framework to ensure that the yield curve movements are both consistent with current market yield curves and such that no riskless arbitrage is possible.",
+    "subject": "interest rate risk analysis",
+    "predicate_type": "implements",
+    "object_text": "simulating movements in one or more yield curves using the Heath-Jarrow-Morton framework to ensure that the yield curve movements are both consistent with current market yield curves and such that no riskless arbitrage is possible",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate risk analysis is almost always based on simulating movements in one or more yield curves using the Heath-Jarrow-Morton framework to ensure that the yield curve movements are both consistent with current market yield curves and such that no riskless arbitrage is possible.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "yield_curve"
+    ],
+    "entities": [
+      "Heath-Jarrow-Morton framework"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "228b9a99-512e-4bfa-8113-4a5cb627c767",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "The Heath-Jarrow-Morton framework was developed in the early 1991 by David Heath of Cornell University, Andrew Morton of Lehman Brothers, and Robert A. Jarrow of Kamakura Corporation and Cornell University.",
+    "subject": "Heath-Jarrow-Morton framework",
+    "predicate_type": "governs",
+    "object_text": "developed in the early 1991 by David Heath of Cornell University, Andrew Morton of Lehman Brothers, and Robert A. Jarrow of Kamakura Corporation and Cornell University",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Heath-Jarrow-Morton framework was developed in the early 1991 by David Heath of Cornell University, Andrew Morton of Lehman Brothers, and Robert A. Jarrow of Kamakura Corporation and Cornell University.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "yield_curve"
+    ],
+    "entities": [
+      "David Heath",
+      "Cornell University",
+      "Andrew Morton",
+      "Lehman Brothers",
+      "Robert A. Jarrow",
+      "Kamakura Corporation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b2eada9a-9dce-4236-bb8c-0852792c535a",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Marking to market is calculating the net market value of the assets and liabilities, sometimes called the \"market value of portfolio equity\".",
+    "subject": "Marking to market",
+    "predicate_type": "defines",
+    "object_text": "calculating the net market value of the assets and liabilities, sometimes called the \"market value of portfolio equity\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Marking to market is calculating the net market value of the assets and liabilities, sometimes called the \"market value of portfolio equity\".",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "market_value"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "72d75933-ddc2-4b32-a766-40f660bf2354",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Stress testing is shifting the yield curve in a specific way.",
+    "subject": "Stress testing",
+    "predicate_type": "implements",
+    "object_text": "shifting the yield curve in a specific way",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Stress testing is shifting the yield curve in a specific way.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "yield_curve"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "36a18c7b-fcf9-405f-a29a-22f8cb928e10",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Calculating the value at risk of the portfolio is a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.",
+    "subject": "Calculating the value at risk of the portfolio",
+    "predicate_type": "implements",
+    "object_text": "a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Calculating the value at risk of the portfolio is a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "value_at_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "54e8edbc-1751-42a3-9931-84d1ff83a358",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Calculating the multiperiod cash flow or financial accrual income and expense for N periods forward in a deterministic set of future yield curves is a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.",
+    "subject": "Calculating the multiperiod cash flow or financial accrual income and expense for N periods forward in a deterministic set of future yield curves",
+    "predicate_type": "implements",
+    "object_text": "a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Calculating the multiperiod cash flow or financial accrual income and expense for N periods forward in a deterministic set of future yield curves is a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "cash_flow",
+      "yield_curve"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c5b4181-a824-4076-b162-f359adebcef0",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Measuring the mismatch of the interest sensitivity gap of assets and liabilities, by classifying each asset and liability by the timing of interest rate reset or maturity, whichever comes first is a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.",
+    "subject": "Measuring the mismatch of the interest sensitivity gap of assets and liabilities, by classifying each asset and liability by the timing of interest rate reset or maturity, whichever comes first",
+    "predicate_type": "implements",
+    "object_text": "a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Measuring the mismatch of the interest sensitivity gap of assets and liabilities, by classifying each asset and liability by the timing of interest rate reset or maturity, whichever comes first is a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "assets",
+      "liabilities"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e1e7e5f-1924-4aad-b602-c85c0e2404e4",
+    "chunk_id": "57b5131a-4a50-44cb-be65-4bca69e401b7",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Analyzing Duration, Convexity, DV01 and Key Rate Duration is a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.",
+    "subject": "Analyzing Duration, Convexity, DV01 and Key Rate Duration",
+    "predicate_type": "implements",
+    "object_text": "a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Analyzing Duration, Convexity, DV01 and Key Rate Duration is a standard calculation for measuring the impact of changing interest rates on a portfolio consisting of various assets and liabilities.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "duration",
+      "convexity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cc5a2602-ea19-4be8-8233-6bd5c36e4fca",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Interest rate risk is particularly significant for insurers as it affects both their investment portfolios (assets) and their obligations to policyholders (liabilities), impacting overall profitability and solvency.",
+    "subject": "interest rate risk",
+    "predicate_type": "causes",
+    "object_text": "impact on overall profitability and solvency of insurers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate risk is particularly significant for insurers as it affects both their investment portfolios (assets) and their obligations to policyholders (liabilities), impacting overall profitability and solvency.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "profitability",
+      "solvency"
+    ],
+    "entities": [
+      "insurers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ab110545-1a1b-4d28-ba47-a91826973ab8",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "The mismatch between the durations of assets and liabilities can lead to cashflow and operational challenges in meeting obligations.",
+    "subject": "mismatch between the durations of assets and liabilities",
+    "predicate_type": "causes",
+    "object_text": "cashflow and operational challenges in meeting obligations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The mismatch between the durations of assets and liabilities can lead to cashflow and operational challenges in meeting obligations.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset_liability_management",
+      "cashflow",
+      "operational_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "416b9e6b-f564-4bce-8993-d02de523325b",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Life insurers are particularly exposed to interest rate risk because they hold long-term liabilities from life insurance policies and annuities.",
+    "subject": "Life insurers",
+    "predicate_type": "relates_to",
+    "object_text": "exposure to interest rate risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Life insurers are particularly exposed to interest rate risk because they hold long-term liabilities from life insurance policies and annuities.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk"
+    ],
+    "entities": [
+      "life insurers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5207ece2-86c9-47bb-a9e0-aacf73b0deac",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Changes in interest rates can impact the pricing of new products and the valuation of existing policies, as lower rates typically reduce investment income, resulting in tighter margins.",
+    "subject": "Changes in interest rates",
+    "predicate_type": "causes",
+    "object_text": "impact on the pricing of new products and the valuation of existing policies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Changes in interest rates can impact the pricing of new products and the valuation of existing policies, as lower rates typically reduce investment income, resulting in tighter margins.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "valuation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f3928b6-a0ad-4333-a8bb-f1f91955fe49",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Life insurers may face challenges in managing their asset-liability matching over long time horizons especially in a prolonged low-interest-rate environment.",
+    "subject": "life insurers",
+    "predicate_type": "relates_to",
+    "object_text": "challenges in managing their asset-liability matching over long time horizons especially in a prolonged low-interest-rate environment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Life insurers may face challenges in managing their asset-liability matching over long time horizons especially in a prolonged low-interest-rate environment.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset_liability_management",
+      "interest_rate_risk"
+    ],
+    "entities": [
+      "life insurers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "59c08c01-30e0-4199-9ef1-ebcefe1561f0",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Short-term insurers (such as property- and casualty companies) also face interest rate risk but to a lesser extent.",
+    "subject": "Short-term insurers",
+    "predicate_type": "relates_to",
+    "object_text": "face interest rate risk but to a lesser extent",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Short-term insurers (such as property- and casualty companies) also face interest rate risk but to a lesser extent.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk"
+    ],
+    "entities": [
+      "short-term insurers",
+      "property- and casualty companies"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4817279e-9ce5-4d4d-ab99-04123ddbc4b2",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Their liabilities are typically shorter in duration, which may allow for quicker adjustments in investment strategies to respond to interest rate changes.",
+    "subject": "liabilities of short-term insurers",
+    "predicate_type": "relates_to",
+    "object_text": "typically shorter in duration, which may allow for quicker adjustments in investment strategies to respond to interest rate changes",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Their liabilities are typically shorter in duration, which may allow for quicker adjustments in investment strategies to respond to interest rate changes.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "asset_liability_management",
+      "investment_strategy",
+      "interest_rate_risk"
+    ],
+    "entities": [
+      "short-term insurers"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bfb85d64-fb23-4525-909c-fe91de122f4f",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Sudden interest rate shifts can still affect the returns on investments supporting claim reserves, thereby impacting the balance sheet, as well as underwriting performance.",
+    "subject": "Sudden interest rate shifts",
+    "predicate_type": "causes",
+    "object_text": "affect the returns on investments supporting claim reserves, thereby impacting the balance sheet, as well as underwriting performance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sudden interest rate shifts can still affect the returns on investments supporting claim reserves, thereby impacting the balance sheet, as well as underwriting performance.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest_rate_risk",
+      "investment_returns",
+      "balance_sheet",
+      "underwriting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b49b04b-6217-41e6-885c-f67ca81202f6",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Risk management strategies here include asset-liability management (ALM) techniques that aim to align the cash flows and durations of assets and liabilities (respectively: cashflow matching and immunization).",
+    "subject": "Risk management strategies",
+    "predicate_type": "implements",
+    "object_text": "asset-liability management (ALM) techniques that aim to align the cash flows and durations of assets and liabilities (respectively: cashflow matching and immunization)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Risk management strategies here include asset-liability management (ALM) techniques that aim to align the cash flows and durations of assets and liabilities (respectively: cashflow matching and immunization).",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "asset_liability_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fa68c1c2-e308-491d-a874-d376677471af",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Insurers may utilize derivatives and other financial instruments to hedge against rate fluctuations, along with diversifying their investment portfolios to mitigate exposure.",
+    "subject": "Insurers",
+    "predicate_type": "permits",
+    "object_text": "utilize derivatives and other financial instruments to hedge against rate fluctuations, along with diversifying their investment portfolios to mitigate exposure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Insurers may utilize derivatives and other financial instruments to hedge against rate fluctuations, along with diversifying their investment portfolios to mitigate exposure.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "hedging",
+      "investment_strategy"
+    ],
+    "entities": [
+      "derivatives"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b29a77a2-8f39-41f2-8117-0ef739e24fe7",
+    "chunk_id": "0f86a22b-7b40-4266-8a81-6b2e160e6b5f",
+    "document_id": "Interest_rate_risk",
+    "claim_text": "Regular stress testing and scenario analysis can also help insurers understand potential impacts and adjust their strategies accordingly.",
+    "subject": "Regular stress testing and scenario analysis",
+    "predicate_type": "implements",
+    "object_text": "help insurers understand potential impacts and adjust their strategies accordingly",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Regular stress testing and scenario analysis can also help insurers understand potential impacts and adjust their strategies accordingly.",
+    "source_document": "Interest rate risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "stress_testing",
+      "scenario_analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

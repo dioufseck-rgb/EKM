@@ -1,0 +1,3903 @@
+[
+  {
+    "assertion_id": "112dc830-fe32-4dc9-82fd-b0620ce5aecd",
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps are used to hedge against or speculate on changes in interest rates.",
+    "subject": "Interest rate swaps",
+    "predicate_type": "defines",
+    "object_text": "used to hedge against or speculate on changes in interest rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps are used to hedge against or speculate on changes in interest rates.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "hedging",
+      "speculation"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "39c7bf99-d431-481d-9d07-cf9954a7e916",
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps are used to manage cashflows by converting floating to fixed interest payments, or vice versa.",
+    "subject": "Interest rate swaps",
+    "predicate_type": "defines",
+    "object_text": "used to manage cashflows by converting floating to fixed interest payments, or vice versa",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps are used to manage cashflows by converting floating to fixed interest payments, or vice versa.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "cashflow management"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "274805c1-9f45-4741-96e2-ecdfa2a4d16e",
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps are also used speculatively by hedge funds or other investors who expect a change in interest rates or the relationships between them.",
+    "subject": "Interest rate swaps",
+    "predicate_type": "defines",
+    "object_text": "used speculatively by hedge funds or other investors who expect a change in interest rates or the relationships between them",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps are also used speculatively by hedge funds or other investors who expect a change in interest rates or the relationships between them.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "speculation"
+    ],
+    "entities": [
+      "Interest rate swaps",
+      "hedge funds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90d4d79a-391b-498f-b0d7-8f6f2710818b",
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Fixed income investors who expected rates to fall would purchase cash bonds, whose value increased as rates fell.",
+    "subject": "Fixed income investors",
+    "predicate_type": "relates_to",
+    "object_text": "who expected rates to fall would purchase cash bonds, whose value increased as rates fell",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Fixed income investors who expected rates to fall would purchase cash bonds, whose value increased as rates fell.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fixed income",
+      "cash bonds",
+      "interest rates"
+    ],
+    "entities": [
+      "cash bonds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67f6de69-c944-495a-b069-9daff98a48e9",
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Investors with a similar view could enter a floating-for-fixed interest rate swap; as rates fall, investors would pay a lower floating rate in exchange for the same fixed rate.",
+    "subject": "Investors",
+    "predicate_type": "relates_to",
+    "object_text": "with a similar view could enter a floating-for-fixed interest rate swap; as rates fall, investors would pay a lower floating rate in exchange for the same fixed rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investors with a similar view could enter a floating-for-fixed interest rate swap; as rates fall, investors would pay a lower floating rate in exchange for the same fixed rate.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "floating rate",
+      "fixed rate"
+    ],
+    "entities": [
+      "interest rate swap"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "686534a8-8565-4ad6-98c0-ec8a9b4d1459",
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps are also popular for the arbitrage opportunities they provide.",
+    "subject": "Interest rate swaps",
+    "predicate_type": "defines",
+    "object_text": "popular for the arbitrage opportunities they provide",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps are also popular for the arbitrage opportunities they provide.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "arbitrage"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90893086-208a-4037-8782-301facc3922b",
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Varying levels of creditworthiness means that there is often a positive quality spread differential that allows both parties to benefit from an interest rate swap.",
+    "subject": "Varying levels of creditworthiness",
+    "predicate_type": "causes",
+    "object_text": "there is often a positive quality spread differential that allows both parties to benefit from an interest rate swap",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Varying levels of creditworthiness means that there is often a positive quality spread differential that allows both parties to benefit from an interest rate swap.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "creditworthiness",
+      "interest rate swaps",
+      "quality spread differential"
+    ],
+    "entities": [
+      "interest rate swap"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4158aec4-c810-4940-9786-dad566fd615b",
+    "chunk_id": "866e5880-4e22-4b37-8df3-fa9fb60625b1",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The interest rate swap market in USD is closely linked to the Eurodollar futures market which trades among others at the Chicago Mercantile Exchange.",
+    "subject": "The interest rate swap market in USD",
+    "predicate_type": "relates_to",
+    "object_text": "closely linked to the Eurodollar futures market which trades among others at the Chicago Mercantile Exchange",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The interest rate swap market in USD is closely linked to the Eurodollar futures market which trades among others at the Chicago Mercantile Exchange.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "eurodollar futures",
+      "market"
+    ],
+    "entities": [
+      "Chicago Mercantile Exchange",
+      "Eurodollar futures market"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "551a345d-b004-4bd5-84f8-45196bda59df",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps expose traders and institutions to various categories of financial risk: predominantly market risk - specifically interest rate risk - and credit risk.",
+    "subject": "Interest rate swaps",
+    "predicate_type": "causes",
+    "object_text": "exposure of traders and institutions to various categories of financial risk: predominantly market risk - specifically interest rate risk - and credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps expose traders and institutions to various categories of financial risk: predominantly market risk - specifically interest rate risk - and credit risk.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "market risk",
+      "credit risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4326f48c-62f4-4fc9-be8d-6133e1f3a9d5",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Reputation risks also exist.",
+    "subject": "Reputation risks",
+    "predicate_type": "relates_to",
+    "object_text": "existence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Reputation risks also exist.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "reputation risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ef1504be-cd77-4794-9ad8-6cc17615d3e3",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The mis-selling of swaps, over-exposure of municipalities to derivative contracts, and IBOR manipulation are examples of high-profile cases where trading interest rate swaps has led to a loss of reputation and fines by regulators.",
+    "subject": "mis-selling of swaps, over-exposure of municipalities to derivative contracts, and IBOR manipulation",
+    "predicate_type": "causes",
+    "object_text": "loss of reputation and fines by regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The mis-selling of swaps, over-exposure of municipalities to derivative contracts, and IBOR manipulation are examples of high-profile cases where trading interest rate swaps has led to a loss of reputation and fines by regulators.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "reputation risk",
+      "regulatory compliance"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4836823f-fa4d-41c0-8ef9-ac9924c317d9",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "During the swap's life, both the discounting factors and the forward rates change, and thus, per the above valuation techniques, the PV of a swap will deviate from its initial value.",
+    "subject": "PV of a swap",
+    "predicate_type": "causes",
+    "object_text": "deviation from its initial value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "During the swap's life, both the discounting factors and the forward rates change, and thus, per the above valuation techniques, the PV of a swap will deviate from its initial value.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "market risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b6015667-b6bb-4da7-8443-e55c25dc3dfe",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The swap will therefore at times be an asset to one party and a liability to the other.",
+    "subject": "swap",
+    "predicate_type": "relates_to",
+    "object_text": "at times be an asset to one party and a liability to the other",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The swap will therefore at times be an asset to one party and a liability to the other.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "market risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03029103-c4c4-44f4-aed5-16d3ed065532",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The way these changes in value are reported is the subject of IAS 39 for jurisdictions following IFRS, and FAS 133 for U.S. GAAP.",
+    "subject": "changes in value",
+    "predicate_type": "governs",
+    "object_text": "reporting",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The way these changes in value are reported is the subject of IAS 39 for jurisdictions following IFRS, and FAS 133 for U.S. GAAP.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "reporting"
+    ],
+    "entities": [
+      "IAS 39",
+      "IFRS",
+      "FAS 133",
+      "U.S. GAAP"
+    ],
+    "regulations": [
+      "IAS 39",
+      "FAS 133"
+    ],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b434dc16-5e30-4668-8b26-8214be4f88b1",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The first-order link of swap value to interest rates is referred to as delta risk.",
+    "subject": "first-order link of swap value to interest rates",
+    "predicate_type": "defines",
+    "object_text": "delta risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The first-order link of swap value to interest rates is referred to as delta risk.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "market risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a72ecaa-90ad-45bb-aa93-30c03eb8671c",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Their gamma risk reflects how delta risk changes as market interest rates fluctuate",
+    "subject": "gamma risk",
+    "predicate_type": "relates_to",
+    "object_text": "how delta risk changes as market interest rates fluctuate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Their gamma risk reflects how delta risk changes as market interest rates fluctuate",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "market risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "06c751bb-f4ff-4606-8719-3c5ad191ab5c",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Other specific types of market risk that interest rate swaps have exposure to are basis risks, where various IBOR tenor indexes can deviate from one another, and reset risks, where the publication of specific tenor IBOR indexes are subject to daily fluctuation.",
+    "subject": "interest rate swaps",
+    "predicate_type": "causes",
+    "object_text": "exposure to basis risks, where various IBOR tenor indexes can deviate from one another, and reset risks, where the publication of specific tenor IBOR indexes are subject to daily fluctuation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other specific types of market risk that interest rate swaps have exposure to are basis risks, where various IBOR tenor indexes can deviate from one another, and reset risks, where the publication of specific tenor IBOR indexes are subject to daily fluctuation.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "market risk"
+    ],
+    "entities": [
+      "Interest rate swaps",
+      "IBOR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6c90591e-cf37-4838-b501-34063023d285",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Uncollateralised interest rate swaps expose the trading counterparties to funding risks and counterparty credit risks.",
+    "subject": "Uncollateralised interest rate swaps",
+    "predicate_type": "causes",
+    "object_text": "exposure of the trading counterparties to funding risks and counterparty credit risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Uncollateralised interest rate swaps expose the trading counterparties to funding risks and counterparty credit risks.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "funding risk",
+      "credit risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "94a62fc6-3ded-4ab9-b751-e4ee9943e1c2",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Funding risks exist because the value of the swap might deviate to become so negative that it is unaffordable and cannot be funded.",
+    "subject": "Funding risks",
+    "predicate_type": "causes",
+    "object_text": "the value of the swap might deviate to become so negative that it is unaffordable and cannot be funded",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Funding risks exist because the value of the swap might deviate to become so negative that it is unaffordable and cannot be funded.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "funding risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a2e33ad4-a57f-4bfc-bfa0-783914d1f363",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Credit risks exist because the respective counterparty, for whom the value of the swap is positive, will be concerned about the opposing counterparty defaulting on its obligations.",
+    "subject": "Credit risks",
+    "predicate_type": "causes",
+    "object_text": "the respective counterparty, for whom the value of the swap is positive, will be concerned about the opposing counterparty defaulting on its obligations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Credit risks exist because the respective counterparty, for whom the value of the swap is positive, will be concerned about the opposing counterparty defaulting on its obligations.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "credit risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "73ab301e-c8b0-41f1-a7ce-ee33aa3e992d",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Collateralised interest rate swaps expose the users to collateral risks: here, depending upon the terms of the CSA, the type of posted collateral that is permitted might become more or less expensive due to other extraneous market movements.",
+    "subject": "Collateralised interest rate swaps",
+    "predicate_type": "causes",
+    "object_text": "exposure of the users to collateral risks: here, depending upon the terms of the CSA, the type of posted collateral that is permitted might become more or less expensive due to other extraneous market movements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Collateralised interest rate swaps expose the users to collateral risks: here, depending upon the terms of the CSA, the type of posted collateral that is permitted might become more or less expensive due to other extraneous market movements.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "collateral risk"
+    ],
+    "entities": [
+      "Interest rate swaps",
+      "CSA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e5279a2e-e1a4-4536-a679-c607eb221a1e",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Credit and funding risks still exist for collateralised trades but to a much lesser extent.",
+    "subject": "Credit and funding risks",
+    "predicate_type": "relates_to",
+    "object_text": "existence for collateralised trades but to a much lesser extent",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Credit and funding risks still exist for collateralised trades but to a much lesser extent.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "credit risk",
+      "funding risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4cd61c9-23c4-43bd-bdfd-dc55bc7fbd61",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Due to regulations set out in the Basel III Regulatory Frameworks, trading interest rate derivatives commands a capital usage.",
+    "subject": "trading interest rate derivatives",
+    "predicate_type": "requires",
+    "object_text": "capital usage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Due to regulations set out in the Basel III Regulatory Frameworks, trading interest rate derivatives commands a capital usage.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel III",
+      "Interest rate swaps"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67487175-92cd-4c35-8497-0400f86b4f72",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps may be capital intensive.",
+    "subject": "interest rate swaps",
+    "predicate_type": "relates_to",
+    "object_text": "may be capital intensive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps may be capital intensive.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "96265e5f-7704-436f-af70-cb2821cbb994",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps are sensitive to market movements.",
+    "subject": "interest rate swaps",
+    "predicate_type": "relates_to",
+    "object_text": "sensitive to market movements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps are sensitive to market movements.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market risk"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b8d1a546-2bdf-4547-b007-bd2da62b028f",
+    "chunk_id": "1937a2d1-2831-4b68-907a-6a00de4c4392",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Capital risks are thus another concern for users.",
+    "subject": "Capital risks",
+    "predicate_type": "relates_to",
+    "object_text": "another concern for users",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Capital risks are thus another concern for users.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ee42356a-881e-4375-83df-16f79894e5b7",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Trading interest rate derivatives commands a capital usage as set out in the Basel III Regulatory Frameworks.",
+    "subject": "trading interest rate derivatives",
+    "predicate_type": "requires",
+    "object_text": "capital usage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Trading interest rate derivatives commands a capital usage as set out in the Basel III Regulatory Frameworks.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "derivatives"
+    ],
+    "entities": [
+      "interest rate derivatives",
+      "Basel III Regulatory Frameworks"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "71ecb94f-a088-424f-8038-f4f94a353382",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps may be capital intensive, dependent upon their specific nature.",
+    "subject": "interest rate swaps",
+    "predicate_type": "relates_to",
+    "object_text": "capital intensive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps may be capital intensive, dependent upon their specific nature.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "derivatives"
+    ],
+    "entities": [
+      "interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "39ee82d5-0613-49f1-be2b-b187e2cd9b4e",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps are sensitive to market movements.",
+    "subject": "interest rate swaps",
+    "predicate_type": "relates_to",
+    "object_text": "sensitive to market movements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps are sensitive to market movements.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "derivatives"
+    ],
+    "entities": [
+      "interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b4d825a-8953-40c0-9d07-2aa7eb630e80",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Capital risks are a concern for users.",
+    "subject": "Capital risks",
+    "predicate_type": "relates_to",
+    "object_text": "a concern for users",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Capital risks are a concern for users.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f442d9a6-5d05-41f3-9801-96f83957400f",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Banks typically calculate a credit valuation adjustment, CVA.",
+    "subject": "Banks",
+    "predicate_type": "implements",
+    "object_text": "calculate a credit valuation adjustment, CVA",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks typically calculate a credit valuation adjustment, CVA.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "valuation"
+    ],
+    "entities": [
+      "CVA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "34ce55ce-b57e-4acc-a8e4-08432109a66d",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Banks typically calculate XVA for other risks.",
+    "subject": "Banks",
+    "predicate_type": "implements",
+    "object_text": "calculate XVA for other risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks typically calculate XVA for other risks.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "valuation"
+    ],
+    "entities": [
+      "XVA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a7ff2653-c639-415b-9e34-7730bc2aae2e",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "CVA and XVA incorporate these risks into the instrument value.",
+    "subject": "CVA and XVA",
+    "predicate_type": "relates_to",
+    "object_text": "incorporate these risks into the instrument value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CVA and XVA incorporate these risks into the instrument value.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "valuation"
+    ],
+    "entities": [
+      "CVA",
+      "XVA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "095ed9c1-9680-42ed-b3f0-1e153865262c",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Debt security traders daily mark to market their swap positions so as to visualize their inventory.",
+    "subject": "Debt security traders",
+    "predicate_type": "implements",
+    "object_text": "daily mark to market their swap positions so as to visualize their inventory",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Debt security traders daily mark to market their swap positions so as to visualize their inventory.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "valuation"
+    ],
+    "entities": [
+      "swap positions"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0ab64ec2-6e78-4d95-8648-d8f2f3e58ff4",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Debt security traders will attempt to hedge, both to protect value and to reduce volatility.",
+    "subject": "Debt security traders",
+    "predicate_type": "implements",
+    "object_text": "attempt to hedge, both to protect value and to reduce volatility",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Debt security traders will attempt to hedge, both to protect value and to reduce volatility.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a4eecc5-3770-437e-9b3a-56be74d6de69",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Traders will implement hedging on a net basis for entire books since the cash flows of component swaps offset each other.",
+    "subject": "Traders",
+    "predicate_type": "implements",
+    "object_text": "implement hedging on a net basis for entire books",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Traders will implement hedging on a net basis for entire books since the cash flows of component swaps offset each other.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dc0c43c4-3c3d-4db5-9431-65770f93807d",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The trader would typically hedge her interest rate risk through offsetting Treasuries (either spot or futures).",
+    "subject": "trader",
+    "predicate_type": "implements",
+    "object_text": "hedge her interest rate risk through offsetting Treasuries (either spot or futures)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The trader would typically hedge her interest rate risk through offsetting Treasuries (either spot or futures).",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "hedging"
+    ],
+    "entities": [
+      "Treasuries"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "24cf153e-337a-4225-a513-26a908d4b55e",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Traders estimate for each counterparty the probability of default using models such as Jarrow\u2013Turnbull and KMV, or by stripping these from CDS prices.",
+    "subject": "Traders",
+    "predicate_type": "implements",
+    "object_text": "estimate for each counterparty the probability of default using models such as Jarrow\u2013Turnbull and KMV, or by stripping these from CDS prices",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Traders estimate for each counterparty the probability of default using models such as Jarrow\u2013Turnbull and KMV, or by stripping these from CDS prices.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "risk_management"
+    ],
+    "entities": [
+      "Jarrow\u2013Turnbull",
+      "KMV",
+      "CDS prices"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fbe393ab-311a-44be-b83e-6decc960401a",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Traders estimate for each trade, the potential future exposure and expected exposure to the counterparty.",
+    "subject": "Traders",
+    "predicate_type": "implements",
+    "object_text": "estimate for each trade, the potential future exposure and expected exposure to the counterparty",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Traders estimate for each trade, the potential future exposure and expected exposure to the counterparty.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a91d1ba5-b966-4377-a24b-a6ea9330a759",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Credit derivatives will then be purchased as appropriate.",
+    "subject": "Credit derivatives",
+    "predicate_type": "permits",
+    "object_text": "be purchased as appropriate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Credit derivatives will then be purchased as appropriate.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "derivatives"
+    ],
+    "entities": [
+      "Credit derivatives"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "788bc3ce-4771-489a-bcef-83ac3bc837f9",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "A specialized XVA-desk centrally monitors and manages overall CVA and XVA exposure and capital.",
+    "subject": "A specialized XVA-desk",
+    "predicate_type": "implements",
+    "object_text": "centrally monitors and manages overall CVA and XVA exposure and capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A specialized XVA-desk centrally monitors and manages overall CVA and XVA exposure and capital.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "XVA",
+      "CVA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fecdfff6-e7e2-406a-b0d9-55be6ed2ed99",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "A specialized XVA-desk will then implement this hedge.",
+    "subject": "A specialized XVA-desk",
+    "predicate_type": "implements",
+    "object_text": "implement this hedge",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A specialized XVA-desk will then implement this hedge.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "hedging"
+    ],
+    "entities": [
+      "XVA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9ff7c8bd-8710-4114-ac44-730fa42e695a",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The other risks must be managed systematically, sometimes involving group treasury.",
+    "subject": "The other risks",
+    "predicate_type": "requires",
+    "object_text": "be managed systematically, sometimes involving group treasury",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The other risks must be managed systematically, sometimes involving group treasury.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0aaf18e5-60d8-4cce-b132-8af060bf57c3",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "These processes will all rely on well-designed numerical risk models.",
+    "subject": "These processes",
+    "predicate_type": "requires",
+    "object_text": "rely on well-designed numerical risk models",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These processes will all rely on well-designed numerical risk models.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "571cf006-81ea-4f6d-8435-536599e082b9",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Well-designed numerical risk models are used to measure and forecast the overall change in value.",
+    "subject": "Well-designed numerical risk models",
+    "predicate_type": "implements",
+    "object_text": "measure and forecast the overall change in value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Well-designed numerical risk models are used to measure and forecast the overall change in value.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a5caa0a4-8d2e-42d6-98d3-cb78294c8774",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Well-designed numerical risk models are used to suggest reliable offsetting benchmark trades which may be used to mitigate risks.",
+    "subject": "Well-designed numerical risk models",
+    "predicate_type": "implements",
+    "object_text": "suggest reliable offsetting benchmark trades which may be used to mitigate risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Well-designed numerical risk models are used to suggest reliable offsetting benchmark trades which may be used to mitigate risks.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cbd72ab5-e203-4d55-8701-81a3901072c4",
+    "chunk_id": "89f99213-472b-4f82-8e3f-dfd44f6c1c88",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The multi-curve framework adds complexity in that individual positions are potentially affected by numerous instruments not obviously related.",
+    "subject": "The multi-curve framework",
+    "predicate_type": "causes",
+    "object_text": "complexity in that individual positions are potentially affected by numerous instruments not obviously related",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The multi-curve framework adds complexity in that individual positions are potentially affected by numerous instruments not obviously related.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0ec42233-6302-44e6-afce-cd2340d05741",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "An interest rate swap's (IRS's) effective description is a derivative contract, agreed between two counterparties, which specifies the nature of an exchange of payments benchmarked against an interest rate index.",
+    "subject": "interest rate swap (IRS)",
+    "predicate_type": "defines",
+    "object_text": "derivative contract, agreed between two counterparties, which specifies the nature of an exchange of payments benchmarked against an interest rate index",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An interest rate swap's (IRS's) effective description is a derivative contract, agreed between two counterparties, which specifies the nature of an exchange of payments benchmarked against an interest rate index.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "derivatives"
+    ],
+    "entities": [
+      "IRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bd9b7aef-7074-4729-ac1c-10df34df7a2c",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The most common IRS is a fixed for floating swap, whereby one party will make payments to the other based on an initially agreed fixed rate of interest, to receive back payments based on a floating interest rate index.",
+    "subject": "IRS",
+    "predicate_type": "classifies",
+    "object_text": "fixed for floating swap, whereby one party will make payments to the other based on an initially agreed fixed rate of interest, to receive back payments based on a floating interest rate index",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The most common IRS is a fixed for floating swap, whereby one party will make payments to the other based on an initially agreed fixed rate of interest, to receive back payments based on a floating interest rate index.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [
+      "IRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ee2db422-04a2-4ba4-85c9-3d0954525c18",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Each of these series of payments is termed a \"leg\", so a typical IRS has both a fixed and a floating leg.",
+    "subject": "series of payments",
+    "predicate_type": "defines",
+    "object_text": "\"leg\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Each of these series of payments is termed a \"leg\", so a typical IRS has both a fixed and a floating leg.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [
+      "IRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d11e2ee5-5b6f-44c4-a5b8-ca337d08a944",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The floating index is commonly an Secured Overnight Financing Rate (SOFR)",
+    "subject": "floating index",
+    "predicate_type": "defines",
+    "object_text": "Secured Overnight Financing Rate (SOFR)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The floating index is commonly an Secured Overnight Financing Rate (SOFR)",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [
+      "SOFR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "27789300-ecfb-4caf-a6b5-a8de0cde1dfd",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "To completely determine any IRS a number of parameters must be specified for each leg.",
+    "subject": "IRS",
+    "predicate_type": "requires",
+    "object_text": "a number of parameters must be specified for each leg",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To completely determine any IRS a number of parameters must be specified for each leg.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [
+      "IRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1f9afae2-94a8-4774-8027-7d8a6d32d34e",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The notional principal amount (or varying notional schedule) must be specified for each leg.",
+    "subject": "leg",
+    "predicate_type": "requires",
+    "object_text": "the notional principal amount (or varying notional schedule) must be specified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The notional principal amount (or varying notional schedule) must be specified for each leg.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "abbeb61d-f8ec-4da4-9626-09cbb275dc6e",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The start and end dates, value-, trade- and settlement dates, and date scheduling (date rolling) must be specified for each leg.",
+    "subject": "leg",
+    "predicate_type": "requires",
+    "object_text": "the start and end dates, value-, trade- and settlement dates, and date scheduling (date rolling) must be specified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The start and end dates, value-, trade- and settlement dates, and date scheduling (date rolling) must be specified for each leg.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "96dfe731-aeb9-4803-8ddb-40aa5d95d4a7",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The fixed rate (i.e. \"swap rate\", sometimes quoted as a \"swap spread\" over a benchmark) must be specified for each leg.",
+    "subject": "leg",
+    "predicate_type": "requires",
+    "object_text": "the fixed rate (i.e. \"swap rate\", sometimes quoted as a \"swap spread\" over a benchmark) must be specified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The fixed rate (i.e. \"swap rate\", sometimes quoted as a \"swap spread\" over a benchmark) must be specified for each leg.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "23aff723-8f4b-4d1c-a4e5-1f04641b014e",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The chosen floating interest rate index tenor must be specified for each leg.",
+    "subject": "leg",
+    "predicate_type": "requires",
+    "object_text": "the chosen floating interest rate index tenor must be specified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The chosen floating interest rate index tenor must be specified for each leg.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a92f2f3a-fff8-43ea-864f-f62f9ffb77bc",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The day count conventions for interest calculations must be specified for each leg.",
+    "subject": "leg",
+    "predicate_type": "requires",
+    "object_text": "the day count conventions for interest calculations must be specified",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The day count conventions for interest calculations must be specified for each leg.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "80938f21-9e31-4a7e-b3cd-58acb22eaef2",
+    "chunk_id": "2e570b58-420c-4056-81f7-e30a556da57c",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Each currency has its own standard market conventions regarding the frequency of payments, the day count conventions and the end-of-month rule.",
+    "subject": "currency",
+    "predicate_type": "relates_to",
+    "object_text": "its own standard market conventions regarding the frequency of payments, the day count conventions and the end-of-month rule",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Each currency has its own standard market conventions regarding the frequency of payments, the day count conventions and the end-of-month rule.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market conventions",
+      "payments"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c4a4ded-e8ce-4140-a9e4-b481aa2bad65",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Interest rate swaps (IRSs) can be customised in a number of ways and can be structured to meet the specific needs of the counterparties.",
+    "subject": "Interest rate swaps (IRSs)",
+    "predicate_type": "permits",
+    "object_text": "customisation in a number of ways and can be structured to meet the specific needs of the counterparties",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate swaps (IRSs) can be customised in a number of ways and can be structured to meet the specific needs of the counterparties.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "customization"
+    ],
+    "entities": [
+      "Interest rate swaps"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1c63b4ad-a106-4230-99e6-f62d521597bd",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Payment dates could be irregular.",
+    "subject": "Payment dates",
+    "predicate_type": "relates_to",
+    "object_text": "irregular",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Payment dates could be irregular.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment dates",
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3f028963-19d8-4a31-94ee-9f6c8169c7ed",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The notional of the swap could be amortized over time.",
+    "subject": "The notional of the swap",
+    "predicate_type": "relates_to",
+    "object_text": "amortized over time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The notional of the swap could be amortized over time.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "notional",
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a64ea58-3813-40d5-94a5-dc9e3f5e0a21",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Reset dates (or fixing dates) of the floating rate could be irregular.",
+    "subject": "Reset dates (or fixing dates) of the floating rate",
+    "predicate_type": "relates_to",
+    "object_text": "irregular",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Reset dates (or fixing dates) of the floating rate could be irregular.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reset dates",
+      "floating rate",
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ed60d7a7-85d5-43a4-abc7-39edd68860b8",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Mandatory break clauses may be inserted into the contract.",
+    "subject": "Mandatory break clauses",
+    "predicate_type": "relates_to",
+    "object_text": "may be inserted into the contract",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mandatory break clauses may be inserted into the contract.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "break clauses",
+      "interest rate swaps"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "46527d2f-8df4-4e82-b15c-d0d927ead066",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "A common form of customisation is often present in new issue swaps where the fixed leg cashflows are designed to replicate those cashflows received as the coupons on a purchased bond.",
+    "subject": "A common form of customisation",
+    "predicate_type": "relates_to",
+    "object_text": "often present in new issue swaps where the fixed leg cashflows are designed to replicate those cashflows received as the coupons on a purchased bond",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A common form of customisation is often present in new issue swaps where the fixed leg cashflows are designed to replicate those cashflows received as the coupons on a purchased bond.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "customization",
+      "new issue swaps",
+      "fixed leg cashflows"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bcb4c6a7-4858-42a8-9e64-cf14c1776443",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The interbank market only has a few standardised types.",
+    "subject": "The interbank market",
+    "predicate_type": "relates_to",
+    "object_text": "only has a few standardised types",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The interbank market only has a few standardised types.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interbank market",
+      "standardised types"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "20c2351c-0d47-40ac-94f4-84d59f3c15a3",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "There is no consensus on the scope of naming convention for different types of IRS.",
+    "subject": "scope of naming convention",
+    "predicate_type": "relates_to",
+    "object_text": "no consensus",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There is no consensus on the scope of naming convention for different types of IRS.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "naming convention",
+      "interest rate swaps"
+    ],
+    "entities": [
+      "IRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "45dd6d5c-7146-4ccb-90cc-38cdb240574e",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Even a wide description of IRS contracts only includes those whose legs are denominated in the same currency.",
+    "subject": "wide description of IRS contracts",
+    "predicate_type": "constrains",
+    "object_text": "only includes those whose legs are denominated in the same currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Even a wide description of IRS contracts only includes those whose legs are denominated in the same currency.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "currency"
+    ],
+    "entities": [
+      "IRS contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9114fe69-57da-47d7-99b0-5868b4b4cb5a",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "It is generally accepted that swaps of similar nature whose legs are denominated in different currencies are called cross currency basis swaps.",
+    "subject": "swaps of similar nature whose legs are denominated in different currencies",
+    "predicate_type": "defines",
+    "object_text": "cross currency basis swaps",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is generally accepted that swaps of similar nature whose legs are denominated in different currencies are called cross currency basis swaps.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cross currency basis swaps",
+      "currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce4e913e-4429-4180-be3e-341ede3dc668",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Swaps which are determined on a floating rate index in one currency but whose payments are denominated in another currency are called Quantos.",
+    "subject": "Swaps which are determined on a floating rate index in one currency but whose payments are denominated in another currency",
+    "predicate_type": "defines",
+    "object_text": "Quantos",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Swaps which are determined on a floating rate index in one currency but whose payments are denominated in another currency are called Quantos.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "Quantos",
+      "currency",
+      "floating rate index"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "668664ea-2578-4666-8595-de1715b964e1",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "In traditional interest rate derivative terminology an IRS is a fixed leg versus floating leg derivative contract referencing an IBOR as the floating leg.",
+    "subject": "IRS",
+    "predicate_type": "defines",
+    "object_text": "fixed leg versus floating leg derivative contract referencing an IBOR as the floating leg",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In traditional interest rate derivative terminology an IRS is a fixed leg versus floating leg derivative contract referencing an IBOR as the floating leg.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate swaps",
+      "fixed leg",
+      "floating leg",
+      "IBOR"
+    ],
+    "entities": [
+      "IRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f8d72a5f-8879-4ad5-9284-812c11da6ee1",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "If the floating leg is redefined to be an overnight index, such as EONIA, SONIA, FFOIS, etc. then this type of swap is generally referred to as an overnight indexed swap (OIS).",
+    "subject": "this type of swap",
+    "predicate_type": "defines",
+    "object_text": "an overnight indexed swap (OIS)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the floating leg is redefined to be an overnight index, such as EONIA, SONIA, FFOIS, etc. then this type of swap is generally referred to as an overnight indexed swap (OIS).",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "overnight indexed swap",
+      "OIS",
+      "floating leg",
+      "overnight index"
+    ],
+    "entities": [
+      "EONIA",
+      "SONIA",
+      "FFOIS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8271220a-ef00-4a9c-9d02-f64cf7129253",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Some financial literature may classify OISs as a subset of IRSs and other literature may recognise a distinct separation.",
+    "subject": "financial literature",
+    "predicate_type": "classifies",
+    "object_text": "OISs as a subset of IRSs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some financial literature may classify OISs as a subset of IRSs and other literature may recognise a distinct separation.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "overnight indexed swap",
+      "OIS",
+      "interest rate swaps"
+    ],
+    "entities": [
+      "OISs",
+      "IRSs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6b78b679-0bd7-40b5-bc40-f6e374f29043",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Fixed leg versus fixed leg swaps are rare, and generally constitute a form of specialised loan agreement.",
+    "subject": "Fixed leg versus fixed leg swaps",
+    "predicate_type": "relates_to",
+    "object_text": "rare, and generally constitute a form of specialised loan agreement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Fixed leg versus fixed leg swaps are rare, and generally constitute a form of specialised loan agreement.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "fixed leg",
+      "loan agreement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2f78d565-a564-4d73-bb7d-305d6e2ed3fb",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "Float leg versus float leg swaps are much more common.",
+    "subject": "Float leg versus float leg swaps",
+    "predicate_type": "relates_to",
+    "object_text": "much more common",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Float leg versus float leg swaps are much more common.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "float leg"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2ebf5b6e-fc29-45c6-9e8c-d4e85435349f",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "These are typically termed (single currency) basis swaps (SBSs).",
+    "subject": "Float leg versus float leg swaps",
+    "predicate_type": "defines",
+    "object_text": "(single currency) basis swaps (SBSs)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These are typically termed (single currency) basis swaps (SBSs).",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "basis swaps",
+      "SBSs",
+      "currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b44d2fc-4f65-405c-9242-120b3bfb9ae8",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The legs on SBSs will necessarily be different interest indexes, such as 1M LIBOR, 3M LIBOR, 6M LIBOR, SONIA, etc.",
+    "subject": "The legs on SBSs",
+    "predicate_type": "relates_to",
+    "object_text": "necessarily be different interest indexes, such as 1M LIBOR, 3M LIBOR, 6M LIBOR, SONIA, etc",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The legs on SBSs will necessarily be different interest indexes, such as 1M LIBOR, 3M LIBOR, 6M LIBOR, SONIA, etc.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "basis swaps",
+      "SBSs",
+      "interest indexes"
+    ],
+    "entities": [
+      "1M LIBOR",
+      "3M LIBOR",
+      "6M LIBOR",
+      "SONIA"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0fbd5699-dae6-4ebf-a898-5f7e3adef175",
+    "chunk_id": "53c355ce-8504-499f-a744-a64ee4e29dfb",
+    "document_id": "Interest_rate_swap",
+    "claim_text": "The pricing of these swaps requires a spread often quoted in basis points to be added to one of the floating legs in order to satisfy value equivalence.",
+    "subject": "The pricing of these swaps",
+    "predicate_type": "requires",
+    "object_text": "a spread often quoted in basis points to be added to one of the floating legs in order to satisfy value equivalence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The pricing of these swaps requires a spread often quoted in basis points to be added to one of the floating legs in order to satisfy value equivalence.",
+    "source_document": "Interest rate swap",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "pricing",
+      "spread",
+      "basis points",
+      "floating legs"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  }
+]

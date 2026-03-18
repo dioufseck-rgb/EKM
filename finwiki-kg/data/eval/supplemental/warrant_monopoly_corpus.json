@@ -1,0 +1,541 @@
+{
+  "status": "complete",
+  "clusters_analyzed": 15,
+  "median_gini": 0.6667,
+  "mean_gini": 0.6555,
+  "proportion_monopoly": 0.0667,
+  "proportion_distributed": 0.0,
+  "interpretation": "Across 15 regulatory clusters with >= 3 contributing documents, median Gini = 0.6667 and 7% show monopoly concentration (Gini > 0.80). Warrant monopoly is a systematic structural property of the corpus, not an artifact of the Basel III example.",
+  "clusters": [
+    {
+      "regulation": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+      "doc_count": 3,
+      "total_warrants": 24,
+      "total_assertions": 47,
+      "gini": 0.6667,
+      "authoritative_source": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+      "authoritative_warrant_share": 1.0,
+      "doc_breakdown": [
+        {
+          "total": 41,
+          "warrants": 24,
+          "doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "United States Securities and Exchange Commission"
+        },
+        {
+          "total": 4,
+          "warrants": 0,
+          "doc": "Consumer Financial Protection Bureau"
+        }
+      ]
+    },
+    {
+      "regulation": "Basel III",
+      "doc_count": 9,
+      "total_warrants": 16,
+      "total_assertions": 83,
+      "gini": 0.8889,
+      "authoritative_source": "Basel III",
+      "authoritative_warrant_share": 1.0,
+      "doc_breakdown": [
+        {
+          "total": 70,
+          "warrants": 16,
+          "doc": "Basel III"
+        },
+        {
+          "total": 3,
+          "warrants": 0,
+          "doc": "Basel II"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Risk-weighted asset"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Bank for International Settlements"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Interest rate swap"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Operational risk"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Federal Deposit Insurance Corporation"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Net stable funding ratio"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Capital requirement"
+        }
+      ]
+    },
+    {
+      "regulation": "Sarbanes\u2013Oxley Act",
+      "doc_count": 5,
+      "total_warrants": 11,
+      "total_assertions": 68,
+      "gini": 0.8,
+      "authoritative_source": "Sarbanes\u2013Oxley Act",
+      "authoritative_warrant_share": 1.0,
+      "doc_breakdown": [
+        {
+          "total": 62,
+          "warrants": 11,
+          "doc": "Sarbanes\u2013Oxley Act"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Mark-to-market accounting"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "United States Securities and Exchange Commission"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Private equity"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Leveraged buyout"
+        }
+      ]
+    },
+    {
+      "regulation": "Bank Secrecy Act",
+      "doc_count": 3,
+      "total_warrants": 7,
+      "total_assertions": 29,
+      "gini": 0.5714,
+      "authoritative_source": "Bank Secrecy Act",
+      "authoritative_warrant_share": 0.8571,
+      "doc_breakdown": [
+        {
+          "total": 27,
+          "warrants": 6,
+          "doc": "Bank Secrecy Act"
+        },
+        {
+          "total": 1,
+          "warrants": 1,
+          "doc": "Anti\u2013money laundering"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Know your customer"
+        }
+      ]
+    },
+    {
+      "regulation": "Dodd\u2013Frank",
+      "doc_count": 3,
+      "total_warrants": 6,
+      "total_assertions": 30,
+      "gini": 0.6667,
+      "authoritative_source": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+      "authoritative_warrant_share": 1.0,
+      "doc_breakdown": [
+        {
+          "total": 26,
+          "warrants": 6,
+          "doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Consumer Financial Protection Bureau"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Office of the Comptroller of the Currency"
+        }
+      ]
+    },
+    {
+      "regulation": "Solvency II",
+      "doc_count": 3,
+      "total_warrants": 4,
+      "total_assertions": 30,
+      "gini": 0.6667,
+      "authoritative_source": "Solvency II",
+      "authoritative_warrant_share": 1.0,
+      "doc_breakdown": [
+        {
+          "total": 28,
+          "warrants": 4,
+          "doc": "Solvency II"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Systemic risk"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Operational risk"
+        }
+      ]
+    },
+    {
+      "regulation": "Basel I",
+      "doc_count": 7,
+      "total_warrants": 3,
+      "total_assertions": 29,
+      "gini": 0.5714,
+      "authoritative_source": "Credit default swap",
+      "authoritative_warrant_share": 0.3333,
+      "doc_breakdown": [
+        {
+          "total": 3,
+          "warrants": 1,
+          "doc": "Credit default swap"
+        },
+        {
+          "total": 12,
+          "warrants": 1,
+          "doc": "Basel I"
+        },
+        {
+          "total": 2,
+          "warrants": 1,
+          "doc": "Tier 1 capital"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Risk-weighted asset"
+        },
+        {
+          "total": 3,
+          "warrants": 0,
+          "doc": "Capital requirement"
+        },
+        {
+          "total": 7,
+          "warrants": 0,
+          "doc": "Leverage (finance)"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Operational risk"
+        }
+      ]
+    },
+    {
+      "regulation": "Basel II",
+      "doc_count": 12,
+      "total_warrants": 3,
+      "total_assertions": 49,
+      "gini": 0.75,
+      "authoritative_source": "Basel III",
+      "authoritative_warrant_share": 0.3333,
+      "doc_breakdown": [
+        {
+          "total": 2,
+          "warrants": 1,
+          "doc": "Basel III"
+        },
+        {
+          "total": 7,
+          "warrants": 1,
+          "doc": "Capital requirement"
+        },
+        {
+          "total": 8,
+          "warrants": 1,
+          "doc": "Operational risk"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Risk-weighted asset"
+        },
+        {
+          "total": 17,
+          "warrants": 0,
+          "doc": "Basel II"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Bank for International Settlements"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Value at risk"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Stress test (financial)"
+        },
+        {
+          "total": 3,
+          "warrants": 0,
+          "doc": "Probability of default"
+        },
+        {
+          "total": 4,
+          "warrants": 0,
+          "doc": "Leverage (finance)"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Solvency II"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Tier 1 capital"
+        }
+      ]
+    },
+    {
+      "regulation": "Securities Exchange Act of 1934",
+      "doc_count": 6,
+      "total_warrants": 3,
+      "total_assertions": 15,
+      "gini": 0.5,
+      "authoritative_source": "Exchange-traded fund",
+      "authoritative_warrant_share": 0.3333,
+      "doc_breakdown": [
+        {
+          "total": 1,
+          "warrants": 1,
+          "doc": "Exchange-traded fund"
+        },
+        {
+          "total": 1,
+          "warrants": 1,
+          "doc": "Asset-backed security"
+        },
+        {
+          "total": 1,
+          "warrants": 1,
+          "doc": "Hedge fund"
+        },
+        {
+          "total": 10,
+          "warrants": 0,
+          "doc": "United States Securities and Exchange Commission"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Financial Industry Regulatory Authority"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Initial public offering"
+        }
+      ]
+    },
+    {
+      "regulation": "Glass\u2013Steagall Act",
+      "doc_count": 4,
+      "total_warrants": 3,
+      "total_assertions": 27,
+      "gini": 0.5833,
+      "authoritative_source": "Glass\u2013Steagall legislation",
+      "authoritative_warrant_share": 0.6667,
+      "doc_breakdown": [
+        {
+          "total": 19,
+          "warrants": 2,
+          "doc": "Glass\u2013Steagall legislation"
+        },
+        {
+          "total": 3,
+          "warrants": 1,
+          "doc": "Mortgage-backed security"
+        },
+        {
+          "total": 4,
+          "warrants": 0,
+          "doc": "Investment banking"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Federal Deposit Insurance Corporation"
+        }
+      ]
+    },
+    {
+      "regulation": "Volcker Rule",
+      "doc_count": 4,
+      "total_warrants": 3,
+      "total_assertions": 59,
+      "gini": 0.5833,
+      "authoritative_source": "Volcker Rule",
+      "authoritative_warrant_share": 0.6667,
+      "doc_breakdown": [
+        {
+          "total": 53,
+          "warrants": 2,
+          "doc": "Volcker Rule"
+        },
+        {
+          "total": 2,
+          "warrants": 1,
+          "doc": "Investment banking"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "United States Securities and Exchange Commission"
+        },
+        {
+          "total": 3,
+          "warrants": 0,
+          "doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act"
+        }
+      ]
+    },
+    {
+      "regulation": "Securities Act of 1933",
+      "doc_count": 4,
+      "total_warrants": 2,
+      "total_assertions": 11,
+      "gini": 0.5,
+      "authoritative_source": "United States Securities and Exchange Commission",
+      "authoritative_warrant_share": 0.5,
+      "doc_breakdown": [
+        {
+          "total": 8,
+          "warrants": 1,
+          "doc": "United States Securities and Exchange Commission"
+        },
+        {
+          "total": 1,
+          "warrants": 1,
+          "doc": "Asset-backed security"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Financial Industry Regulatory Authority"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Hedge fund"
+        }
+      ]
+    },
+    {
+      "regulation": "Dodd-Frank Act",
+      "doc_count": 3,
+      "total_warrants": 2,
+      "total_assertions": 5,
+      "gini": 0.6667,
+      "authoritative_source": "Stress test (financial)",
+      "authoritative_warrant_share": 1.0,
+      "doc_breakdown": [
+        {
+          "total": 3,
+          "warrants": 2,
+          "doc": "Stress test (financial)"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Investment banking"
+        }
+      ]
+    },
+    {
+      "regulation": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act of 2010",
+      "doc_count": 3,
+      "total_warrants": 1,
+      "total_assertions": 6,
+      "gini": 0.6667,
+      "authoritative_source": "Federal Deposit Insurance Corporation",
+      "authoritative_warrant_share": 1.0,
+      "doc_breakdown": [
+        {
+          "total": 1,
+          "warrants": 1,
+          "doc": "Federal Deposit Insurance Corporation"
+        },
+        {
+          "total": 4,
+          "warrants": 0,
+          "doc": "United States Securities and Exchange Commission"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Derivative (finance)"
+        }
+      ]
+    },
+    {
+      "regulation": "Dodd-Frank",
+      "doc_count": 4,
+      "total_warrants": 1,
+      "total_assertions": 42,
+      "gini": 0.75,
+      "authoritative_source": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act",
+      "authoritative_warrant_share": 1.0,
+      "doc_breakdown": [
+        {
+          "total": 36,
+          "warrants": 1,
+          "doc": "Dodd\u2013Frank Wall Street Reform and Consumer Protection Act"
+        },
+        {
+          "total": 3,
+          "warrants": 0,
+          "doc": "Volcker Rule"
+        },
+        {
+          "total": 2,
+          "warrants": 0,
+          "doc": "Hedge fund"
+        },
+        {
+          "total": 1,
+          "warrants": 0,
+          "doc": "Derivative (finance)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3149 @@
+[
+  {
+    "assertion_id": "c5f3f2ca-896a-4c91-97e5-4a140de395ad",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "Banks' senior management will determine corporate strategy.",
+    "subject": "Banks' senior management",
+    "predicate_type": "governs",
+    "object_text": "corporate strategy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks' senior management will determine corporate strategy.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "corporate_governance",
+      "strategy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "380bfa5d-4caf-449c-8bfe-a9c304e1af74",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "Banks' senior management will determine the country in which to base a particular type of business, based in part on how Basel II is ultimately interpreted by various countries' legislatures and regulators.",
+    "subject": "Banks' senior management",
+    "predicate_type": "governs",
+    "object_text": "the country in which to base a particular type of business, based in part on how Basel II is ultimately interpreted by various countries' legislatures and regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks' senior management will determine the country in which to base a particular type of business, based in part on how Basel II is ultimately interpreted by various countries' legislatures and regulators.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "business_strategy",
+      "regulation"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2e3f3a0e-e840-458a-aae9-840006b72269",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "There are several software applications available to assist banks operating with multiple reporting requirements for different regulators according to geographic location.",
+    "subject": "software applications",
+    "predicate_type": "relates_to",
+    "object_text": "assist banks operating with multiple reporting requirements for different regulators according to geographic location",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are several software applications available to assist banks operating with multiple reporting requirements for different regulators according to geographic location.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_reporting",
+      "technology"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7b9e7008-f331-46a0-9e29-84fc085fc554",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "These include capital calculation engines and extend to automated reporting solutions which include the reports required under COREP/FINREP.",
+    "subject": "software applications",
+    "predicate_type": "implements",
+    "object_text": "capital calculation engines and extend to automated reporting solutions which include the reports required under COREP/FINREP",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These include capital calculation engines and extend to automated reporting solutions which include the reports required under COREP/FINREP.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_calculation",
+      "regulatory_reporting"
+    ],
+    "entities": [
+      "COREP",
+      "FINREP"
+    ],
+    "regulations": [
+      "COREP",
+      "FINREP"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "180f569d-4e95-4d82-b527-57472970f246",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "U.S. Federal Deposit Insurance Corporation Chair Sheila Bair explained in June 2007 the purpose of capital adequacy requirements for banks, such as the accord.",
+    "subject": "U.S. Federal Deposit Insurance Corporation Chair Sheila Bair",
+    "predicate_type": "relates_to",
+    "object_text": "the purpose of capital adequacy requirements for banks, such as the accord",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "U.S. Federal Deposit Insurance Corporation Chair Sheila Bair explained in June 2007 the purpose of capital adequacy requirements for banks, such as the accord.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "U.S. Federal Deposit Insurance Corporation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "51b02faf-d12b-4f8c-9b8f-2a4f9e0d6dff",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "Banks left to their own devices would maintain less capital than would be prudent.",
+    "subject": "Banks",
+    "predicate_type": "relates_to",
+    "object_text": "maintain less capital than would be prudent",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks left to their own devices would maintain less capital than would be prudent.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03ceda65-cec4-48d7-a0ad-1e025f14db3e",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "Banks benefit from implicit and explicit government safety nets.",
+    "subject": "Banks",
+    "predicate_type": "relates_to",
+    "object_text": "benefit from implicit and explicit government safety nets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks benefit from implicit and explicit government safety nets.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "government_support",
+      "safety_net"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5eac5421-f5c3-40fa-894b-e9b563268fe3",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "Investing in a bank is perceived as a safe bet.",
+    "subject": "Investing in a bank",
+    "predicate_type": "relates_to",
+    "object_text": "perceived as a safe bet",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investing in a bank is perceived as a safe bet.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a64fd07-15a6-49bc-8c34-fa711396e315",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "Without proper capital regulation, banks can operate in the marketplace with little or no capital.",
+    "subject": "banks",
+    "predicate_type": "permits",
+    "object_text": "operate in the marketplace with little or no capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Without proper capital regulation, banks can operate in the marketplace with little or no capital.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a224250a-e546-4291-a02f-0e2aa1d9cffa",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "Governments and deposit insurers end up holding the bag, bearing much of the risk and cost of failure.",
+    "subject": "Governments and deposit insurers",
+    "predicate_type": "relates_to",
+    "object_text": "end up holding the bag, bearing much of the risk and cost of failure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Governments and deposit insurers end up holding the bag, bearing much of the risk and cost of failure.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "financial_stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce4483c9-2567-4291-94cc-5555e9d8b451",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "The final bill for inadequate capital regulation can be very heavy.",
+    "subject": "The final bill for inadequate capital regulation",
+    "predicate_type": "relates_to",
+    "object_text": "can be very heavy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final bill for inadequate capital regulation can be very heavy.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2685d650-0768-4820-9db2-3321fd1ca372",
+    "chunk_id": "d6e5404e-5969-4447-a648-cf0daf83c0a5",
+    "document_id": "Basel_II",
+    "claim_text": "Regulators can't leave capital decisions totally to the banks.",
+    "subject": "Regulators",
+    "predicate_type": "prohibits",
+    "object_text": "leave capital decisions totally to the banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Regulators can't leave capital decisions totally to the banks.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "639869a0-00f0-4e0c-8fa1-0f63e959700d",
+    "chunk_id": "4f243ecd-f034-45fd-ab19-4ec1b07affa5",
+    "document_id": "Basel_II",
+    "claim_text": "The final version aims at ensuring that capital allocation is more risk-sensitive.",
+    "subject": "final version",
+    "predicate_type": "causes",
+    "object_text": "capital allocation is more risk-sensitive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final version aims at ensuring that capital allocation is more risk-sensitive.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_allocation",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d507e956-85bd-4024-9360-63301bde8083",
+    "chunk_id": "4f243ecd-f034-45fd-ab19-4ec1b07affa5",
+    "document_id": "Basel_II",
+    "claim_text": "The final version aims at enhancing disclosure requirements which would allow market participants to assess the capital adequacy of an institution.",
+    "subject": "final version",
+    "predicate_type": "causes",
+    "object_text": "enhancing disclosure requirements which would allow market participants to assess the capital adequacy of an institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final version aims at enhancing disclosure requirements which would allow market participants to assess the capital adequacy of an institution.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "disclosure",
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "77e6de8b-9604-4928-a8e8-f5c84a2f398b",
+    "chunk_id": "4f243ecd-f034-45fd-ab19-4ec1b07affa5",
+    "document_id": "Basel_II",
+    "claim_text": "The final version aims at ensuring that credit risk, operational risk and market risk are quantified based on data and formal techniques.",
+    "subject": "final version",
+    "predicate_type": "causes",
+    "object_text": "credit risk, operational risk and market risk are quantified based on data and formal techniques",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final version aims at ensuring that credit risk, operational risk and market risk are quantified based on data and formal techniques.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "operational_risk",
+      "market_risk",
+      "risk_quantification"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "68f3b6b7-6474-4e04-8a7b-d867057f1386",
+    "chunk_id": "4f243ecd-f034-45fd-ab19-4ec1b07affa5",
+    "document_id": "Basel_II",
+    "claim_text": "The final version aims at attempting to align economic and regulatory capital more closely to reduce the scope for regulatory arbitrage.",
+    "subject": "final version",
+    "predicate_type": "causes",
+    "object_text": "attempting to align economic and regulatory capital more closely to reduce the scope for regulatory arbitrage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final version aims at attempting to align economic and regulatory capital more closely to reduce the scope for regulatory arbitrage.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "economic_capital",
+      "regulatory_capital",
+      "regulatory_arbitrage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0d0a3e51-f436-44a1-9281-da0b37ec6965",
+    "chunk_id": "4f243ecd-f034-45fd-ab19-4ec1b07affa5",
+    "document_id": "Basel_II",
+    "claim_text": "The final accord has at large addressed the regulatory arbitrage issue.",
+    "subject": "final accord",
+    "predicate_type": "implements",
+    "object_text": "addressed the regulatory arbitrage issue",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final accord has at large addressed the regulatory arbitrage issue.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_arbitrage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ffd2e137-c81b-4923-b3c5-41e45fd0eef2",
+    "chunk_id": "4f243ecd-f034-45fd-ab19-4ec1b07affa5",
+    "document_id": "Basel_II",
+    "claim_text": "There are still areas where regulatory capital requirements will diverge from the economic capital.",
+    "subject": "regulatory capital requirements",
+    "predicate_type": "relates_to",
+    "object_text": "diverge from the economic capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are still areas where regulatory capital requirements will diverge from the economic capital.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_capital",
+      "economic_capital"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7cf32980-7995-47cc-a65a-db6efdef1629",
+    "chunk_id": "e8be72ff-0ff6-4d85-94da-effec5a757d4",
+    "document_id": "Basel_II",
+    "claim_text": "This pillar aims to complement the minimum capital requirements and supervisory review process by developing a set of disclosure requirements which will allow the market participants to gauge the capital adequacy of an institution.",
+    "subject": "Pillar 3",
+    "predicate_type": "implements",
+    "object_text": "developing a set of disclosure requirements which will allow the market participants to gauge the capital adequacy of an institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This pillar aims to complement the minimum capital requirements and supervisory review process by developing a set of disclosure requirements which will allow the market participants to gauge the capital adequacy of an institution.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "disclosure"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "360ca92d-110f-48f7-97c8-ff9fb0a255ba",
+    "chunk_id": "e8be72ff-0ff6-4d85-94da-effec5a757d4",
+    "document_id": "Basel_II",
+    "claim_text": "Market discipline supplements regulation as sharing of information facilitates the assessment of the bank by others, including investors, analysts, customers, other banks, and rating agencies, which leads to good corporate governance.",
+    "subject": "Market discipline",
+    "predicate_type": "relates_to",
+    "object_text": "regulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Market discipline supplements regulation as sharing of information facilitates the assessment of the bank by others, including investors, analysts, customers, other banks, and rating agencies, which leads to good corporate governance.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_discipline",
+      "regulation",
+      "corporate_governance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b5c9603a-772d-488a-ae2c-55df9f1f73dd",
+    "chunk_id": "e8be72ff-0ff6-4d85-94da-effec5a757d4",
+    "document_id": "Basel_II",
+    "claim_text": "The aim of Pillar 3 is to allow market discipline to operate by requiring institutions to disclose details on the scope of application, capital, risk exposures, risk assessment processes, and the capital adequacy of the institution.",
+    "subject": "Pillar 3",
+    "predicate_type": "requires",
+    "object_text": "institutions to disclose details on the scope of application, capital, risk exposures, risk assessment processes, and the capital adequacy of the institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The aim of Pillar 3 is to allow market discipline to operate by requiring institutions to disclose details on the scope of application, capital, risk exposures, risk assessment processes, and the capital adequacy of the institution.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_discipline",
+      "disclosure",
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "60e33eaa-6787-434e-aebf-ac01a90ab979",
+    "chunk_id": "e8be72ff-0ff6-4d85-94da-effec5a757d4",
+    "document_id": "Basel_II",
+    "claim_text": "It must be consistent with how the senior management, including the board, assess and manage the risks of the institution.",
+    "subject": "disclosure",
+    "predicate_type": "constrains",
+    "object_text": "how the senior management, including the board, assess and manage the risks of the institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It must be consistent with how the senior management, including the board, assess and manage the risks of the institution.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "disclosure"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "479bfd26-0c2d-4255-9c11-9241dad5a345",
+    "chunk_id": "e8be72ff-0ff6-4d85-94da-effec5a757d4",
+    "document_id": "Basel_II",
+    "claim_text": "When market participants have a sufficient understanding of a bank's activities and the controls it has in place to manage its exposures, they are better able to distinguish between banking organizations so that they can reward those that manage their risks prudently and penalize those that do not.",
+    "subject": "market participants",
+    "predicate_type": "relates_to",
+    "object_text": "sufficient understanding of a bank's activities and the controls it has in place to manage its exposures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When market participants have a sufficient understanding of a bank's activities and the controls it has in place to manage its exposures, they are better able to distinguish between banking organizations so that they can reward those that manage their risks prudently and penalize those that do not.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "market_discipline"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d5c3e8d5-e9c2-4f99-b8ef-b6f5fa780e05",
+    "chunk_id": "e8be72ff-0ff6-4d85-94da-effec5a757d4",
+    "document_id": "Basel_II",
+    "claim_text": "These disclosures are required to be made at least twice a year, except qualitative disclosures providing a summary of the general risk management objectives and policies which can be made annually.",
+    "subject": "disclosures",
+    "predicate_type": "requires",
+    "object_text": "to be made at least twice a year, except qualitative disclosures providing a summary of the general risk management objectives and policies which can be made annually",
+    "object_value": 2.0,
+    "object_unit": "times/year",
+    "source_text": "These disclosures are required to be made at least twice a year, except qualitative disclosures providing a summary of the general risk management objectives and policies which can be made annually.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "disclosure",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "42a0eee1-9a3b-4c12-80f5-8356b072c856",
+    "chunk_id": "e8be72ff-0ff6-4d85-94da-effec5a757d4",
+    "document_id": "Basel_II",
+    "claim_text": "Institutions are also required to create a formal policy on what will be disclosed and controls around them along with the validation and frequency of these disclosures.",
+    "subject": "Institutions",
+    "predicate_type": "requires",
+    "object_text": "to create a formal policy on what will be disclosed and controls around them along with the validation and frequency of these disclosures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Institutions are also required to create a formal policy on what will be disclosed and controls around them along with the validation and frequency of these disclosures.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "disclosure",
+      "policy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e3a01409-68d2-492b-ab71-d59484c3b2c8",
+    "chunk_id": "e8be72ff-0ff6-4d85-94da-effec5a757d4",
+    "document_id": "Basel_II",
+    "claim_text": "In general, the disclosures under Pillar 3 apply to the top consolidated level of the banking group to which the Basel II framework applies.",
+    "subject": "disclosures under Pillar 3",
+    "predicate_type": "relates_to",
+    "object_text": "to the top consolidated level of the banking group to which the Basel II framework applies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In general, the disclosures under Pillar 3 apply to the top consolidated level of the banking group to which the Basel II framework applies.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "disclosure"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "014dc59c-feab-443f-a947-e918ff80c90f",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "The first pillar deals with maintenance of regulatory capital calculated for three major components of risk that a bank faces: credit risk, operational risk, and market risk.",
+    "subject": "first pillar",
+    "predicate_type": "relates_to",
+    "object_text": "maintenance of regulatory capital calculated for three major components of risk that a bank faces: credit risk, operational risk, and market risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The first pillar deals with maintenance of regulatory capital calculated for three major components of risk that a bank faces: credit risk, operational risk, and market risk.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [
+      "credit risk",
+      "operational risk",
+      "market risk"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e27046e3-222a-4110-a38e-37d236e48e10",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "Other risks are not considered fully quantifiable at this stage.",
+    "subject": "other risks",
+    "predicate_type": "constrains",
+    "object_text": "fully quantifiable at this stage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other risks are not considered fully quantifiable at this stage.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c2be01f2-2b4e-4396-a5dc-26b4ae113767",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "The credit risk component can be calculated in three different ways of varying degree of sophistication, namely standardized approach, Foundation IRB, Advanced IRB.",
+    "subject": "credit risk component",
+    "predicate_type": "relates_to",
+    "object_text": "calculated in three different ways of varying degree of sophistication, namely standardized approach, Foundation IRB, Advanced IRB",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The credit risk component can be calculated in three different ways of varying degree of sophistication, namely standardized approach, Foundation IRB, Advanced IRB.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [
+      "standardized approach",
+      "Foundation IRB",
+      "Advanced IRB"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5fabaab3-9bdd-48d5-8c64-b05fb89d708a",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "IRB stands for \"Internal Rating-Based Approach\".",
+    "subject": "IRB",
+    "predicate_type": "defines",
+    "object_text": "\"Internal Rating-Based Approach\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRB stands for \"Internal Rating-Based Approach\".",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk"
+    ],
+    "entities": [
+      "Internal Rating-Based Approach"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "68c15cdd-bd17-4db8-9778-571a85c451ee",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "For operational risk, there are three different approaches \u2013 basic indicator approach or BIA, standardized approach or TSA, and the internal measurement approach (an advanced form of which is the advanced measurement approach or AMA).",
+    "subject": "operational risk",
+    "predicate_type": "relates_to",
+    "object_text": "three different approaches \u2013 basic indicator approach or BIA, standardized approach or TSA, and the internal measurement approach (an advanced form of which is the advanced measurement approach or AMA)",
+    "object_value": 3.0,
+    "object_unit": null,
+    "source_text": "For operational risk, there are three different approaches \u2013 basic indicator approach or BIA, standardized approach or TSA, and the internal measurement approach (an advanced form of which is the advanced measurement approach or AMA).",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "operational_risk"
+    ],
+    "entities": [
+      "basic indicator approach",
+      "BIA",
+      "standardized approach",
+      "TSA",
+      "internal measurement approach",
+      "advanced measurement approach",
+      "AMA"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8d03a551-fd42-4de2-82b2-97841e100c1b",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "For market risk the preferred approach is VaR (value at risk).",
+    "subject": "market risk",
+    "predicate_type": "relates_to",
+    "object_text": "the preferred approach is VaR (value at risk)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For market risk the preferred approach is VaR (value at risk).",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk"
+    ],
+    "entities": [
+      "VaR",
+      "value at risk"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c8319a31-090b-4878-bc44-08ce4a3777e1",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "As the Basel II recommendations are phased in by the banking industry it will move from standardised requirements to more refined and specific requirements that have been developed for each risk category by each bank.",
+    "subject": "Basel II recommendations",
+    "predicate_type": "causes",
+    "object_text": "move from standardised requirements to more refined and specific requirements that have been developed for each risk category by each bank",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As the Basel II recommendations are phased in by the banking industry it will move from standardised requirements to more refined and specific requirements that have been developed for each risk category by each bank.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b7bf5517-5b8d-4e31-98a6-0968b40e92a2",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "The upside for banks that do develop their bespoke risk measurement systems is that they will be rewarded with potentially lower risk capital requirements.",
+    "subject": "banks that do develop their bespoke risk measurement systems",
+    "predicate_type": "causes",
+    "object_text": "rewarded with potentially lower risk capital requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The upside for banks that do develop their bespoke risk measurement systems is that they will be rewarded with potentially lower risk capital requirements.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c6ef2d1-2c05-4327-a756-a7d535c7f79a",
+    "chunk_id": "4e8853a8-fbca-46b1-a2c8-50e4614ad604",
+    "document_id": "Basel_II",
+    "claim_text": "In the future, there will be closer links between the concepts of economic and regulatory capital.",
+    "subject": "concepts of economic and regulatory capital",
+    "predicate_type": "relates_to",
+    "object_text": "closer links",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the future, there will be closer links between the concepts of economic and regulatory capital.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce7e5237-dec2-4b32-982e-959e49a24af8",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "In response to the 2008 financial crisis, the Basel Committee on Banking Supervision published revised global standards, known as Basel III.",
+    "subject": "Basel Committee on Banking Supervision",
+    "predicate_type": "governs",
+    "object_text": "revised global standards, known as Basel III",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In response to the 2008 financial crisis, the Basel Committee on Banking Supervision published revised global standards, known as Basel III.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_regulation",
+      "banking_supervision"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision",
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "054b2950-9b0d-4d36-8af4-729cfc45be99",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "The Committee claimed that the new standards would lead to a better quality of capital, increased coverage of risk for capital market activities and better liquidity standards among other benefits.",
+    "subject": "Basel Committee on Banking Supervision",
+    "predicate_type": "causes",
+    "object_text": "a better quality of capital, increased coverage of risk for capital market activities and better liquidity standards among other benefits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Committee claimed that the new standards would lead to a better quality of capital, increased coverage of risk for capital market activities and better liquidity standards among other benefits.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_management",
+      "liquidity"
+    ],
+    "entities": [
+      "Basel Committee on Banking Supervision"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4f399c7d-def5-4c3b-8631-1f2959deb838",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "Nout Wellink proposed a stronger regulatory framework which comprises five key components: (a) better quality of regulatory capital, (b) better liquidity management and supervision, (c) better risk management and supervision including enhanced Pillar 2 guidelines, (d) enhanced Pillar 3 disclosures related to securitization, off-balance sheet exposures and trading activities which would promote transparency, and (e) cross-border supervisory cooperation.",
+    "subject": "Nout Wellink",
+    "predicate_type": "governs",
+    "object_text": "a stronger regulatory framework which comprises five key components: (a) better quality of regulatory capital, (b) better liquidity management and supervision, (c) better risk management and supervision including enhanced Pillar 2 guidelines, (d) enhanced Pillar 3 disclosures related to securitization, off-balance sheet exposures and trading activities which would promote transparency, and (e) cross-border supervisory cooperation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Nout Wellink proposed a stronger regulatory framework which comprises five key components: (a) better quality of regulatory capital, (b) better liquidity management and supervision, (c) better risk management and supervision including enhanced Pillar 2 guidelines, (d) enhanced Pillar 3 disclosures related to securitization, off-balance sheet exposures and trading activities which would promote transparency, and (e) cross-border supervisory cooperation.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_framework",
+      "capital_adequacy",
+      "liquidity",
+      "risk_management",
+      "transparency",
+      "supervisory_cooperation"
+    ],
+    "entities": [
+      "Nout Wellink"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dbdacb36-346c-4a99-8acf-6fa023df4339",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "The BCBS also published principles for better liquidity management and supervision in September 2008.",
+    "subject": "BCBS",
+    "predicate_type": "governs",
+    "object_text": "principles for better liquidity management and supervision",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The BCBS also published principles for better liquidity management and supervision in September 2008.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity",
+      "banking_supervision"
+    ],
+    "entities": [
+      "BCBS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "791cecf4-bce5-4bdf-9137-f0171971cb4f",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "A recent OECD study suggest that bank regulation based on the Basel accords encourage unconventional business practices and contributed to or even reinforced adverse systemic shocks that materialised during the 2008 financial crisis.",
+    "subject": "bank regulation based on the Basel accords",
+    "predicate_type": "causes",
+    "object_text": "unconventional business practices and contributed to or even reinforced adverse systemic shocks that materialised during the 2008 financial crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A recent OECD study suggest that bank regulation based on the Basel accords encourage unconventional business practices and contributed to or even reinforced adverse systemic shocks that materialised during the 2008 financial crisis.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bank_regulation",
+      "systemic_risk"
+    ],
+    "entities": [
+      "OECD",
+      "Basel Accords"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a7e4dfc4-6768-42bb-a6cf-05d896338dbc",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "Capital regulation based on risk-weighted assets encourages innovation designed to circumvent regulatory requirements and shifts banks' focus away from their core economic functions.",
+    "subject": "Capital regulation based on risk-weighted assets",
+    "predicate_type": "causes",
+    "object_text": "innovation designed to circumvent regulatory requirements and shifts banks' focus away from their core economic functions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Capital regulation based on risk-weighted assets encourages innovation designed to circumvent regulatory requirements and shifts banks' focus away from their core economic functions.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_regulation",
+      "risk_weighted_assets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "351d8535-b304-4c4b-a898-e5f2c5302629",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "Tighter capital requirements based on risk-weighted assets, introduced in the Basel III, may further contribute to these skewed incentives.",
+    "subject": "Tighter capital requirements based on risk-weighted assets",
+    "predicate_type": "causes",
+    "object_text": "these skewed incentives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Tighter capital requirements based on risk-weighted assets, introduced in the Basel III, may further contribute to these skewed incentives.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_requirements",
+      "risk_weighted_assets"
+    ],
+    "entities": [
+      "Basel III"
+    ],
+    "regulations": [
+      "Basel III"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "827f317c-a496-45fd-b373-ce52b0f10a00",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "New liquidity regulation is another likely candidate to increase bank incentives to exploit regulation.",
+    "subject": "New liquidity regulation",
+    "predicate_type": "causes",
+    "object_text": "increase bank incentives to exploit regulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "New liquidity regulation is another likely candidate to increase bank incentives to exploit regulation.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a74a8bce-4da6-43a8-b515-f16194df4c44",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "European legislators have pushed dogmatically and naively for the adoption of the Basel II recommendations, adopted in 2005, transposed in European Union law through the Capital Requirements Directive (CRD), effective since 2008.",
+    "subject": "European legislators",
+    "predicate_type": "implements",
+    "object_text": "the adoption of the Basel II recommendations, adopted in 2005, transposed in European Union law through the Capital Requirements Directive (CRD), effective since 2008",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "European legislators have pushed dogmatically and naively for the adoption of the Basel II recommendations, adopted in 2005, transposed in European Union law through the Capital Requirements Directive (CRD), effective since 2008.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "capital_requirements"
+    ],
+    "entities": [
+      "Basel II",
+      "Capital Requirements Directive"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c2008b28-303a-4b3e-8888-3691cff53ce5",
+    "chunk_id": "707fbe9e-b92e-415c-a555-328e46a615cc",
+    "document_id": "Basel_II",
+    "claim_text": "They forced private banks, central banks, and bank regulators to rely more on assessments of credit risk by private rating agencies.",
+    "subject": "European legislators",
+    "predicate_type": "causes",
+    "object_text": "private banks, central banks, and bank regulators to rely more on assessments of credit risk by private rating agencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They forced private banks, central banks, and bank regulators to rely more on assessments of credit risk by private rating agencies.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "rating_agencies"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "89d4af2d-3ce9-4193-8bae-b38e510f177b",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "Regulators in most jurisdictions around the world plan to implement the new accord.",
+    "subject": "Regulators",
+    "predicate_type": "implements",
+    "object_text": "the new accord",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Regulators in most jurisdictions around the world plan to implement the new accord.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "39555aa1-66a6-4b33-a442-00b580d288af",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "The United States' various regulators have agreed on a final approach.",
+    "subject": "The United States' various regulators",
+    "predicate_type": "governs",
+    "object_text": "a final approach",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The United States' various regulators have agreed on a final approach.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8f10f4a1-57be-436f-a3a9-5833bea1de56",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "They have required the Internal Ratings-Based approach for the largest banks.",
+    "subject": "regulators",
+    "predicate_type": "requires",
+    "object_text": "the Internal Ratings-Based approach for the largest banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They have required the Internal Ratings-Based approach for the largest banks.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0c0724be-4cd1-4f66-b956-d348a31b71c8",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "The standardized approach will be available for smaller banks.",
+    "subject": "The standardized approach",
+    "predicate_type": "permits",
+    "object_text": "available for smaller banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The standardized approach will be available for smaller banks.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f6400062-dec4-4346-9b5a-31dcbada5a41",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "Reserve Bank of India has implemented the Basel II standardized norms on 31 March 2009.",
+    "subject": "Reserve Bank of India",
+    "predicate_type": "implements",
+    "object_text": "the Basel II standardized norms",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Reserve Bank of India has implemented the Basel II standardized norms on 31 March 2009.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "basel"
+    ],
+    "entities": [
+      "Reserve Bank of India",
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7fac50ab-07d1-4f37-ad83-a842d3821465",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "Reserve Bank of India is moving to internal ratings in credit and AMA (Advanced Measurement Approach) norms for operational risks in banks.",
+    "subject": "Reserve Bank of India",
+    "predicate_type": "implements",
+    "object_text": "internal ratings in credit and AMA (Advanced Measurement Approach) norms for operational risks in banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Reserve Bank of India is moving to internal ratings in credit and AMA (Advanced Measurement Approach) norms for operational risks in banks.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "risk_management"
+    ],
+    "entities": [
+      "Reserve Bank of India"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "04545d52-d5db-438d-9d07-26a8f132bf31",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "Existing RBI norms for banks in India (as of September 2010): Common equity (incl of buffer): 3.6%.",
+    "subject": "RBI norms for banks in India",
+    "predicate_type": "requires",
+    "object_text": "Common equity (incl of buffer): 3.6%",
+    "object_value": 3.6,
+    "object_unit": "%",
+    "source_text": "Existing RBI norms for banks in India (as of September 2010): Common equity (incl of buffer): 3.6%.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "RBI"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac365099-5923-439f-bd87-a5b8bcdbe4ac",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "Existing RBI norms for banks in India (as of September 2010): Tier 1 requirement: 6%.",
+    "subject": "RBI norms for banks in India",
+    "predicate_type": "requires",
+    "object_text": "Tier 1 requirement: 6%",
+    "object_value": 6.0,
+    "object_unit": "%",
+    "source_text": "Existing RBI norms for banks in India (as of September 2010): Tier 1 requirement: 6%.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "RBI"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bf8883b3-3a24-4276-ac2c-304c8072f677",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "Existing RBI norms for banks in India (as of September 2010): Total Capital: 9% of risk-weighted assets.",
+    "subject": "RBI norms for banks in India",
+    "predicate_type": "requires",
+    "object_text": "Total Capital: 9% of risk-weighted assets",
+    "object_value": 9.0,
+    "object_unit": "%",
+    "source_text": "Existing RBI norms for banks in India (as of September 2010): Total Capital: 9% of risk-weighted assets.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "RBI"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2462b570-22c9-4d6e-99c1-010c42b3c0f7",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "According to the draft guidelines published by RBI the capital ratios are set to become: Common Equity as 5% + 2.5% (Capital Conservation Buffer) + 0\u20132.5% (Counter Cyclical Buffer).",
+    "subject": "capital ratios",
+    "predicate_type": "requires",
+    "object_text": "Common Equity as 5% + 2.5% (Capital Conservation Buffer) + 0\u20132.5% (Counter Cyclical Buffer)",
+    "object_value": null,
+    "object_unit": "%",
+    "source_text": "According to the draft guidelines published by RBI the capital ratios are set to become: Common Equity as 5% + 2.5% (Capital Conservation Buffer) + 0\u20132.5% (Counter Cyclical Buffer).",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "RBI"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2340c0d9-d615-4562-a84c-7427f3987cbd",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "According to the draft guidelines published by RBI the capital ratios are set to become: 7% of Tier 1 capital.",
+    "subject": "capital ratios",
+    "predicate_type": "requires",
+    "object_text": "7% of Tier 1 capital",
+    "object_value": 7.0,
+    "object_unit": "%",
+    "source_text": "According to the draft guidelines published by RBI the capital ratios are set to become: 7% of Tier 1 capital.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "RBI"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "284671da-5f85-406a-ac49-327fb1a31d34",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "According to the draft guidelines published by RBI the capital ratios are set to become: minimum capital adequacy ratio (excluding Capital Conservation Buffer) of 9% of Risk Weighted Assets.",
+    "subject": "capital ratios",
+    "predicate_type": "requires",
+    "object_text": "minimum capital adequacy ratio (excluding Capital Conservation Buffer) of 9% of Risk Weighted Assets",
+    "object_value": 9.0,
+    "object_unit": "%",
+    "source_text": "According to the draft guidelines published by RBI the capital ratios are set to become: minimum capital adequacy ratio (excluding Capital Conservation Buffer) of 9% of Risk Weighted Assets.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "RBI"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e79ca7df-f7c3-4b6e-805b-4823a8e6b8bc",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "The actual capital requirement is between 11 and 13.5% (including Capital Conservation Buffer and Counter Cyclical Buffer).",
+    "subject": "The actual capital requirement",
+    "predicate_type": "requires",
+    "object_text": "between 11 and 13.5% (including Capital Conservation Buffer and Counter Cyclical Buffer)",
+    "object_value": null,
+    "object_unit": "%",
+    "source_text": "The actual capital requirement is between 11 and 13.5% (including Capital Conservation Buffer and Counter Cyclical Buffer).",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ee81e847-085d-4a22-93c2-ad40ad3ee452",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "95 national regulators indicated they were to implement Basel II, in some form or another, by 2015.",
+    "subject": "95 national regulators",
+    "predicate_type": "implements",
+    "object_text": "Basel II, in some form or another",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "95 national regulators indicated they were to implement Basel II, in some form or another, by 2015.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f0c2e4db-baa9-4c46-a5ba-c7df8c9e7fa1",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "The European Union has already implemented the Accord via the EU Capital Requirements Directives.",
+    "subject": "The European Union",
+    "predicate_type": "implements",
+    "object_text": "the Accord via the EU Capital Requirements Directives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The European Union has already implemented the Accord via the EU Capital Requirements Directives.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [
+      "European Union"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0484f6fd-3c61-4a92-9daf-d02068b946e8",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "All the credit institutions adopted it by 2008\u201309.",
+    "subject": "All the credit institutions",
+    "predicate_type": "implements",
+    "object_text": "it by 2008\u201309",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All the credit institutions adopted it by 2008\u201309.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "compliance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7fabd810-04c2-4438-be95-107545335401",
+    "chunk_id": "8a528147-5260-493f-a742-5b16538f1943",
+    "document_id": "Basel_II",
+    "claim_text": "Australia, through its Australian Prudential Regulation Authority, implemented the Basel II Framework on 1 January 2008.",
+    "subject": "Australia",
+    "predicate_type": "implements",
+    "object_text": "the Basel II Framework",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Australia, through its Australian Prudential Regulation Authority, implemented the Basel II Framework on 1 January 2008.",
+    "source_document": "Basel II",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulation",
+      "basel"
+    ],
+    "entities": [
+      "Australian Prudential Regulation Authority",
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

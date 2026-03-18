@@ -1,0 +1,3598 @@
+[
+  {
+    "assertion_id": "54f24f80-32a2-4d6d-bf29-bca5a895b151",
+    "chunk_id": "0abb6b87-5ffe-4748-a8f5-72af345feec3",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The Federal Reserve Board had interpreted this \"loophole\" in those restrictions to mean a banking company (Citigroup, as owner of Citibank) could acquire one of the world's largest securities firms (Salomon Smith Barney).",
+    "subject": "Federal Reserve Board",
+    "predicate_type": "permits",
+    "object_text": "a banking company (Citigroup, as owner of Citibank) could acquire one of the world's largest securities firms (Salomon Smith Barney)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Federal Reserve Board had interpreted this \"loophole\" in those restrictions to mean a banking company (Citigroup, as owner of Citibank) could acquire one of the world's largest securities firms (Salomon Smith Barney).",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mergers & acquisitions",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve Board",
+      "Citigroup",
+      "Citibank",
+      "Salomon Smith Barney"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "099e7c1d-4246-47b2-88e4-71095394b9db",
+    "chunk_id": "0abb6b87-5ffe-4748-a8f5-72af345feec3",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Commercial banks take in deposits and make loans.",
+    "subject": "commercial banks",
+    "predicate_type": "defines",
+    "object_text": "banks that take in deposits and make loans",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Commercial banks take in deposits and make loans.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking"
+    ],
+    "entities": [
+      "commercial banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "27d57cae-a30c-485c-a846-99df211fe5f0",
+    "chunk_id": "0abb6b87-5ffe-4748-a8f5-72af345feec3",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Investment banks underwrite and deal with securities.",
+    "subject": "investment banks",
+    "predicate_type": "defines",
+    "object_text": "banks that underwrite and deal with securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investment banks underwrite and deal with securities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment banking",
+      "securities"
+    ],
+    "entities": [
+      "investment banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0e946482-8a6a-47b9-a6c2-47949f01be88",
+    "chunk_id": "0abb6b87-5ffe-4748-a8f5-72af345feec3",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Commercial banks could not deal with securities.",
+    "subject": "commercial banks",
+    "predicate_type": "prohibits",
+    "object_text": "deal with securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Commercial banks could not deal with securities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "securities"
+    ],
+    "entities": [
+      "commercial banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "058e1e27-048b-492a-81bb-a1c24b1e5c34",
+    "chunk_id": "0abb6b87-5ffe-4748-a8f5-72af345feec3",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Investment banks could not own commercial banks or have close connections with them.",
+    "subject": "investment banks",
+    "predicate_type": "prohibits",
+    "object_text": "own commercial banks or have close connections with them",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Investment banks could not own commercial banks or have close connections with them.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "securities"
+    ],
+    "entities": [
+      "investment banks",
+      "commercial banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dc70aaff-9e8c-4deb-8851-bf13c88dd910",
+    "chunk_id": "0abb6b87-5ffe-4748-a8f5-72af345feec3",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Commercial banks are allowed to underwrite government-issued bonds.",
+    "subject": "commercial banks",
+    "predicate_type": "permits",
+    "object_text": "underwrite government-issued bonds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Commercial banks are allowed to underwrite government-issued bonds.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "securities"
+    ],
+    "entities": [
+      "commercial banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a6ba5432-ee24-416d-a3b7-9ebc1f7ffa6f",
+    "chunk_id": "0abb6b87-5ffe-4748-a8f5-72af345feec3",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Commercial banks could only have 10 percent of their income come from securities.",
+    "subject": "commercial banks",
+    "predicate_type": "constrains",
+    "object_text": "only have 10 percent of their income come from securities",
+    "object_value": 10.0,
+    "object_unit": "%",
+    "source_text": "Commercial banks could only have 10 percent of their income come from securities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "securities"
+    ],
+    "entities": [
+      "commercial banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c49990aa-814b-4f8b-891d-dafc568e36c9",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The separation of commercial banking and investment banking was considered controversial in 1933.",
+    "subject": "separation of commercial banking and investment banking",
+    "predicate_type": "relates_to",
+    "object_text": "considered controversial",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The separation of commercial banking and investment banking was considered controversial in 1933.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment banking"
+    ],
+    "entities": [
+      "Glass\u2013Steagall legislation"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c285731-cb51-45e9-946a-b3416ba0be23",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "There was a belief that the separation would lead to a healthier financial system.",
+    "subject": "separation of commercial banking and investment banking",
+    "predicate_type": "causes",
+    "object_text": "a healthier financial system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There was a belief that the separation would lead to a healthier financial system.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial stability",
+      "banking"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a790c22d-09c9-4108-b4e6-d5879803077c",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "In 1935, Senator Glass himself attempted to repeal the prohibition on direct bank underwriting by permitting a limited amount of bank underwriting of corporate debt.",
+    "subject": "Senator Glass",
+    "predicate_type": "permits",
+    "object_text": "a limited amount of bank underwriting of corporate debt",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1935, Senator Glass himself attempted to repeal the prohibition on direct bank underwriting by permitting a limited amount of bank underwriting of corporate debt.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "underwriting"
+    ],
+    "entities": [
+      "Glass\u2013Steagall legislation"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "898abfec-37e6-433f-b88d-2e638f76f3be",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "In the 1960s, the Office of the Comptroller of the Currency issued aggressive interpretations of Glass\u2013Steagall to permit national banks to engage in certain securities activities.",
+    "subject": "Office of the Comptroller of the Currency",
+    "predicate_type": "permits",
+    "object_text": "national banks to engage in certain securities activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the 1960s, the Office of the Comptroller of the Currency issued aggressive interpretations of Glass\u2013Steagall to permit national banks to engage in certain securities activities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities",
+      "banking"
+    ],
+    "entities": [
+      "Office of the Comptroller of the Currency",
+      "Glass\u2013Steagall legislation"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03ff4a24-8f94-461e-9dec-ee653f12e354",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Most of these interpretations were overturned by court decisions.",
+    "subject": "interpretations of Glass\u2013Steagall",
+    "predicate_type": "relates_to",
+    "object_text": "overturned by court decisions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Most of these interpretations were overturned by court decisions.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities",
+      "banking"
+    ],
+    "entities": [
+      "Glass\u2013Steagall legislation"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6efd6492-ba92-425e-b4db-cf5dccf1f542",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "By the late 1970s, bank regulators began issuing Glass\u2013Steagall interpretations that were upheld by courts and that permitted banks and their affiliates to engage in an increasing variety of securities activities.",
+    "subject": "bank regulators",
+    "predicate_type": "permits",
+    "object_text": "banks and their affiliates to engage in an increasing variety of securities activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By the late 1970s, bank regulators began issuing Glass\u2013Steagall interpretations that were upheld by courts and that permitted banks and their affiliates to engage in an increasing variety of securities activities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities",
+      "banking"
+    ],
+    "entities": [
+      "Glass\u2013Steagall legislation"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "02b2688f-aea5-4227-840a-a4ade0741264",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Starting in the 1960s, banks and non-banks developed financial products that blurred the distinction between banking and securities products, as they increasingly competed with each other.",
+    "subject": "banks and non-banks",
+    "predicate_type": "relates_to",
+    "object_text": "developed financial products that blurred the distinction between banking and securities products",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Starting in the 1960s, banks and non-banks developed financial products that blurred the distinction between banking and securities products, as they increasingly competed with each other.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "securities"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "27d81c50-c1f7-4713-ad1d-60c8125b5870",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Starting in the 1980s, Congress debated bills to repeal Glass\u2013Steagall's affiliation provisions (Sections 20 and 32).",
+    "subject": "Congress",
+    "predicate_type": "relates_to",
+    "object_text": "debated bills to repeal Glass\u2013Steagall's affiliation provisions (Sections 20 and 32)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Starting in the 1980s, Congress debated bills to repeal Glass\u2013Steagall's affiliation provisions (Sections 20 and 32).",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "legislation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall legislation"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "450644f0-9aeb-4914-906a-5ef6cdd9c83e",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "In 1999 Congress passed the Gramm\u2013Leach\u2013Bliley Act, also known as the Financial Services Modernization Act of 1999, to repeal them.",
+    "subject": "Congress",
+    "predicate_type": "supersedes",
+    "object_text": "Gramm\u2013Leach\u2013Bliley Act, also known as the Financial Services Modernization Act of 1999",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 1999 Congress passed the Gramm\u2013Leach\u2013Bliley Act, also known as the Financial Services Modernization Act of 1999, to repeal them.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "Gramm\u2013Leach\u2013Bliley Act",
+      "Financial Services Modernization Act of 1999"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "42af40c7-4f78-43a0-a270-75a626e242a5",
+    "chunk_id": "a4f22049-2eae-4686-b6c0-bf22083dd650",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Eight days later, President Bill Clinton signed the Gramm\u2013Leach\u2013Bliley Act into law.",
+    "subject": "President Bill Clinton",
+    "predicate_type": "implements",
+    "object_text": "Gramm\u2013Leach\u2013Bliley Act",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Eight days later, President Bill Clinton signed the Gramm\u2013Leach\u2013Bliley Act into law.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial regulation"
+    ],
+    "entities": [
+      "President Bill Clinton",
+      "Gramm\u2013Leach\u2013Bliley Act"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90570180-000f-42c0-bcd7-206537896a40",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Senator Carter Glass (D-VA) introduced several versions of a bill (known in each version as the Glass bill) to regulate or prohibit the combination of commercial and investment banking and to establish other reforms (except deposit insurance) similar to the final provisions of the 1933 Banking Act between 1930 and 1932.",
+    "subject": "Senator Carter Glass",
+    "predicate_type": "implements",
+    "object_text": "several versions of a bill (known in each version as the Glass bill) to regulate or prohibit the combination of commercial and investment banking and to establish other reforms (except deposit insurance) similar to the final provisions of the 1933 Banking Act",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Senator Carter Glass (D-VA) introduced several versions of a bill (known in each version as the Glass bill) to regulate or prohibit the combination of commercial and investment banking and to establish other reforms (except deposit insurance) similar to the final provisions of the 1933 Banking Act between 1930 and 1932.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Carter Glass",
+      "Glass bill",
+      "1933 Banking Act"
+    ],
+    "regulations": [
+      "Glass bill",
+      "1933 Banking Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01245a6b-be99-486f-b25f-6436743a65de",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "President Roosevelt signed the bill into law on June 16, 1933.",
+    "subject": "President Roosevelt",
+    "predicate_type": "implements",
+    "object_text": "the bill into law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "President Roosevelt signed the bill into law on June 16, 1933.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "President Roosevelt"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "937f64ec-d3e8-43dc-8083-4ec810272589",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Glass originally introduced his banking reform bill in January 1932.",
+    "subject": "Glass",
+    "predicate_type": "implements",
+    "object_text": "his banking reform bill",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Glass originally introduced his banking reform bill in January 1932.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Glass"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "64703d29-664e-44b9-8814-9e645e9e260e",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "It passed the House on February 16, 1932, the Senate on February 19, 1932, and signed into law by President Hoover eight days later.",
+    "subject": "banking reform bill",
+    "predicate_type": "implements",
+    "object_text": "passed the House on February 16, 1932, the Senate on February 19, 1932, and signed into law by President Hoover eight days later",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It passed the House on February 16, 1932, the Senate on February 19, 1932, and signed into law by President Hoover eight days later.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "President Hoover"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6891c584-eb19-4c46-9d3a-de49cfde9510",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The Senate passed a version of the Glass bill that would have required commercial banks to eliminate their securities affiliates.",
+    "subject": "Senate",
+    "predicate_type": "requires",
+    "object_text": "commercial banks to eliminate their securities affiliates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Senate passed a version of the Glass bill that would have required commercial banks to eliminate their securities affiliates.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Glass bill"
+    ],
+    "regulations": [
+      "Glass bill"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f721834-4de8-450d-bef8-6a2c5072ecf0",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The final Glass\u2013Steagall provisions contained in the 1933 Banking Act reduced from five years to one year the period in which commercial banks were required to eliminate such affiliations.",
+    "subject": "Glass\u2013Steagall provisions",
+    "predicate_type": "constrains",
+    "object_text": "reduced from five years to one year the period in which commercial banks were required to eliminate such affiliations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final Glass\u2013Steagall provisions contained in the 1933 Banking Act reduced from five years to one year the period in which commercial banks were required to eliminate such affiliations.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall",
+      "1933 Banking Act",
+      "commercial banks"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall",
+      "1933 Banking Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4000239d-b757-4b0f-aa1d-96c98a60b926",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "President Roosevelt supported the Glass\u2013Steagall provisions separating commercial and investment banking.",
+    "subject": "President Roosevelt",
+    "predicate_type": "relates_to",
+    "object_text": "the Glass\u2013Steagall provisions separating commercial and investment banking",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "President Roosevelt supported the Glass\u2013Steagall provisions separating commercial and investment banking.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "President Roosevelt",
+      "Glass\u2013Steagall"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "502a9e3e-63c5-4988-8efd-9a65899c0cd6",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Representative Steagall included those provisions in his House bill that differed from Senator Glass's Senate bill primarily in its deposit insurance provisions.",
+    "subject": "Representative Steagall",
+    "predicate_type": "implements",
+    "object_text": "those provisions in his House bill that differed from Senator Glass's Senate bill primarily in its deposit insurance provisions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Representative Steagall included those provisions in his House bill that differed from Senator Glass's Senate bill primarily in its deposit insurance provisions.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Representative Steagall",
+      "Senator Glass"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d3210e7a-b1d2-4eec-9dee-6cb311334049",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Steagall insisted on protecting small banks while Glass felt that small banks were the weakness to U.S. banking.",
+    "subject": "Steagall",
+    "predicate_type": "relates_to",
+    "object_text": "protecting small banks while Glass felt that small banks were the weakness to U.S. banking",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Steagall insisted on protecting small banks while Glass felt that small banks were the weakness to U.S. banking.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Steagall",
+      "Glass",
+      "small banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "811abb3b-4eb6-47be-9790-4d3a81268afd",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Many accounts of the Act identify the Pecora Investigation as important in leading to the Act, particularly its Glass\u2013Steagall provisions, becoming law.",
+    "subject": "Pecora Investigation",
+    "predicate_type": "causes",
+    "object_text": "the Act, particularly its Glass\u2013Steagall provisions, becoming law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many accounts of the Act identify the Pecora Investigation as important in leading to the Act, particularly its Glass\u2013Steagall provisions, becoming law.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Pecora Investigation",
+      "Glass\u2013Steagall"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "652029eb-f02b-4b9b-bdcd-9b19d6885b24",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Supporters of the Glass\u2013Steagall separation of commercial and investment banking cite the Pecora Investigation as supporting that separation.",
+    "subject": "Supporters of the Glass\u2013Steagall separation of commercial and investment banking",
+    "predicate_type": "relates_to",
+    "object_text": "the Pecora Investigation as supporting that separation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Supporters of the Glass\u2013Steagall separation of commercial and investment banking cite the Pecora Investigation as supporting that separation.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall",
+      "Pecora Investigation"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfa93bfe-b0a0-4ef6-81a3-56c20034111d",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Glass\u2013Steagall critics have argued that the evidence from the Pecora Investigation did not support the separation of commercial and investment banking.",
+    "subject": "Glass\u2013Steagall critics",
+    "predicate_type": "relates_to",
+    "object_text": "the evidence from the Pecora Investigation did not support the separation of commercial and investment banking",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Glass\u2013Steagall critics have argued that the evidence from the Pecora Investigation did not support the separation of commercial and investment banking.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall",
+      "Pecora Investigation"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0ba8ade9-0676-4d67-a7d1-497b8ccbad79",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Senator Glass proposed many versions of his bill to Congress known as the Glass Bills in the two years prior to the Glass\u2013Steagall Act being passed.",
+    "subject": "Senator Glass",
+    "predicate_type": "implements",
+    "object_text": "many versions of his bill to Congress known as the Glass Bills",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Senator Glass proposed many versions of his bill to Congress known as the Glass Bills in the two years prior to the Glass\u2013Steagall Act being passed.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Senator Glass",
+      "Glass Bills",
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cca3f863-f5bf-4bc4-97bf-b151be9c00b7",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The deposit insurance provisions of the bill were very controversial at the time, which almost led to the rejection of the bill once again.",
+    "subject": "deposit insurance provisions",
+    "predicate_type": "relates_to",
+    "object_text": "very controversial at the time, which almost led to the rejection of the bill once again",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The deposit insurance provisions of the bill were very controversial at the time, which almost led to the rejection of the bill once again.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4e46c6fa-3c71-4a51-912d-e0aa3f2da3fd",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The previous Glass Bills before the final revision all had similar goals and brought up the same objectives, which were to separate commercial from investment banking, bring more banking activities under Federal Reserve supervision, and to allow branch banking.",
+    "subject": "Glass Bills",
+    "predicate_type": "implements",
+    "object_text": "separate commercial from investment banking, bring more banking activities under Federal Reserve supervision, and to allow branch banking",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The previous Glass Bills before the final revision all had similar goals and brought up the same objectives, which were to separate commercial from investment banking, bring more banking activities under Federal Reserve supervision, and to allow branch banking.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Glass Bills",
+      "Federal Reserve"
+    ],
+    "regulations": [
+      "Glass Bills"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a92734d4-74b2-49dc-b0cf-c632a2fe866d",
+    "chunk_id": "67abfc1d-1746-4ea3-990f-7e1ee6944a5f",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "In May 1933, Steagall's addition of allowing state-chartered",
+    "subject": "Steagall",
+    "predicate_type": "permits",
+    "object_text": "allowing state-chartered",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In May 1933, Steagall's addition of allowing state-chartered",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking regulation"
+    ],
+    "entities": [
+      "Steagall"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a15fad18-e650-44e4-b7dd-7128bc2112af",
+    "chunk_id": "28c9266c-6ee2-4a41-85b5-011dd24843df",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The previous Glass Bills before the final revision all had similar goals.",
+    "subject": "previous Glass Bills",
+    "predicate_type": "relates_to",
+    "object_text": "similar goals",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The previous Glass Bills before the final revision all had similar goals.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "legislation"
+    ],
+    "entities": [
+      "Glass Bills"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "46719ba0-d747-473d-b279-a535b145e93f",
+    "chunk_id": "28c9266c-6ee2-4a41-85b5-011dd24843df",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The previous Glass Bills before the final revision all brought up the same objectives.",
+    "subject": "previous Glass Bills",
+    "predicate_type": "relates_to",
+    "object_text": "the same objectives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The previous Glass Bills before the final revision all brought up the same objectives.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "legislation"
+    ],
+    "entities": [
+      "Glass Bills"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "254e252f-5e4e-4143-8e42-422935b822e0",
+    "chunk_id": "28c9266c-6ee2-4a41-85b5-011dd24843df",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The objectives were to separate commercial from investment banking.",
+    "subject": "objectives",
+    "predicate_type": "requires",
+    "object_text": "to separate commercial from investment banking",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The objectives were to separate commercial from investment banking.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2d8f9cf4-2486-4778-a757-b3a04509de90",
+    "chunk_id": "28c9266c-6ee2-4a41-85b5-011dd24843df",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The objectives were to bring more banking activities under Federal Reserve supervision.",
+    "subject": "objectives",
+    "predicate_type": "requires",
+    "object_text": "to bring more banking activities under Federal Reserve supervision",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The objectives were to bring more banking activities under Federal Reserve supervision.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking_regulation"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6a467ae1-0edf-4578-ae1c-1a239ba6ed06",
+    "chunk_id": "28c9266c-6ee2-4a41-85b5-011dd24843df",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The objectives were to allow branch banking.",
+    "subject": "objectives",
+    "predicate_type": "permits",
+    "object_text": "to allow branch banking",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The objectives were to allow branch banking.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05477229-729c-4247-9864-eb379eb38085",
+    "chunk_id": "28c9266c-6ee2-4a41-85b5-011dd24843df",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Steagall's addition of allowing state-chartered banks to receive federal deposit insurance was known as the driving force of what helped the Glass\u2013Steagall act to be signed into law.",
+    "subject": "Steagall's addition of allowing state-chartered banks to receive federal deposit insurance",
+    "predicate_type": "causes",
+    "object_text": "the driving force of what helped the Glass\u2013Steagall act to be signed into law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Steagall's addition of allowing state-chartered banks to receive federal deposit insurance was known as the driving force of what helped the Glass\u2013Steagall act to be signed into law.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "deposit_insurance",
+      "legislation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cbc235fe-2677-4950-ad6a-b05182b5d736",
+    "chunk_id": "28c9266c-6ee2-4a41-85b5-011dd24843df",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Steagall's addition of shortening the time in which banks needed to eliminate securities affiliates to one year was known as the driving force of what helped the Glass\u2013Steagall act to be signed into law.",
+    "subject": "Steagall's addition of shortening the time in which banks needed to eliminate securities affiliates",
+    "predicate_type": "causes",
+    "object_text": "the driving force of what helped the Glass\u2013Steagall act to be signed into law",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Steagall's addition of shortening the time in which banks needed to eliminate securities affiliates to one year was known as the driving force of what helped the Glass\u2013Steagall act to be signed into law.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities",
+      "legislation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall"
+    ],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "281e7a35-9042-4015-8b85-548b3756d0e5",
+    "chunk_id": "28c9266c-6ee2-4a41-85b5-011dd24843df",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Banks needed to eliminate securities affiliates to one year.",
+    "subject": "banks",
+    "predicate_type": "requires",
+    "object_text": "to eliminate securities affiliates to one year",
+    "object_value": 1.0,
+    "object_unit": "year",
+    "source_text": "Banks needed to eliminate securities affiliates to one year.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "securities"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d44d6bd1-d419-4c8d-8662-bdc83ca10e9d",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The common name [Glass\u2013Steagall Act] comes from the names of the Congressional sponsors, Senator Carter Glass and Representative Henry B. Steagall.",
+    "subject": "Glass\u2013Steagall Act",
+    "predicate_type": "relates_to",
+    "object_text": "names of the Congressional sponsors, Senator Carter Glass and Representative Henry B. Steagall",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The common name [Glass\u2013Steagall Act] comes from the names of the Congressional sponsors, Senator Carter Glass and Representative Henry B. Steagall.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Glass\u2013Steagall Act",
+      "Carter Glass",
+      "Henry B. Steagall"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3747c836-c56f-4bcb-a0c5-2be5edae5609",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The separation of commercial and investment banking prevented securities firms and investment banks from taking deposits.",
+    "subject": "separation of commercial and investment banking",
+    "predicate_type": "prohibits",
+    "object_text": "securities firms and investment banks from taking deposits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The separation of commercial and investment banking prevented securities firms and investment banks from taking deposits.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "securities firms",
+      "investment banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8cee426a-0fa0-4b3a-8529-76b16e8993d0",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The separation of commercial and investment banking prevented commercial Federal Reserve member banks from dealing in non-governmental securities for customers.",
+    "subject": "separation of commercial and investment banking",
+    "predicate_type": "prohibits",
+    "object_text": "commercial Federal Reserve member banks from dealing in non-governmental securities for customers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The separation of commercial and investment banking prevented commercial Federal Reserve member banks from dealing in non-governmental securities for customers.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b89c4f73-58c5-4428-b247-3633e5fa4dc7",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The separation of commercial and investment banking prevented commercial Federal Reserve member banks from investing in non-investment grade securities for themselves.",
+    "subject": "separation of commercial and investment banking",
+    "predicate_type": "prohibits",
+    "object_text": "commercial Federal Reserve member banks from investing in non-investment grade securities for themselves",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The separation of commercial and investment banking prevented commercial Federal Reserve member banks from investing in non-investment grade securities for themselves.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "71520321-5781-4c61-ab87-be590257080b",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The separation of commercial and investment banking prevented commercial Federal Reserve member banks from underwriting or distributing non-governmental securities.",
+    "subject": "separation of commercial and investment banking",
+    "predicate_type": "prohibits",
+    "object_text": "commercial Federal Reserve member banks from underwriting or distributing non-governmental securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The separation of commercial and investment banking prevented commercial Federal Reserve member banks from underwriting or distributing non-governmental securities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2863f9af-e8de-4d4a-98d9-a7e22ec5ec75",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The separation of commercial and investment banking prevented commercial Federal Reserve member banks from affiliating (or sharing employees) with companies involved in such activities.",
+    "subject": "separation of commercial and investment banking",
+    "predicate_type": "prohibits",
+    "object_text": "commercial Federal Reserve member banks from affiliating (or sharing employees) with companies involved in such activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The separation of commercial and investment banking prevented commercial Federal Reserve member banks from affiliating (or sharing employees) with companies involved in such activities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "602fd51c-4ece-44a0-af5a-2c852ed02f32",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Congressional efforts to \"repeal the Glass\u2013Steagall Act\" culminated in the 1999 Gramm\u2013Leach\u2013Bliley Act (GLBA).",
+    "subject": "Congressional efforts to \"repeal the Glass\u2013Steagall Act\"",
+    "predicate_type": "relates_to",
+    "object_text": "the 1999 Gramm\u2013Leach\u2013Bliley Act (GLBA)",
+    "object_value": 1999.0,
+    "object_unit": null,
+    "source_text": "Congressional efforts to \"repeal the Glass\u2013Steagall Act\" culminated in the 1999 Gramm\u2013Leach\u2013Bliley Act (GLBA).",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "Glass\u2013Steagall Act",
+      "Gramm\u2013Leach\u2013Bliley Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act",
+      "Gramm\u2013Leach\u2013Bliley Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a7b2099-29df-4a0f-938d-d9e34c586702",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The 1999 Gramm\u2013Leach\u2013Bliley Act (GLBA) repealed the two provisions restricting affiliations between banks and securities firms.",
+    "subject": "1999 Gramm\u2013Leach\u2013Bliley Act (GLBA)",
+    "predicate_type": "supersedes",
+    "object_text": "the two provisions restricting affiliations between banks and securities firms",
+    "object_value": 2.0,
+    "object_unit": null,
+    "source_text": "The 1999 Gramm\u2013Leach\u2013Bliley Act (GLBA) repealed the two provisions restricting affiliations between banks and securities firms.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "Gramm\u2013Leach\u2013Bliley Act"
+    ],
+    "regulations": [
+      "Gramm\u2013Leach\u2013Bliley Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6385caab-9602-46a8-b22b-88ed51e39b26",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Citibank's 1998 affiliation with Salomon Smith Barney was permitted under the Federal Reserve Board's then existing interpretation of the Glass\u2013Steagall Act.",
+    "subject": "Citibank's 1998 affiliation with Salomon Smith Barney",
+    "predicate_type": "permits",
+    "object_text": "under the Federal Reserve Board's then existing interpretation of the Glass\u2013Steagall Act",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Citibank's 1998 affiliation with Salomon Smith Barney was permitted under the Federal Reserve Board's then existing interpretation of the Glass\u2013Steagall Act.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "Citibank",
+      "Salomon Smith Barney",
+      "Federal Reserve Board",
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0806c9a7-67d4-490a-9a55-cf1e248b8748",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "President Bill Clinton publicly declared \"the Glass\u2013Steagall law is no longer appropriate\" in November 1999.",
+    "subject": "President Bill Clinton",
+    "predicate_type": "relates_to",
+    "object_text": "\"the Glass\u2013Steagall law is no longer appropriate\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "President Bill Clinton publicly declared \"the Glass\u2013Steagall law is no longer appropriate\" in November 1999.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "investment"
+    ],
+    "entities": [
+      "Bill Clinton",
+      "Glass\u2013Steagall law"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall law"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9229b19d-c364-441f-9eff-a74fc804fe73",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Some commentators have stated that the GLBA's repeal of the affiliation restrictions of the Glass\u2013Steagall Act was an important cause of the 2008 financial crisis.",
+    "subject": "GLBA's repeal of the affiliation restrictions of the Glass\u2013Steagall Act",
+    "predicate_type": "causes",
+    "object_text": "the 2008 financial crisis",
+    "object_value": 2008.0,
+    "object_unit": null,
+    "source_text": "Some commentators have stated that the GLBA's repeal of the affiliation restrictions of the Glass\u2013Steagall Act was an important cause of the 2008 financial crisis.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "GLBA",
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act",
+      "GLBA"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e7efa78-ea51-4866-b676-3fee863c93af",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Nobel Memorial Prize in Economics laureate Joseph Stiglitz argued that the effect of the repeal was \"indirect\".",
+    "subject": "Nobel Memorial Prize in Economics laureate Joseph Stiglitz",
+    "predicate_type": "relates_to",
+    "object_text": "the effect of the repeal was \"indirect\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Nobel Memorial Prize in Economics laureate Joseph Stiglitz argued that the effect of the repeal was \"indirect\".",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [
+      "Joseph Stiglitz"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1b8a8f9f-9e8e-49b1-88ce-a1ac93327403",
+    "chunk_id": "f88434c5-aac6-4188-8985-10127200f8a5",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Economists at the Federal Reserve, such as Chairman Ben Bernanke, have argued that the activities linked to the 2008 financial crisis were not prohibited by the Glass\u2013Steagall Act.",
+    "subject": "Economists at the Federal Reserve, such as Chairman Ben Bernanke",
+    "predicate_type": "relates_to",
+    "object_text": "the activities linked to the 2008 financial crisis were not prohibited by the Glass\u2013Steagall Act",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Economists at the Federal Reserve, such as Chairman Ben Bernanke, have argued that the activities linked to the 2008 financial crisis were not prohibited by the Glass\u2013Steagall Act.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "Federal Reserve",
+      "Ben Bernanke",
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05acaee7-f9d0-4d36-9b6c-245dc4a9848a",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The Glass\u2013Steagall separation of commercial and investment banking was in four sections of the 1933 Banking Act (sections 16, 20, 21, and 32).",
+    "subject": "Glass\u2013Steagall separation of commercial and investment banking",
+    "predicate_type": "implements",
+    "object_text": "four sections of the 1933 Banking Act (sections 16, 20, 21, and 32)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Glass\u2013Steagall separation of commercial and investment banking was in four sections of the 1933 Banking Act (sections 16, 20, 21, and 32).",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall Act",
+      "Banking Act of 1933"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act",
+      "Banking Act of 1933"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f876fbf9-0d4f-47f1-9b9d-7eafde14c83d",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The Banking Act of 1935 clarified the 1933 legislation and resolved inconsistencies in it.",
+    "subject": "Banking Act of 1935",
+    "predicate_type": "implements",
+    "object_text": "clarified the 1933 legislation and resolved inconsistencies in it",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Banking Act of 1935 clarified the 1933 legislation and resolved inconsistencies in it.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Banking Act of 1935",
+      "Banking Act of 1933"
+    ],
+    "regulations": [
+      "Banking Act of 1935",
+      "Banking Act of 1933"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "71adb6fe-7a61-4958-9fee-b3febddabfd4",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Together, they prevented commercial Federal Reserve member banks from dealing in non-governmental securities for customers.",
+    "subject": "commercial Federal Reserve member banks",
+    "predicate_type": "prohibits",
+    "object_text": "dealing in non-governmental securities for customers",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Together, they prevented commercial Federal Reserve member banks from dealing in non-governmental securities for customers.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act",
+      "Banking Act of 1933",
+      "Banking Act of 1935"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "79084324-c163-45e7-81d9-8e53d23f786c",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Together, they prevented commercial Federal Reserve member banks from investing in non-investment grade securities for themselves.",
+    "subject": "commercial Federal Reserve member banks",
+    "predicate_type": "prohibits",
+    "object_text": "investing in non-investment grade securities for themselves",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Together, they prevented commercial Federal Reserve member banks from investing in non-investment grade securities for themselves.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act",
+      "Banking Act of 1933",
+      "Banking Act of 1935"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "005756f0-f149-4e25-8409-1853ebf873e6",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Together, they prevented commercial Federal Reserve member banks from underwriting or distributing non-governmental securities.",
+    "subject": "commercial Federal Reserve member banks",
+    "predicate_type": "prohibits",
+    "object_text": "underwriting or distributing non-governmental securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Together, they prevented commercial Federal Reserve member banks from underwriting or distributing non-governmental securities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act",
+      "Banking Act of 1933",
+      "Banking Act of 1935"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0a6ab2ee-1f8f-43d9-9e5c-f27a076ff7f1",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Together, they prevented commercial Federal Reserve member banks from affiliating (or sharing employees) with companies involved in such activities",
+    "subject": "commercial Federal Reserve member banks",
+    "predicate_type": "prohibits",
+    "object_text": "affiliating (or sharing employees) with companies involved in such activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Together, they prevented commercial Federal Reserve member banks from affiliating (or sharing employees) with companies involved in such activities",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act",
+      "Banking Act of 1933",
+      "Banking Act of 1935"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4ca73643-f9c7-491a-b3d6-aa100bea3b29",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Glass\u2013Steagall prevented securities firms and investment banks from taking deposits.",
+    "subject": "securities firms and investment banks",
+    "predicate_type": "prohibits",
+    "object_text": "taking deposits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Glass\u2013Steagall prevented securities firms and investment banks from taking deposits.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "52251017-7b54-483f-b6a7-190f0b58482f",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "The law gave banks one year after the law was passed on June 16, 1933, to decide whether they would be a commercial bank or an investment bank.",
+    "subject": "banks",
+    "predicate_type": "permits",
+    "object_text": "one year after the law was passed on June 16, 1933, to decide whether they would be a commercial bank or an investment bank",
+    "object_value": 1.0,
+    "object_unit": "year",
+    "source_text": "The law gave banks one year after the law was passed on June 16, 1933, to decide whether they would be a commercial bank or an investment bank.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "785a87e3-2509-4250-b763-318f32364884",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Only 10 percent of a commercial bank's income could stem from securities.",
+    "subject": "commercial bank's income",
+    "predicate_type": "constrains",
+    "object_text": "10 percent could stem from securities",
+    "object_value": 10.0,
+    "object_unit": "%",
+    "source_text": "Only 10 percent of a commercial bank's income could stem from securities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7cbf2ad-2ed8-4dd2-9758-4f16a584286b",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "One exception to this rule was that commercial banks could underwrite government-issued bonds.",
+    "subject": "commercial banks",
+    "predicate_type": "permits",
+    "object_text": "underwrite government-issued bonds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One exception to this rule was that commercial banks could underwrite government-issued bonds.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1d44a43d-f19d-4b09-a4cb-431a2d0c048d",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Aside from the Section 21 prohibition on securities firms taking deposits, neither savings and loans nor state-chartered banks that did not belong to the Federal Reserve System were restricted by Glass\u2013Steagall.",
+    "subject": "savings and loans nor state-chartered banks that did not belong to the Federal Reserve System",
+    "predicate_type": "constrains",
+    "object_text": "restricted by Glass\u2013Steagall",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Aside from the Section 21 prohibition on securities firms taking deposits, neither savings and loans nor state-chartered banks that did not belong to the Federal Reserve System were restricted by Glass\u2013Steagall.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve System",
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5e209ada-2b55-4e27-8649-582fe0192ef1",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Glass\u2013Steagall also did not prevent securities firms from owning such institutions.",
+    "subject": "Glass\u2013Steagall",
+    "predicate_type": "permits",
+    "object_text": "securities firms from owning such institutions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Glass\u2013Steagall also did not prevent securities firms from owning such institutions.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "68888f1a-ab57-4a8c-ac54-45e1551c7b8d",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "While permitting affiliations between securities firms and companies other than Federal Reserve member banks, Glass\u2013Steagall distinguished between what a Federal Reserve member bank could do directly and what an affiliate could do.",
+    "subject": "Glass\u2013Steagall",
+    "predicate_type": "relates_to",
+    "object_text": "permitting affiliations between securities firms and companies other than Federal Reserve member banks, distinguished between what a Federal Reserve member bank could do directly and what an affiliate could do",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "While permitting affiliations between securities firms and companies other than Federal Reserve member banks, Glass\u2013Steagall distinguished between what a Federal Reserve member bank could do directly and what an affiliate could do.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve",
+      "Glass\u2013Steagall Act"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "688edef3-ee22-4e7d-bc1d-12f38c742719",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Whereas a Federal Reserve member bank could not buy, sell, underwrite, or deal in any security except as specifically permitted by Section 16, such a bank could affiliate with a company so long as that company was not \"engaged principally\" in such activities.",
+    "subject": "Federal Reserve member bank",
+    "predicate_type": "constrains",
+    "object_text": "could not buy, sell, underwrite, or deal in any security except as specifically permitted by Section 16, such a bank could affiliate with a company so long as that company was not \"engaged principally\" in such activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Whereas a Federal Reserve member bank could not buy, sell, underwrite, or deal in any security except as specifically permitted by Section 16, such a bank could affiliate with a company so long as that company was not \"engaged principally\" in such activities.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "913322a1-cf70-4697-9dfb-b9af5f5feea8",
+    "chunk_id": "3d62b928-829d-4095-94ab-90e0dc26ac67",
+    "document_id": "Glass\u2013Steagall_legislation",
+    "claim_text": "Starting in 1987, the Federal Reserve Board interpreted this to mean a member bank could affiliate with a securities firm so long as that firm was not \"engaged principally\" in securities activities prohibited for a bank by Section 16.",
+    "subject": "Federal Reserve Board",
+    "predicate_type": "governs",
+    "object_text": "interpreted this to mean a member bank could affiliate with a securities firm so long as that firm was not \"engaged principally\" in securities activities prohibited for a bank by Section 16",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Starting in 1987, the Federal Reserve Board interpreted this to mean a member bank could affiliate with a securities firm so long as that firm was not \"engaged principally\" in securities activities prohibited for a bank by Section 16.",
+    "source_document": "Glass\u2013Steagall legislation",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "financial regulation"
+    ],
+    "entities": [
+      "Federal Reserve Board"
+    ],
+    "regulations": [
+      "Glass\u2013Steagall Act"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

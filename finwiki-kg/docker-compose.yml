@@ -1,0 +1,119 @@
+version: "3.9"
+
+networks:
+  finwiki-net:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  qdrant_data:
+  neo4j_data:
+
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: finwiki
+      POSTGRES_USER: finwiki
+      POSTGRES_PASSWORD: finwiki
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./sql/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+    ports:
+      - "5432:5432"
+    networks:
+      - finwiki-net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U finwiki -d finwiki"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    networks:
+      - finwiki-net
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:6333/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  neo4j:
+    image: neo4j:5
+    environment:
+      NEO4J_AUTH: neo4j/finwiki123
+      NEO4J_PLUGINS: '["apoc"]'
+      NEO4J_apoc_export_file_enabled: "true"
+      NEO4J_apoc_import_file_enabled: "true"
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - neo4j_data:/data
+      - ./cypher/schema.cypher:/var/lib/neo4j/import/schema.cypher
+    networks:
+      - finwiki-net
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p finwiki123 'RETURN 1' || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+
+  pipeline:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.pipeline
+    depends_on:
+      postgres:
+        condition: service_healthy
+      qdrant:
+        condition: service_healthy
+      neo4j:
+        condition: service_healthy
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+    networks:
+      - finwiki-net
+
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.api
+    depends_on:
+      postgres:
+        condition: service_healthy
+      qdrant:
+        condition: service_healthy
+      neo4j:
+        condition: service_healthy
+    env_file: .env
+    ports:
+      - "8000:8000"
+    networks:
+      - finwiki-net
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  ui:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.ui
+    depends_on:
+      api:
+        condition: service_healthy
+    env_file: .env
+    environment:
+      API_URL: http://api:8000
+    ports:
+      - "8501:8501"
+    networks:
+      - finwiki-net

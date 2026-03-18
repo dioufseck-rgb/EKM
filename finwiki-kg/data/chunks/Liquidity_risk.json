@@ -1,0 +1,24 @@
+[
+  {
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "sequence": 0,
+    "section_title": "Causes",
+    "content": "Liquidity risk arises from situations in which a party interested in trading an asset cannot do it because nobody in the market wants to trade for that asset. Liquidity risk becomes particularly important to parties who are about to hold or currently hold an asset, since it affects their ability to trade. Manifestation of liquidity risk is very different from a drop of price to zero. In case of a drop of an asset's price to zero, the market is saying that the asset is worthless. However, if one party cannot find another party interested in trading the asset, this can potentially be only a problem of the market participants with finding each other. This is why liquidity risk is usually found to be higher in emerging markets or low-volume markets. Liquidity risk is financial risk due to uncertain liquidity. An institution might lose liquidity if its credit rating falls, it experiences sudden unexpected cash outflows, or some other event causes counterparties to avoid trading with or lending to the institution. A firm is also exposed to liquidity risk if markets on which it depends are subject to loss of liquidity. Market and funding liquidity risks compound each other as it is difficult to sell when other investors face funding problems and it is difficult to get funding when the collateral is hard to sell. Liquidity risk also tends to compound other risks. If a trading organization has a position in an illiquid asset, its limited ability to liquidate that position at short notice will compound its market risk. Suppose a firm has offsetting cash flows with two different counterparties on a given day. If the counterparty that owes it a payment defaults, the firm will have to raise cash from other sources to make its payment. Should it be unable to do so, it too will default. Here, liquidity risk is compounding credit risk. A position can be hedged against market risk but still entail liquidity risk. This is true in the above credit risk example\u2014the two payments are offsetting, so they entail credit risk but not market risk. Another example is the 1993 Metallgesellschaft debacle. Futures contracts were used to hedge an over-the-counter finance (OTC) obligation. It is debatable whether the hedge was effective from a market risk standpoint, but it was the liquidity crisis caused by staggering margin calls on the futures that forced Metallgesellschaft to unwind",
+    "token_estimate": 400,
+    "title": "Liquidity risk",
+    "url": "https://en.wikipedia.org/wiki/Liquidity_risk",
+    "domain": "banking"
+  },
+  {
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "sequence": 1,
+    "section_title": "Causes",
+    "content": "Another example is the 1993 Metallgesellschaft debacle. Futures contracts were used to hedge an over-the-counter finance (OTC) obligation. It is debatable whether the hedge was effective from a market risk standpoint, but it was the liquidity crisis caused by staggering margin calls on the futures that forced Metallgesellschaft to unwind the positions. Accordingly, liquidity risk has to be managed in addition to market, credit and other risks. Because of its tendency to compound other risks, it is difficult or impossible to isolate liquidity risk. In all but the simplest of circumstances, comprehensive metrics of liquidity risk do not exist. Certain techniques of asset liability management can be applied to assessing liquidity risk. A simple test for liquidity risk is to look at future net cash flows on a day-by-day basis. Any day that has a sizeable negative net cash flow is of concern. Such an analysis can be supplemented with stress testing. Look at net cash flows on a day-to-day basis assuming that an important counterparty defaults. Analyses such as these cannot easily take into account contingent cash flows, such as cash flows from derivatives or mortgage-backed securities. If an organization's cash flows are largely contingent, liquidity risk may be assessed using some form of scenario analysis. A general approach using scenario analysis might entail the following high-level steps: Construct multiple scenarios for market movements and defaults over a given period of time Assess day-to-day cash flows under each scenario. Because balance sheets differ so significantly from one organization to the next, there is little standardization in how such analyses are implemented. Regulators are primarily concerned about systemic implications of liquidity risk.",
+    "token_estimate": 272,
+    "title": "Liquidity risk",
+    "url": "https://en.wikipedia.org/wiki/Liquidity_risk",
+    "domain": "banking"
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "assertion_id": "3f9d666d-6240-4515-9e27-a1a34a3f1b95",
+    "chunk_id": "aa70b8ca-cf46-4cc1-bdd5-dfed90f7b853",
+    "document_id": "Collateralized_loan_obligation",
+    "claim_text": "As a result of the subprime mortgage crisis, the demand for lending money either in the form of mortgage bonds or CLOs almost ground to a halt, with negligible issuance in 2008 and 2009.",
+    "subject": "demand for lending money either in the form of mortgage bonds or CLOs",
+    "predicate_type": "causes",
+    "object_text": "almost ground to a halt, with negligible issuance in 2008 and 2009",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As a result of the subprime mortgage crisis, the demand for lending money either in the form of mortgage bonds or CLOs almost ground to a halt, with negligible issuance in 2008 and 2009.",
+    "source_document": "Collateralized loan obligation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_markets",
+      "mortgages"
+    ],
+    "entities": [
+      "mortgage bonds",
+      "CLOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "326e36b8-199b-4925-917a-9c651d91b2e6",
+    "chunk_id": "aa70b8ca-cf46-4cc1-bdd5-dfed90f7b853",
+    "document_id": "Collateralized_loan_obligation",
+    "claim_text": "The market for U.S. collateralized loan obligations was truly reborn in 2012, however, hitting $55.2 billion, with new-issue CLO volume quadrupling from the previous year, according to data from Royal Bank of Scotland analysts.",
+    "subject": "market for U.S. collateralized loan obligations",
+    "predicate_type": "relates_to",
+    "object_text": "was truly reborn in 2012, however, hitting $55.2 billion, with new-issue CLO volume quadrupling from the previous year, according to data from Royal Bank of Scotland analysts",
+    "object_value": 55.2,
+    "object_unit": "billion",
+    "source_text": "The market for U.S. collateralized loan obligations was truly reborn in 2012, however, hitting $55.2 billion, with new-issue CLO volume quadrupling from the previous year, according to data from Royal Bank of Scotland analysts.",
+    "source_document": "Collateralized loan obligation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_markets",
+      "collateralized_loan_obligations"
+    ],
+    "entities": [
+      "Royal Bank of Scotland",
+      "CLOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2bf57080-3dda-43b9-b1be-937adbc192f7",
+    "chunk_id": "aa70b8ca-cf46-4cc1-bdd5-dfed90f7b853",
+    "document_id": "Collateralized_loan_obligation",
+    "claim_text": "Big names such as Barclays, RBS and Nomura launched their first deals since before the credit crisis.",
+    "subject": "Barclays, RBS and Nomura",
+    "predicate_type": "relates_to",
+    "object_text": "launched their first deals since before the credit crisis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Big names such as Barclays, RBS and Nomura launched their first deals since before the credit crisis.",
+    "source_document": "Collateralized loan obligation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_markets"
+    ],
+    "entities": [
+      "Barclays",
+      "RBS",
+      "Nomura"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65327813-9c8c-4e3d-b724-c3480228c34d",
+    "chunk_id": "aa70b8ca-cf46-4cc1-bdd5-dfed90f7b853",
+    "document_id": "Collateralized_loan_obligation",
+    "claim_text": "Smaller names such as Onex, Valcour, Kramer Van Kirk, and Och Ziff ventured for the first ever time into the CLO market, reflecting the rebounding of market confidence in CLOs as an investment vehicle.",
+    "subject": "Onex, Valcour, Kramer Van Kirk, and Och Ziff",
+    "predicate_type": "relates_to",
+    "object_text": "ventured for the first ever time into the CLO market, reflecting the rebounding of market confidence in CLOs as an investment vehicle",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Smaller names such as Onex, Valcour, Kramer Van Kirk, and Och Ziff ventured for the first ever time into the CLO market, reflecting the rebounding of market confidence in CLOs as an investment vehicle.",
+    "source_document": "Collateralized loan obligation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_markets",
+      "collateralized_loan_obligations"
+    ],
+    "entities": [
+      "Onex",
+      "Valcour",
+      "Kramer Van Kirk",
+      "Och Ziff",
+      "CLOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eb592422-523d-4680-8d77-9867875a30a5",
+    "chunk_id": "aa70b8ca-cf46-4cc1-bdd5-dfed90f7b853",
+    "document_id": "Collateralized_loan_obligation",
+    "claim_text": "CLO issuance has soared since then, culminating in full-year 2013 CLO issuance in the U.S. of $81.9 billion, the most since the pre-Lehman era of 2006-2007, as a combination of rising interest rates and below-trend default rates drew significant amounts of capital to the leveraged loan asset class.",
+    "subject": "CLO issuance",
+    "predicate_type": "relates_to",
+    "object_text": "has soared since then, culminating in full-year 2013 CLO issuance in the U.S. of $81.9 billion, the most since the pre-Lehman era of 2006-2007, as a combination of rising interest rates and below-trend default rates drew significant amounts of capital to the leveraged loan asset class",
+    "object_value": 81.9,
+    "object_unit": "billion",
+    "source_text": "CLO issuance has soared since then, culminating in full-year 2013 CLO issuance in the U.S. of $81.9 billion, the most since the pre-Lehman era of 2006-2007, as a combination of rising interest rates and below-trend default rates drew significant amounts of capital to the leveraged loan asset class.",
+    "source_document": "Collateralized loan obligation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_markets",
+      "collateralized_loan_obligations"
+    ],
+    "entities": [
+      "CLOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f2d6d186-cb45-429f-9dc4-4b87b9bd0336",
+    "chunk_id": "aa70b8ca-cf46-4cc1-bdd5-dfed90f7b853",
+    "document_id": "Collateralized_loan_obligation",
+    "claim_text": "The US CLO market picked up even more steam in 2014, with $124.1 billion in issuance, easily surpassing the prior record of $97 billion in 2006.",
+    "subject": "US CLO market",
+    "predicate_type": "relates_to",
+    "object_text": "picked up even more steam in 2014, with $124.1 billion in issuance, easily surpassing the prior record of $97 billion in 2006",
+    "object_value": 124.1,
+    "object_unit": "billion",
+    "source_text": "The US CLO market picked up even more steam in 2014, with $124.1 billion in issuance, easily surpassing the prior record of $97 billion in 2006.",
+    "source_document": "Collateralized loan obligation",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_markets",
+      "collateralized_loan_obligations"
+    ],
+    "entities": [
+      "CLOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "chunk_id": "fd37d1a7-7741-4118-8332-ddb261271635",
+    "document_id": "Concentration_risk",
+    "sequence": 0,
+    "section_title": "Calculation",
+    "content": "Concentration risk can be calculated for a single bank loan or whole portfolio using a \"concentration ratio\". \n\nFor a single loan, the concentration ratio is simply the proportion of the portfolio the loan represents (e.g. a $100 loan in a $1000 portfolio would have a ratio of 0.1 or 10%)\nFor a whole portfolio, a herfindahl index is used to calculate the degree of concentration to a single name, sector of the economy or country.  Separate concentration ratios must be calculated for each type of concentration.\nTo illustrate, a portfolio with 10 equally sized loans would have a concentration ratio of 0.1 or 10%, whereas a portfolio of 10 loans - 9 equally sized and 1 equal to half the value of the portfolio would have a concentration ratio of 0.27 or 27%.\nThe ratio is useful for bankers or investors at large to identify when a portfolio may be excessively exposed to the risk that a recession or downturn in one sector of the economy or another country may cause a high proportion of the bank's outstanding loans to default.",
+    "token_estimate": 181,
+    "title": "Concentration risk",
+    "url": "https://en.wikipedia.org/wiki/Concentration_risk",
+    "domain": "finance"
+  }
+]

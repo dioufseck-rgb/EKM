@@ -1,0 +1,1613 @@
+[
+  {
+    "assertion_id": "92d25188-ef32-43bc-b0a0-4dd3d4e3129a",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Futures contracts were used to hedge an over-the-counter finance (OTC) obligation.",
+    "subject": "Futures contracts",
+    "predicate_type": "implements",
+    "object_text": "hedge an over-the-counter finance (OTC) obligation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Futures contracts were used to hedge an over-the-counter finance (OTC) obligation.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "hedging"
+    ],
+    "entities": [
+      "Futures contracts"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2ea864e1-e36f-4981-b828-eac56543c843",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "It was the liquidity crisis caused by staggering margin calls on the futures that forced Metallgesellschaft to unwind the positions.",
+    "subject": "liquidity crisis",
+    "predicate_type": "causes",
+    "object_text": "Metallgesellschaft to unwind the positions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It was the liquidity crisis caused by staggering margin calls on the futures that forced Metallgesellschaft to unwind the positions.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "margin"
+    ],
+    "entities": [
+      "Metallgesellschaft"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b724365-2ff0-4d94-ad1b-356d4c73f937",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Liquidity risk has to be managed in addition to market, credit and other risks.",
+    "subject": "Liquidity risk",
+    "predicate_type": "requires",
+    "object_text": "to be managed in addition to market, credit and other risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Liquidity risk has to be managed in addition to market, credit and other risks.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "549f1ad6-0f4b-4856-8fe0-ce75069205da",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Because of its tendency to compound other risks, it is difficult or impossible to isolate liquidity risk.",
+    "subject": "liquidity risk",
+    "predicate_type": "relates_to",
+    "object_text": "difficult or impossible to isolate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Because of its tendency to compound other risks, it is difficult or impossible to isolate liquidity risk.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd1fa1ec-3274-4826-8d14-7fecc807574e",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "In all but the simplest of circumstances, comprehensive metrics of liquidity risk do not exist.",
+    "subject": "comprehensive metrics of liquidity risk",
+    "predicate_type": "relates_to",
+    "object_text": "do not exist",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In all but the simplest of circumstances, comprehensive metrics of liquidity risk do not exist.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1ed804b8-5e93-4306-bc4e-279af80f481d",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Certain techniques of asset liability management can be applied to assessing liquidity risk.",
+    "subject": "Certain techniques of asset liability management",
+    "predicate_type": "implements",
+    "object_text": "assessing liquidity risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Certain techniques of asset liability management can be applied to assessing liquidity risk.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "asset_liability_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6782b230-16e2-45a0-84a5-b2e9fb24ab53",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "A simple test for liquidity risk is to look at future net cash flows on a day-by-day basis.",
+    "subject": "A simple test",
+    "predicate_type": "implements",
+    "object_text": "look at future net cash flows on a day-by-day basis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A simple test for liquidity risk is to look at future net cash flows on a day-by-day basis.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5890334b-21df-4f32-b476-be102518a4cb",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Any day that has a sizeable negative net cash flow is of concern.",
+    "subject": "Any day",
+    "predicate_type": "relates_to",
+    "object_text": "has a sizeable negative net cash flow is of concern",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Any day that has a sizeable negative net cash flow is of concern.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f8d7ffe0-cc9a-40e4-b9e3-ef9e4e46c383",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Such an analysis can be supplemented with stress testing.",
+    "subject": "Such an analysis",
+    "predicate_type": "permits",
+    "object_text": "supplemented with stress testing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such an analysis can be supplemented with stress testing.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "stress_testing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dcfc2a5f-276f-40df-94bb-fc9c815193da",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Analyses such as these cannot easily take into account contingent cash flows, such as cash flows from derivatives or mortgage-backed securities.",
+    "subject": "Analyses such as these",
+    "predicate_type": "constrains",
+    "object_text": "cannot easily take into account contingent cash flows, such as cash flows from derivatives or mortgage-backed securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Analyses such as these cannot easily take into account contingent cash flows, such as cash flows from derivatives or mortgage-backed securities.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "cash_flow"
+    ],
+    "entities": [
+      "derivatives",
+      "mortgage-backed securities"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d4ce34a0-9b9b-4698-8f80-2b41834ec5f6",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "If an organization's cash flows are largely contingent, liquidity risk may be assessed using some form of scenario analysis.",
+    "subject": "liquidity risk",
+    "predicate_type": "permits",
+    "object_text": "assessed using some form of scenario analysis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If an organization's cash flows are largely contingent, liquidity risk may be assessed using some form of scenario analysis.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "scenario_analysis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1f8e1906-1707-4a52-bb79-0fbab3b3a1fc",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Construct multiple scenarios for market movements and defaults over a given period of time",
+    "subject": "scenario analysis",
+    "predicate_type": "requires",
+    "object_text": "Construct multiple scenarios for market movements and defaults over a given period of time",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Construct multiple scenarios for market movements and defaults over a given period of time",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "scenario_analysis",
+      "market_risk",
+      "default_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb78cc60-c27b-451d-a5ff-355390ca0a4c",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Assess day-to-day cash flows under each scenario.",
+    "subject": "scenario analysis",
+    "predicate_type": "requires",
+    "object_text": "Assess day-to-day cash flows under each scenario",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Assess day-to-day cash flows under each scenario.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "scenario_analysis",
+      "cash_flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9fc84fb5-beaa-49ec-9ce9-2e65e17f5fd4",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Because balance sheets differ so significantly from one organization to the next, there is little standardization in how such analyses are implemented.",
+    "subject": "balance sheets",
+    "predicate_type": "relates_to",
+    "object_text": "little standardization in how such analyses are implemented",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Because balance sheets differ so significantly from one organization to the next, there is little standardization in how such analyses are implemented.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "balance_sheet"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d57a7a47-24ee-4746-b59d-d6f3832f68f4",
+    "chunk_id": "60237026-5b84-428a-b029-44c39b70d248",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Regulators are primarily concerned about systemic implications of liquidity risk.",
+    "subject": "Regulators",
+    "predicate_type": "relates_to",
+    "object_text": "primarily concerned about systemic implications of liquidity risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Regulators are primarily concerned about systemic implications of liquidity risk.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bf808452-c582-41b1-ad64-66312773271e",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Liquidity risk arises from situations in which a party interested in trading an asset cannot do it because nobody in the market wants to trade for that asset.",
+    "subject": "liquidity risk",
+    "predicate_type": "causes",
+    "object_text": "situations in which a party interested in trading an asset cannot do it because nobody in the market wants to trade for that asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Liquidity risk arises from situations in which a party interested in trading an asset cannot do it because nobody in the market wants to trade for that asset.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "946e43f6-c7a5-4083-9447-c18fa4853423",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Liquidity risk becomes particularly important to parties who are about to hold or currently hold an asset, since it affects their ability to trade.",
+    "subject": "liquidity risk",
+    "predicate_type": "relates_to",
+    "object_text": "parties who are about to hold or currently hold an asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Liquidity risk becomes particularly important to parties who are about to hold or currently hold an asset, since it affects their ability to trade.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "92aaa821-0c63-4afc-a206-d3915f00d359",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Manifestation of liquidity risk is very different from a drop of price to zero.",
+    "subject": "manifestation of liquidity risk",
+    "predicate_type": "relates_to",
+    "object_text": "a drop of price to zero",
+    "object_value": 0.0,
+    "object_unit": null,
+    "source_text": "Manifestation of liquidity risk is very different from a drop of price to zero.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfe1b3f8-c561-4d67-a2f7-bc7e5fa2ab96",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "In case of a drop of an asset's price to zero, the market is saying that the asset is worthless.",
+    "subject": "market",
+    "predicate_type": "relates_to",
+    "object_text": "the asset is worthless",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In case of a drop of an asset's price to zero, the market is saying that the asset is worthless.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6c11ca76-9f24-44c8-a750-82df30e64f3d",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "If one party cannot find another party interested in trading the asset, this can potentially be only a problem of the market participants with finding each other.",
+    "subject": "one party",
+    "predicate_type": "relates_to",
+    "object_text": "problem of the market participants with finding each other",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If one party cannot find another party interested in trading the asset, this can potentially be only a problem of the market participants with finding each other.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3492568b-31a6-4f76-827d-49d97e7e869e",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Liquidity risk is usually found to be higher in emerging markets or low-volume markets.",
+    "subject": "liquidity risk",
+    "predicate_type": "relates_to",
+    "object_text": "higher in emerging markets or low-volume markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Liquidity risk is usually found to be higher in emerging markets or low-volume markets.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b6efd2e6-485d-41ab-b2e0-939ea31c6238",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Liquidity risk is financial risk due to uncertain liquidity.",
+    "subject": "liquidity risk",
+    "predicate_type": "defines",
+    "object_text": "financial risk due to uncertain liquidity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Liquidity risk is financial risk due to uncertain liquidity.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fc6d85a6-0f63-4a47-bb35-cb73a8bce7c6",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "An institution might lose liquidity if its credit rating falls.",
+    "subject": "institution",
+    "predicate_type": "causes",
+    "object_text": "lose liquidity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An institution might lose liquidity if its credit rating falls.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b30e501f-73e7-4e6f-a365-5c7ba807face",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "An institution might lose liquidity if it experiences sudden unexpected cash outflows.",
+    "subject": "institution",
+    "predicate_type": "causes",
+    "object_text": "lose liquidity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An institution might lose liquidity if it experiences sudden unexpected cash outflows.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4612a445-f2cb-4c2a-a77f-ec8f75e23fee",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "An institution might lose liquidity if some other event causes counterparties to avoid trading with or lending to the institution.",
+    "subject": "institution",
+    "predicate_type": "causes",
+    "object_text": "lose liquidity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An institution might lose liquidity if some other event causes counterparties to avoid trading with or lending to the institution.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "99234a5d-2883-4963-a2b6-4b1bdabe62db",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "A firm is also exposed to liquidity risk if markets on which it depends are subject to loss of liquidity.",
+    "subject": "firm",
+    "predicate_type": "relates_to",
+    "object_text": "exposed to liquidity risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A firm is also exposed to liquidity risk if markets on which it depends are subject to loss of liquidity.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "307ca45e-2f07-4d62-9c0d-9989e1cd6ee1",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Market and funding liquidity risks compound each other as it is difficult to sell when other investors face funding problems and it is difficult to get funding when the collateral is hard to sell.",
+    "subject": "market and funding liquidity risks",
+    "predicate_type": "causes",
+    "object_text": "difficult to sell when other investors face funding problems and it is difficult to get funding when the collateral is hard to sell",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Market and funding liquidity risks compound each other as it is difficult to sell when other investors face funding problems and it is difficult to get funding when the collateral is hard to sell.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3dedc872-8e76-470c-beaa-c1ac3b68eef9",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Liquidity risk also tends to compound other risks.",
+    "subject": "liquidity risk",
+    "predicate_type": "causes",
+    "object_text": "compound other risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Liquidity risk also tends to compound other risks.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9c41bcbf-8a50-48cd-93e1-8a8c3dcf79cb",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "If a trading organization has a position in an illiquid asset, its limited ability to liquidate that position at short notice will compound its market risk.",
+    "subject": "trading organization",
+    "predicate_type": "causes",
+    "object_text": "compound its market risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a trading organization has a position in an illiquid asset, its limited ability to liquidate that position at short notice will compound its market risk.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4c2f31a8-89be-4440-ae88-9418389cdca8",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "If the counterparty that owes it a payment defaults, the firm will have to raise cash from other sources to make its payment.",
+    "subject": "firm",
+    "predicate_type": "requires",
+    "object_text": "raise cash from other sources to make its payment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the counterparty that owes it a payment defaults, the firm will have to raise cash from other sources to make its payment.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2967fb90-1c14-411e-b7cc-0768154f0deb",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Should it be unable to do so, it too will default.",
+    "subject": "firm",
+    "predicate_type": "relates_to",
+    "object_text": "default",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Should it be unable to do so, it too will default.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "0b3cd712-8d8d-42e7-bb3e-e2147396e94b",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "Here, liquidity risk is compounding credit risk.",
+    "subject": "liquidity risk",
+    "predicate_type": "causes",
+    "object_text": "compounding credit risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Here, liquidity risk is compounding credit risk.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "credit_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "055d5d70-6cb1-4e08-ad36-4fe3e4af9eac",
+    "chunk_id": "6c5f001a-7786-4885-8e72-499980fda8c3",
+    "document_id": "Liquidity_risk",
+    "claim_text": "A position can be hedged against market risk but still entail liquidity risk.",
+    "subject": "position",
+    "predicate_type": "relates_to",
+    "object_text": "entail liquidity risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A position can be hedged against market risk but still entail liquidity risk.",
+    "source_document": "Liquidity risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "market_risk",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

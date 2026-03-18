@@ -1,0 +1,5024 @@
+[
+  {
+    "assertion_id": "657b1992-0815-4b0a-ade8-51227b486d7f",
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "claim_text": "Strengthening liquidity risk management, particularly to address potential mis-management issues related to short-term funding.",
+    "subject": "liquidity risk management",
+    "predicate_type": "requires",
+    "object_text": "strengthening, particularly to address potential mis-management issues related to short-term funding",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Strengthening liquidity risk management, particularly to address potential mis-management issues related to short-term funding.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bb32a29c-07c9-4e61-bfc5-3e71d3cda27f",
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "claim_text": "Enhancement of the regulation of financial guarantee insurance.",
+    "subject": "regulation of financial guarantee insurance",
+    "predicate_type": "requires",
+    "object_text": "enhancement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Enhancement of the regulation of financial guarantee insurance.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_guarantee",
+      "insurance_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b15b5ef6-eb56-477f-a67e-89fa4c22554f",
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "claim_text": "The establishment of macro-prudential monitoring with appropriate insurance representation.",
+    "subject": "macro-prudential monitoring",
+    "predicate_type": "requires",
+    "object_text": "establishment with appropriate insurance representation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The establishment of macro-prudential monitoring with appropriate insurance representation.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "macroprudential_oversight",
+      "insurance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "34054e4c-78c6-4c97-8616-8de4fc2d8e44",
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "claim_text": "The strengthening of industry risk management practices to build on the lessons learned by the industry and the sharing experiences with supervisors on a global scale.",
+    "subject": "industry risk management practices",
+    "predicate_type": "requires",
+    "object_text": "strengthening to build on the lessons learned by the industry and the sharing experiences with supervisors on a global scale",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The strengthening of industry risk management practices to build on the lessons learned by the industry and the sharing experiences with supervisors on a global scale.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4644f834-e5c5-4547-b5cc-04278a53bf4f",
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "claim_text": "The International Association of Insurance Supervisors (IAIS) issued its position statement on key financial stability issues in June 2010.",
+    "subject": "International Association of Insurance Supervisors (IAIS)",
+    "predicate_type": "governs",
+    "object_text": "issued its position statement on key financial stability issues",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The International Association of Insurance Supervisors (IAIS) issued its position statement on key financial stability issues in June 2010.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability"
+    ],
+    "entities": [
+      "International Association of Insurance Supervisors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11e5580a-8a03-4eb6-9f0f-1a0ed6e4f9e9",
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "claim_text": "The insurance sector is susceptible to systemic risks generated in other parts of the financial sector.",
+    "subject": "insurance sector",
+    "predicate_type": "relates_to",
+    "object_text": "susceptible to systemic risks generated in other parts of the financial sector",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The insurance sector is susceptible to systemic risks generated in other parts of the financial sector.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_stability"
+    ],
+    "entities": [
+      "insurance sector",
+      "financial sector"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0db7578c-ee75-48a4-aa88-8b0d8882182a",
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "claim_text": "There is little evidence of insurance either generating or amplifying systemic risk, within the financial system itself or in the real economy for most classes of insurance.",
+    "subject": "insurance",
+    "predicate_type": "relates_to",
+    "object_text": "little evidence of generating or amplifying systemic risk, within the financial system itself or in the real economy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There is little evidence of insurance either generating or amplifying systemic risk, within the financial system itself or in the real economy for most classes of insurance.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_stability"
+    ],
+    "entities": [
+      "insurance",
+      "financial system",
+      "real economy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2472ffc9-5b28-46ef-be23-80f651db6092",
+    "chunk_id": "8b61224e-7a3f-42ea-9957-94af6e3096f3",
+    "document_id": "Systemic_risk",
+    "claim_text": "CEA and the Property Casualty Insurers Association of America (PCI) have issued reports on the same subject.",
+    "subject": "CEA and the Property Casualty Insurers Association of America (PCI)",
+    "predicate_type": "governs",
+    "object_text": "have issued reports on the same subject",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CEA and the Property Casualty Insurers Association of America (PCI) have issued reports on the same subject.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [
+      "CEA",
+      "Property Casualty Insurers Association of America"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11b7360f-8744-49d3-86dd-c9d4bc6f4dae",
+    "chunk_id": "1a68d4a8-9a76-4cfd-a2ce-37c104eb6060",
+    "document_id": "Systemic_risk",
+    "claim_text": "A more useful systemic risk measure than a traditional TBTF test is a \"too connected to fail\" (TCTF) assessment.",
+    "subject": "TCTF assessment",
+    "predicate_type": "classifies",
+    "object_text": "more useful systemic risk measure than a traditional TBTF test",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A more useful systemic risk measure than a traditional TBTF test is a \"too connected to fail\" (TCTF) assessment.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [
+      "TBTF",
+      "TCTF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cffacfc9-7457-4708-af65-8792b6fdb187",
+    "chunk_id": "1a68d4a8-9a76-4cfd-a2ce-37c104eb6060",
+    "document_id": "Systemic_risk",
+    "claim_text": "An intuitive TCTF analysis has been at the heart of most recent federal financial emergency relief decisions",
+    "subject": "intuitive TCTF analysis",
+    "predicate_type": "relates_to",
+    "object_text": "at the heart of most recent federal financial emergency relief decisions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An intuitive TCTF analysis has been at the heart of most recent federal financial emergency relief decisions",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_stability"
+    ],
+    "entities": [
+      "TCTF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "36c51040-28f3-4323-869b-f2e71c09659b",
+    "chunk_id": "1a68d4a8-9a76-4cfd-a2ce-37c104eb6060",
+    "document_id": "Systemic_risk",
+    "claim_text": "TCTF is a measure of the likelihood and amount of medium-term net negative impact to the larger economy of an institution's failure to be able to conduct its ongoing business.",
+    "subject": "TCTF",
+    "predicate_type": "defines",
+    "object_text": "measure of the likelihood and amount of medium-term net negative impact to the larger economy of an institution's failure to be able to conduct its ongoing business",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "TCTF is a measure of the likelihood and amount of medium-term net negative impact to the larger economy of an institution's failure to be able to conduct its ongoing business.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [
+      "TCTF"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "30638949-0e5d-498c-84c1-e04ece0a5ec0",
+    "chunk_id": "1a68d4a8-9a76-4cfd-a2ce-37c104eb6060",
+    "document_id": "Systemic_risk",
+    "claim_text": "Network models have been proposed as a method for quantifying the impact of interconnectedness on systemic risk.",
+    "subject": "Network models",
+    "predicate_type": "implements",
+    "object_text": "method for quantifying the impact of interconnectedness on systemic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Network models have been proposed as a method for quantifying the impact of interconnectedness on systemic risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ba04d8c8-1f2a-47f4-8923-7bebbe744a6a",
+    "chunk_id": "1a68d4a8-9a76-4cfd-a2ce-37c104eb6060",
+    "document_id": "Systemic_risk",
+    "claim_text": "The impact is measured not just on the institution's products and activities, but also the economic multiplier of all other commercial activities dependent specifically on that institution.",
+    "subject": "impact",
+    "predicate_type": "relates_to",
+    "object_text": "measured not just on the institution's products and activities, but also the economic multiplier of all other commercial activities dependent specifically on that institution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The impact is measured not just on the institution's products and activities, but also the economic multiplier of all other commercial activities dependent specifically on that institution.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "beb4d249-641b-44a1-b0a0-b500ed6e1ef3",
+    "chunk_id": "1a68d4a8-9a76-4cfd-a2ce-37c104eb6060",
+    "document_id": "Systemic_risk",
+    "claim_text": "It is also dependent on how correlated an institution's business is with other systemic risk.",
+    "subject": "impact",
+    "predicate_type": "relates_to",
+    "object_text": "dependent on how correlated an institution's business is with other systemic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is also dependent on how correlated an institution's business is with other systemic risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65377742-5700-4ad5-86fd-fff392021731",
+    "chunk_id": "7e753092-f319-407d-9fea-402cd4c7d80c",
+    "document_id": "Systemic_risk",
+    "claim_text": "Economic implications of models are not well understood.",
+    "subject": "Economic implications of models",
+    "predicate_type": "relates_to",
+    "object_text": "not well understood",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Economic implications of models are not well understood.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "financial_modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ec22d860-b1d3-4e70-b62f-1918b991861e",
+    "chunk_id": "7e753092-f319-407d-9fea-402cd4c7d80c",
+    "document_id": "Systemic_risk",
+    "claim_text": "All models across the board use the same theoretical basis.",
+    "subject": "models",
+    "predicate_type": "relates_to",
+    "object_text": "use the same theoretical basis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All models across the board use the same theoretical basis.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "financial_modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5195306f-8591-434c-916c-24c48a361b6e",
+    "chunk_id": "7e753092-f319-407d-9fea-402cd4c7d80c",
+    "document_id": "Systemic_risk",
+    "claim_text": "The relationship between financial markets and the economy is not known.",
+    "subject": "relationship between financial markets and the economy",
+    "predicate_type": "relates_to",
+    "object_text": "not known",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The relationship between financial markets and the economy is not known.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "financial_markets",
+      "economy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3204e3e5-bb1e-4b1f-bd40-6f939ce497b2",
+    "chunk_id": "7e753092-f319-407d-9fea-402cd4c7d80c",
+    "document_id": "Systemic_risk",
+    "claim_text": "The facts that (1) all models across the board use the same theoretical basis, and (2) the relationship between financial markets and the economy is not known lead to aggravation of systemic risks.",
+    "subject": "facts that (1) all models across the board use the same theoretical basis, and (2) the relationship between financial markets and the economy is not known",
+    "predicate_type": "causes",
+    "object_text": "aggravation of systemic risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The facts that (1) all models across the board use the same theoretical basis, and (2) the relationship between financial markets and the economy is not known lead to aggravation of systemic risks.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_management",
+      "financial_modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dfd04601-18e6-45bf-8b44-0532f3308c38",
+    "chunk_id": "7e753092-f319-407d-9fea-402cd4c7d80c",
+    "document_id": "Systemic_risk",
+    "claim_text": "Liquidity risks are not accounted for in pricing models used in trading on the financial markets.",
+    "subject": "Liquidity risks",
+    "predicate_type": "relates_to",
+    "object_text": "not accounted for in pricing models used in trading on the financial markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Liquidity risks are not accounted for in pricing models used in trading on the financial markets.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "risk_management",
+      "financial_modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fa153775-935b-47af-9498-6ecae529a37a",
+    "chunk_id": "7e753092-f319-407d-9fea-402cd4c7d80c",
+    "document_id": "Systemic_risk",
+    "claim_text": "All participants in an illiquid market using such models will face systemic risks.",
+    "subject": "All participants in an illiquid market using such models",
+    "predicate_type": "causes",
+    "object_text": "face systemic risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All participants in an illiquid market using such models will face systemic risks.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "liquidity_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b78b6c18-27a7-4055-9384-0cc30b745e1c",
+    "chunk_id": "7e753092-f319-407d-9fea-402cd4c7d80c",
+    "document_id": "Systemic_risk",
+    "claim_text": "All models are not geared towards this scenario.",
+    "subject": "All models",
+    "predicate_type": "relates_to",
+    "object_text": "not geared towards this scenario",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "All models are not geared towards this scenario.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "financial_modeling"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b114b29-6cc5-4ba1-936b-37226f5be60e",
+    "chunk_id": "4283032a-53a9-4ecf-a40e-78925ab6f556",
+    "document_id": "Systemic_risk",
+    "claim_text": "Level 2 and Level 3 instruments respectively amounted to 495% and 23% of the banks' highest-quality capital (so-called Tier 1 Capital).",
+    "subject": "Level 2 and Level 3 instruments",
+    "predicate_type": "relates_to",
+    "object_text": "495% and 23% of the banks' highest-quality capital (so-called Tier 1 Capital)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Level 2 and Level 3 instruments respectively amounted to 495% and 23% of the banks' highest-quality capital (so-called Tier 1 Capital).",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "financial_instruments"
+    ],
+    "entities": [
+      "Tier 1 Capital"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d043179c-1245-4050-b5d1-ffb09ffb7133",
+    "chunk_id": "4283032a-53a9-4ecf-a40e-78925ab6f556",
+    "document_id": "Systemic_risk",
+    "claim_text": "In Europe, at the end of 2020 the banks under the direct supervision of the European Central Bank (ECB) held financial instruments subject to fair value accounting in an amount of \u20ac8.7 trillion.",
+    "subject": "banks under the direct supervision of the European Central Bank (ECB)",
+    "predicate_type": "relates_to",
+    "object_text": "held financial instruments subject to fair value accounting in an amount of \u20ac8.7 trillion",
+    "object_value": 8.7,
+    "object_unit": "trillion",
+    "source_text": "In Europe, at the end of 2020 the banks under the direct supervision of the European Central Bank (ECB) held financial instruments subject to fair value accounting in an amount of \u20ac8.7 trillion.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_instruments",
+      "accounting"
+    ],
+    "entities": [
+      "European Central Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4086f344-3408-4457-8c04-c695d3ab0568",
+    "chunk_id": "4283032a-53a9-4ecf-a40e-78925ab6f556",
+    "document_id": "Systemic_risk",
+    "claim_text": "Of these, \u20ac6.6 trillion were classified as Level 2 or 3 in the so-called Fair Value Hierarchy, which means that they are potentially exposed to valuation risk, i.e. to uncertainty about their actual market value.",
+    "subject": "\u20ac6.6 trillion",
+    "predicate_type": "classifies",
+    "object_text": "Level 2 or 3 in the so-called Fair Value Hierarchy",
+    "object_value": 6.6,
+    "object_unit": "trillion",
+    "source_text": "Of these, \u20ac6.6 trillion were classified as Level 2 or 3 in the so-called Fair Value Hierarchy, which means that they are potentially exposed to valuation risk, i.e. to uncertainty about their actual market value.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_instruments",
+      "valuation"
+    ],
+    "entities": [
+      "Fair Value Hierarchy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01bc81b2-16b5-4447-b136-c943213ac9ed",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "In February 2010, international insurance economics think tank, The Geneva Association, published a 110-page analysis of the role of insurers in systemic risk.",
+    "subject": "The Geneva Association",
+    "predicate_type": "relates_to",
+    "object_text": "a 110-page analysis of the role of insurers in systemic risk",
+    "object_value": 110.0,
+    "object_unit": "page",
+    "source_text": "In February 2010, international insurance economics think tank, The Geneva Association, published a 110-page analysis of the role of insurers in systemic risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "insurance"
+    ],
+    "entities": [
+      "The Geneva Association"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b7bbebaf-5784-43c0-a154-acbcd9fe3037",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "The core activities of insurers and reinsurers do not pose systemic risks due to the specific features of the industry.",
+    "subject": "core activities of insurers and reinsurers",
+    "predicate_type": "prohibits",
+    "object_text": "systemic risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The core activities of insurers and reinsurers do not pose systemic risks due to the specific features of the industry.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "insurance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "397b39a1-3ac5-49f7-b2f2-ff27ddf10363",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "Insurance is funded by up-front premia, giving insurers strong operating cash-flow without the requirement for wholesale funding.",
+    "subject": "Insurance",
+    "predicate_type": "relates_to",
+    "object_text": "funded by up-front premia, giving insurers strong operating cash-flow without the requirement for wholesale funding",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Insurance is funded by up-front premia, giving insurers strong operating cash-flow without the requirement for wholesale funding.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "funding"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "df755eba-5523-4a16-8528-9f614149b06d",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "Insurance policies are generally long-term, with controlled outflows, enabling insurers to act as stabilisers to the financial system.",
+    "subject": "Insurance policies",
+    "predicate_type": "relates_to",
+    "object_text": "generally long-term, with controlled outflows, enabling insurers to act as stabilisers to the financial system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Insurance policies are generally long-term, with controlled outflows, enabling insurers to act as stabilisers to the financial system.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "financial_stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "557d7a46-899a-4701-8dc8-2c75bb5ce347",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "During the 2008 financial crisis, insurers maintained relatively steady capacity, business volumes and prices.",
+    "subject": "insurers",
+    "predicate_type": "relates_to",
+    "object_text": "maintained relatively steady capacity, business volumes and prices",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "During the 2008 financial crisis, insurers maintained relatively steady capacity, business volumes and prices.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "financial_crisis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "936bc085-02d4-4d2d-8554-5a70df9da5c4",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "Their limited size means that there would not be disruptive effects on financial markets.",
+    "subject": "limited size of insurers and reinsurers",
+    "predicate_type": "prohibits",
+    "object_text": "disruptive effects on financial markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Their limited size means that there would not be disruptive effects on financial markets.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "financial_markets"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "386c25fa-db9a-4e93-b185-e2bd2469fe24",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "An insurance insolvency develops slowly and can often be absorbed by, for example, capital raising, or, in a worst case, an orderly wind down.",
+    "subject": "insurance insolvency",
+    "predicate_type": "relates_to",
+    "object_text": "develops slowly and can often be absorbed by, for example, capital raising, or, in a worst case, an orderly wind down",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An insurance insolvency develops slowly and can often be absorbed by, for example, capital raising, or, in a worst case, an orderly wind down.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "insolvency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "933d1a10-6aba-4360-b127-e836fbc8fd5e",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "The features of the interrelationships of insurance activities mean that contagion risk would be limited.",
+    "subject": "interrelationships of insurance activities",
+    "predicate_type": "constrains",
+    "object_text": "contagion risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The features of the interrelationships of insurance activities mean that contagion risk would be limited.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "927d8731-ee32-4f80-ab99-4a7ed1108992",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "Supervisors and policymakers should focus on activities rather than financial institutions when introducing new regulation and that upcoming insurance regulatory regimes, such as Solvency II in the European Union, already adequately address insurance activities.",
+    "subject": "Supervisors and policymakers",
+    "predicate_type": "relates_to",
+    "object_text": "focus on activities rather than financial institutions when introducing new regulation and that upcoming insurance regulatory regimes, such as Solvency II in the European Union, already adequately address insurance activities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Supervisors and policymakers should focus on activities rather than financial institutions when introducing new regulation and that upcoming insurance regulatory regimes, such as Solvency II in the European Union, already adequately address insurance activities.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "regulation"
+    ],
+    "entities": [
+      "Solvency II",
+      "European Union"
+    ],
+    "regulations": [
+      "Solvency II"
+    ],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65cd366a-95a8-4569-93ec-6ccbe458f8a7",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "During the 2008 financial crisis, a small number of quasi-banking activities conducted by insurers either caused failure or triggered significant difficulties.",
+    "subject": "quasi-banking activities conducted by insurers",
+    "predicate_type": "causes",
+    "object_text": "failure or triggered significant difficulties",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "During the 2008 financial crisis, a small number of quasi-banking activities conducted by insurers either caused failure or triggered significant difficulties.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "financial_crisis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f3f6315-ebf8-446b-91c2-cbdda2d95b42",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "Derivatives trading on non-insurance balance sheets has the potential for systemic relevance.",
+    "subject": "Derivatives trading on non-insurance balance sheets",
+    "predicate_type": "relates_to",
+    "object_text": "has the potential for systemic relevance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Derivatives trading on non-insurance balance sheets has the potential for systemic relevance.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "derivatives",
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "derivatives",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5c16db74-d083-443b-bec4-76580f33efe8",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "Mis-management of short-term funding from commercial paper or securities lending has the potential for systemic relevance.",
+    "subject": "Mis-management of short-term funding from commercial paper or securities lending",
+    "predicate_type": "relates_to",
+    "object_text": "has the potential for systemic relevance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Mis-management of short-term funding from commercial paper or securities lending has the potential for systemic relevance.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "funding",
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "020566a6-ec77-4037-b32f-355634c0bc57",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "The implementation of a comprehensive, integrated and principle-based supervision framework for insurance groups is recommended.",
+    "subject": "implementation of a comprehensive, integrated and principle-based supervision framework for insurance groups",
+    "predicate_type": "relates_to",
+    "object_text": "is recommended",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The implementation of a comprehensive, integrated and principle-based supervision framework for insurance groups is recommended.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "supervision"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d7032fd-797b-4078-b2c4-815925162d32",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "Strengthening liquidity risk management is recommended, particularly to address potential mis-management issues related to short-term funding.",
+    "subject": "Strengthening liquidity risk management",
+    "predicate_type": "relates_to",
+    "object_text": "recommended, particularly to address potential mis-management issues related to short-term funding",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Strengthening liquidity risk management is recommended, particularly to address potential mis-management issues related to short-term funding.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "liquidity_risk",
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "87a3a3c5-4e7d-4233-bf8c-74eb25f9b97d",
+    "chunk_id": "91c125e6-04f7-470e-b6db-142114ac0d97",
+    "document_id": "Systemic_risk",
+    "claim_text": "Enhancement of the regulation of financial guarantee insurance is recommended.",
+    "subject": "Enhancement of the regulation of financial guarantee insurance",
+    "predicate_type": "relates_to",
+    "object_text": "recommended",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Enhancement of the regulation of financial guarantee insurance is recommended.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "04506798-47aa-4da8-b73c-da4a30caa1ad",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "Market or price risk is specific to the item being bought or sold.",
+    "subject": "market or price risk",
+    "predicate_type": "defines",
+    "object_text": "specific to the item being bought or sold",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Market or price risk is specific to the item being bought or sold.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "80935092-b5cc-4883-b20b-853fbaf667f9",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "The effects of market risk are isolated to the entities dealing in that specific item.",
+    "subject": "effects of market risk",
+    "predicate_type": "relates_to",
+    "object_text": "isolated to the entities dealing in that specific item",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The effects of market risk are isolated to the entities dealing in that specific item.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ce386392-cae2-44f9-b5f8-95014bc685de",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "This kind of risk can be mitigated by hedging an investment by entering into a mirror trade.",
+    "subject": "market risk",
+    "predicate_type": "permits",
+    "object_text": "mitigated by hedging an investment by entering into a mirror trade",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This kind of risk can be mitigated by hedging an investment by entering into a mirror trade.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "hedging"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f5be6cb5-e9ee-4713-befb-627b8d0a4e6c",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "Insurance is often easy to obtain against systemic risks because a party issuing that insurance can pocket the premiums, issue dividends to shareholders, enter insolvency proceedings if a catastrophic event ever takes place, and hide behind limited liability.",
+    "subject": "insurance against systemic risks",
+    "predicate_type": "relates_to",
+    "object_text": "often easy to obtain because a party issuing that insurance can pocket the premiums, issue dividends to shareholders, enter insolvency proceedings if a catastrophic event ever takes place, and hide behind limited liability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Insurance is often easy to obtain against systemic risks because a party issuing that insurance can pocket the premiums, issue dividends to shareholders, enter insolvency proceedings if a catastrophic event ever takes place, and hide behind limited liability.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "insurance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d9c7891-7132-47d1-9458-1c6b8eeafa4d",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "Such insurance is not effective for the insured entity.",
+    "subject": "insurance",
+    "predicate_type": "constrains",
+    "object_text": "not effective for the insured entity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such insurance is not effective for the insured entity.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "insurance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "insurance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "75c09faa-c930-4a51-ab69-07203aec5e34",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "One argument that was used by financial institutions to obtain special advantages in bankruptcy for derivative contracts was a claim that the market is both critical and fragile.",
+    "subject": "argument used by financial institutions",
+    "predicate_type": "relates_to",
+    "object_text": "claim that the market is both critical and fragile",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One argument that was used by financial institutions to obtain special advantages in bankruptcy for derivative contracts was a claim that the market is both critical and fragile.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bankruptcy",
+      "derivatives"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05d7ab85-4cf1-4dc3-b8f1-eba0638df9d1",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "Systemic risk can also be defined as the likelihood and degree of negative consequences to the larger body.",
+    "subject": "systemic risk",
+    "predicate_type": "defines",
+    "object_text": "the likelihood and degree of negative consequences to the larger body",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systemic risk can also be defined as the likelihood and degree of negative consequences to the larger body.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "75f863a6-4a42-4f2d-a094-9c926ce619b6",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "With respect to federal financial regulation, the systemic risk of a financial institution is the likelihood and the degree that the institution's activities will negatively affect the larger economy such that unusual and extreme federal intervention would be required to ameliorate the effects.",
+    "subject": "systemic risk of a financial institution",
+    "predicate_type": "defines",
+    "object_text": "the likelihood and the degree that the institution's activities will negatively affect the larger economy such that unusual and extreme federal intervention would be required to ameliorate the effects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "With respect to federal financial regulation, the systemic risk of a financial institution is the likelihood and the degree that the institution's activities will negatively affect the larger economy such that unusual and extreme federal intervention would be required to ameliorate the effects.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "19804951-2742-43cd-bbfe-e50870b50552",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "The Systemic Risk Centre at the London School of Economics is focused on the study of systemic risk.",
+    "subject": "Systemic Risk Centre at the London School of Economics",
+    "predicate_type": "relates_to",
+    "object_text": "focused on the study of systemic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Systemic Risk Centre at the London School of Economics is focused on the study of systemic risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [
+      "Systemic Risk Centre",
+      "London School of Economics"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7a971ae0-0bf7-45d3-a8b9-3472f2b7c6c4",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "Systemic risk is a form of endogenous risk.",
+    "subject": "systemic risk",
+    "predicate_type": "classifies",
+    "object_text": "a form of endogenous risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systemic risk is a form of endogenous risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "endogenous_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "359cf9b0-ff28-479f-8f93-7bb9b41f7679",
+    "chunk_id": "46674084-41df-4bac-a2f5-25b5928affce",
+    "document_id": "Systemic_risk",
+    "claim_text": "Systemic risk frustrates empirical measurements of systemic risk.",
+    "subject": "systemic risk",
+    "predicate_type": "causes",
+    "object_text": "frustrates empirical measurements of systemic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systemic risk frustrates empirical measurements of systemic risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65f32c39-9829-4962-9dc1-a9822273103e",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "A financial institution represents a systemic risk if it becomes undercapitalized when the financial system as a whole is undercapitalized.",
+    "subject": "financial institution",
+    "predicate_type": "defines",
+    "object_text": "systemic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A financial institution represents a systemic risk if it becomes undercapitalized when the financial system as a whole is undercapitalized.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_stability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "313397ca-c32d-4a8d-a099-2e80e1d07406",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "In a single risk factor model, Brownlees and Engle build a systemic risk measure named SRISK.",
+    "subject": "Brownlees and Engle",
+    "predicate_type": "implements",
+    "object_text": "systemic risk measure named SRISK",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In a single risk factor model, Brownlees and Engle build a systemic risk measure named SRISK.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [
+      "SRISK"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90edb522-b566-4ea4-bd5a-6681334c65c0",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "SRISK can be interpreted as the amount of capital that needs to be injected into a financial firm as to restore a certain form of minimal capital requirement.",
+    "subject": "SRISK",
+    "predicate_type": "defines",
+    "object_text": "the amount of capital that needs to be injected into a financial firm as to restore a certain form of minimal capital requirement",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "SRISK can be interpreted as the amount of capital that needs to be injected into a financial firm as to restore a certain form of minimal capital requirement.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "SRISK"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d6a75853-b857-4f54-baa7-92b24033af58",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "SRISK is expressed in monetary terms and is, therefore, easy to interpret.",
+    "subject": "SRISK",
+    "predicate_type": "relates_to",
+    "object_text": "expressed in monetary terms and is, therefore, easy to interpret",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "SRISK is expressed in monetary terms and is, therefore, easy to interpret.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [
+      "SRISK"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b6548a13-b6dd-4330-96e4-b70764ef4931",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "SRISK can be easily aggregated across firms to provide industry and even country specific aggregates.",
+    "subject": "SRISK",
+    "predicate_type": "permits",
+    "object_text": "easily aggregated across firms to provide industry and even country specific aggregates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "SRISK can be easily aggregated across firms to provide industry and even country specific aggregates.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [
+      "SRISK"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5439dada-3cf4-46d7-b495-33ed19a4c34d",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "The computation of SRISK involves variables which may be viewed on their own as risk measures.",
+    "subject": "computation of SRISK",
+    "predicate_type": "relates_to",
+    "object_text": "involves variables which may be viewed on their own as risk measures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The computation of SRISK involves variables which may be viewed on their own as risk measures.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [
+      "SRISK"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a029e248-6244-4130-9f33-efaaf6ec7410",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "These are the size of the financial firm, the leverage (ratio of assets to market capitalization), and a measure of how the return of the firm evolves with the market (some sort of time varying conditional beta but with emphasis on the tail of the distribution).",
+    "subject": "variables",
+    "predicate_type": "relates_to",
+    "object_text": "the size of the financial firm, the leverage (ratio of assets to market capitalization), and a measure of how the return of the firm evolves with the market (some sort of time varying conditional beta but with emphasis on the tail of the distribution)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These are the size of the financial firm, the leverage (ratio of assets to market capitalization), and a measure of how the return of the firm evolves with the market (some sort of time varying conditional beta but with emphasis on the tail of the distribution).",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "69d7c3b2-9d05-4e13-8f82-59e63f28c9a2",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "Whereas the initial Brownlees and Engle model is tailored to the US market, the extension by Engle, Jondeau, and Rockinger is more suitable for the European markets.",
+    "subject": "extension by Engle, Jondeau, and Rockinger",
+    "predicate_type": "relates_to",
+    "object_text": "more suitable for the European markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Whereas the initial Brownlees and Engle model is tailored to the US market, the extension by Engle, Jondeau, and Rockinger is more suitable for the European markets.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aa8f0932-a6e3-4e60-8e62-c0690b9881b3",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "One factor captures worldwide variations of financial markets, another one the variations of European markets.",
+    "subject": "factor",
+    "predicate_type": "relates_to",
+    "object_text": "captures worldwide variations of financial markets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One factor captures worldwide variations of financial markets, another one the variations of European markets.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "abc11831-447f-4bec-8ec0-b356dadb2d2f",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "This extension allows for a country-specific factor.",
+    "subject": "extension",
+    "predicate_type": "permits",
+    "object_text": "a country-specific factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This extension allows for a country-specific factor.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "885c65e8-1338-4b30-b6aa-39a10edb6373",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "By accounting for different factors, one captures the notion that shocks to the US or Asian markets may affect Europe, but also that bad news within Europe (such as the news about a potential default of one of the countries) matters for Europe.",
+    "subject": "accounting for different factors",
+    "predicate_type": "relates_to",
+    "object_text": "captures the notion that shocks to the US or Asian markets may affect Europe, but also that bad news within Europe (such as the news about a potential default of one of the countries) matters for Europe",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By accounting for different factors, one captures the notion that shocks to the US or Asian markets may affect Europe, but also that bad news within Europe (such as the news about a potential default of one of the countries) matters for Europe.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ca3d872e-80b8-4921-9a3f-4737f8e4aa89",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "Also, there may be country specific news that does not affect Europe or the US, but matters for a given country.",
+    "subject": "country specific news",
+    "predicate_type": "relates_to",
+    "object_text": "does not affect Europe or the US, but matters for a given country",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Also, there may be country specific news that does not affect Europe or the US, but matters for a given country.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0617feeb-0241-4374-8258-d3b6280478d7",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "Empirically the last factor is less relevant than the worldwide or European factor.",
+    "subject": "last factor",
+    "predicate_type": "relates_to",
+    "object_text": "less relevant than the worldwide or European factor",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Empirically the last factor is less relevant than the worldwide or European factor.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a932398f-6a73-458a-ae5d-f08663d9c5e8",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "Since SRISK is measured in terms of currency, the industry aggregates may also be related to Gross Domestic Product.",
+    "subject": "industry aggregates",
+    "predicate_type": "relates_to",
+    "object_text": "may also be related to Gross Domestic Product",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Since SRISK is measured in terms of currency, the industry aggregates may also be related to Gross Domestic Product.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [
+      "SRISK"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6aa4ea0c-d9cf-4682-bfd4-3465c17113b3",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "As such one obtains a measure of domestic, systemically important banks.",
+    "subject": "one",
+    "predicate_type": "relates_to",
+    "object_text": "obtains a measure of domestic, systemically important banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As such one obtains a measure of domestic, systemically important banks.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "29d503b1-13de-4f08-b265-16855e594374",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "The SRISK Systemic Risk Indicator is computed automatically on a weekly basis and made available to the community.",
+    "subject": "SRISK Systemic Risk Indicator",
+    "predicate_type": "relates_to",
+    "object_text": "computed automatically on a weekly basis and made available to the community",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The SRISK Systemic Risk Indicator is computed automatically on a weekly basis and made available to the community.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [
+      "SRISK"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "18e8e5f7-1b52-46df-8294-c6cde3d5061e",
+    "chunk_id": "2d2a02cd-56d7-4b90-a46e-7f95e4732e43",
+    "document_id": "Systemic_risk",
+    "claim_text": "For the US model, SRISK and other statistics may be found under the Volatility Lab of NYU Stern School website and for the European model under the Center of Risk Management (CRML) website of HEC Lausanne.",
+    "subject": "SRISK and other statistics",
+    "predicate_type": "relates_to",
+    "object_text": "may be found under the Volatility Lab of NYU Stern School website and for the European model under the Center of Risk Management (CRML) website of HEC Lausanne",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For the US model, SRISK and other statistics may be found under the Volatility Lab of NYU Stern School website and for the European model under the Center of Risk Management (CRML) website of HEC Lausanne.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "risk_measurement"
+    ],
+    "entities": [
+      "SRISK"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eac6b977-bb3a-4ad2-88ff-95c96b808a18",
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "claim_text": "Systemic risk has been associated with a bank run which has a cascading effect on other banks which are owed money by the first bank in trouble, causing a cascading failure.",
+    "subject": "Systemic risk",
+    "predicate_type": "causes",
+    "object_text": "a bank run which has a cascading effect on other banks which are owed money by the first bank in trouble, causing a cascading failure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systemic risk has been associated with a bank run which has a cascading effect on other banks which are owed money by the first bank in trouble, causing a cascading failure.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "banking"
+    ],
+    "entities": [
+      "bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "af94d7c6-a956-48f5-82c4-454258e7967c",
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "claim_text": "As depositors sense the ripple effects of default, and liquidity concerns cascade through money markets, a panic can spread through a market, with a sudden flight to quality, creating many sellers but few buyers for illiquid assets.",
+    "subject": "depositors",
+    "predicate_type": "causes",
+    "object_text": "a panic can spread through a market, with a sudden flight to quality, creating many sellers but few buyers for illiquid assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "As depositors sense the ripple effects of default, and liquidity concerns cascade through money markets, a panic can spread through a market, with a sudden flight to quality, creating many sellers but few buyers for illiquid assets.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "banking"
+    ],
+    "entities": [
+      "depositors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "46798aec-f66b-4a9c-99b4-9a16f6bf362d",
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "claim_text": "These interlinkages and the potential \"clustering\" of bank runs are the issues which policy makers consider when addressing the issue of protecting a system against systemic risk.",
+    "subject": "interlinkages and the potential \"clustering\" of bank runs",
+    "predicate_type": "relates_to",
+    "object_text": "the issues which policy makers consider when addressing the issue of protecting a system against systemic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These interlinkages and the potential \"clustering\" of bank runs are the issues which policy makers consider when addressing the issue of protecting a system against systemic risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "banking"
+    ],
+    "entities": [
+      "bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4f389daa-25b0-4f74-965d-77b9cfb7e469",
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "claim_text": "Governments and market monitoring institutions (such as the U.S. Securities and Exchange Commission (SEC), and central banks) often try to put policies and rules in place with the justification of safeguarding the interests of the market as a whole, claiming that the trading participants in financial markets are entangled in a web of dependencies arising from their interlinkage.",
+    "subject": "Governments and market monitoring institutions (such as the U.S. Securities and Exchange Commission (SEC), and central banks)",
+    "predicate_type": "implements",
+    "object_text": "policies and rules with the justification of safeguarding the interests of the market as a whole, claiming that the trading participants in financial markets are entangled in a web of dependencies arising from their interlinkage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Governments and market monitoring institutions (such as the U.S. Securities and Exchange Commission (SEC), and central banks) often try to put policies and rules in place with the justification of safeguarding the interests of the market as a whole, claiming that the trading participants in financial markets are entangled in a web of dependencies arising from their interlinkage.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_regulation"
+    ],
+    "entities": [
+      "U.S. Securities and Exchange Commission",
+      "SEC",
+      "central banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "29b1fb40-9987-4d8e-bb9c-dbb1068ea570",
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "claim_text": "Policy makers frequently claim that they are concerned about protecting the resiliency of the system, rather than any one individual in that system.",
+    "subject": "Policy makers",
+    "predicate_type": "relates_to",
+    "object_text": "concerned about protecting the resiliency of the system, rather than any one individual in that system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Policy makers frequently claim that they are concerned about protecting the resiliency of the system, rather than any one individual in that system.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a1620770-7c4a-4d68-afcd-578a179d03f2",
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "claim_text": "Systemic risk arises because of the interaction of market participants, and therefore can be seen as a form of endogenous risk.",
+    "subject": "Systemic risk",
+    "predicate_type": "causes",
+    "object_text": "a form of endogenous risk because of the interaction of market participants",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systemic risk arises because of the interaction of market participants, and therefore can be seen as a form of endogenous risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1310439-47e8-4684-970d-f442c33118c0",
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "claim_text": "Systemic risk should not be confused with market or price risk as the latter is specific to the item being bought or sold and the effects of market risk are isolated to the entities dealing in that specific item.",
+    "subject": "Systemic risk",
+    "predicate_type": "relates_to",
+    "object_text": "not be confused with market or price risk as the latter is specific to the item being bought or sold and the effects of market risk are isolated to the entities dealing in that specific item",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systemic risk should not be confused with market or price risk as the latter is specific to the item being bought or sold and the effects of market risk are isolated to the entities dealing in that specific item.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "74dd3f15-a116-4553-9e26-35574303b3a3",
+    "chunk_id": "278685a5-4adf-45bb-84bd-dfdca1ffeb37",
+    "document_id": "Systemic_risk",
+    "claim_text": "This kind of risk can be mitigated by hedging an investment by entering",
+    "subject": "This kind of risk",
+    "predicate_type": "permits",
+    "object_text": "mitigated by hedging an investment by entering",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This kind of risk can be mitigated by hedging an investment by entering",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3016d3a9-4d42-47b0-a990-a8f09a08ee57",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "The first authors to consider structural models for financial systems where each firm could own the debt of other firms were Eisenberg and Noe in 2001.",
+    "subject": "Eisenberg and Noe",
+    "predicate_type": "relates_to",
+    "object_text": "first authors to consider structural models for financial systems where each firm could own the debt of other firms",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The first authors to consider structural models for financial systems where each firm could own the debt of other firms were Eisenberg and Noe in 2001.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_modeling"
+    ],
+    "entities": [
+      "Eisenberg",
+      "Noe"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "79579489-547a-45dc-baaf-a0867479033e",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "Suzuki (2002) extended the analysis of interconnectedness by modeling the cross ownership of both debt and equity claims.",
+    "subject": "Suzuki (2002)",
+    "predicate_type": "relates_to",
+    "object_text": "extended the analysis of interconnectedness by modeling the cross ownership of both debt and equity claims",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Suzuki (2002) extended the analysis of interconnectedness by modeling the cross ownership of both debt and equity claims.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "interconnectedness"
+    ],
+    "entities": [
+      "Suzuki"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8fc7637e-e0b1-4e74-b3ae-5bff9c647225",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "Cifuentes, Ferrucci, and Shin (2005) considered the effect of costs of default on network stability, building on Eisenberg and Noe (2001).",
+    "subject": "Cifuentes, Ferrucci, and Shin (2005)",
+    "predicate_type": "relates_to",
+    "object_text": "considered the effect of costs of default on network stability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Cifuentes, Ferrucci, and Shin (2005) considered the effect of costs of default on network stability, building on Eisenberg and Noe (2001).",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "network_stability",
+      "default"
+    ],
+    "entities": [
+      "Cifuentes",
+      "Ferrucci",
+      "Shin",
+      "Eisenberg",
+      "Noe"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0467750e-f722-4156-b4ca-b04ac5b5c078",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "Elsinger's further developed the Eisenberg and Noe (2001) model by incorporating financial claims of differing priority.",
+    "subject": "Elsinger's",
+    "predicate_type": "relates_to",
+    "object_text": "further developed the Eisenberg and Noe (2001) model by incorporating financial claims of differing priority",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Elsinger's further developed the Eisenberg and Noe (2001) model by incorporating financial claims of differing priority.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_modeling"
+    ],
+    "entities": [
+      "Elsinger",
+      "Eisenberg",
+      "Noe"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4aa2c6dd-6526-49a0-8209-6e4802fbdbd2",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "Acemoglu, Ozdaglar, and Tahbaz-Salehi, (2015) developed a structural systemic risk model incorporating both distress costs and debt claim with varying priorities and used this model to examine the effects of network interconnectedness on financial stability.",
+    "subject": "Acemoglu, Ozdaglar, and Tahbaz-Salehi, (2015)",
+    "predicate_type": "relates_to",
+    "object_text": "developed a structural systemic risk model incorporating both distress costs and debt claim with varying priorities and used this model to examine the effects of network interconnectedness on financial stability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Acemoglu, Ozdaglar, and Tahbaz-Salehi, (2015) developed a structural systemic risk model incorporating both distress costs and debt claim with varying priorities and used this model to examine the effects of network interconnectedness on financial stability.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_stability",
+      "interconnectedness"
+    ],
+    "entities": [
+      "Acemoglu",
+      "Ozdaglar",
+      "Tahbaz-Salehi"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac71a3b0-5a71-4bed-8b97-4bede0866432",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "Interconnectedness enhances financial stability up to a certain point.",
+    "subject": "interconnectedness",
+    "predicate_type": "causes",
+    "object_text": "enhances financial stability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interconnectedness enhances financial stability up to a certain point.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_stability",
+      "interconnectedness"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "93aa2ae8-bf52-4a76-9b0e-5929cbe2ca1b",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "Once a critical threshold density of connectedness is exceeded, further increases in the density of the financial network propagate risk.",
+    "subject": "further increases in the density of the financial network",
+    "predicate_type": "causes",
+    "object_text": "propagate risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Once a critical threshold density of connectedness is exceeded, further increases in the density of the financial network propagate risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_stability",
+      "interconnectedness"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4c8a55c-c98e-4868-85fe-e4b8046773d8",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "Glasserman and Young (2015) applied the Eisenberg and Noe (2001) to modelling the effect of shocks to banking networks.",
+    "subject": "Glasserman and Young (2015)",
+    "predicate_type": "relates_to",
+    "object_text": "applied the Eisenberg and Noe (2001) to modelling the effect of shocks to banking networks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Glasserman and Young (2015) applied the Eisenberg and Noe (2001) to modelling the effect of shocks to banking networks.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "banking_networks"
+    ],
+    "entities": [
+      "Glasserman",
+      "Young",
+      "Eisenberg",
+      "Noe"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b37bffdd-93a8-47b7-a87d-53259cbc5f80",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "They develop general bounds for the effects of network connectivity on default probabilities.",
+    "subject": "Glasserman and Young (2015)",
+    "predicate_type": "relates_to",
+    "object_text": "develop general bounds for the effects of network connectivity on default probabilities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They develop general bounds for the effects of network connectivity on default probabilities.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "network_connectivity",
+      "default_probabilities"
+    ],
+    "entities": [
+      "Glasserman",
+      "Young"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7246b7f2-8df9-48ab-a576-e5dac4188ead",
+    "chunk_id": "c7ae5a57-f773-41bf-a6d3-834832d09663",
+    "document_id": "Systemic_risk",
+    "claim_text": "Their results are quite general and do not require assuming a specific network architecture or specific shock distributions.",
+    "subject": "results of Glasserman and Young (2015)",
+    "predicate_type": "requires",
+    "object_text": "not assuming a specific network architecture or specific shock distributions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Their results are quite general and do not require assuming a specific network architecture or specific shock distributions.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "network_architecture",
+      "shock_distributions"
+    ],
+    "entities": [
+      "Glasserman",
+      "Young"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6c019ec9-ca04-4520-bb14-49d954d29e17",
+    "chunk_id": "50b8a256-8223-49f1-9d0e-4523c270d3f1",
+    "document_id": "Systemic_risk",
+    "claim_text": "One problem when it comes to the valuation of derivatives, debt, or equity under systemic risk is that financial interconnectedness has to be modelled.",
+    "subject": "valuation of derivatives, debt, or equity under systemic risk",
+    "predicate_type": "requires",
+    "object_text": "financial interconnectedness to be modelled",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One problem when it comes to the valuation of derivatives, debt, or equity under systemic risk is that financial interconnectedness has to be modelled.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_modeling"
+    ],
+    "entities": [
+      "derivatives",
+      "debt",
+      "equity"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fca330f1-53ad-4a22-ae4e-d7b58ddec7c7",
+    "chunk_id": "50b8a256-8223-49f1-9d0e-4523c270d3f1",
+    "document_id": "Systemic_risk",
+    "claim_text": "One particular problem is posed by closed valuations chains, as exemplified here for four firms A, B, C, and D.",
+    "subject": "closed valuations chains",
+    "predicate_type": "causes",
+    "object_text": "one particular problem",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One particular problem is posed by closed valuations chains, as exemplified here for four firms A, B, C, and D.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "valuation"
+    ],
+    "entities": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d2d2f2aa-da39-4ba7-b1f2-817c61342914",
+    "chunk_id": "50b8a256-8223-49f1-9d0e-4523c270d3f1",
+    "document_id": "Systemic_risk",
+    "claim_text": "B might hold shares of A, C holds some debt of B, D owns a derivative issued by C, and A owns some debt of D.",
+    "subject": "firms A, B, C, and D",
+    "predicate_type": "relates_to",
+    "object_text": "B might hold shares of A, C holds some debt of B, D owns a derivative issued by C, and A owns some debt of D",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "B might hold shares of A, C holds some debt of B, D owns a derivative issued by C, and A owns some debt of D.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "financial_interconnectedness"
+    ],
+    "entities": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "shares",
+      "debt",
+      "derivative"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ebabaeea-d1bf-4503-a1dd-1c00d7fc5a10",
+    "chunk_id": "50b8a256-8223-49f1-9d0e-4523c270d3f1",
+    "document_id": "Systemic_risk",
+    "claim_text": "For instance, the share price of A could influence all other asset values, including itself.",
+    "subject": "share price of A",
+    "predicate_type": "causes",
+    "object_text": "influence all other asset values, including itself",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "For instance, the share price of A could influence all other asset values, including itself.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "asset_valuation"
+    ],
+    "entities": [
+      "A",
+      "share price",
+      "asset values"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ffaca8d-35e3-4055-bde9-fcaa48f3511c",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "Systemic risk evaluates the likelihood and degree of negative consequences to the larger body.",
+    "subject": "Systemic risk",
+    "predicate_type": "defines",
+    "object_text": "the likelihood and degree of negative consequences to the larger body",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Systemic risk evaluates the likelihood and degree of negative consequences to the larger body.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [
+      "Systemic risk"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e1a6675c-0863-4ba9-a873-f5d10d8f3963",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "The systemic risk of a financial institution is the likelihood and the degree that the institution's activities will negatively affect the larger economy such that unusual and extreme federal intervention would be required to ameliorate the effects.",
+    "subject": "systemic risk of a financial institution",
+    "predicate_type": "defines",
+    "object_text": "the likelihood and the degree that the institution's activities will negatively affect the larger economy such that unusual and extreme federal intervention would be required to ameliorate the effects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The systemic risk of a financial institution is the likelihood and the degree that the institution's activities will negatively affect the larger economy such that unusual and extreme federal intervention would be required to ameliorate the effects.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management"
+    ],
+    "entities": [
+      "financial institution",
+      "Systemic risk"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "805542bd-d2f5-414a-a362-3cf0120a9c0e",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "The 2008 financial crisis resulted in bank failures that caused systemic risk to the larger economy.",
+    "subject": "The 2008 financial crisis",
+    "predicate_type": "causes",
+    "object_text": "bank failures that caused systemic risk to the larger economy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The 2008 financial crisis resulted in bank failures that caused systemic risk to the larger economy.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_stability",
+      "systemic_risk"
+    ],
+    "entities": [
+      "bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e8c7ee65-6ecd-4638-aa75-f17c8022ec6d",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "Chairman Barney Frank expressed concerns regarding the vulnerability of highly leveraged financial systems to systemic risk and the US government has debated how to address financial services regulatory reform and systemic risk.",
+    "subject": "Chairman Barney Frank",
+    "predicate_type": "relates_to",
+    "object_text": "concerns regarding the vulnerability of highly leveraged financial systems to systemic risk and the US government has debated how to address financial services regulatory reform and systemic risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Chairman Barney Frank expressed concerns regarding the vulnerability of highly leveraged financial systems to systemic risk and the US government has debated how to address financial services regulatory reform and systemic risk.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "systemic_risk",
+      "regulatory_reform"
+    ],
+    "entities": [
+      "Barney Frank",
+      "US government"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7344e19a-6793-4b69-80f6-2d0a8d1503a3",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "Deregulation and increasingly fierce competition lowers bank's profit margin and encourages the moral hazard to take excessive credit risks to increase profits.",
+    "subject": "Deregulation and increasingly fierce competition",
+    "predicate_type": "causes",
+    "object_text": "lowers bank's profit margin and encourages the moral hazard to take excessive credit risks to increase profits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Deregulation and increasingly fierce competition lowers bank's profit margin and encourages the moral hazard to take excessive credit risks to increase profits.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "risk_management"
+    ],
+    "entities": [
+      "bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2a99db1d-21fe-436f-ac07-439d14be381c",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "The same effect was measured in presence of a banking oligopoly in which banking sector was dominated by a restricted number of market operators encouraged by their market share and contractual power to set higher loan mean rates.",
+    "subject": "banking oligopoly",
+    "predicate_type": "causes",
+    "object_text": "banking sector was dominated by a restricted number of market operators encouraged by their market share and contractual power to set higher loan mean rates",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The same effect was measured in presence of a banking oligopoly in which banking sector was dominated by a restricted number of market operators encouraged by their market share and contractual power to set higher loan mean rates.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d49a58b5-a842-432e-b950-4fbef658f257",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "Banks are the entities most likely to be exposed to valuation risk as a result of their massive holdings of financial instruments classified as Level 2 or 3 of the fair value hierarchy.",
+    "subject": "Banks",
+    "predicate_type": "relates_to",
+    "object_text": "the entities most likely to be exposed to valuation risk as a result of their massive holdings of financial instruments classified as Level 2 or 3 of the fair value hierarchy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks are the entities most likely to be exposed to valuation risk as a result of their massive holdings of financial instruments classified as Level 2 or 3 of the fair value hierarchy.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "valuation"
+    ],
+    "entities": [
+      "bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "df4129c9-db98-40e1-90ef-7063263dce30",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "At the end of 2020 the banks under the direct supervision of the European Central Bank (ECB) held fair-valued financial instruments in an amount of \u20ac8.7 trillion, of which \u20ac6.6 trillion classified as Level 2 or 3.",
+    "subject": "banks under the direct supervision of the European Central Bank (ECB)",
+    "predicate_type": "relates_to",
+    "object_text": "held fair-valued financial instruments in an amount of \u20ac8.7 trillion, of which \u20ac6.6 trillion classified as Level 2 or 3",
+    "object_value": 8.7,
+    "object_unit": "trillion",
+    "source_text": "At the end of 2020 the banks under the direct supervision of the European Central Bank (ECB) held fair-valued financial instruments in an amount of \u20ac8.7 trillion, of which \u20ac6.6 trillion classified as Level 2 or 3.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_instruments"
+    ],
+    "entities": [
+      "European Central Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "11bd744a-97b1-4518-b8fb-ae5d23ed9b48",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "Level 2 and Level 3 instruments respectively amounted to 495% and 23% of the banks' highest-quality capital (so-called Tier 1 Capital).",
+    "subject": "Level 2 and Level 3 instruments",
+    "predicate_type": "relates_to",
+    "object_text": "respectively amounted to 495% and 23% of the banks' highest-quality capital (so-called Tier 1 Capital)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Level 2 and Level 3 instruments respectively amounted to 495% and 23% of the banks' highest-quality capital (so-called Tier 1 Capital).",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Tier 1 Capital"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "66f2dc55-b740-4bf2-90fd-c40fc57bbe60",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "Even small errors in such financial instruments' valuations may have significant impacts on banks' capital.",
+    "subject": "small errors in such financial instruments' valuations",
+    "predicate_type": "causes",
+    "object_text": "may have significant impacts on banks' capital",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Even small errors in such financial instruments' valuations may have significant impacts on banks' capital.",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "valuation",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f213c3cd-755a-4f2b-9c24-c5e0d27ced00",
+    "chunk_id": "4a1c1ef3-c46b-4720-bcd7-ef1b1909180a",
+    "document_id": "Systemic_risk",
+    "claim_text": "In February 2020 the European Systemic Risk Board warned in a report that substantial amounts of financial instruments with complex features",
+    "subject": "European Systemic Risk Board",
+    "predicate_type": "relates_to",
+    "object_text": "warned in a report that substantial amounts of financial instruments with complex features",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In February 2020 the European Systemic Risk Board warned in a report that substantial amounts of financial instruments with complex features",
+    "source_document": "Systemic risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "financial_instruments"
+    ],
+    "entities": [
+      "European Systemic Risk Board"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

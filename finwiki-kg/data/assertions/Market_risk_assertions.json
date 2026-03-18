@@ -1,0 +1,1713 @@
+[
+  {
+    "assertion_id": "bb03fc5e-cd40-42a0-a902-cc26fc412b83",
+    "chunk_id": "da5d074f-c89c-4210-858c-31c946f2f9b1",
+    "document_id": "Market_risk",
+    "claim_text": "The variance-covariance matrix may be inappropriate if the underlying returns distributions exhibit asymmetric dependence.",
+    "subject": "variance-covariance matrix",
+    "predicate_type": "constrains",
+    "object_text": "appropriateness",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The variance-covariance matrix may be inappropriate if the underlying returns distributions exhibit asymmetric dependence.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "portfolio_management"
+    ],
+    "entities": [
+      "variance-covariance matrix"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b8beab14-7bb4-4a98-8ed9-c4e70333b430",
+    "chunk_id": "da5d074f-c89c-4210-858c-31c946f2f9b1",
+    "document_id": "Market_risk",
+    "claim_text": "Vine copulas that allow for asymmetric dependence (e.g., Clayton, Rotated Gumbel) across portfolios of assets are most appropriate in the calculation of tail risk using VaR or CVaR.",
+    "subject": "Vine copulas",
+    "predicate_type": "permits",
+    "object_text": "calculation of tail risk using VaR or CVaR",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Vine copulas that allow for asymmetric dependence (e.g., Clayton, Rotated Gumbel) across portfolios of assets are most appropriate in the calculation of tail risk using VaR or CVaR.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "portfolio_management"
+    ],
+    "entities": [
+      "VaR",
+      "CVaR",
+      "Clayton",
+      "Rotated Gumbel"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "64eb275f-584c-4109-bc48-e883fc5e4521",
+    "chunk_id": "da5d074f-c89c-4210-858c-31c946f2f9b1",
+    "document_id": "Market_risk",
+    "claim_text": "Care has to be taken regarding the intervening cash flow, embedded options, changes in floating rate interest rates of the financial positions in the portfolio.",
+    "subject": "intervening cash flow, embedded options, changes in floating rate interest rates of the financial positions in the portfolio",
+    "predicate_type": "requires",
+    "object_text": "care",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Care has to be taken regarding the intervening cash flow, embedded options, changes in floating rate interest rates of the financial positions in the portfolio.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "portfolio_management"
+    ],
+    "entities": [
+      "cash flow",
+      "embedded options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3de4e0ac-6e0d-423d-b1dc-624b3a5c63fe",
+    "chunk_id": "da5d074f-c89c-4210-858c-31c946f2f9b1",
+    "document_id": "Market_risk",
+    "claim_text": "They cannot be ignored if their impact can be large.",
+    "subject": "intervening cash flow, embedded options, changes in floating rate interest rates of the financial positions in the portfolio",
+    "predicate_type": "prohibits",
+    "object_text": "being ignored",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "They cannot be ignored if their impact can be large.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "portfolio_management"
+    ],
+    "entities": [
+      "cash flow",
+      "embedded options"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "434fe20e-e86d-41fb-a12a-1e530f4da296",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "There is no unique classification as each classification may refer to different aspects of market risk.",
+    "subject": "classification",
+    "predicate_type": "relates_to",
+    "object_text": "no unique classification as each classification may refer to different aspects of market risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There is no unique classification as each classification may refer to different aspects of market risk.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b69cc59c-eadd-487a-8222-5270c28d3821",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "Equity risk is the risk that stock or stock indices (e.g. Euro Stoxx 50, etc.) prices or their implied volatility will change.",
+    "subject": "Equity risk",
+    "predicate_type": "defines",
+    "object_text": "the risk that stock or stock indices (e.g. Euro Stoxx 50, etc.) prices or their implied volatility will change",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Equity risk is the risk that stock or stock indices (e.g. Euro Stoxx 50, etc.) prices or their implied volatility will change.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "equity_risk"
+    ],
+    "entities": [
+      "Euro Stoxx 50"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "56044b99-9584-4ba2-8949-c027dc08538b",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "Interest rate risk is the risk that interest rates (e.g. Libor, Euribor, etc.) or their implied volatility will change.",
+    "subject": "Interest rate risk",
+    "predicate_type": "defines",
+    "object_text": "the risk that interest rates (e.g. Libor, Euribor, etc.) or their implied volatility will change",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Interest rate risk is the risk that interest rates (e.g. Libor, Euribor, etc.) or their implied volatility will change.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "interest_rate_risk"
+    ],
+    "entities": [
+      "Libor",
+      "Euribor"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6d48e135-ce11-4a2b-8cf6-ca13c0393895",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "Currency risk is the risk that foreign exchange rates (e.g. EUR/USD, EUR/GBP, etc.) or their implied volatility will change.",
+    "subject": "Currency risk",
+    "predicate_type": "defines",
+    "object_text": "the risk that foreign exchange rates (e.g. EUR/USD, EUR/GBP, etc.) or their implied volatility will change",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Currency risk is the risk that foreign exchange rates (e.g. EUR/USD, EUR/GBP, etc.) or their implied volatility will change.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "currency_risk"
+    ],
+    "entities": [
+      "EUR/USD",
+      "EUR/GBP"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "279421ff-9496-40f0-806e-e9e48accd9bc",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "Commodity risk is the risk that commodity prices (e.g. corn, crude oil) or their implied volatility will change.",
+    "subject": "Commodity risk",
+    "predicate_type": "defines",
+    "object_text": "the risk that commodity prices (e.g. corn, crude oil) or their implied volatility will change",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Commodity risk is the risk that commodity prices (e.g. corn, crude oil) or their implied volatility will change.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "commodity_risk"
+    ],
+    "entities": [
+      "corn",
+      "crude oil"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b9f5505b-2ebf-4fdf-abe7-d0f54330d3e9",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "Margining risk results from uncertain future cash outflows due to margin calls covering adverse value changes of a given position.",
+    "subject": "Margining risk",
+    "predicate_type": "defines",
+    "object_text": "uncertain future cash outflows due to margin calls covering adverse value changes of a given position",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Margining risk results from uncertain future cash outflows due to margin calls covering adverse value changes of a given position.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "margining_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15f9d810-c20b-4550-9e62-7a0db77ee956",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "Shape risk is a type of market risk.",
+    "subject": "Shape risk",
+    "predicate_type": "classifies",
+    "object_text": "a type of market risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Shape risk is a type of market risk.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a49ed4f2-2986-4370-9f3e-50690697dc99",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "Holding period risk is a type of market risk.",
+    "subject": "Holding period risk",
+    "predicate_type": "classifies",
+    "object_text": "a type of market risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Holding period risk is a type of market risk.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7f900331-7c18-4c8c-a10d-5a925aee739d",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "Basis risk is a type of market risk.",
+    "subject": "Basis risk",
+    "predicate_type": "classifies",
+    "object_text": "a type of market risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basis risk is a type of market risk.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4ea328dd-7617-46de-b42d-de098034c902",
+    "chunk_id": "47c83ef1-8db9-4eff-b298-3f9bf2e81170",
+    "document_id": "Market_risk",
+    "claim_text": "The capital requirement for market risk is addressed under a revised framework known as \"Fundamental Review of the Trading Book\" (FRTB).",
+    "subject": "capital requirement for market risk",
+    "predicate_type": "relates_to",
+    "object_text": "addressed under a revised framework known as \"Fundamental Review of the Trading Book\" (FRTB)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The capital requirement for market risk is addressed under a revised framework known as \"Fundamental Review of the Trading Book\" (FRTB).",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "capital_adequacy"
+    ],
+    "entities": [
+      "Fundamental Review of the Trading Book"
+    ],
+    "regulations": [
+      "FRTB"
+    ],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8d501182-e6bb-446b-97b6-5ac7474dcb5a",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "The potential loss amount due to market risk may be measured in several ways or conventions.",
+    "subject": "potential loss amount due to market risk",
+    "predicate_type": "relates_to",
+    "object_text": "may be measured in several ways or conventions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The potential loss amount due to market risk may be measured in several ways or conventions.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "risk_measurement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "46079760-7eb8-44df-afce-52e70ad97f75",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "One convention is to use value at risk (VaR).",
+    "subject": "convention",
+    "predicate_type": "defines",
+    "object_text": "to use value at risk (VaR)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One convention is to use value at risk (VaR).",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [
+      "VaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "92ea73f0-e0a0-4766-8777-b5cef40ba654",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "The conventions of using VaR are well established and accepted in the short-term risk management practice.",
+    "subject": "conventions of using VaR",
+    "predicate_type": "relates_to",
+    "object_text": "well established and accepted in the short-term risk management practice",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The conventions of using VaR are well established and accepted in the short-term risk management practice.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [
+      "VaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "039b1070-84a6-4fa8-b0ef-1793011d1d00",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "VaR contains a number of limiting assumptions that constrain its accuracy.",
+    "subject": "VaR",
+    "predicate_type": "constrains",
+    "object_text": "accuracy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "VaR contains a number of limiting assumptions that constrain its accuracy.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [
+      "VaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0203e48d-5fba-4d87-8388-d771deaaa58f",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "The first assumption is that the composition of the portfolio measured remains unchanged over the specified period.",
+    "subject": "first assumption",
+    "predicate_type": "constrains",
+    "object_text": "the composition of the portfolio measured remains unchanged over the specified period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The first assumption is that the composition of the portfolio measured remains unchanged over the specified period.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "653e86af-9fb4-45e5-bd8c-4bb8b85ae81d",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "Over short time horizons, this limiting assumption is often regarded as reasonable.",
+    "subject": "limiting assumption",
+    "predicate_type": "relates_to",
+    "object_text": "often regarded as reasonable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Over short time horizons, this limiting assumption is often regarded as reasonable.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ccc28654-4f0c-466b-83a4-56ee6ae5458d",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "Over longer time horizons, many of the positions in the portfolio may have been changed.",
+    "subject": "positions in the portfolio",
+    "predicate_type": "relates_to",
+    "object_text": "may have been changed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Over longer time horizons, many of the positions in the portfolio may have been changed.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7fb3993f-a8fe-414a-94cd-9d00ecbc26ca",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "The VaR of the unchanged portfolio is no longer relevant.",
+    "subject": "VaR of the unchanged portfolio",
+    "predicate_type": "relates_to",
+    "object_text": "no longer relevant",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The VaR of the unchanged portfolio is no longer relevant.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [
+      "VaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ac45627c-215b-4a7b-93d1-9fcfdc44c3c9",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "VaR is not sub-additive, and therefore not a coherent risk measure.",
+    "subject": "VaR",
+    "predicate_type": "relates_to",
+    "object_text": "not sub-additive, and therefore not a coherent risk measure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "VaR is not sub-additive, and therefore not a coherent risk measure.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [
+      "VaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2df0b822-3e63-418b-a739-e8d82acd52f9",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "Other suggestions for measuring market risk is conditional value-at-risk (CVaR) that is coherent for general loss distributions, including discrete distributions and is sub-additive.",
+    "subject": "conditional value-at-risk (CVaR)",
+    "predicate_type": "relates_to",
+    "object_text": "coherent for general loss distributions, including discrete distributions and is sub-additive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other suggestions for measuring market risk is conditional value-at-risk (CVaR) that is coherent for general loss distributions, including discrete distributions and is sub-additive.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "conditional_value_at_risk"
+    ],
+    "entities": [
+      "CVaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "810ffd70-c538-4df1-a488-f61fbcc24215",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "The variance covariance and historical simulation approach to calculating VaR assumes that historical correlations are stable and will not change in the future or breakdown under times of market stress.",
+    "subject": "variance covariance and historical simulation approach to calculating VaR",
+    "predicate_type": "requires",
+    "object_text": "historical correlations are stable and will not change in the future or breakdown under times of market stress",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The variance covariance and historical simulation approach to calculating VaR assumes that historical correlations are stable and will not change in the future or breakdown under times of market stress.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk"
+    ],
+    "entities": [
+      "VaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f447ce74-94e5-4159-959d-759d707a3d57",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "These assumptions are inappropriate as during periods of high volatility and market turbulence, historical correlations tend to break down.",
+    "subject": "assumptions",
+    "predicate_type": "relates_to",
+    "object_text": "inappropriate as during periods of high volatility and market turbulence, historical correlations tend to break down",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These assumptions are inappropriate as during periods of high volatility and market turbulence, historical correlations tend to break down.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "volatility"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6dbd4dce-9a4d-4337-8a15-7bfa27ccd9eb",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "During a financial crisis all industry sectors experience a significant increase in correlations, as opposed to an upward trending market.",
+    "subject": "all industry sectors",
+    "predicate_type": "relates_to",
+    "object_text": "experience a significant increase in correlations, as opposed to an upward trending market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "During a financial crisis all industry sectors experience a significant increase in correlations, as opposed to an upward trending market.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "financial_crisis"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a33502dd-74a1-431b-854e-2c5e94877e61",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "This phenomenon is also known as asymmetric correlations or asymmetric dependence.",
+    "subject": "phenomenon",
+    "predicate_type": "defines",
+    "object_text": "asymmetric correlations or asymmetric dependence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This phenomenon is also known as asymmetric correlations or asymmetric dependence.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "asymmetric_correlations"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67521115-22d0-4f26-8979-45326815be26",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "Monte-Carlo simulations with well-specified multivariate models are an excellent alternative rather than using the historical simulation.",
+    "subject": "Monte-Carlo simulations with well-specified multivariate models",
+    "predicate_type": "relates_to",
+    "object_text": "an excellent alternative rather than using the historical simulation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Monte-Carlo simulations with well-specified multivariate models are an excellent alternative rather than using the historical simulation.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "monte_carlo_simulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e31ee1a3-3077-4270-bb58-da7990a96c55",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "To improve the estimation of the variance-covariance matrix, one can generate a forecast of asset distributions via Monte-Carlo simulation based upon the Gaussian copula and well-specified marginals.",
+    "subject": "one",
+    "predicate_type": "permits",
+    "object_text": "generate a forecast of asset distributions via Monte-Carlo simulation based upon the Gaussian copula and well-specified marginals",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To improve the estimation of the variance-covariance matrix, one can generate a forecast of asset distributions via Monte-Carlo simulation based upon the Gaussian copula and well-specified marginals.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "monte_carlo_simulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0bd3c83a-36a5-4e0b-8b66-106326554a61",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "Allowing the modelling process to allow for empirical characteristics in stock returns such as auto-regression, asymmetric volatility, skewness, and kurtosis is important.",
+    "subject": "modelling process",
+    "predicate_type": "requires",
+    "object_text": "allow for empirical characteristics in stock returns such as auto-regression, asymmetric volatility, skewness, and kurtosis",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Allowing the modelling process to allow for empirical characteristics in stock returns such as auto-regression, asymmetric volatility, skewness, and kurtosis is important.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "stock_returns"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ef1b6b23-9d44-4a1d-ab7f-46492e58a2ed",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "Not accounting for these attributes lead to severe estimation error in the correlation and variance-covariance that have negative biases (as much as 70% of the true values).",
+    "subject": "not accounting for these attributes",
+    "predicate_type": "causes",
+    "object_text": "severe estimation error in the correlation and variance-covariance that have negative biases",
+    "object_value": 70.0,
+    "object_unit": "%",
+    "source_text": "Not accounting for these attributes lead to severe estimation error in the correlation and variance-covariance that have negative biases (as much as 70% of the true values).",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "estimation_error"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a890f55f-2243-4f80-bf35-5d9b6d69eed0",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "Estimation of VaR or CVaR for large portfolios of assets using the variance-covariance matrix may be inappropriate if the underlying returns distributions exhibit asymmetric dependence.",
+    "subject": "estimation of VaR or CVaR for large portfolios of assets using the variance-covariance matrix",
+    "predicate_type": "relates_to",
+    "object_text": "may be inappropriate if the underlying returns distributions exhibit asymmetric dependence",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Estimation of VaR or CVaR for large portfolios of assets using the variance-covariance matrix may be inappropriate if the underlying returns distributions exhibit asymmetric dependence.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "value_at_risk",
+      "conditional_value_at_risk"
+    ],
+    "entities": [
+      "VaR",
+      "CVaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5995f004-9eeb-4d77-b80f-0f856e607730",
+    "chunk_id": "4631f37b-bff3-4e46-a307-bd35e2ac53fc",
+    "document_id": "Market_risk",
+    "claim_text": "Vine copulas that allow for asymmetric dependence (e.g., Clayton, Rotated Gumbel) across portfolios of assets are most appropriate in the calculation of tail risk using VaR or CVaR.",
+    "subject": "vine copulas",
+    "predicate_type": "relates_to",
+    "object_text": "most appropriate in the calculation of tail risk using VaR or CVaR",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Vine copulas that allow for asymmetric dependence (e.g., Clayton, Rotated Gumbel) across portfolios of assets are most appropriate in the calculation of tail risk using VaR or CVaR.",
+    "source_document": "Market risk",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market_risk",
+      "tail_risk"
+    ],
+    "entities": [
+      "VaR",
+      "CVaR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

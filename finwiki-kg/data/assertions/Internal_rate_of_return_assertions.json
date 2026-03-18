@@ -1,0 +1,3895 @@
+[
+  {
+    "assertion_id": "9e4f513e-b2a4-4569-a864-62e58be3e290",
+    "chunk_id": "e6f35119-f249-41f2-a217-15b09bf48fed",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR can be used to measure the money-weighted performance of financial investments such as an individual investor's brokerage account.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "money-weighted performance of financial investments such as an individual investor's brokerage account",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The IRR can be used to measure the money-weighted performance of financial investments such as an individual investor's brokerage account.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment performance",
+      "financial investments"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2dc87665-c6a2-423b-b320-60e6987d1b76",
+    "chunk_id": "e6f35119-f249-41f2-a217-15b09bf48fed",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR is the annual interest rate of the fixed rate account which, when subjected to the same deposits and withdrawals as the actual investment, has the same ending balance as the actual investment.",
+    "subject": "IRR",
+    "predicate_type": "defines",
+    "object_text": "the annual interest rate of the fixed rate account which, when subjected to the same deposits and withdrawals as the actual investment, has the same ending balance as the actual investment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The IRR is the annual interest rate of the fixed rate account which, when subjected to the same deposits and withdrawals as the actual investment, has the same ending balance as the actual investment.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate",
+      "investment"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "df5f70a5-f58d-44e8-8d1a-ad6db23e5446",
+    "chunk_id": "e6f35119-f249-41f2-a217-15b09bf48fed",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "This fixed rate account is also called the replicating fixed rate account for the investment.",
+    "subject": "fixed rate account",
+    "predicate_type": "defines",
+    "object_text": "replicating fixed rate account for the investment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This fixed rate account is also called the replicating fixed rate account for the investment.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7d3de517-7a38-4a8b-bb39-c9d817f31d9d",
+    "chunk_id": "e6f35119-f249-41f2-a217-15b09bf48fed",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "In those cases, the IRR calculation assumes that the same interest rate that is paid on positive balances is charged on negative balances.",
+    "subject": "IRR calculation",
+    "predicate_type": "requires",
+    "object_text": "that the same interest rate that is paid on positive balances is charged on negative balances",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In those cases, the IRR calculation assumes that the same interest rate that is paid on positive balances is charged on negative balances.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate",
+      "negative balances"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2fa341b6-3983-4651-b322-af8628415246",
+    "chunk_id": "e6f35119-f249-41f2-a217-15b09bf48fed",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "It has been shown that this way of charging interest is the root cause of the IRR's multiple solutions problem.",
+    "subject": "this way of charging interest",
+    "predicate_type": "causes",
+    "object_text": "the root cause of the IRR's multiple solutions problem",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It has been shown that this way of charging interest is the root cause of the IRR's multiple solutions problem.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate",
+      "IRR"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2b55163b-c72d-4b0c-b669-838a46194254",
+    "chunk_id": "e6f35119-f249-41f2-a217-15b09bf48fed",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The resulting rate is called the fixed rate equivalent (FREQ).",
+    "subject": "resulting rate",
+    "predicate_type": "defines",
+    "object_text": "the fixed rate equivalent (FREQ)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The resulting rate is called the fixed rate equivalent (FREQ).",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "interest rate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "131cc774-5a08-4d6e-a066-6559c50b3b07",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "When the sign of the cash flows changes more than once, for example when positive cash flows are followed by negative ones and then by positive ones (+ + \u2212 \u2212 \u2212 +), the IRR may have multiple real values.",
+    "subject": "IRR",
+    "predicate_type": "causes",
+    "object_text": "multiple real values",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the sign of the cash flows changes more than once, for example when positive cash flows are followed by negative ones and then by positive ones (+ + \u2212 \u2212 \u2212 +), the IRR may have multiple real values.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "cash flows",
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e2cc29e7-35e7-4230-9251-2d40b2bd1a16",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "In a series of cash flows like (\u221210, 21, \u221211), one initially invests money, so a high rate of return is best, but then receives more than one possesses, so then one owes money, so now a low rate of return is best.",
+    "subject": "rate of return",
+    "predicate_type": "relates_to",
+    "object_text": "cash flows like (\u221210, 21, \u221211)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In a series of cash flows like (\u221210, 21, \u221211), one initially invests money, so a high rate of return is best, but then receives more than one possesses, so then one owes money, so now a low rate of return is best.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "cash flows"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ff63aeba-f2da-4be9-bb23-5fe030d5c022",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "In this case, it is not even clear whether a high or a low IRR is better.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "whether a high or a low IRR is better",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In this case, it is not even clear whether a high or a low IRR is better.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3a1cd8ab-1842-454e-b375-5abf617567fc",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "There may even be multiple real IRRs for a single project, like in the example 0% as well as 10%.",
+    "subject": "IRRs",
+    "predicate_type": "relates_to",
+    "object_text": "multiple real IRRs for a single project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There may even be multiple real IRRs for a single project, like in the example 0% as well as 10%.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "IRRs",
+      "project"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4af6f4e4-73cf-4a61-bed3-796a9c66d511",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Examples of this type of project are strip mines and nuclear power plants, where there is usually a large cash outflow at the end of the project.",
+    "subject": "project",
+    "predicate_type": "classifies",
+    "object_text": "strip mines and nuclear power plants",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Examples of this type of project are strip mines and nuclear power plants, where there is usually a large cash outflow at the end of the project.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "project",
+      "strip mines",
+      "nuclear power plants"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3b4a3ef1-0c15-4988-a83a-50c46f96f183",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR satisfies a polynomial equation.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "a polynomial equation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The IRR satisfies a polynomial equation.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ba6257f2-b83c-4efc-9c96-e897b2379ca6",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Sturm's theorem can be used to determine if that equation has a unique real solution.",
+    "subject": "Sturm's theorem",
+    "predicate_type": "permits",
+    "object_text": "determine if that equation has a unique real solution",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sturm's theorem can be used to determine if that equation has a unique real solution.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "Sturm's theorem"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e9089ad0-b3de-47af-afeb-c183ba66d660",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "In general the IRR equation cannot be solved analytically but only by iteration.",
+    "subject": "IRR equation",
+    "predicate_type": "prohibits",
+    "object_text": "solved analytically",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In general the IRR equation cannot be solved analytically but only by iteration.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "IRR equation"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1cfee426-9989-4997-bafb-c699448e4f23",
+    "chunk_id": "daa119fb-d215-412e-9faa-f45782ae56a4",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "With multiple internal rates of return, the IRR approach can still be interpreted in a way that is consistent with the present value approach if the underlying investment stream is correctly identified as net investment or net borrowing.",
+    "subject": "IRR approach",
+    "predicate_type": "relates_to",
+    "object_text": "consistent with the present value approach if the underlying investment stream is correctly identified as net investment or net borrowing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "With multiple internal rates of return, the IRR approach can still be interpreted in a way that is consistent with the present value approach if the underlying investment stream is correctly identified as net investment or net borrowing.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment"
+    ],
+    "entities": [
+      "IRR approach",
+      "present value approach"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "32a8d405-ca75-4d8f-8681-b28100a3f449",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR of a series of cash flows is defined as any rate of return that results in a NPV of zero.",
+    "subject": "IRR of a series of cash flows",
+    "predicate_type": "defines",
+    "object_text": "any rate of return that results in a NPV of zero",
+    "object_value": 0.0,
+    "object_unit": null,
+    "source_text": "The IRR of a series of cash flows is defined as any rate of return that results in a NPV of zero.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2026b3b4-faf1-4c0e-88d2-32b53fadc1e9",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR of a series of cash flows is defined as any rate of return that results in the correct value of zero after the last cash flow.",
+    "subject": "IRR of a series of cash flows",
+    "predicate_type": "defines",
+    "object_text": "any rate of return that results in the correct value of zero after the last cash flow",
+    "object_value": 0.0,
+    "object_unit": null,
+    "source_text": "The IRR of a series of cash flows is defined as any rate of return that results in the correct value of zero after the last cash flow.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4e13d0da-966a-4697-9e0c-f5736550102f",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Internal rate(s) of return follow from the NPV as a function of the rate of return.",
+    "subject": "Internal rate(s) of return",
+    "predicate_type": "relates_to",
+    "object_text": "the NPV as a function of the rate of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Internal rate(s) of return follow from the NPV as a function of the rate of return.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e5877e15-5360-400b-8ff2-a11936b683b1",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "This function is continuous.",
+    "subject": "function",
+    "predicate_type": "relates_to",
+    "object_text": "continuous",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This function is continuous.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17e4daa2-24f8-4eaf-a0f1-194c451d71ce",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Towards a rate of return of \u2212100% the NPV approaches infinity with the sign of the last cash flow.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "approaches infinity with the sign of the last cash flow towards a rate of return of \u2212100%",
+    "object_value": -100.0,
+    "object_unit": "%",
+    "source_text": "Towards a rate of return of \u2212100% the NPV approaches infinity with the sign of the last cash flow.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "698959c3-47cd-4568-bcf4-57f573dd638e",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Towards a rate of return of positive infinity the NPV approaches the first cash flow.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "approaches the first cash flow towards a rate of return of positive infinity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Towards a rate of return of positive infinity the NPV approaches the first cash flow.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a3ec14de-6dd3-44fa-ab0e-a0375021ef9a",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "If the first and last cash flow have a different sign there exists an IRR.",
+    "subject": "IRR",
+    "predicate_type": "requires",
+    "object_text": "the first and last cash flow have a different sign",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the first and last cash flow have a different sign there exists an IRR.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0f804f47-d801-450b-860e-d160be739aea",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The NPV is negative for every rate of return with only negative cash flows.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "negative for every rate of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV is negative for every rate of return with only negative cash flows.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "37c8a8c8-b640-4e08-bdba-afaae714d16a",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The NPV is a quadratic function of 1/(1 + r), where r is the rate of return.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "a quadratic function of 1/(1 + r), where r is the rate of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV is a quadratic function of 1/(1 + r), where r is the rate of return.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c38066cc-623b-48c9-ab69-44023b5600b2",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The NPV is a quadratic function of the discount rate r/(1 + r).",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "a quadratic function of the discount rate r/(1 + r)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV is a quadratic function of the discount rate r/(1 + r).",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "163f3747-c9d2-4db9-be39-a0a8fca78203",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The highest NPV is \u22120.75, for r = 100%.",
+    "subject": "NPV",
+    "predicate_type": "relates_to",
+    "object_text": "highest NPV is \u22120.75, for r = 100%",
+    "object_value": -0.75,
+    "object_unit": null,
+    "source_text": "The highest NPV is \u22120.75, for r = 100%.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "778068d8-4a32-4976-ade7-0274a1a868a6",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The resulting function of the rate of return is continuous and monotonically decreasing from positive infinity to the value of the first cash flow in the case of a series of exclusively negative cash flows followed by a series of exclusively positive ones.",
+    "subject": "function of the rate of return",
+    "predicate_type": "relates_to",
+    "object_text": "continuous and monotonically decreasing from positive infinity to the value of the first cash flow",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The resulting function of the rate of return is continuous and monotonically decreasing from positive infinity to the value of the first cash flow in the case of a series of exclusively negative cash flows followed by a series of exclusively positive ones.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "51081988-f04c-4654-96f3-6a46d697575c",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "There is a unique rate of return for which it is zero in the case of a series of exclusively negative cash flows followed by a series of exclusively positive ones.",
+    "subject": "rate of return",
+    "predicate_type": "relates_to",
+    "object_text": "unique for which it is zero",
+    "object_value": 0.0,
+    "object_unit": null,
+    "source_text": "There is a unique rate of return for which it is zero in the case of a series of exclusively negative cash flows followed by a series of exclusively positive ones.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "63a96fa0-15b5-4d2d-8dc7-88b133da220f",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR is also unique and equal in the case of a series of exclusively negative cash flows followed by a series of exclusively positive ones.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "unique and equal",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The IRR is also unique and equal in the case of a series of exclusively negative cash flows followed by a series of exclusively positive ones.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "658d5f64-4c7e-4f38-8e08-2a2d38af1e3a",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR is also unique in the case of a series of exclusively positive cash flows followed by a series of exclusively negative ones.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "unique",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The IRR is also unique in the case of a series of exclusively positive cash flows followed by a series of exclusively negative ones.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1c66875b-a689-4133-a0b3-74fb922f1011",
+    "chunk_id": "9ce871d9-0711-47e9-8254-1c4ee9e8a09b",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The number of internal rates of return can never be more than the number of changes in sign of cash flow.",
+    "subject": "number of internal rates of return",
+    "predicate_type": "constrains",
+    "object_text": "number of changes in sign of cash flow",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The number of internal rates of return can never be more than the number of changes in sign of cash flow.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "internal_rate_of_return"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "55669234-a03e-4a1f-877a-d377a63dd928",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR of an investment or project is the annualized effective compounded return rate that sets the net present value (NPV) of all cash flows (both positive and negative) from the investment equal to zero.",
+    "subject": "IRR of an investment or project",
+    "predicate_type": "defines",
+    "object_text": "annualized effective compounded return rate that sets the net present value (NPV) of all cash flows (both positive and negative) from the investment equal to zero",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The IRR of an investment or project is the annualized effective compounded return rate that sets the net present value (NPV) of all cash flows (both positive and negative) from the investment equal to zero.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR",
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ac24e05-255f-4465-be3b-342a51db98d6",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRR is the interest rate at which the net present value of the future cash flows is equal to the initial investment.",
+    "subject": "IRR",
+    "predicate_type": "defines",
+    "object_text": "interest rate at which the net present value of the future cash flows is equal to the initial investment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRR is the interest rate at which the net present value of the future cash flows is equal to the initial investment.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR",
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "37ee0b8a-f115-40fb-b2c5-e194380686e7",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRR is the interest rate at which the total present value of costs (negative cash flows) equals the total present value of the benefits (positive cash flows).",
+    "subject": "IRR",
+    "predicate_type": "defines",
+    "object_text": "interest rate at which the total present value of costs (negative cash flows) equals the total present value of the benefits (positive cash flows)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRR is the interest rate at which the total present value of costs (negative cash flows) equals the total present value of the benefits (positive cash flows).",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "370145ba-0556-4f0f-940d-14b20a0fedc1",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRR represents the return on investment achieved when a project reaches its breakeven point, meaning that the project is only marginally justified as valuable.",
+    "subject": "IRR",
+    "predicate_type": "defines",
+    "object_text": "return on investment achieved when a project reaches its breakeven point, meaning that the project is only marginally justified as valuable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRR represents the return on investment achieved when a project reaches its breakeven point, meaning that the project is only marginally justified as valuable.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "699b28ed-ebfd-47db-a970-70dc646a8c19",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "When NPV demonstrates a positive value, it indicates that the project is expected to generate value.",
+    "subject": "NPV",
+    "predicate_type": "causes",
+    "object_text": "project is expected to generate value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When NPV demonstrates a positive value, it indicates that the project is expected to generate value.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "de287413-8e28-48d5-a4f3-3786294c297f",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "If NPV shows a negative value, the project is expected to lose value.",
+    "subject": "NPV",
+    "predicate_type": "causes",
+    "object_text": "project is expected to lose value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If NPV shows a negative value, the project is expected to lose value.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "17c5194b-7ba2-409a-a180-d485dfea7dc1",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRR signifies the rate of return attained when the NPV of the project reaches a neutral state, precisely at the point where NPV breaks even.",
+    "subject": "IRR",
+    "predicate_type": "defines",
+    "object_text": "rate of return attained when the NPV of the project reaches a neutral state, precisely at the point where NPV breaks even",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRR signifies the rate of return attained when the NPV of the project reaches a neutral state, precisely at the point where NPV breaks even.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR",
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4de2771-3bc6-4a20-98c7-367f7692b5b2",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRR accounts for the time preference of money and investments.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "time preference of money and investments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRR accounts for the time preference of money and investments.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5f410387-1276-4ada-a0b6-4835d651cffd",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "A given return on investment received at a given time is worth more than the same return received at a later time, so the latter would yield a lower IRR than the former, if all other factors are equal.",
+    "subject": "return on investment",
+    "predicate_type": "causes",
+    "object_text": "lower IRR",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A given return on investment received at a given time is worth more than the same return received at a later time, so the latter would yield a lower IRR than the former, if all other factors are equal.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01c005d6-de10-44b9-8dcb-a0ab0d8282ac",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "A fixed income investment in which money is deposited once, interest on this deposit is paid to the investor at a specified interest rate every time period, and the original deposit neither increases nor decreases, would have an IRR equal to the specified interest rate.",
+    "subject": "fixed income investment",
+    "predicate_type": "causes",
+    "object_text": "IRR equal to the specified interest rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A fixed income investment in which money is deposited once, interest on this deposit is paid to the investor at a specified interest rate every time period, and the original deposit neither increases nor decreases, would have an IRR equal to the specified interest rate.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bb7453e7-d4af-44b8-9d4e-55d2afaeaeab",
+    "chunk_id": "7731cbed-193c-468b-9b42-fa6fa20b7281",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "An investment which has the same total returns as the preceding investment, but delays returns for one or more time periods, would have a lower IRR.",
+    "subject": "investment",
+    "predicate_type": "causes",
+    "object_text": "lower IRR",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An investment which has the same total returns as the preceding investment, but delays returns for one or more time periods, would have a lower IRR.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4311e0f4-0c31-45f4-b434-786b41952a3f",
+    "chunk_id": "7d59e989-1d44-4668-886b-2705fb39f5d3",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "One possible investment objective is to maximize the total NPV of projects.",
+    "subject": "investment objective",
+    "predicate_type": "defines",
+    "object_text": "to maximize the total NPV of projects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One possible investment objective is to maximize the total NPV of projects.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "NPV"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "43202dba-b547-44cf-9c28-79f65e0a0bd2",
+    "chunk_id": "7d59e989-1d44-4668-886b-2705fb39f5d3",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "When the objective is to maximize total value, the calculated IRR should not be used to choose between mutually exclusive projects.",
+    "subject": "IRR",
+    "predicate_type": "prohibits",
+    "object_text": "to be used to choose between mutually exclusive projects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the objective is to maximize total value, the calculated IRR should not be used to choose between mutually exclusive projects.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "IRR"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f2150bba-d592-48a9-b8ba-804d2bfc7455",
+    "chunk_id": "7d59e989-1d44-4668-886b-2705fb39f5d3",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "When the objective is to maximize total value, IRR should not be used to compare projects of different duration.",
+    "subject": "IRR",
+    "predicate_type": "prohibits",
+    "object_text": "to be used to compare projects of different duration",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When the objective is to maximize total value, IRR should not be used to compare projects of different duration.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "IRR"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f5576733-83e3-48cd-b9c4-c4ee67684238",
+    "chunk_id": "0e1d972e-eb65-4625-bf8d-34f81a2ae4ef",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "It is often stated that IRR assumes reinvestment of all cash flows until the very end of the project.",
+    "subject": "IRR",
+    "predicate_type": "requires",
+    "object_text": "reinvestment of all cash flows until the very end of the project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is often stated that IRR assumes reinvestment of all cash flows until the very end of the project.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e66f1004-84a9-4b87-b28b-865ec32f060a",
+    "chunk_id": "0e1d972e-eb65-4625-bf8d-34f81a2ae4ef",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "This assertion has been a matter of debate in the literature.",
+    "subject": "assertion that IRR assumes reinvestment of all cash flows until the very end of the project",
+    "predicate_type": "relates_to",
+    "object_text": "a matter of debate in the literature",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This assertion has been a matter of debate in the literature.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "599577d8-649a-4549-876a-aad1dcbf2d6a",
+    "chunk_id": "0e1d972e-eb65-4625-bf8d-34f81a2ae4ef",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Other sources have argued that there is no IRR reinvestment assumption.",
+    "subject": "sources",
+    "predicate_type": "relates_to",
+    "object_text": "there is no IRR reinvestment assumption",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Other sources have argued that there is no IRR reinvestment assumption.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "04d829f8-4efb-4252-b5d3-83ad990b932e",
+    "chunk_id": "0e1d972e-eb65-4625-bf8d-34f81a2ae4ef",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Let's consider an example with a 3-year bond of $1000 face value and coupon rate of 5% (or $50).",
+    "subject": "example",
+    "predicate_type": "relates_to",
+    "object_text": "3-year bond of $1000 face value and coupon rate of 5% (or $50)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Let's consider an example with a 3-year bond of $1000 face value and coupon rate of 5% (or $50).",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "68f48a78-c680-43fc-96ba-c8e481b4b896",
+    "chunk_id": "0e1d972e-eb65-4625-bf8d-34f81a2ae4ef",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRR is neutral to reinvestments made at the same rate.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "neutral to reinvestments made at the same rate",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRR is neutral to reinvestments made at the same rate.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "finance"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e48cce85-c21b-40fa-b279-a276015a1202",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "In the context of survivorship bias which makes the high IRR of large private equity firms a poor representation of the average, according to Ludovic Phalippou.",
+    "subject": "high IRR of large private equity firms",
+    "predicate_type": "causes",
+    "object_text": "poor representation of the average",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the context of survivorship bias which makes the high IRR of large private equity firms a poor representation of the average, according to Ludovic Phalippou.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance"
+    ],
+    "entities": [
+      "Ludovic Phalippou",
+      "private equity firms"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "41ed8cdb-a62c-4c4f-875c-7740965262a0",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRRs are not rates of return.",
+    "subject": "IRRs",
+    "predicate_type": "defines",
+    "object_text": "not rates of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRRs are not rates of return.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment performance",
+      "IRR"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fccaafdb-f200-462d-86d9-0dbb637d0c86",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Something large PE firms have in common is that their early investments did well.",
+    "subject": "large PE firms",
+    "predicate_type": "relates_to",
+    "object_text": "their early investments did well",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Something large PE firms have in common is that their early investments did well.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance"
+    ],
+    "entities": [
+      "PE firms"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "35d51cdd-e924-4b18-ad27-5989efe9d672",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "These early winners have set up those firms' since-inception IRR at an artificially sticky and high level.",
+    "subject": "early winners",
+    "predicate_type": "causes",
+    "object_text": "those firms' since-inception IRR at an artificially sticky and high level",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These early winners have set up those firms' since-inception IRR at an artificially sticky and high level.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance",
+      "IRR"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b02c3bc4-29e3-4203-8525-768f04f51f4b",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The mathematics of IRR means that their IRRs will stay at this level forever, as long as the firms avoid major disasters.",
+    "subject": "mathematics of IRR",
+    "predicate_type": "causes",
+    "object_text": "their IRRs will stay at this level forever, as long as the firms avoid major disasters",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The mathematics of IRR means that their IRRs will stay at this level forever, as long as the firms avoid major disasters.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment performance",
+      "IRR"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d15562ae-3348-4ca8-94e8-062c759bfc7b",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "It is easier to game IRRs on LBOs in Western countries than in any other PE investments.",
+    "subject": "gaming IRRs on LBOs",
+    "predicate_type": "relates_to",
+    "object_text": "easier in Western countries than in any other PE investments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is easier to game IRRs on LBOs in Western countries than in any other PE investments.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance",
+      "IRR"
+    ],
+    "entities": [
+      "LBOs",
+      "PE investments"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": [
+          "Western countries"
+        ]
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "086440cc-ea7c-4db7-b307-3359cdaab16c",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The rest of the PE industry (e.g. emerging market growth capital) is sentenced to look relatively bad forever, for no reason other than the use of a game-able performance metric.",
+    "subject": "rest of the PE industry (e.g. emerging market growth capital)",
+    "predicate_type": "relates_to",
+    "object_text": "sentenced to look relatively bad forever, for no reason other than the use of a game-able performance metric",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The rest of the PE industry (e.g. emerging market growth capital) is sentenced to look relatively bad forever, for no reason other than the use of a game-able performance metric.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance"
+    ],
+    "entities": [
+      "PE industry",
+      "emerging market growth capital"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "52430e10-17ad-4260-9df1-a7ea2509c305",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Time-weighted returns are not the most pertinent measure of performance for PE.",
+    "subject": "Time-weighted returns",
+    "predicate_type": "relates_to",
+    "object_text": "not the most pertinent measure of performance for PE",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Time-weighted returns are not the most pertinent measure of performance for PE.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance"
+    ],
+    "entities": [
+      "PE"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2dbde4e3-ca39-414d-9ea2-d2ed8505b6a2",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Asking how much pension funds gave and got back in dollar terms from PE, i.e. MoM, would be more pertinent.",
+    "subject": "how much pension funds gave and got back in dollar terms from PE, i.e. MoM",
+    "predicate_type": "relates_to",
+    "object_text": "more pertinent",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Asking how much pension funds gave and got back in dollar terms from PE, i.e. MoM, would be more pertinent.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance"
+    ],
+    "entities": [
+      "pension funds",
+      "PE",
+      "MoM"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fb131b50-ecd3-475f-aa69-47ba594d9e6b",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Few of the largest 15 funds post their PE fund returns online.",
+    "subject": "largest 15 funds",
+    "predicate_type": "relates_to",
+    "object_text": "few post their PE fund returns online",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Few of the largest 15 funds post their PE fund returns online.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance"
+    ],
+    "entities": [
+      "PE fund"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "410a1fd8-f026-4406-844e-b6013caa95e6",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "In most cases, they post information on their past performance in PE, but nothing that enables any meaningful benchmarking.",
+    "subject": "they",
+    "predicate_type": "relates_to",
+    "object_text": "post information on their past performance in PE, but nothing that enables any meaningful benchmarking",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In most cases, they post information on their past performance in PE, but nothing that enables any meaningful benchmarking.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance"
+    ],
+    "entities": [
+      "PE"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4dee694-0c35-4f7c-b80f-6bc4eba43a81",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "CalSTRS provide only the net IRR for each fund they invest in.",
+    "subject": "CalSTRS",
+    "predicate_type": "relates_to",
+    "object_text": "provide only the net IRR for each fund they invest in",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CalSTRS provide only the net IRR for each fund they invest in.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "private equity",
+      "investment performance",
+      "IRR"
+    ],
+    "entities": [
+      "CalSTRS"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b3cf10ce-0bc1-4399-8c48-78d9a6aa730e",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRR is often misleading and can never be aggregated or compared to stock-market returns.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "often misleading and can never be aggregated or compared to stock-market returns",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRR is often misleading and can never be aggregated or compared to stock-market returns.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment performance",
+      "IRR"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ddc75766-676e-4973-ade7-9e96ee76f9fe",
+    "chunk_id": "b7cd3a63-6ebb-48f0-bbb4-569ae8160c14",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Such information is basically useless for gauging performance.",
+    "subject": "Such information",
+    "predicate_type": "relates_to",
+    "object_text": "basically useless for gauging performance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Such information is basically useless for gauging performance.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment performance"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65b097ca-f287-4ac7-9679-3e790b34c51a",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The IRR is an indicator of the profitability, efficiency, quality, or yield of an investment.",
+    "subject": "IRR",
+    "predicate_type": "defines",
+    "object_text": "indicator of the profitability, efficiency, quality, or yield of an investment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The IRR is an indicator of the profitability, efficiency, quality, or yield of an investment.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6ba92d03-dce5-433d-9a6b-12763888afa3",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The NPV is an indicator of the net value or magnitude added by making an investment.",
+    "subject": "NPV",
+    "predicate_type": "defines",
+    "object_text": "indicator of the net value or magnitude added by making an investment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The NPV is an indicator of the net value or magnitude added by making an investment.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "NPV"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0dc0742-6483-481f-8bde-eaabf41e136a",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "To maximize the value of a business, an investment should be made only if its profitability, as measured by the internal rate of return, is greater than a minimum acceptable rate of return.",
+    "subject": "investment",
+    "predicate_type": "requires",
+    "object_text": "profitability, as measured by the internal rate of return, is greater than a minimum acceptable rate of return",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To maximize the value of a business, an investment should be made only if its profitability, as measured by the internal rate of return, is greater than a minimum acceptable rate of return.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e202e9c0-080a-40e9-b9bb-8247cb634de9",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "If the estimated IRR of a project or investment exceeds the firm's cost of capital invested in that project, the investment is profitable.",
+    "subject": "investment",
+    "predicate_type": "requires",
+    "object_text": "estimated IRR of a project or investment exceeds the firm's cost of capital invested in that project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the estimated IRR of a project or investment exceeds the firm's cost of capital invested in that project, the investment is profitable.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6e88adab-eeb1-4280-9c38-49e6c365c198",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "If the estimated IRR is less than the cost of capital, the proposed project should not be undertaken.",
+    "subject": "project",
+    "predicate_type": "prohibits",
+    "object_text": "undertaking the project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the estimated IRR is less than the cost of capital, the proposed project should not be undertaken.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d260f583-767a-4ade-950e-413a1c6053bb",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Corporations use IRR in capital budgeting to compare the profitability of a set of alternative capital projects.",
+    "subject": "corporations",
+    "predicate_type": "implements",
+    "object_text": "IRR in capital budgeting to compare the profitability of a set of alternative capital projects",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Corporations use IRR in capital budgeting to compare the profitability of a set of alternative capital projects.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_budgeting",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7e50e05-cebd-49ef-ab53-48460a101d51",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "To maximize returns, the higher a project's IRR, the more desirable it is to undertake the project.",
+    "subject": "project",
+    "predicate_type": "relates_to",
+    "object_text": "higher a project's IRR, the more desirable it is to undertake the project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "To maximize returns, the higher a project's IRR, the more desirable it is to undertake the project.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d8307d3d-aac0-4540-99fe-c67888c986c7",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "There are at least two different ways to measure the IRR for an investment: the project IRR and the equity IRR.",
+    "subject": "IRR",
+    "predicate_type": "classifies",
+    "object_text": "project IRR and the equity IRR",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are at least two different ways to measure the IRR for an investment: the project IRR and the equity IRR.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "279abb52-dd56-4a73-acc9-53c8255b997f",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "The project IRR assumes that the cash flows directly benefit the project, whereas equity IRR considers the returns for the shareholders of the company after the debt has been serviced.",
+    "subject": "project IRR",
+    "predicate_type": "defines",
+    "object_text": "cash flows directly benefit the project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The project IRR assumes that the cash flows directly benefit the project, whereas equity IRR considers the returns for the shareholders of the company after the debt has been serviced.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "deae6bc3-94ec-4a41-b113-41f63ed27dc7",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Equity IRR considers the returns for the shareholders of the company after the debt has been serviced.",
+    "subject": "equity IRR",
+    "predicate_type": "defines",
+    "object_text": "returns for the shareholders of the company after the debt has been serviced",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Equity IRR considers the returns for the shareholders of the company after the debt has been serviced.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "08b7a2c5-9e13-4b0e-89fe-0c53d57cb42d",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "Looking at the IRR in isolation might not be the best approach for an investment decision.",
+    "subject": "IRR",
+    "predicate_type": "relates_to",
+    "object_text": "might not be the best approach for an investment decision",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Looking at the IRR in isolation might not be the best approach for an investment decision.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f3f79cb1-5eb9-402b-8f57-b646e8a6b596",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "IRR assumes that the project will have either no interim cash flows or the interim cash flows are reinvested into the project which is not always the case.",
+    "subject": "IRR",
+    "predicate_type": "requires",
+    "object_text": "project will have either no interim cash flows or the interim cash flows are reinvested into the project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IRR assumes that the project will have either no interim cash flows or the interim cash flows are reinvested into the project which is not always the case.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [
+      "IRR"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "986f4d64-bf20-450c-8e02-22fc4e424f7f",
+    "chunk_id": "b39a5196-e4d7-4a52-a816-5f1ae1d85bec",
+    "document_id": "Internal_rate_of_return",
+    "claim_text": "This discrepancy leads to overestimation of the rate of return which might be an incorrect representation of the value of the project.",
+    "subject": "discrepancy",
+    "predicate_type": "causes",
+    "object_text": "overestimation of the rate of return which might be an incorrect representation of the value of the project",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This discrepancy leads to overestimation of the rate of return which might be an incorrect representation of the value of the project.",
+    "source_document": "Internal rate of return",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "investment",
+      "profitability"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

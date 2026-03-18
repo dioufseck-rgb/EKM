@@ -1,0 +1,828 @@
+[
+  {
+    "assertion_id": "a268d091-f8e2-4eda-91f1-d0a4b5938c66",
+    "chunk_id": "3edcf345-9072-41c0-b2b2-acd5d17d77f8",
+    "document_id": "Basel_I",
+    "claim_text": "The Committee was formed in response to the messy liquidation of Cologne-based Herstatt Bank in 1974.",
+    "subject": "The Committee",
+    "predicate_type": "causes",
+    "object_text": "was formed in response to the messy liquidation of Cologne-based Herstatt Bank in 1974",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Committee was formed in response to the messy liquidation of Cologne-based Herstatt Bank in 1974.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking supervision",
+      "financial regulation"
+    ],
+    "entities": [
+      "Herstatt Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "faf4fe00-5667-4a40-ae0d-a1fcd68e8ec4",
+    "chunk_id": "3edcf345-9072-41c0-b2b2-acd5d17d77f8",
+    "document_id": "Basel_I",
+    "claim_text": "On 26 June 1974 a number of banks had released Deutschmarks (the German currency) to the Herstatt Bank in exchange for dollar payments deliverable in New York City.",
+    "subject": "a number of banks",
+    "predicate_type": "relates_to",
+    "object_text": "released Deutschmarks (the German currency) to the Herstatt Bank in exchange for dollar payments deliverable in New York City",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "On 26 June 1974 a number of banks had released Deutschmarks (the German currency) to the Herstatt Bank in exchange for dollar payments deliverable in New York City.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "payments"
+    ],
+    "entities": [
+      "Herstatt Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "85fd22ea-ec47-4387-9bc8-66a67d8b2523",
+    "chunk_id": "3edcf345-9072-41c0-b2b2-acd5d17d77f8",
+    "document_id": "Basel_I",
+    "claim_text": "the Herstatt Bank was liquidated by German regulators.",
+    "subject": "the Herstatt Bank",
+    "predicate_type": "relates_to",
+    "object_text": "was liquidated by German regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "the Herstatt Bank was liquidated by German regulators.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking",
+      "regulation"
+    ],
+    "entities": [
+      "Herstatt Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e94e118-0503-42a8-b205-e21eb553a0e1",
+    "chunk_id": "3edcf345-9072-41c0-b2b2-acd5d17d77f8",
+    "document_id": "Basel_I",
+    "claim_text": "This incident prompted the G-10 nations to form the Basel Committee on Banking Supervision in late 1974, under the auspices of the Bank for International Settlements (BIS) located in Basel, Switzerland.",
+    "subject": "This incident",
+    "predicate_type": "causes",
+    "object_text": "prompted the G-10 nations to form the Basel Committee on Banking Supervision in late 1974, under the auspices of the Bank for International Settlements (BIS) located in Basel, Switzerland",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This incident prompted the G-10 nations to form the Basel Committee on Banking Supervision in late 1974, under the auspices of the Bank for International Settlements (BIS) located in Basel, Switzerland.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "banking supervision",
+      "financial regulation"
+    ],
+    "entities": [
+      "G-10",
+      "Basel Committee on Banking Supervision",
+      "Bank for International Settlements"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f0344974-3ab1-4f27-854c-33dfd808ffe5",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "Basel I, that is, the 1988 Basel Accord, is primarily focused on credit risk and appropriate risk-weighting of assets.",
+    "subject": "Basel I",
+    "predicate_type": "relates_to",
+    "object_text": "primarily focused on credit risk and appropriate risk-weighting of assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel I, that is, the 1988 Basel Accord, is primarily focused on credit risk and appropriate risk-weighting of assets.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "risk_weighting"
+    ],
+    "entities": [
+      "Basel I",
+      "1988 Basel Accord"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3c409d3d-cc40-435c-abba-da92f7596cea",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "Assets of banks were classified and grouped in five categories according to credit risk, carrying risk weights of 0% (for example cash, bullion, home country debt like Treasuries), 20% (securitisations such as mortgage-backed securities (MBS) with the highest AAA rating), 50% (municipal revenue bonds, residential mortgages), 100% (for example, most corporate debt), and some assets given no rating.",
+    "subject": "Assets of banks",
+    "predicate_type": "classifies",
+    "object_text": "in five categories according to credit risk, carrying risk weights of 0%, 20%, 50%, 100%, and some assets given no rating",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Assets of banks were classified and grouped in five categories according to credit risk, carrying risk weights of 0% (for example cash, bullion, home country debt like Treasuries), 20% (securitisations such as mortgage-backed securities (MBS) with the highest AAA rating), 50% (municipal revenue bonds, residential mortgages), 100% (for example, most corporate debt), and some assets given no rating.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "credit_risk",
+      "risk_weighting"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f71d13f9-d16a-46da-8509-15af0c139b2d",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "Banks with an international presence are required to hold capital equal to 8% of their risk-weighted assets (RWA).",
+    "subject": "Banks with an international presence",
+    "predicate_type": "requires",
+    "object_text": "to hold capital equal to 8% of their risk-weighted assets (RWA)",
+    "object_value": 8.0,
+    "object_unit": "%",
+    "source_text": "Banks with an international presence are required to hold capital equal to 8% of their risk-weighted assets (RWA).",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_weighted_assets"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "635c2366-dcf4-4cf0-92c9-b20ce59e75dd",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "The tier 1 capital ratio = tier 1 capital / all RWA",
+    "subject": "tier 1 capital ratio",
+    "predicate_type": "defines",
+    "object_text": "tier 1 capital / all RWA",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The tier 1 capital ratio = tier 1 capital / all RWA",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_weighted_assets"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "58886197-63d3-4644-b64f-65379c08ec73",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "The total capital ratio = (tier 1 + tier 2 capital) / all RWA",
+    "subject": "total capital ratio",
+    "predicate_type": "defines",
+    "object_text": "(tier 1 + tier 2 capital) / all RWA",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The total capital ratio = (tier 1 + tier 2 capital) / all RWA",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "risk_weighted_assets"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e3f52f88-578b-4b29-8f2f-4f041de2533a",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "Leverage ratio = total capital/average total assets",
+    "subject": "Leverage ratio",
+    "predicate_type": "defines",
+    "object_text": "total capital/average total assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Leverage ratio = total capital/average total assets",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage_ratio"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bc2cc9d0-d9be-43c0-927e-927a71a99cd8",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "Banks are also required to report off-balance-sheet items such as letters of credit, unused commitments, and derivatives.",
+    "subject": "Banks",
+    "predicate_type": "requires",
+    "object_text": "to report off-balance-sheet items such as letters of credit, unused commitments, and derivatives",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks are also required to report off-balance-sheet items such as letters of credit, unused commitments, and derivatives.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "off_balance_sheet_items"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e7519322-7bc8-45b3-a978-731619bb9af2",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "These all factor into the risk weighted assets, which are reported to regulators.",
+    "subject": "off-balance-sheet items",
+    "predicate_type": "relates_to",
+    "object_text": "factor into the risk weighted assets, which are reported to regulators",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These all factor into the risk weighted assets, which are reported to regulators.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_weighted_assets",
+      "regulatory_reporting"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "65c4f0c4-f9d8-4171-b24e-b1b9462f7cba",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "In the United States, the report is typically submitted to the Federal Reserve Bank as HC-R for the bank-holding company and submitted to the Office of the Comptroller of the Currency (OCC) as RC-R for just the bank.",
+    "subject": "the report",
+    "predicate_type": "relates_to",
+    "object_text": "typically submitted to the Federal Reserve Bank as HC-R for the bank-holding company and submitted to the Office of the Comptroller of the Currency (OCC) as RC-R for just the bank in the United States",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the United States, the report is typically submitted to the Federal Reserve Bank as HC-R for the bank-holding company and submitted to the Office of the Comptroller of the Currency (OCC) as RC-R for just the bank.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "regulatory_reporting"
+    ],
+    "entities": [
+      "Federal Reserve Bank",
+      "Office of the Comptroller of the Currency"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "14284f20-4645-4c7a-9372-d69759a2466b",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "From 1988 this framework was progressively introduced in member countries of G-10, comprising 13 countries as of 2013: Belgium, Canada, France, Germany, Italy, Japan, Luxembourg, Netherlands, Spain, Sweden, Switzerland, United Kingdom and the United States.",
+    "subject": "this framework",
+    "predicate_type": "implements",
+    "object_text": "progressively introduced in member countries of G-10, comprising 13 countries as of 2013: Belgium, Canada, France, Germany, Italy, Japan, Luxembourg, Netherlands, Spain, Sweden, Switzerland, United Kingdom and the United States from 1988",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "From 1988 this framework was progressively introduced in member countries of G-10, comprising 13 countries as of 2013: Belgium, Canada, France, Germany, Italy, Japan, Luxembourg, Netherlands, Spain, Sweden, Switzerland, United Kingdom and the United States.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "implementation"
+    ],
+    "entities": [
+      "G-10"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "00f614a5-f939-47ef-ab22-8956dcfdb6e4",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "Over 100 other countries also adopted, at least in name, the principles prescribed under Basel I.",
+    "subject": "Over 100 other countries",
+    "predicate_type": "implements",
+    "object_text": "adopted, at least in name, the principles prescribed under Basel I",
+    "object_value": 100.0,
+    "object_unit": null,
+    "source_text": "Over 100 other countries also adopted, at least in name, the principles prescribed under Basel I.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "implementation"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ba1aab4b-393f-4bdc-8ead-05b0b834bd1e",
+    "chunk_id": "b709241d-e27c-4073-b2a1-bc227f78b3fb",
+    "document_id": "Basel_I",
+    "claim_text": "The efficacy with which the principles are enforced varies, even within nations of the Group.",
+    "subject": "The efficacy with which the principles are enforced",
+    "predicate_type": "relates_to",
+    "object_text": "varies, even within nations of the Group",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The efficacy with which the principles are enforced varies, even within nations of the Group.",
+    "source_document": "Basel I",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.85,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "enforcement"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

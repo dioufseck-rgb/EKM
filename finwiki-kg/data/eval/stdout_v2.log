@@ -1,0 +1,534 @@
+/workspaces/EKM/finwiki-kg/pipeline/eval_harness_v2.py:1117: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  run_ts = datetime.utcnow().isoformat()
+2026-03-14 18:24:46,756 === FinWiki Eval Harness v2 START 2026-03-14T18:24:46.756851 ===
+2026-03-14 18:24:47,206 Connections established
+2026-03-14 18:24:47,210 Building 'finwiki_assertions' collection from chunk proxy vectors...
+2026-03-14 18:24:47,269   12601 assertions to index
+2026-03-14 18:24:47,351   Fetching 987 chunk vectors from Qdrant...
+2026-03-14 18:24:49,823   Created collection (dim=3072)
+2026-03-14 18:26:20,010   Indexed 12601 assertions into 'finwiki_assertions' (0 skipped — no chunk vector)
+2026-03-14 18:26:20,119 Loaded 120 queries from data/eval/queries.json
+2026-03-14 18:26:20,119 === SMOKE TEST START ===
+2026-03-14 18:26:23,195   [A] n=5 vtp=0.000
+2026-03-14 18:26:23,195   [B] n=5 vtp=0.200
+2026-03-14 18:26:23,195   [C] n=5 vtp=1.000
+2026-03-14 18:26:23,196   [D] n=5 vtp=1.000
+2026-03-14 18:26:23,197   SMOKE query 7e6ab8d3: PASS (D conflicts=False)
+2026-03-14 18:26:23,872   [A] n=5 vtp=0.000
+2026-03-14 18:26:23,873   [B] n=5 vtp=0.000
+2026-03-14 18:26:23,875   [C] n=5 vtp=1.000
+2026-03-14 18:26:23,875   [D] n=5 vtp=0.600
+2026-03-14 18:26:23,875   SMOKE query 42016fc4: PASS (D conflicts=False)
+2026-03-14 18:26:23,876 === SMOKE TEST PASSED ===
+/workspaces/EKM/finwiki-kg/pipeline/eval_harness_v2.py:729: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  ts = datetime.utcnow().isoformat()
+2026-03-14 18:26:24,649 2026-03-14T18:26:23.876777 qid=7e6ab8d3 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.642 status=ok
+2026-03-14 18:26:24,649 2026-03-14T18:26:23.876777 qid=7e6ab8d3 type=normative cond=B vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.642 status=ok
+2026-03-14 18:26:24,649 2026-03-14T18:26:23.876777 qid=7e6ab8d3 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.642 status=ok
+2026-03-14 18:26:24,650 2026-03-14T18:26:23.876777 qid=7e6ab8d3 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.642 status=ok
+2026-03-14 18:26:25,271 2026-03-14T18:26:24.650435 qid=42016fc4 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.677 status=ok
+2026-03-14 18:26:25,272 2026-03-14T18:26:24.650435 qid=42016fc4 type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.677 status=ok
+2026-03-14 18:26:25,272 2026-03-14T18:26:24.650435 qid=42016fc4 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.677 status=ok
+2026-03-14 18:26:25,272 2026-03-14T18:26:24.650435 qid=42016fc4 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.677 status=ok
+2026-03-14 18:26:25,935 2026-03-14T18:26:25.272560 qid=5214abdb type=normative cond=A vtp=0.100 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=4 rep=0.698 status=ok
+2026-03-14 18:26:25,935 2026-03-14T18:26:25.272560 qid=5214abdb type=normative cond=B vtp=0.100 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=4 rep=0.698 status=ok
+2026-03-14 18:26:25,936 2026-03-14T18:26:25.272560 qid=5214abdb type=normative cond=C vtp=1.000 ac=0.25 cwe=50 csr=0 n=50 seed_nbr=4 rep=0.698 status=ok
+2026-03-14 18:26:25,936 2026-03-14T18:26:25.272560 qid=5214abdb type=normative cond=D vtp=1.000 ac=0.25 cwe=50 csr=0 n=50 seed_nbr=4 rep=0.698 status=ok
+2026-03-14 18:26:26,516 2026-03-14T18:26:25.936554 qid=769be917 type=normative cond=A vtp=0.300 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.668 status=ok
+2026-03-14 18:26:26,516 2026-03-14T18:26:25.936554 qid=769be917 type=normative cond=B vtp=0.300 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.668 status=ok
+2026-03-14 18:26:26,516 2026-03-14T18:26:25.936554 qid=769be917 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.668 status=ok
+2026-03-14 18:26:26,517 2026-03-14T18:26:25.936554 qid=769be917 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.668 status=ok
+2026-03-14 18:26:27,125 2026-03-14T18:26:26.517427 qid=4b5fcb43 type=normative cond=A vtp=0.200 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:26:27,125 2026-03-14T18:26:26.517427 qid=4b5fcb43 type=normative cond=B vtp=0.200 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:26:27,126 2026-03-14T18:26:26.517427 qid=4b5fcb43 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:26:27,126 2026-03-14T18:26:26.517427 qid=4b5fcb43 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:26:28,080 2026-03-14T18:26:27.126530 qid=82cb1f12 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.713 status=ok
+2026-03-14 18:26:28,080 2026-03-14T18:26:27.126530 qid=82cb1f12 type=normative cond=B vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.713 status=ok
+2026-03-14 18:26:28,080 2026-03-14T18:26:27.126530 qid=82cb1f12 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.713 status=ok
+2026-03-14 18:26:28,081 2026-03-14T18:26:27.126530 qid=82cb1f12 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.713 status=ok
+2026-03-14 18:26:28,667 2026-03-14T18:26:28.081341 qid=fa3a26fe type=normative cond=A vtp=0.400 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.612 status=ok
+2026-03-14 18:26:28,668 2026-03-14T18:26:28.081341 qid=fa3a26fe type=normative cond=B vtp=0.400 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.612 status=ok
+2026-03-14 18:26:28,668 2026-03-14T18:26:28.081341 qid=fa3a26fe type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.612 status=ok
+2026-03-14 18:26:28,668 2026-03-14T18:26:28.081341 qid=fa3a26fe type=normative cond=D vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.612 status=ok
+2026-03-14 18:26:29,192 2026-03-14T18:26:28.668439 qid=f791302c type=normative cond=A vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.676 status=ok
+2026-03-14 18:26:29,193 2026-03-14T18:26:28.668439 qid=f791302c type=normative cond=B vtp=0.300 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.676 status=ok
+2026-03-14 18:26:29,193 2026-03-14T18:26:28.668439 qid=f791302c type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.676 status=ok
+2026-03-14 18:26:29,193 2026-03-14T18:26:28.668439 qid=f791302c type=normative cond=D vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.676 status=ok
+2026-03-14 18:26:30,921 2026-03-14T18:26:29.193405 qid=3cf7653a type=normative cond=A vtp=0.600 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.638 status=ok
+2026-03-14 18:26:30,923 2026-03-14T18:26:29.193405 qid=3cf7653a type=normative cond=B vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.638 status=ok
+2026-03-14 18:26:30,923 2026-03-14T18:26:29.193405 qid=3cf7653a type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.638 status=ok
+2026-03-14 18:26:30,923 2026-03-14T18:26:29.193405 qid=3cf7653a type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.638 status=ok
+2026-03-14 18:26:32,405 2026-03-14T18:26:30.924547 qid=0f2a1c55 type=normative cond=A vtp=0.000 ac=1.0 cwe=7 csr=0 n=50 seed_nbr=2 rep=0.676 status=ok
+2026-03-14 18:26:32,406 2026-03-14T18:26:30.924547 qid=0f2a1c55 type=normative cond=B vtp=0.000 ac=1.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.676 status=ok
+2026-03-14 18:26:32,407 2026-03-14T18:26:30.924547 qid=0f2a1c55 type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.676 status=ok
+2026-03-14 18:26:32,409 2026-03-14T18:26:30.924547 qid=0f2a1c55 type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.676 status=ok
+2026-03-14 18:26:32,415 Progress: 10/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:26:33,769 2026-03-14T18:26:32.415788 qid=1ba3760f type=normative cond=A vtp=0.700 ac=1.0 cwe=3 csr=0 n=50 seed_nbr=1 rep=0.699 status=ok
+2026-03-14 18:26:33,770 2026-03-14T18:26:32.415788 qid=1ba3760f type=normative cond=B vtp=0.000 ac=1.0 cwe=34 csr=0 n=50 seed_nbr=1 rep=0.699 status=ok
+2026-03-14 18:26:33,770 2026-03-14T18:26:32.415788 qid=1ba3760f type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.699 status=ok
+2026-03-14 18:26:33,770 2026-03-14T18:26:32.415788 qid=1ba3760f type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.699 status=ok
+2026-03-14 18:26:34,858 2026-03-14T18:26:33.771022 qid=60a30681 type=normative cond=A vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.652 status=ok
+2026-03-14 18:26:34,858 2026-03-14T18:26:33.771022 qid=60a30681 type=normative cond=B vtp=0.800 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.652 status=ok
+2026-03-14 18:26:34,858 2026-03-14T18:26:33.771022 qid=60a30681 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.652 status=ok
+2026-03-14 18:26:34,858 2026-03-14T18:26:33.771022 qid=60a30681 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.652 status=ok
+2026-03-14 18:26:35,787 2026-03-14T18:26:34.859123 qid=bb488efd type=normative cond=A vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.633 status=ok
+2026-03-14 18:26:35,788 2026-03-14T18:26:34.859123 qid=bb488efd type=normative cond=B vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.633 status=ok
+2026-03-14 18:26:35,788 2026-03-14T18:26:34.859123 qid=bb488efd type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.633 status=ok
+2026-03-14 18:26:35,788 2026-03-14T18:26:34.859123 qid=bb488efd type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.633 status=ok
+2026-03-14 18:26:36,818 2026-03-14T18:26:35.789209 qid=af700a53 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.639 status=ok
+2026-03-14 18:26:36,819 2026-03-14T18:26:35.789209 qid=af700a53 type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.639 status=ok
+2026-03-14 18:26:36,819 2026-03-14T18:26:35.789209 qid=af700a53 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.639 status=ok
+2026-03-14 18:26:36,819 2026-03-14T18:26:35.789209 qid=af700a53 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.639 status=ok
+2026-03-14 18:26:37,350 2026-03-14T18:26:36.820058 qid=a58dbd9e type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:26:37,350 2026-03-14T18:26:36.820058 qid=a58dbd9e type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:26:37,350 2026-03-14T18:26:36.820058 qid=a58dbd9e type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:26:37,350 2026-03-14T18:26:36.820058 qid=a58dbd9e type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:26:37,896 2026-03-14T18:26:37.350875 qid=76731eff type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:26:37,897 2026-03-14T18:26:37.350875 qid=76731eff type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:26:37,897 2026-03-14T18:26:37.350875 qid=76731eff type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:26:37,897 2026-03-14T18:26:37.350875 qid=76731eff type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:26:38,581 2026-03-14T18:26:37.897603 qid=9d04a194 type=normative cond=A vtp=0.500 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.666 status=ok
+2026-03-14 18:26:38,582 2026-03-14T18:26:37.897603 qid=9d04a194 type=normative cond=B vtp=0.500 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.666 status=ok
+2026-03-14 18:26:38,582 2026-03-14T18:26:37.897603 qid=9d04a194 type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.666 status=ok
+2026-03-14 18:26:38,582 2026-03-14T18:26:37.897603 qid=9d04a194 type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.666 status=ok
+2026-03-14 18:26:39,202 2026-03-14T18:26:38.583138 qid=3e793948 type=normative cond=A vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.654 status=ok
+2026-03-14 18:26:39,202 2026-03-14T18:26:38.583138 qid=3e793948 type=normative cond=B vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.654 status=ok
+2026-03-14 18:26:39,202 2026-03-14T18:26:38.583138 qid=3e793948 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.654 status=ok
+2026-03-14 18:26:39,202 2026-03-14T18:26:38.583138 qid=3e793948 type=normative cond=D vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.654 status=ok
+2026-03-14 18:26:39,756 2026-03-14T18:26:39.203179 qid=3ef610d0 type=normative cond=A vtp=0.500 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.690 status=ok
+2026-03-14 18:26:39,757 2026-03-14T18:26:39.203179 qid=3ef610d0 type=normative cond=B vtp=0.500 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.690 status=ok
+2026-03-14 18:26:39,757 2026-03-14T18:26:39.203179 qid=3ef610d0 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.690 status=ok
+2026-03-14 18:26:39,757 2026-03-14T18:26:39.203179 qid=3ef610d0 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.690 status=ok
+2026-03-14 18:26:40,424 2026-03-14T18:26:39.757705 qid=571e853d type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.600 status=ok
+2026-03-14 18:26:40,424 2026-03-14T18:26:39.757705 qid=571e853d type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.600 status=ok
+2026-03-14 18:26:40,424 2026-03-14T18:26:39.757705 qid=571e853d type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.600 status=ok
+2026-03-14 18:26:40,424 2026-03-14T18:26:39.757705 qid=571e853d type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.600 status=ok
+2026-03-14 18:26:40,427 Progress: 20/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:26:41,033 2026-03-14T18:26:40.427849 qid=aee42908 type=normative cond=A vtp=0.000 ac=1.0 cwe=47 csr=0 n=50 seed_nbr=5 rep=0.662 status=ok
+2026-03-14 18:26:41,034 2026-03-14T18:26:40.427849 qid=aee42908 type=normative cond=B vtp=0.000 ac=1.0 cwe=40 csr=0 n=50 seed_nbr=5 rep=0.662 status=ok
+2026-03-14 18:26:41,034 2026-03-14T18:26:40.427849 qid=aee42908 type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=5 rep=0.662 status=ok
+2026-03-14 18:26:41,034 2026-03-14T18:26:40.427849 qid=aee42908 type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=1 n=50 seed_nbr=5 rep=0.662 status=ok
+2026-03-14 18:26:41,613 2026-03-14T18:26:41.034892 qid=bad60563 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.646 status=ok
+2026-03-14 18:26:41,613 2026-03-14T18:26:41.034892 qid=bad60563 type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.646 status=ok
+2026-03-14 18:26:41,613 2026-03-14T18:26:41.034892 qid=bad60563 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.646 status=ok
+2026-03-14 18:26:41,613 2026-03-14T18:26:41.034892 qid=bad60563 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.646 status=ok
+2026-03-14 18:26:42,185 2026-03-14T18:26:41.614162 qid=ad4abc26 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.678 status=ok
+2026-03-14 18:26:42,185 2026-03-14T18:26:41.614162 qid=ad4abc26 type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.678 status=ok
+2026-03-14 18:26:42,186 2026-03-14T18:26:41.614162 qid=ad4abc26 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.678 status=ok
+2026-03-14 18:26:42,186 2026-03-14T18:26:41.614162 qid=ad4abc26 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.678 status=ok
+2026-03-14 18:26:42,781 2026-03-14T18:26:42.186359 qid=16c3c842 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.585 status=ok
+2026-03-14 18:26:42,781 2026-03-14T18:26:42.186359 qid=16c3c842 type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.585 status=ok
+2026-03-14 18:26:42,781 2026-03-14T18:26:42.186359 qid=16c3c842 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.585 status=ok
+2026-03-14 18:26:42,781 2026-03-14T18:26:42.186359 qid=16c3c842 type=normative cond=D vtp=0.800 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.585 status=ok
+2026-03-14 18:26:43,406 2026-03-14T18:26:42.782011 qid=68a4e553 type=normative cond=A vtp=0.000 ac=1.0 cwe=13 csr=0 n=50 seed_nbr=3 rep=0.598 status=ok
+2026-03-14 18:26:43,406 2026-03-14T18:26:42.782011 qid=68a4e553 type=normative cond=B vtp=0.000 ac=1.0 cwe=13 csr=0 n=50 seed_nbr=3 rep=0.598 status=ok
+2026-03-14 18:26:43,407 2026-03-14T18:26:42.782011 qid=68a4e553 type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=3 rep=0.598 status=ok
+2026-03-14 18:26:43,407 2026-03-14T18:26:42.782011 qid=68a4e553 type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=1 n=50 seed_nbr=3 rep=0.598 status=ok
+2026-03-14 18:26:43,918 2026-03-14T18:26:43.407595 qid=13e020d0 type=normative cond=A vtp=0.100 ac=1.0 cwe=8 csr=0 n=50 seed_nbr=1 rep=0.591 status=ok
+2026-03-14 18:26:43,918 2026-03-14T18:26:43.407595 qid=13e020d0 type=normative cond=B vtp=0.500 ac=1.0 cwe=35 csr=0 n=50 seed_nbr=1 rep=0.591 status=ok
+2026-03-14 18:26:43,919 2026-03-14T18:26:43.407595 qid=13e020d0 type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.591 status=ok
+2026-03-14 18:26:43,919 2026-03-14T18:26:43.407595 qid=13e020d0 type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.591 status=ok
+2026-03-14 18:26:44,566 2026-03-14T18:26:43.919447 qid=3b32960c type=normative cond=A vtp=0.000 ac=1.0 cwe=15 csr=0 n=50 seed_nbr=5 rep=0.603 status=ok
+2026-03-14 18:26:44,566 2026-03-14T18:26:43.919447 qid=3b32960c type=normative cond=B vtp=0.000 ac=1.0 cwe=37 csr=0 n=50 seed_nbr=5 rep=0.603 status=ok
+2026-03-14 18:26:44,566 2026-03-14T18:26:43.919447 qid=3b32960c type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=5 rep=0.603 status=ok
+2026-03-14 18:26:44,567 2026-03-14T18:26:43.919447 qid=3b32960c type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=5 rep=0.603 status=ok
+2026-03-14 18:26:45,142 2026-03-14T18:26:44.567334 qid=e5118777 type=normative cond=A vtp=0.100 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=2 rep=0.641 status=ok
+2026-03-14 18:26:45,143 2026-03-14T18:26:44.567334 qid=e5118777 type=normative cond=B vtp=0.100 ac=1.0 cwe=35 csr=0 n=50 seed_nbr=2 rep=0.641 status=ok
+2026-03-14 18:26:45,143 2026-03-14T18:26:44.567334 qid=e5118777 type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.641 status=ok
+2026-03-14 18:26:45,144 2026-03-14T18:26:44.567334 qid=e5118777 type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.641 status=ok
+2026-03-14 18:26:45,734 2026-03-14T18:26:45.145166 qid=32e856db type=normative cond=A vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.670 status=ok
+2026-03-14 18:26:45,734 2026-03-14T18:26:45.145166 qid=32e856db type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.670 status=ok
+2026-03-14 18:26:45,734 2026-03-14T18:26:45.145166 qid=32e856db type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.670 status=ok
+2026-03-14 18:26:45,734 2026-03-14T18:26:45.145166 qid=32e856db type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.670 status=ok
+2026-03-14 18:26:46,245 2026-03-14T18:26:45.735007 qid=49cd2aea type=normative cond=A vtp=0.300 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.666 status=ok
+2026-03-14 18:26:46,245 2026-03-14T18:26:45.735007 qid=49cd2aea type=normative cond=B vtp=0.300 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.666 status=ok
+2026-03-14 18:26:46,245 2026-03-14T18:26:45.735007 qid=49cd2aea type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.666 status=ok
+2026-03-14 18:26:46,245 2026-03-14T18:26:45.735007 qid=49cd2aea type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.666 status=ok
+2026-03-14 18:26:46,248 Progress: 30/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:26:46,820 2026-03-14T18:26:46.248652 qid=52f25936 type=normative cond=A vtp=0.000 ac=1.0 cwe=7 csr=0 n=50 seed_nbr=1 rep=0.680 status=ok
+2026-03-14 18:26:46,821 2026-03-14T18:26:46.248652 qid=52f25936 type=normative cond=B vtp=0.000 ac=1.0 cwe=8 csr=0 n=50 seed_nbr=1 rep=0.680 status=ok
+2026-03-14 18:26:46,821 2026-03-14T18:26:46.248652 qid=52f25936 type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.680 status=ok
+2026-03-14 18:26:46,821 2026-03-14T18:26:46.248652 qid=52f25936 type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.680 status=ok
+2026-03-14 18:26:47,480 2026-03-14T18:26:46.821902 qid=8e67d332 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:26:47,480 2026-03-14T18:26:46.821902 qid=8e67d332 type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:26:47,480 2026-03-14T18:26:46.821902 qid=8e67d332 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:26:47,480 2026-03-14T18:26:46.821902 qid=8e67d332 type=normative cond=D vtp=0.700 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:26:48,002 2026-03-14T18:26:47.481100 qid=7a1371ca type=normative cond=A vtp=0.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.634 status=ok
+2026-03-14 18:26:48,002 2026-03-14T18:26:47.481100 qid=7a1371ca type=normative cond=B vtp=0.000 ac=1.0 cwe=41 csr=0 n=50 seed_nbr=1 rep=0.634 status=ok
+2026-03-14 18:26:48,003 2026-03-14T18:26:47.481100 qid=7a1371ca type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.634 status=ok
+2026-03-14 18:26:48,003 2026-03-14T18:26:47.481100 qid=7a1371ca type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.634 status=ok
+2026-03-14 18:26:48,639 2026-03-14T18:26:48.003492 qid=02981a1e type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:26:48,639 2026-03-14T18:26:48.003492 qid=02981a1e type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:26:48,639 2026-03-14T18:26:48.003492 qid=02981a1e type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:26:48,639 2026-03-14T18:26:48.003492 qid=02981a1e type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:26:49,148 2026-03-14T18:26:48.640312 qid=ed65841a type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.616 status=ok
+2026-03-14 18:26:49,148 2026-03-14T18:26:48.640312 qid=ed65841a type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.616 status=ok
+2026-03-14 18:26:49,148 2026-03-14T18:26:48.640312 qid=ed65841a type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.616 status=ok
+2026-03-14 18:26:49,148 2026-03-14T18:26:48.640312 qid=ed65841a type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.616 status=ok
+2026-03-14 18:26:49,861 2026-03-14T18:26:49.148898 qid=0bee7378 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.637 status=ok
+2026-03-14 18:26:49,862 2026-03-14T18:26:49.148898 qid=0bee7378 type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.637 status=ok
+2026-03-14 18:26:49,862 2026-03-14T18:26:49.148898 qid=0bee7378 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.637 status=ok
+2026-03-14 18:26:49,862 2026-03-14T18:26:49.148898 qid=0bee7378 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.637 status=ok
+2026-03-14 18:26:50,379 2026-03-14T18:26:49.862682 qid=dedc19bf type=normative cond=A vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.659 status=ok
+2026-03-14 18:26:50,380 2026-03-14T18:26:49.862682 qid=dedc19bf type=normative cond=B vtp=0.100 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.659 status=ok
+2026-03-14 18:26:50,380 2026-03-14T18:26:49.862682 qid=dedc19bf type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.659 status=ok
+2026-03-14 18:26:50,380 2026-03-14T18:26:49.862682 qid=dedc19bf type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.659 status=ok
+2026-03-14 18:26:51,756 2026-03-14T18:26:50.380754 qid=dda81f17 type=normative cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.638 status=ok
+2026-03-14 18:26:51,756 2026-03-14T18:26:50.380754 qid=dda81f17 type=normative cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.638 status=ok
+2026-03-14 18:26:51,756 2026-03-14T18:26:50.380754 qid=dda81f17 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.638 status=ok
+2026-03-14 18:26:51,756 2026-03-14T18:26:50.380754 qid=dda81f17 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.638 status=ok
+2026-03-14 18:26:53,401 2026-03-14T18:26:51.757331 qid=de68a28a type=normative cond=A vtp=0.000 ac=1.0 cwe=22 csr=0 n=50 seed_nbr=2 rep=0.571 status=ok
+2026-03-14 18:26:53,401 2026-03-14T18:26:51.757331 qid=de68a28a type=normative cond=B vtp=0.000 ac=1.0 cwe=22 csr=0 n=50 seed_nbr=2 rep=0.571 status=ok
+2026-03-14 18:26:53,402 2026-03-14T18:26:51.757331 qid=de68a28a type=normative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.571 status=ok
+2026-03-14 18:26:53,404 2026-03-14T18:26:51.757331 qid=de68a28a type=normative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.571 status=ok
+2026-03-14 18:26:54,610 2026-03-14T18:26:53.405619 qid=acdc40d4 type=normative cond=A vtp=0.200 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.681 status=ok
+2026-03-14 18:26:54,611 2026-03-14T18:26:53.405619 qid=acdc40d4 type=normative cond=B vtp=0.200 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.681 status=ok
+2026-03-14 18:26:54,611 2026-03-14T18:26:53.405619 qid=acdc40d4 type=normative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.681 status=ok
+2026-03-14 18:26:54,611 2026-03-14T18:26:53.405619 qid=acdc40d4 type=normative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.681 status=ok
+2026-03-14 18:26:54,623 Progress: 40/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:26:55,605 2026-03-14T18:26:54.623440 qid=e738da61 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.625 status=ok
+2026-03-14 18:26:55,606 2026-03-14T18:26:54.623440 qid=e738da61 type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.625 status=ok
+2026-03-14 18:26:55,606 2026-03-14T18:26:54.623440 qid=e738da61 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.625 status=ok
+2026-03-14 18:26:55,606 2026-03-14T18:26:54.623440 qid=e738da61 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.625 status=ok
+2026-03-14 18:26:56,114 2026-03-14T18:26:55.606774 qid=04fbcab6 type=constative cond=A vtp=1.000 ac=1.0 cwe=4 csr=0 n=50 seed_nbr=1 rep=0.691 status=ok
+2026-03-14 18:26:56,114 2026-03-14T18:26:55.606774 qid=04fbcab6 type=constative cond=B vtp=1.000 ac=1.0 cwe=11 csr=0 n=50 seed_nbr=1 rep=0.691 status=ok
+2026-03-14 18:26:56,114 2026-03-14T18:26:55.606774 qid=04fbcab6 type=constative cond=C vtp=1.000 ac=1.0 cwe=10 csr=0 n=50 seed_nbr=1 rep=0.691 status=ok
+2026-03-14 18:26:56,114 2026-03-14T18:26:55.606774 qid=04fbcab6 type=constative cond=D vtp=1.000 ac=1.0 cwe=14 csr=0 n=50 seed_nbr=1 rep=0.691 status=ok
+2026-03-14 18:26:56,578 2026-03-14T18:26:56.115095 qid=ccf36477 type=constative cond=A vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:26:56,578 2026-03-14T18:26:56.115095 qid=ccf36477 type=constative cond=B vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:26:56,579 2026-03-14T18:26:56.115095 qid=ccf36477 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:26:56,579 2026-03-14T18:26:56.115095 qid=ccf36477 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:26:57,602 2026-03-14T18:26:56.579382 qid=1dc7db0f type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.636 status=ok
+2026-03-14 18:26:57,602 2026-03-14T18:26:56.579382 qid=1dc7db0f type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.636 status=ok
+2026-03-14 18:26:57,603 2026-03-14T18:26:56.579382 qid=1dc7db0f type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.636 status=ok
+2026-03-14 18:26:57,603 2026-03-14T18:26:56.579382 qid=1dc7db0f type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.636 status=ok
+2026-03-14 18:26:58,069 2026-03-14T18:26:57.604006 qid=470ede9c type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.676 status=ok
+2026-03-14 18:26:58,069 2026-03-14T18:26:57.604006 qid=470ede9c type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.676 status=ok
+2026-03-14 18:26:58,070 2026-03-14T18:26:57.604006 qid=470ede9c type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.676 status=ok
+2026-03-14 18:26:58,070 2026-03-14T18:26:57.604006 qid=470ede9c type=constative cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.676 status=ok
+2026-03-14 18:26:58,708 2026-03-14T18:26:58.070407 qid=4584b31a type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.608 status=ok
+2026-03-14 18:26:58,708 2026-03-14T18:26:58.070407 qid=4584b31a type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.608 status=ok
+2026-03-14 18:26:58,708 2026-03-14T18:26:58.070407 qid=4584b31a type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.608 status=ok
+2026-03-14 18:26:58,708 2026-03-14T18:26:58.070407 qid=4584b31a type=constative cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.608 status=ok
+2026-03-14 18:26:59,157 2026-03-14T18:26:58.709067 qid=75840b86 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.544 status=ok
+2026-03-14 18:26:59,157 2026-03-14T18:26:58.709067 qid=75840b86 type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.544 status=ok
+2026-03-14 18:26:59,157 2026-03-14T18:26:58.709067 qid=75840b86 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.544 status=ok
+2026-03-14 18:26:59,157 2026-03-14T18:26:58.709067 qid=75840b86 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.544 status=ok
+2026-03-14 18:26:59,677 2026-03-14T18:26:59.158136 qid=aad8cb55 type=constative cond=A vtp=1.000 ac=1.0 cwe=22 csr=0 n=50 seed_nbr=1 rep=0.654 status=ok
+2026-03-14 18:26:59,677 2026-03-14T18:26:59.158136 qid=aad8cb55 type=constative cond=B vtp=1.000 ac=1.0 cwe=15 csr=0 n=50 seed_nbr=1 rep=0.654 status=ok
+2026-03-14 18:26:59,677 2026-03-14T18:26:59.158136 qid=aad8cb55 type=constative cond=C vtp=1.000 ac=1.0 cwe=16 csr=0 n=50 seed_nbr=1 rep=0.654 status=ok
+2026-03-14 18:26:59,678 2026-03-14T18:26:59.158136 qid=aad8cb55 type=constative cond=D vtp=1.000 ac=1.0 cwe=15 csr=1 n=50 seed_nbr=1 rep=0.654 status=ok
+2026-03-14 18:27:00,228 2026-03-14T18:26:59.678278 qid=047e267f type=constative cond=A vtp=1.000 ac=1.0 cwe=19 csr=0 n=50 seed_nbr=1 rep=0.695 status=ok
+2026-03-14 18:27:00,228 2026-03-14T18:26:59.678278 qid=047e267f type=constative cond=B vtp=1.000 ac=1.0 cwe=16 csr=0 n=50 seed_nbr=1 rep=0.695 status=ok
+2026-03-14 18:27:00,228 2026-03-14T18:26:59.678278 qid=047e267f type=constative cond=C vtp=1.000 ac=1.0 cwe=13 csr=0 n=50 seed_nbr=1 rep=0.695 status=ok
+2026-03-14 18:27:00,228 2026-03-14T18:26:59.678278 qid=047e267f type=constative cond=D vtp=1.000 ac=1.0 cwe=12 csr=1 n=50 seed_nbr=1 rep=0.695 status=ok
+2026-03-14 18:27:01,180 2026-03-14T18:27:00.229185 qid=5879080e type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.629 status=ok
+2026-03-14 18:27:01,182 2026-03-14T18:27:00.229185 qid=5879080e type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.629 status=ok
+2026-03-14 18:27:01,183 2026-03-14T18:27:00.229185 qid=5879080e type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.629 status=ok
+2026-03-14 18:27:01,183 2026-03-14T18:27:00.229185 qid=5879080e type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.629 status=ok
+2026-03-14 18:27:01,212 Progress: 50/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:27:01,702 2026-03-14T18:27:01.213289 qid=2904dae3 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:27:01,702 2026-03-14T18:27:01.213289 qid=2904dae3 type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:27:01,702 2026-03-14T18:27:01.213289 qid=2904dae3 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:27:01,702 2026-03-14T18:27:01.213289 qid=2904dae3 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:27:02,186 2026-03-14T18:27:01.702677 qid=e4205f56 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.679 status=ok
+2026-03-14 18:27:02,187 2026-03-14T18:27:01.702677 qid=e4205f56 type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.679 status=ok
+2026-03-14 18:27:02,187 2026-03-14T18:27:01.702677 qid=e4205f56 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.679 status=ok
+2026-03-14 18:27:02,187 2026-03-14T18:27:01.702677 qid=e4205f56 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.679 status=ok
+2026-03-14 18:27:02,727 2026-03-14T18:27:02.187486 qid=c85d7c29 type=constative cond=A vtp=0.800 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.685 status=ok
+2026-03-14 18:27:02,727 2026-03-14T18:27:02.187486 qid=c85d7c29 type=constative cond=B vtp=0.300 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.685 status=ok
+2026-03-14 18:27:02,727 2026-03-14T18:27:02.187486 qid=c85d7c29 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.685 status=ok
+2026-03-14 18:27:02,727 2026-03-14T18:27:02.187486 qid=c85d7c29 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.685 status=ok
+2026-03-14 18:27:03,203 2026-03-14T18:27:02.728225 qid=d9464e31 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.578 status=ok
+2026-03-14 18:27:03,204 2026-03-14T18:27:02.728225 qid=d9464e31 type=constative cond=B vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.578 status=ok
+2026-03-14 18:27:03,204 2026-03-14T18:27:02.728225 qid=d9464e31 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.578 status=ok
+2026-03-14 18:27:03,204 2026-03-14T18:27:02.728225 qid=d9464e31 type=constative cond=D vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.578 status=ok
+2026-03-14 18:27:03,750 2026-03-14T18:27:03.205166 qid=d94761f3 type=constative cond=A vtp=0.600 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:27:03,751 2026-03-14T18:27:03.205166 qid=d94761f3 type=constative cond=B vtp=0.600 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:27:03,751 2026-03-14T18:27:03.205166 qid=d94761f3 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:27:03,751 2026-03-14T18:27:03.205166 qid=d94761f3 type=constative cond=D vtp=0.800 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.640 status=ok
+2026-03-14 18:27:04,243 2026-03-14T18:27:03.751615 qid=f171c3ca type=constative cond=A vtp=0.800 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.621 status=ok
+2026-03-14 18:27:04,244 2026-03-14T18:27:03.751615 qid=f171c3ca type=constative cond=B vtp=0.800 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.621 status=ok
+2026-03-14 18:27:04,244 2026-03-14T18:27:03.751615 qid=f171c3ca type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.621 status=ok
+2026-03-14 18:27:04,244 2026-03-14T18:27:03.751615 qid=f171c3ca type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.621 status=ok
+2026-03-14 18:27:04,759 2026-03-14T18:27:04.244681 qid=edccbdd0 type=constative cond=A vtp=0.700 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.598 status=ok
+2026-03-14 18:27:04,760 2026-03-14T18:27:04.244681 qid=edccbdd0 type=constative cond=B vtp=0.600 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.598 status=ok
+2026-03-14 18:27:04,760 2026-03-14T18:27:04.244681 qid=edccbdd0 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.598 status=ok
+2026-03-14 18:27:04,760 2026-03-14T18:27:04.244681 qid=edccbdd0 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.598 status=ok
+2026-03-14 18:27:05,232 2026-03-14T18:27:04.761161 qid=9f5bf71a type=constative cond=A vtp=1.000 ac=1.0 cwe=13 csr=0 n=50 seed_nbr=2 rep=0.695 status=ok
+2026-03-14 18:27:05,233 2026-03-14T18:27:04.761161 qid=9f5bf71a type=constative cond=B vtp=1.000 ac=1.0 cwe=15 csr=0 n=50 seed_nbr=2 rep=0.695 status=ok
+2026-03-14 18:27:05,233 2026-03-14T18:27:04.761161 qid=9f5bf71a type=constative cond=C vtp=1.000 ac=1.0 cwe=14 csr=0 n=50 seed_nbr=2 rep=0.695 status=ok
+2026-03-14 18:27:05,233 2026-03-14T18:27:04.761161 qid=9f5bf71a type=constative cond=D vtp=1.000 ac=1.0 cwe=12 csr=0 n=50 seed_nbr=2 rep=0.695 status=ok
+2026-03-14 18:27:05,757 2026-03-14T18:27:05.233716 qid=33d14f59 type=constative cond=A vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.663 status=ok
+2026-03-14 18:27:05,758 2026-03-14T18:27:05.233716 qid=33d14f59 type=constative cond=B vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.663 status=ok
+2026-03-14 18:27:05,758 2026-03-14T18:27:05.233716 qid=33d14f59 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.663 status=ok
+2026-03-14 18:27:05,758 2026-03-14T18:27:05.233716 qid=33d14f59 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.663 status=ok
+2026-03-14 18:27:06,245 2026-03-14T18:27:05.759256 qid=8a2fcdc3 type=constative cond=A vtp=0.500 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:27:06,245 2026-03-14T18:27:05.759256 qid=8a2fcdc3 type=constative cond=B vtp=0.500 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:27:06,246 2026-03-14T18:27:05.759256 qid=8a2fcdc3 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:27:06,246 2026-03-14T18:27:05.759256 qid=8a2fcdc3 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:27:06,251 Progress: 60/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:27:06,788 2026-03-14T18:27:06.251958 qid=d6a292f6 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.677 status=ok
+2026-03-14 18:27:06,788 2026-03-14T18:27:06.251958 qid=d6a292f6 type=constative cond=B vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.677 status=ok
+2026-03-14 18:27:06,788 2026-03-14T18:27:06.251958 qid=d6a292f6 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.677 status=ok
+2026-03-14 18:27:06,789 2026-03-14T18:27:06.251958 qid=d6a292f6 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.677 status=ok
+2026-03-14 18:27:07,272 2026-03-14T18:27:06.789339 qid=53c96bac type=constative cond=A vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.650 status=ok
+2026-03-14 18:27:07,272 2026-03-14T18:27:06.789339 qid=53c96bac type=constative cond=B vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.650 status=ok
+2026-03-14 18:27:07,272 2026-03-14T18:27:06.789339 qid=53c96bac type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.650 status=ok
+2026-03-14 18:27:07,272 2026-03-14T18:27:06.789339 qid=53c96bac type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.650 status=ok
+2026-03-14 18:27:07,869 2026-03-14T18:27:07.272725 qid=2b8f67c6 type=constative cond=A vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.617 status=ok
+2026-03-14 18:27:07,870 2026-03-14T18:27:07.272725 qid=2b8f67c6 type=constative cond=B vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.617 status=ok
+2026-03-14 18:27:07,870 2026-03-14T18:27:07.272725 qid=2b8f67c6 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.617 status=ok
+2026-03-14 18:27:07,870 2026-03-14T18:27:07.272725 qid=2b8f67c6 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.617 status=ok
+2026-03-14 18:27:08,347 2026-03-14T18:27:07.871137 qid=efa4c307 type=constative cond=A vtp=0.800 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.688 status=ok
+2026-03-14 18:27:08,347 2026-03-14T18:27:07.871137 qid=efa4c307 type=constative cond=B vtp=0.800 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.688 status=ok
+2026-03-14 18:27:08,347 2026-03-14T18:27:07.871137 qid=efa4c307 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.688 status=ok
+2026-03-14 18:27:08,347 2026-03-14T18:27:07.871137 qid=efa4c307 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.688 status=ok
+2026-03-14 18:27:08,894 2026-03-14T18:27:08.348022 qid=76049d91 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.565 status=ok
+2026-03-14 18:27:08,894 2026-03-14T18:27:08.348022 qid=76049d91 type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.565 status=ok
+2026-03-14 18:27:08,894 2026-03-14T18:27:08.348022 qid=76049d91 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.565 status=ok
+2026-03-14 18:27:08,894 2026-03-14T18:27:08.348022 qid=76049d91 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.565 status=ok
+2026-03-14 18:27:09,343 2026-03-14T18:27:08.894721 qid=b9064d64 type=constative cond=A vtp=1.000 ac=1.0 cwe=6 csr=0 n=50 seed_nbr=3 rep=0.653 status=ok
+2026-03-14 18:27:09,343 2026-03-14T18:27:08.894721 qid=b9064d64 type=constative cond=B vtp=1.000 ac=1.0 cwe=6 csr=0 n=50 seed_nbr=3 rep=0.653 status=ok
+2026-03-14 18:27:09,343 2026-03-14T18:27:08.894721 qid=b9064d64 type=constative cond=C vtp=1.000 ac=1.0 cwe=7 csr=0 n=50 seed_nbr=3 rep=0.653 status=ok
+2026-03-14 18:27:09,343 2026-03-14T18:27:08.894721 qid=b9064d64 type=constative cond=D vtp=1.000 ac=1.0 cwe=7 csr=0 n=50 seed_nbr=3 rep=0.653 status=ok
+2026-03-14 18:27:09,884 2026-03-14T18:27:09.343809 qid=ddfe415d type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.647 status=ok
+2026-03-14 18:27:09,884 2026-03-14T18:27:09.343809 qid=ddfe415d type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.647 status=ok
+2026-03-14 18:27:09,884 2026-03-14T18:27:09.343809 qid=ddfe415d type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.647 status=ok
+2026-03-14 18:27:09,884 2026-03-14T18:27:09.343809 qid=ddfe415d type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.647 status=ok
+2026-03-14 18:27:10,359 2026-03-14T18:27:09.884849 qid=57965cfa type=constative cond=A vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.635 status=ok
+2026-03-14 18:27:10,359 2026-03-14T18:27:09.884849 qid=57965cfa type=constative cond=B vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.635 status=ok
+2026-03-14 18:27:10,359 2026-03-14T18:27:09.884849 qid=57965cfa type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.635 status=ok
+2026-03-14 18:27:10,359 2026-03-14T18:27:09.884849 qid=57965cfa type=constative cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.635 status=ok
+2026-03-14 18:27:10,833 2026-03-14T18:27:10.360320 qid=53af5c09 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:27:10,833 2026-03-14T18:27:10.360320 qid=53af5c09 type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:27:10,834 2026-03-14T18:27:10.360320 qid=53af5c09 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:27:10,834 2026-03-14T18:27:10.360320 qid=53af5c09 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:27:12,152 2026-03-14T18:27:10.834465 qid=461c176c type=constative cond=A vtp=1.000 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=1 rep=0.663 status=ok
+2026-03-14 18:27:12,155 2026-03-14T18:27:10.834465 qid=461c176c type=constative cond=B vtp=1.000 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=1 rep=0.663 status=ok
+2026-03-14 18:27:12,156 2026-03-14T18:27:10.834465 qid=461c176c type=constative cond=C vtp=1.000 ac=1.0 cwe=4 csr=0 n=50 seed_nbr=1 rep=0.663 status=ok
+2026-03-14 18:27:12,158 2026-03-14T18:27:10.834465 qid=461c176c type=constative cond=D vtp=1.000 ac=1.0 cwe=4 csr=1 n=50 seed_nbr=1 rep=0.663 status=ok
+2026-03-14 18:27:12,229 Progress: 70/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:27:14,083 2026-03-14T18:27:12.230875 qid=6fc5630f type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.630 status=ok
+2026-03-14 18:27:14,083 2026-03-14T18:27:12.230875 qid=6fc5630f type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.630 status=ok
+2026-03-14 18:27:14,083 2026-03-14T18:27:12.230875 qid=6fc5630f type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.630 status=ok
+2026-03-14 18:27:14,083 2026-03-14T18:27:12.230875 qid=6fc5630f type=constative cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.630 status=ok
+2026-03-14 18:27:15,063 2026-03-14T18:27:14.083859 qid=4f0d08ef type=constative cond=A vtp=1.000 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=2 rep=0.649 status=ok
+2026-03-14 18:27:15,064 2026-03-14T18:27:14.083859 qid=4f0d08ef type=constative cond=B vtp=1.000 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=2 rep=0.649 status=ok
+2026-03-14 18:27:15,064 2026-03-14T18:27:14.083859 qid=4f0d08ef type=constative cond=C vtp=1.000 ac=1.0 cwe=7 csr=0 n=50 seed_nbr=2 rep=0.649 status=ok
+2026-03-14 18:27:15,064 2026-03-14T18:27:14.083859 qid=4f0d08ef type=constative cond=D vtp=1.000 ac=1.0 cwe=7 csr=1 n=50 seed_nbr=2 rep=0.649 status=ok
+2026-03-14 18:27:15,981 2026-03-14T18:27:15.064791 qid=b472048b type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.556 status=ok
+2026-03-14 18:27:15,981 2026-03-14T18:27:15.064791 qid=b472048b type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.556 status=ok
+2026-03-14 18:27:15,982 2026-03-14T18:27:15.064791 qid=b472048b type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.556 status=ok
+2026-03-14 18:27:15,982 2026-03-14T18:27:15.064791 qid=b472048b type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.556 status=ok
+2026-03-14 18:27:16,868 2026-03-14T18:27:15.982944 qid=b8ad24c6 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:27:16,869 2026-03-14T18:27:15.982944 qid=b8ad24c6 type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:27:16,870 2026-03-14T18:27:15.982944 qid=b8ad24c6 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:27:16,870 2026-03-14T18:27:15.982944 qid=b8ad24c6 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.631 status=ok
+2026-03-14 18:27:17,385 2026-03-14T18:27:16.871486 qid=b7d64b17 type=constative cond=A vtp=0.800 ac=1.0 cwe=6 csr=0 n=50 seed_nbr=2 rep=0.670 status=ok
+2026-03-14 18:27:17,385 2026-03-14T18:27:16.871486 qid=b7d64b17 type=constative cond=B vtp=0.800 ac=1.0 cwe=7 csr=0 n=50 seed_nbr=2 rep=0.670 status=ok
+2026-03-14 18:27:17,385 2026-03-14T18:27:16.871486 qid=b7d64b17 type=constative cond=C vtp=1.000 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=2 rep=0.670 status=ok
+2026-03-14 18:27:17,386 2026-03-14T18:27:16.871486 qid=b7d64b17 type=constative cond=D vtp=0.900 ac=1.0 cwe=7 csr=0 n=50 seed_nbr=2 rep=0.670 status=ok
+2026-03-14 18:27:17,952 2026-03-14T18:27:17.386366 qid=d6b13686 type=constative cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.651 status=ok
+2026-03-14 18:27:17,953 2026-03-14T18:27:17.386366 qid=d6b13686 type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.651 status=ok
+2026-03-14 18:27:17,953 2026-03-14T18:27:17.386366 qid=d6b13686 type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.651 status=ok
+2026-03-14 18:27:17,953 2026-03-14T18:27:17.386366 qid=d6b13686 type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.651 status=ok
+2026-03-14 18:27:18,806 2026-03-14T18:27:17.953875 qid=75d8427f type=constative cond=A vtp=0.900 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.651 status=ok
+2026-03-14 18:27:18,806 2026-03-14T18:27:17.953875 qid=75d8427f type=constative cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.651 status=ok
+2026-03-14 18:27:18,807 2026-03-14T18:27:17.953875 qid=75d8427f type=constative cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.651 status=ok
+2026-03-14 18:27:18,807 2026-03-14T18:27:17.953875 qid=75d8427f type=constative cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.651 status=ok
+2026-03-14 18:27:19,238 2026-03-14T18:27:18.807551 qid=b5a89284 type=constative cond=A vtp=1.000 ac=1.0 cwe=16 csr=0 n=50 seed_nbr=1 rep=0.556 status=ok
+2026-03-14 18:27:19,238 2026-03-14T18:27:18.807551 qid=b5a89284 type=constative cond=B vtp=1.000 ac=1.0 cwe=16 csr=0 n=50 seed_nbr=1 rep=0.556 status=ok
+2026-03-14 18:27:19,239 2026-03-14T18:27:18.807551 qid=b5a89284 type=constative cond=C vtp=1.000 ac=1.0 cwe=16 csr=0 n=50 seed_nbr=1 rep=0.556 status=ok
+2026-03-14 18:27:19,239 2026-03-14T18:27:18.807551 qid=b5a89284 type=constative cond=D vtp=1.000 ac=1.0 cwe=16 csr=0 n=50 seed_nbr=1 rep=0.556 status=ok
+2026-03-14 18:27:19,769 2026-03-14T18:27:19.239526 qid=8b5cf0c1 type=constative cond=A vtp=0.900 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=1 rep=0.665 status=ok
+2026-03-14 18:27:19,769 2026-03-14T18:27:19.239526 qid=8b5cf0c1 type=constative cond=B vtp=0.900 ac=1.0 cwe=4 csr=0 n=50 seed_nbr=1 rep=0.665 status=ok
+2026-03-14 18:27:19,769 2026-03-14T18:27:19.239526 qid=8b5cf0c1 type=constative cond=C vtp=1.000 ac=1.0 cwe=1 csr=0 n=50 seed_nbr=1 rep=0.665 status=ok
+2026-03-14 18:27:19,769 2026-03-14T18:27:19.239526 qid=8b5cf0c1 type=constative cond=D vtp=1.000 ac=1.0 cwe=1 csr=0 n=50 seed_nbr=1 rep=0.665 status=ok
+2026-03-14 18:27:20,199 2026-03-14T18:27:19.769786 qid=c5efcb4f type=constative cond=A vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.678 status=ok
+2026-03-14 18:27:20,200 2026-03-14T18:27:19.769786 qid=c5efcb4f type=constative cond=B vtp=0.700 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.678 status=ok
+2026-03-14 18:27:20,200 2026-03-14T18:27:19.769786 qid=c5efcb4f type=constative cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.678 status=ok
+2026-03-14 18:27:20,200 2026-03-14T18:27:19.769786 qid=c5efcb4f type=constative cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.678 status=ok
+2026-03-14 18:27:20,206 Progress: 80/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:27:20,798 2026-03-14T18:27:20.206967 qid=994de5f5 type=mixed cond=A vtp=1.000 ac=1.0 cwe=9 csr=0 n=50 seed_nbr=1 rep=0.583 status=ok
+2026-03-14 18:27:20,798 2026-03-14T18:27:20.206967 qid=994de5f5 type=mixed cond=B vtp=1.000 ac=1.0 cwe=9 csr=0 n=50 seed_nbr=1 rep=0.583 status=ok
+2026-03-14 18:27:20,798 2026-03-14T18:27:20.206967 qid=994de5f5 type=mixed cond=C vtp=1.000 ac=1.0 cwe=2 csr=0 n=50 seed_nbr=1 rep=0.583 status=ok
+2026-03-14 18:27:20,798 2026-03-14T18:27:20.206967 qid=994de5f5 type=mixed cond=D vtp=1.000 ac=1.0 cwe=2 csr=0 n=50 seed_nbr=1 rep=0.583 status=ok
+2026-03-14 18:27:21,329 2026-03-14T18:27:20.799228 qid=8bc19dc4 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:21,330 2026-03-14T18:27:20.799228 qid=8bc19dc4 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:21,330 2026-03-14T18:27:20.799228 qid=8bc19dc4 type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:21,330 2026-03-14T18:27:20.799228 qid=8bc19dc4 type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:22,009 2026-03-14T18:27:21.330639 qid=87681144 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:22,009 2026-03-14T18:27:21.330639 qid=87681144 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:22,009 2026-03-14T18:27:21.330639 qid=87681144 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:22,009 2026-03-14T18:27:21.330639 qid=87681144 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:22,653 2026-03-14T18:27:22.009950 qid=616863b2 type=mixed cond=A vtp=0.000 ac=1.0 cwe=21 csr=0 n=50 seed_nbr=1 rep=0.556 status=ok
+2026-03-14 18:27:22,653 2026-03-14T18:27:22.009950 qid=616863b2 type=mixed cond=B vtp=0.000 ac=1.0 cwe=21 csr=0 n=50 seed_nbr=1 rep=0.556 status=ok
+2026-03-14 18:27:22,653 2026-03-14T18:27:22.009950 qid=616863b2 type=mixed cond=C vtp=1.000 ac=1.0 cwe=19 csr=0 n=50 seed_nbr=1 rep=0.556 status=ok
+2026-03-14 18:27:22,653 2026-03-14T18:27:22.009950 qid=616863b2 type=mixed cond=D vtp=1.000 ac=1.0 cwe=19 csr=0 n=50 seed_nbr=1 rep=0.556 status=ok
+2026-03-14 18:27:23,181 2026-03-14T18:27:22.654019 qid=1d5af1e8 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.698 status=ok
+2026-03-14 18:27:23,181 2026-03-14T18:27:22.654019 qid=1d5af1e8 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.698 status=ok
+2026-03-14 18:27:23,181 2026-03-14T18:27:22.654019 qid=1d5af1e8 type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.698 status=ok
+2026-03-14 18:27:23,182 2026-03-14T18:27:22.654019 qid=1d5af1e8 type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.698 status=ok
+2026-03-14 18:27:23,807 2026-03-14T18:27:23.182316 qid=8ff63fe7 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.664 status=ok
+2026-03-14 18:27:23,808 2026-03-14T18:27:23.182316 qid=8ff63fe7 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.664 status=ok
+2026-03-14 18:27:23,808 2026-03-14T18:27:23.182316 qid=8ff63fe7 type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.664 status=ok
+2026-03-14 18:27:23,808 2026-03-14T18:27:23.182316 qid=8ff63fe7 type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.664 status=ok
+2026-03-14 18:27:24,340 2026-03-14T18:27:23.808636 qid=8a79aad0 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.591 status=ok
+2026-03-14 18:27:24,340 2026-03-14T18:27:23.808636 qid=8a79aad0 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.591 status=ok
+2026-03-14 18:27:24,340 2026-03-14T18:27:23.808636 qid=8a79aad0 type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.591 status=ok
+2026-03-14 18:27:24,340 2026-03-14T18:27:23.808636 qid=8a79aad0 type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.591 status=ok
+2026-03-14 18:27:24,974 2026-03-14T18:27:24.341221 qid=de3ee802 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.663 status=ok
+2026-03-14 18:27:24,974 2026-03-14T18:27:24.341221 qid=de3ee802 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.663 status=ok
+2026-03-14 18:27:24,975 2026-03-14T18:27:24.341221 qid=de3ee802 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.663 status=ok
+2026-03-14 18:27:24,975 2026-03-14T18:27:24.341221 qid=de3ee802 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.663 status=ok
+2026-03-14 18:27:25,510 2026-03-14T18:27:24.976164 qid=967378ab type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:27:25,512 2026-03-14T18:27:24.976164 qid=967378ab type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:27:25,512 2026-03-14T18:27:24.976164 qid=967378ab type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:27:25,512 2026-03-14T18:27:24.976164 qid=967378ab type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:27:26,034 2026-03-14T18:27:25.513225 qid=34bfd1b8 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.679 status=ok
+2026-03-14 18:27:26,034 2026-03-14T18:27:25.513225 qid=34bfd1b8 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.679 status=ok
+2026-03-14 18:27:26,034 2026-03-14T18:27:25.513225 qid=34bfd1b8 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.679 status=ok
+2026-03-14 18:27:26,035 2026-03-14T18:27:25.513225 qid=34bfd1b8 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.679 status=ok
+2026-03-14 18:27:26,047 Progress: 90/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:27:26,554 2026-03-14T18:27:26.047404 qid=1b87eef0 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.636 status=ok
+2026-03-14 18:27:26,554 2026-03-14T18:27:26.047404 qid=1b87eef0 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.636 status=ok
+2026-03-14 18:27:26,554 2026-03-14T18:27:26.047404 qid=1b87eef0 type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.636 status=ok
+2026-03-14 18:27:26,554 2026-03-14T18:27:26.047404 qid=1b87eef0 type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.636 status=ok
+2026-03-14 18:27:27,425 2026-03-14T18:27:26.555032 qid=d88d3611 type=mixed cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:27:27,425 2026-03-14T18:27:26.555032 qid=d88d3611 type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:27:27,426 2026-03-14T18:27:26.555032 qid=d88d3611 type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:27:27,426 2026-03-14T18:27:26.555032 qid=d88d3611 type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.660 status=ok
+2026-03-14 18:27:28,806 2026-03-14T18:27:27.426546 qid=5ff55a1e type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.635 status=ok
+2026-03-14 18:27:28,807 2026-03-14T18:27:27.426546 qid=5ff55a1e type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.635 status=ok
+2026-03-14 18:27:28,807 2026-03-14T18:27:27.426546 qid=5ff55a1e type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.635 status=ok
+2026-03-14 18:27:28,807 2026-03-14T18:27:27.426546 qid=5ff55a1e type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.635 status=ok
+2026-03-14 18:27:30,343 2026-03-14T18:27:28.810370 qid=45160b35 type=mixed cond=A vtp=1.000 ac=1.0 cwe=1 csr=0 n=50 seed_nbr=1 rep=0.634 status=ok
+2026-03-14 18:27:30,343 2026-03-14T18:27:28.810370 qid=45160b35 type=mixed cond=B vtp=1.000 ac=1.0 cwe=1 csr=0 n=50 seed_nbr=1 rep=0.634 status=ok
+2026-03-14 18:27:30,345 2026-03-14T18:27:28.810370 qid=45160b35 type=mixed cond=C vtp=0.000 ac=1.0 cwe=41 csr=0 n=50 seed_nbr=1 rep=0.634 status=ok
+2026-03-14 18:27:30,348 2026-03-14T18:27:28.810370 qid=45160b35 type=mixed cond=D vtp=0.000 ac=1.0 cwe=41 csr=0 n=50 seed_nbr=1 rep=0.634 status=ok
+2026-03-14 18:27:31,545 2026-03-14T18:27:30.348617 qid=a76d77bd type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:31,546 2026-03-14T18:27:30.348617 qid=a76d77bd type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:31,547 2026-03-14T18:27:30.348617 qid=a76d77bd type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:31,547 2026-03-14T18:27:30.348617 qid=a76d77bd type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:32,718 2026-03-14T18:27:31.548538 qid=58a49050 type=mixed cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.690 status=ok
+2026-03-14 18:27:32,719 2026-03-14T18:27:31.548538 qid=58a49050 type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.690 status=ok
+2026-03-14 18:27:32,719 2026-03-14T18:27:31.548538 qid=58a49050 type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.690 status=ok
+2026-03-14 18:27:32,720 2026-03-14T18:27:31.548538 qid=58a49050 type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.690 status=ok
+2026-03-14 18:27:34,627 2026-03-14T18:27:32.720958 qid=c855ef8e type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.653 status=ok
+2026-03-14 18:27:34,628 2026-03-14T18:27:32.720958 qid=c855ef8e type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.653 status=ok
+2026-03-14 18:27:34,628 2026-03-14T18:27:32.720958 qid=c855ef8e type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.653 status=ok
+2026-03-14 18:27:34,628 2026-03-14T18:27:32.720958 qid=c855ef8e type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.653 status=ok
+2026-03-14 18:27:35,754 2026-03-14T18:27:34.629046 qid=47437545 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.694 status=ok
+2026-03-14 18:27:35,754 2026-03-14T18:27:34.629046 qid=47437545 type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.694 status=ok
+2026-03-14 18:27:35,754 2026-03-14T18:27:34.629046 qid=47437545 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.694 status=ok
+2026-03-14 18:27:35,754 2026-03-14T18:27:34.629046 qid=47437545 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.694 status=ok
+2026-03-14 18:27:36,758 2026-03-14T18:27:35.755120 qid=8b1fd295 type=mixed cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:27:36,759 2026-03-14T18:27:35.755120 qid=8b1fd295 type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:27:36,759 2026-03-14T18:27:35.755120 qid=8b1fd295 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:27:36,759 2026-03-14T18:27:35.755120 qid=8b1fd295 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.656 status=ok
+2026-03-14 18:27:37,417 2026-03-14T18:27:36.760553 qid=0b1cc6c7 type=mixed cond=A vtp=0.000 ac=1.0 cwe=9 csr=0 n=50 seed_nbr=1 rep=0.687 status=ok
+2026-03-14 18:27:37,417 2026-03-14T18:27:36.760553 qid=0b1cc6c7 type=mixed cond=B vtp=0.000 ac=1.0 cwe=26 csr=0 n=50 seed_nbr=1 rep=0.687 status=ok
+2026-03-14 18:27:37,417 2026-03-14T18:27:36.760553 qid=0b1cc6c7 type=mixed cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.687 status=ok
+2026-03-14 18:27:37,417 2026-03-14T18:27:36.760553 qid=0b1cc6c7 type=mixed cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.687 status=ok
+2026-03-14 18:27:37,431 Progress: 100/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:27:37,933 2026-03-14T18:27:37.431803 qid=9141612e type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.674 status=ok
+2026-03-14 18:27:37,934 2026-03-14T18:27:37.431803 qid=9141612e type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.674 status=ok
+2026-03-14 18:27:37,934 2026-03-14T18:27:37.431803 qid=9141612e type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.674 status=ok
+2026-03-14 18:27:37,934 2026-03-14T18:27:37.431803 qid=9141612e type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.674 status=ok
+2026-03-14 18:27:38,468 2026-03-14T18:27:37.935175 qid=0f314754 type=mixed cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.628 status=ok
+2026-03-14 18:27:38,468 2026-03-14T18:27:37.935175 qid=0f314754 type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.628 status=ok
+2026-03-14 18:27:38,468 2026-03-14T18:27:37.935175 qid=0f314754 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.628 status=ok
+2026-03-14 18:27:38,469 2026-03-14T18:27:37.935175 qid=0f314754 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.628 status=ok
+2026-03-14 18:27:38,957 2026-03-14T18:27:38.469586 qid=8ad1c8ad type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.634 status=ok
+2026-03-14 18:27:38,957 2026-03-14T18:27:38.469586 qid=8ad1c8ad type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.634 status=ok
+2026-03-14 18:27:38,957 2026-03-14T18:27:38.469586 qid=8ad1c8ad type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.634 status=ok
+2026-03-14 18:27:38,957 2026-03-14T18:27:38.469586 qid=8ad1c8ad type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.634 status=ok
+2026-03-14 18:27:39,501 2026-03-14T18:27:38.958017 qid=fe31108b type=mixed cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:39,501 2026-03-14T18:27:38.958017 qid=fe31108b type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:39,501 2026-03-14T18:27:38.958017 qid=fe31108b type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:39,501 2026-03-14T18:27:38.958017 qid=fe31108b type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.624 status=ok
+2026-03-14 18:27:39,988 2026-03-14T18:27:39.502273 qid=97b8b1f6 type=mixed cond=A vtp=1.000 ac=1.0 cwe=1 csr=0 n=50 seed_nbr=1 rep=0.668 status=ok
+2026-03-14 18:27:39,989 2026-03-14T18:27:39.502273 qid=97b8b1f6 type=mixed cond=B vtp=1.000 ac=1.0 cwe=29 csr=0 n=50 seed_nbr=1 rep=0.668 status=ok
+2026-03-14 18:27:39,989 2026-03-14T18:27:39.502273 qid=97b8b1f6 type=mixed cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.668 status=ok
+2026-03-14 18:27:39,989 2026-03-14T18:27:39.502273 qid=97b8b1f6 type=mixed cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.668 status=ok
+2026-03-14 18:27:40,530 2026-03-14T18:27:39.989765 qid=91a1c301 type=mixed cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.693 status=ok
+2026-03-14 18:27:40,530 2026-03-14T18:27:39.989765 qid=91a1c301 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.693 status=ok
+2026-03-14 18:27:40,530 2026-03-14T18:27:39.989765 qid=91a1c301 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.693 status=ok
+2026-03-14 18:27:40,531 2026-03-14T18:27:39.989765 qid=91a1c301 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.693 status=ok
+2026-03-14 18:27:41,017 2026-03-14T18:27:40.531407 qid=1a5d0a7c type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.691 status=ok
+2026-03-14 18:27:41,017 2026-03-14T18:27:40.531407 qid=1a5d0a7c type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.691 status=ok
+2026-03-14 18:27:41,018 2026-03-14T18:27:40.531407 qid=1a5d0a7c type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.691 status=ok
+2026-03-14 18:27:41,018 2026-03-14T18:27:40.531407 qid=1a5d0a7c type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.691 status=ok
+2026-03-14 18:27:41,510 2026-03-14T18:27:41.018428 qid=5a5f045a type=mixed cond=A vtp=1.000 ac=1.0 cwe=3 csr=0 n=50 seed_nbr=2 rep=0.607 status=ok
+2026-03-14 18:27:41,510 2026-03-14T18:27:41.018428 qid=5a5f045a type=mixed cond=B vtp=1.000 ac=1.0 cwe=3 csr=0 n=50 seed_nbr=2 rep=0.607 status=ok
+2026-03-14 18:27:41,511 2026-03-14T18:27:41.018428 qid=5a5f045a type=mixed cond=C vtp=1.000 ac=1.0 cwe=12 csr=0 n=50 seed_nbr=2 rep=0.607 status=ok
+2026-03-14 18:27:41,511 2026-03-14T18:27:41.018428 qid=5a5f045a type=mixed cond=D vtp=1.000 ac=1.0 cwe=12 csr=1 n=50 seed_nbr=2 rep=0.607 status=ok
+2026-03-14 18:27:42,013 2026-03-14T18:27:41.511980 qid=692175cb type=mixed cond=A vtp=0.000 ac=1.0 cwe=43 csr=0 n=50 seed_nbr=4 rep=0.684 status=ok
+2026-03-14 18:27:42,013 2026-03-14T18:27:41.511980 qid=692175cb type=mixed cond=B vtp=0.000 ac=1.0 cwe=43 csr=0 n=50 seed_nbr=4 rep=0.684 status=ok
+2026-03-14 18:27:42,014 2026-03-14T18:27:41.511980 qid=692175cb type=mixed cond=C vtp=0.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=4 rep=0.684 status=ok
+2026-03-14 18:27:42,014 2026-03-14T18:27:41.511980 qid=692175cb type=mixed cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=4 rep=0.684 status=ok
+2026-03-14 18:27:42,725 2026-03-14T18:27:42.014563 qid=63db7bc5 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.633 status=ok
+2026-03-14 18:27:42,725 2026-03-14T18:27:42.014563 qid=63db7bc5 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.633 status=ok
+2026-03-14 18:27:42,725 2026-03-14T18:27:42.014563 qid=63db7bc5 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.633 status=ok
+2026-03-14 18:27:42,725 2026-03-14T18:27:42.014563 qid=63db7bc5 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.633 status=ok
+2026-03-14 18:27:42,753 Progress: 110/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:27:43,272 2026-03-14T18:27:42.753741 qid=9ae925cc type=mixed cond=A vtp=0.000 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=2 rep=0.623 status=ok
+2026-03-14 18:27:43,272 2026-03-14T18:27:42.753741 qid=9ae925cc type=mixed cond=B vtp=0.000 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=2 rep=0.623 status=ok
+2026-03-14 18:27:43,272 2026-03-14T18:27:42.753741 qid=9ae925cc type=mixed cond=C vtp=1.000 ac=1.0 cwe=10 csr=0 n=50 seed_nbr=2 rep=0.623 status=ok
+2026-03-14 18:27:43,273 2026-03-14T18:27:42.753741 qid=9ae925cc type=mixed cond=D vtp=1.000 ac=1.0 cwe=10 csr=0 n=50 seed_nbr=2 rep=0.623 status=ok
+2026-03-14 18:27:43,795 2026-03-14T18:27:43.273286 qid=1b5d82de type=mixed cond=A vtp=0.000 ac=1.0 cwe=10 csr=0 n=50 seed_nbr=2 rep=0.653 status=ok
+2026-03-14 18:27:43,795 2026-03-14T18:27:43.273286 qid=1b5d82de type=mixed cond=B vtp=0.000 ac=1.0 cwe=10 csr=0 n=50 seed_nbr=2 rep=0.653 status=ok
+2026-03-14 18:27:43,795 2026-03-14T18:27:43.273286 qid=1b5d82de type=mixed cond=C vtp=0.000 ac=1.0 cwe=27 csr=0 n=50 seed_nbr=2 rep=0.653 status=ok
+2026-03-14 18:27:43,795 2026-03-14T18:27:43.273286 qid=1b5d82de type=mixed cond=D vtp=1.000 ac=1.0 cwe=30 csr=0 n=50 seed_nbr=2 rep=0.653 status=ok
+2026-03-14 18:27:44,269 2026-03-14T18:27:43.796109 qid=13cd432b type=mixed cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.600 status=ok
+2026-03-14 18:27:44,269 2026-03-14T18:27:43.796109 qid=13cd432b type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.600 status=ok
+2026-03-14 18:27:44,269 2026-03-14T18:27:43.796109 qid=13cd432b type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.600 status=ok
+2026-03-14 18:27:44,269 2026-03-14T18:27:43.796109 qid=13cd432b type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.600 status=ok
+2026-03-14 18:27:44,818 2026-03-14T18:27:44.269936 qid=4fd2a6c4 type=mixed cond=A vtp=1.000 ac=1.0 cwe=5 csr=0 n=50 seed_nbr=2 rep=0.662 status=ok
+2026-03-14 18:27:44,818 2026-03-14T18:27:44.269936 qid=4fd2a6c4 type=mixed cond=B vtp=1.000 ac=1.0 cwe=28 csr=0 n=50 seed_nbr=2 rep=0.662 status=ok
+2026-03-14 18:27:44,818 2026-03-14T18:27:44.269936 qid=4fd2a6c4 type=mixed cond=C vtp=0.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=2 rep=0.662 status=ok
+2026-03-14 18:27:44,821 2026-03-14T18:27:44.269936 qid=4fd2a6c4 type=mixed cond=D vtp=0.000 ac=0.0 cwe=50 csr=1 n=50 seed_nbr=2 rep=0.662 status=ok
+2026-03-14 18:27:45,297 2026-03-14T18:27:44.822121 qid=07c2f31a type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.646 status=ok
+2026-03-14 18:27:45,297 2026-03-14T18:27:44.822121 qid=07c2f31a type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.646 status=ok
+2026-03-14 18:27:45,297 2026-03-14T18:27:44.822121 qid=07c2f31a type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.646 status=ok
+2026-03-14 18:27:45,297 2026-03-14T18:27:44.822121 qid=07c2f31a type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.646 status=ok
+2026-03-14 18:27:45,817 2026-03-14T18:27:45.297738 qid=5cb05afc type=mixed cond=A vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.681 status=ok
+2026-03-14 18:27:45,817 2026-03-14T18:27:45.297738 qid=5cb05afc type=mixed cond=B vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.681 status=ok
+2026-03-14 18:27:45,817 2026-03-14T18:27:45.297738 qid=5cb05afc type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.681 status=ok
+2026-03-14 18:27:45,817 2026-03-14T18:27:45.297738 qid=5cb05afc type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.681 status=ok
+2026-03-14 18:27:46,372 2026-03-14T18:27:45.818232 qid=b26f826c type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.614 status=ok
+2026-03-14 18:27:46,372 2026-03-14T18:27:45.818232 qid=b26f826c type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.614 status=ok
+2026-03-14 18:27:46,372 2026-03-14T18:27:45.818232 qid=b26f826c type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.614 status=ok
+2026-03-14 18:27:46,372 2026-03-14T18:27:45.818232 qid=b26f826c type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=1 n=50 seed_nbr=0 rep=0.614 status=ok
+2026-03-14 18:27:46,905 2026-03-14T18:27:46.373101 qid=ab6903b0 type=mixed cond=A vtp=0.000 ac=1.0 cwe=7 csr=0 n=50 seed_nbr=1 rep=0.649 status=ok
+2026-03-14 18:27:46,906 2026-03-14T18:27:46.373101 qid=ab6903b0 type=mixed cond=B vtp=1.000 ac=1.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.649 status=ok
+2026-03-14 18:27:46,906 2026-03-14T18:27:46.373101 qid=ab6903b0 type=mixed cond=C vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.649 status=ok
+2026-03-14 18:27:46,907 2026-03-14T18:27:46.373101 qid=ab6903b0 type=mixed cond=D vtp=1.000 ac=0.0 cwe=50 csr=0 n=50 seed_nbr=1 rep=0.649 status=ok
+2026-03-14 18:27:47,373 2026-03-14T18:27:46.907426 qid=3a3312e0 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.592 status=ok
+2026-03-14 18:27:47,374 2026-03-14T18:27:46.907426 qid=3a3312e0 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.592 status=ok
+2026-03-14 18:27:47,374 2026-03-14T18:27:46.907426 qid=3a3312e0 type=mixed cond=C vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.592 status=ok
+2026-03-14 18:27:47,374 2026-03-14T18:27:46.907426 qid=3a3312e0 type=mixed cond=D vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.592 status=ok
+2026-03-14 18:27:47,931 2026-03-14T18:27:47.374607 qid=51f98746 type=mixed cond=A vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.641 status=ok
+2026-03-14 18:27:47,932 2026-03-14T18:27:47.374607 qid=51f98746 type=mixed cond=B vtp=0.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.641 status=ok
+2026-03-14 18:27:47,932 2026-03-14T18:27:47.374607 qid=51f98746 type=mixed cond=C vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.641 status=ok
+2026-03-14 18:27:47,932 2026-03-14T18:27:47.374607 qid=51f98746 type=mixed cond=D vtp=1.000 ac=None cwe=50 csr=0 n=50 seed_nbr=0 rep=0.641 status=ok
+2026-03-14 18:27:47,944 Progress: 120/120 — partial results saved to data/eval/results_partial_v2.json
+2026-03-14 18:27:47,944 Main eval loop complete. Running k-invariance VTP sweep...
+2026-03-14 18:27:47,944 K-invariance VTP: 30 normative queries to k=100
+2026-03-14 18:27:49,475 K-invariance VTP: 5/30
+2026-03-14 18:27:50,870 K-invariance VTP: 10/30
+2026-03-14 18:27:52,447 K-invariance VTP: 15/30
+2026-03-14 18:27:55,159 K-invariance VTP: 20/30
+2026-03-14 18:27:57,166 K-invariance VTP: 25/30
+2026-03-14 18:27:58,610 K-invariance VTP: 30/30
+2026-03-14 18:27:58,613 K-invariance VTP saved to data/eval/k_invariance_vtp_v2.json
+2026-03-14 18:27:58,614 Computing aggregate statistics...
+/home/codespace/.python/current/lib/python3.12/site-packages/scipy/stats/_wilcoxon.py:181: RuntimeWarning: invalid value encountered in scalar divide
+  z = (r_plus - mn) / se
+2026-03-14 18:28:07,971 === FinWiki Eval Harness v2 COMPLETE ===
+2026-03-14 18:28:07,971 Completed: 120/120 | Failed: 0
+2026-03-14 18:28:07,972 AC-eligible queries: 34/120
+2026-03-14 18:28:07,972 Condition D CSR rate: 0.167
+2026-03-14 18:28:07,972 Results: data/eval/results_v2.json
+2026-03-14 18:28:07,972 Summary: data/eval/results_summary_v2.txt

@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_id": "6f4c40b0-bfc7-4d57-8d36-5911a92f3d5a",
+    "document_id": "Operational_risk",
+    "sequence": 0,
+    "section_title": "Operational risk is the risk of losses caused by flawed or failed processes, policies, systems or events that disrupt business operations. Employee errors, criminal activity such as fraud, and physical events are among the factors that can trigger operational risk. The process to manage operational risk is known as operational risk management. The definition of operational risk, adopted by the European  Solvency II Directive for insurers, is a variation adopted from the Basel II regulations for banks: \"The risk of a change in value caused by the fact that actual losses, incurred for inadequate or failed internal processes, people and systems, or from external events (including legal risk), differ from the expected losses\". The scope of operational risk is then broad, and can also include other classes of risks, such as fraud, security, privacy protection, legal risks, physical (e.g. infrastructure shutdown) or environmental risks. Operational risks similarly may impact broadly, in that they can affect client satisfaction, reputation and shareholder value, all while increasing business volatility.",
+    "content": "Previously, in Basel I, operational risk was negatively defined: namely that operational risk are all risks which are not market risk and not credit risk. Some banks have therefore also used the term operational risk synonymously with non-financial risks.\nIn October 2014, the Basel Committee on Banking Supervision proposed a revision to its operational risk capital framework that sets out a new standardized approach to replace the basic indicator approach and the standardized approach for calculating operational risk capital.\nContrary to other risks (e.g. credit risk, market risk, insurance risk) operational risks are usually not willingly incurred nor are they revenue driven. Moreover, they are not diversifiable and cannot be laid off. This means that as long as people, systems, and processes remain imperfect, operational risk cannot be fully eliminated.\nOperational risk is, nonetheless, manageable as to keep losses within some level of risk tolerance (i.e. the amount of risk one is prepared to accept in pursuit of his objectives), determined by balancing the costs of improvement against the expected benefits.\nWider trends such as globalization, the expansion of the internet and the rise of social media, as well as the increasing demands for greater corporate accountability worldwide, reinforce the need for proper risk management.\nThus operational risk management (ORM) is a specialized discipline within risk management. \nIt constitutes the continuous-process of risk assessment, decision making, and implementation of risk controls, resulting in the acceptance, mitigation, or avoidance of the various operational risks. \nORM somewhat overlaps quality management and the internal audit function.",
+    "token_estimate": 253,
+    "title": "Operational risk",
+    "url": "https://en.wikipedia.org/wiki/Operational_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "c689e396-f278-470c-917d-ff46a3800398",
+    "document_id": "Operational_risk",
+    "sequence": 1,
+    "section_title": "Background",
+    "content": "Until Basel II reforms to banking supervision, operational risk was a residual category reserved for risks and uncertainties which were difficult to quantify and manage in traditional ways \u2013 the \"other risks\" basket. Such regulations institutionalized operational risk as a category of regulatory and managerial attention and connected operational risk management with good corporate governance. Businesses in general, and other institutions such as the military, have been aware, for many years, of hazards arising from operational factors, internal or external. The primary goal of the military is to fight and win wars in quick and decisive fashion, and with minimal losses. For the military and the businesses of the world alike, operational risk management is an effective process for preserving resources by anticipation. Two decades (from 1980 to the early 2000s) of globalization and deregulation (e.g. Big Bang (financial markets)), combined with the increased sophistication of financial services around the world, introduced additional complexities into the activities of banks, insurers, and firms in general and therefore their risk profiles. Since the mid-1990s, the topics of market risk and credit risk have been the subject of much debate and research, with the result that financial institutions have made significant progress in the identification, measurement, and management of both these forms of risk. However, the near collapse of the U.S. financial system in the 2008 financial crisis and subprime mortgage crisis is an indication that our ability to measure market and credit risk is far from perfect and eventually led to the introduction of new regulatory requirements worldwide, including Basel III regulations for banks and Solvency II regulations for insurers. Events such as the September 11 terrorist attacks, rogue trading losses at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Barings, AIB, UBS, and National Australia Bank serve to highlight the fact that the scope of risk management extends beyond merely market and credit risk. These reasons underscore banks' and supervisors' growing focus upon the identification and measurement of operational risk. The list of risks (and, more importantly, the scale of these risks) faced by banks today includes fraud, system failures, terrorism, and employee compensation claims. These types of risk are generally classified under the term 'operational risk'. The identification and measurement of operational risk is a real and live issue for modern-day banks, particularly since the decision by the Basel Committee on Banking Supervision (BCBS) to introduce a capital charge for this risk as part of the",
+    "token_estimate": 400,
+    "title": "Operational risk",
+    "url": "https://en.wikipedia.org/wiki/Operational_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "3c1cda6b-b379-4fe6-8fcb-f33e0b7bb43a",
+    "document_id": "Operational_risk",
+    "sequence": 2,
+    "section_title": "Definition",
+    "content": "The Basel Committee defines operational risk in Basel II and Basel III as:\n\nThe risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This definition includes legal risk, but excludes strategic and reputational risk.\nThe Basel Committee recognizes that operational risk is a term that has a variety of meanings and therefore, for internal purposes, banks are permitted to adopt their own definitions of operational risk, provided that the minimum elements in the Committee's definition are included.",
+    "token_estimate": 85,
+    "title": "Operational risk",
+    "url": "https://en.wikipedia.org/wiki/Operational_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "c7fd496c-018d-40a9-a64b-c1668f015f30",
+    "document_id": "Operational_risk",
+    "sequence": 3,
+    "section_title": "Event types",
+    "content": "The following lists the seven official Basel II event types with some examples for each category:\n\nInternal Fraud \u2013 misappropriation of assets, tax evasion, intentional mismarking of positions, bribery\nExternal Fraud \u2013 theft of information, hacking damage, third-party theft and forgery\nEmployment Practices and Workplace Safety \u2013 discrimination, workers compensation, employee health and safety\nClients, Products, and Business Practice \u2013 market manipulation, antitrust, improper trade, product defects, fiduciary breaches, account churning\nDamage to Physical Assets \u2013 natural disasters, terrorism, vandalism\nBusiness Disruption and Systems Failures \u2013  utility disruptions, software failures, hardware failures\nExecution, Delivery, and Process Management \u2013 data entry errors, accounting errors, failed mandatory reporting, negligent loss of client assets",
+    "token_estimate": 111,
+    "title": "Operational risk",
+    "url": "https://en.wikipedia.org/wiki/Operational_risk",
+    "domain": "finance"
+  },
+  {
+    "chunk_id": "e16a8697-9290-4bb3-9b85-371fcbb5990e",
+    "document_id": "Operational_risk",
+    "sequence": 4,
+    "section_title": "Methods for calculating operational risk capital",
+    "content": "Basel II and various supervisory bodies of the countries have prescribed various soundness standards for operational risk management for banks and similar financial institutions. To complement these standards, Basel II has given guidance to 3 broad methods of capital calculation for operational risk:\n\nBasic Indicator Approach \u2013 based on annual revenue of the Financial Institution\nStandardized Approach \u2013 based on annual revenue of each of the broad business lines of the Financial Institution\nAdvanced Measurement Approaches \u2013 based on the internally developed risk measurement framework of the bank adhering to the standards prescribed (methods include IMA, LDA, Scenario-based, Scorecard etc.)\nThe operational risk management framework should include identification, measurement, monitoring, reporting, control and mitigation frameworks for operational risk.\nThere are a number of methodologies to choose from when modeling operational risk, each with its advantages and target applications. The ultimate choice of the methodology/methodologies to use in your institution depends on a number of factors, including:\n\nTime sensitivity for analysis;\nResources desired and/or available for the task;\nApproaches used for other risk measures;\nExpected use of results (e.g., allocating capital to business units, prioritizing control improvement projects, satisfying regulators that your institution is measuring risk, providing an incentive for better management of operational risk, etc.);\nSenior management understanding and commitment; and\nExisting complementary processes, such as self-assessment",
+    "token_estimate": 217,
+    "title": "Operational risk",
+    "url": "https://en.wikipedia.org/wiki/Operational_risk",
+    "domain": "finance"
+  }
+]

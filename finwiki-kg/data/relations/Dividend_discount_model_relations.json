@@ -1,0 +1,38 @@
+[
+  {
+    "relationship_id": "dc600133-0074-4d04-b963-4fe0d72ba6b9",
+    "source_assertion_id": "2e46f066-1a6a-4397-a26e-156b4acf3357",
+    "target_assertion_id": "948a96e0-c3d4-4013-af64-4653a27885a5",
+    "relation_type": "CAUSES",
+    "is_bidirectional": false,
+    "is_truth_preserving": false,
+    "is_defeasible": true,
+    "evidence_text": "If the stock does not currently pay a dividend, like many growth stocks, more general versions of the discounted dividend model must be used to value the stock.",
+    "logical_form": "if A then B",
+    "mechanism": "When a stock doesn't pay dividends, alternative valuation methods are needed, leading to the use of earnings per share instead of dividends.",
+    "strength": "strong",
+    "directionality": "A_to_B",
+    "confidence": 0.9,
+    "extraction_method": "llm_within_doc",
+    "derivation_depth": 0,
+    "review_status": "pending"
+  },
+  {
+    "relationship_id": "2581a2c5-cbff-4129-8ecd-64331d4eca28",
+    "source_assertion_id": "948a96e0-c3d4-4013-af64-4653a27885a5",
+    "target_assertion_id": "d5f7cb0b-bd83-4e9d-a421-a81394e0c552",
+    "relation_type": "CAUSES",
+    "is_bidirectional": false,
+    "is_truth_preserving": false,
+    "is_defeasible": true,
+    "evidence_text": "One common technique is to assume that the Modigliani\u2013Miller hypothesis of dividend irrelevance is true, and therefore replace the stock's dividend D with E earnings per share. This requires the use of earnings growth rather than dividend growth, which might be different.",
+    "logical_form": "if A then B",
+    "mechanism": "Replacing dividends with earnings per share necessitates using earnings growth instead of dividend growth in valuation models.",
+    "strength": "strong",
+    "directionality": "A_to_B",
+    "confidence": 0.9,
+    "extraction_method": "llm_within_doc",
+    "derivation_depth": 0,
+    "review_status": "pending"
+  }
+]

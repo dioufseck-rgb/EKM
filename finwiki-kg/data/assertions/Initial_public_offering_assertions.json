@@ -1,0 +1,4832 @@
+[
+  {
+    "assertion_id": "ad945fc7-7e40-464d-b9ae-d21e289987f3",
+    "chunk_id": "d585160d-1a4d-4582-8560-b5c2be589bb5",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Financial historians Richard Sylla and Robert E. Wright have shown that before 1860 most early U.S. corporations sold shares in themselves directly to the public without the aid of intermediaries like investment banks.",
+    "subject": "most early U.S. corporations",
+    "predicate_type": "implements",
+    "object_text": "sold shares in themselves directly to the public without the aid of intermediaries like investment banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial historians Richard Sylla and Robert E. Wright have shown that before 1860 most early U.S. corporations sold shares in themselves directly to the public without the aid of intermediaries like investment banks.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "corporate finance"
+    ],
+    "entities": [
+      "Richard Sylla",
+      "Robert E. Wright"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bc8d45e4-195e-4cf9-94d8-68bdeba8a0a5",
+    "chunk_id": "d585160d-1a4d-4582-8560-b5c2be589bb5",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The direct public offering (DPO), as they term it, was not done by auction but rather at a share price set by the issuing corporation.",
+    "subject": "direct public offering (DPO)",
+    "predicate_type": "implements",
+    "object_text": "was not done by auction but rather at a share price set by the issuing corporation",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The direct public offering (DPO), as they term it, was not done by auction but rather at a share price set by the issuing corporation.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7d1d72df-e742-456d-8068-3c8c9a6338d8",
+    "chunk_id": "d585160d-1a4d-4582-8560-b5c2be589bb5",
+    "document_id": "Initial_public_offering",
+    "claim_text": "In this sense, it is the same as the fixed price public offers that were the traditional IPO method in most non-US countries in the early 1990s.",
+    "subject": "direct public offering (DPO)",
+    "predicate_type": "relates_to",
+    "object_text": "the same as the fixed price public offers that were the traditional IPO method in most non-US countries in the early 1990s",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In this sense, it is the same as the fixed price public offers that were the traditional IPO method in most non-US countries in the early 1990s.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b6f26281-7a06-45db-9e42-c01d5c5d5af5",
+    "chunk_id": "d585160d-1a4d-4582-8560-b5c2be589bb5",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The DPO eliminated the agency problem associated with offerings intermediated by investment banks.",
+    "subject": "DPO",
+    "predicate_type": "causes",
+    "object_text": "eliminated the agency problem associated with offerings intermediated by investment banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The DPO eliminated the agency problem associated with offerings intermediated by investment banks.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "agency problem"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "647cea33-07c9-4cf5-bec5-01f799389187",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A Dutch auction allows shares of an initial public offering to be allocated based only on price aggressiveness, with all successful bidders paying the same price per share.",
+    "subject": "Dutch auction",
+    "predicate_type": "permits",
+    "object_text": "shares of an initial public offering to be allocated based only on price aggressiveness, with all successful bidders paying the same price per share",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A Dutch auction allows shares of an initial public offering to be allocated based only on price aggressiveness, with all successful bidders paying the same price per share.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "auctions"
+    ],
+    "entities": [
+      "Dutch auction"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "71ec7162-2281-4d84-8ddf-82b40e697678",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "One version of the Dutch auction is OpenIPO, which is based on an auction system designed by economist William Vickrey.",
+    "subject": "OpenIPO",
+    "predicate_type": "implements",
+    "object_text": "an auction system designed by economist William Vickrey",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One version of the Dutch auction is OpenIPO, which is based on an auction system designed by economist William Vickrey.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions"
+    ],
+    "entities": [
+      "OpenIPO",
+      "William Vickrey"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a4c39cfd-6b49-4bf0-befa-25fb5f4aa4fd",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "This auction method ranks bids from highest to lowest, then accepts the highest bids that allow all shares to be sold, with all winning bidders paying the same price.",
+    "subject": "auction method",
+    "predicate_type": "governs",
+    "object_text": "ranks bids from highest to lowest, then accepts the highest bids that allow all shares to be sold, with all winning bidders paying the same price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This auction method ranks bids from highest to lowest, then accepts the highest bids that allow all shares to be sold, with all winning bidders paying the same price.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dcae7cbd-2d40-451d-a3ba-dfa42d003000",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "It is similar to the model used to auction Treasury bills, notes, and bonds since the 1990s.",
+    "subject": "auction method",
+    "predicate_type": "relates_to",
+    "object_text": "the model used to auction Treasury bills, notes, and bonds since the 1990s",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is similar to the model used to auction Treasury bills, notes, and bonds since the 1990s.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions"
+    ],
+    "entities": [
+      "Treasury bills",
+      "Treasury notes",
+      "Treasury bonds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7e8b3288-5c7a-41ce-aab0-e164ee5cc859",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Before this, Treasury bills were auctioned through a discriminatory or pay-what-you-bid auction, in which the various winning bidders each paid the price (or yield) they bid, and thus the various winning bidders did not all pay the same price.",
+    "subject": "Treasury bills",
+    "predicate_type": "implements",
+    "object_text": "a discriminatory or pay-what-you-bid auction, in which the various winning bidders each paid the price (or yield) they bid, and thus the various winning bidders did not all pay the same price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Before this, Treasury bills were auctioned through a discriminatory or pay-what-you-bid auction, in which the various winning bidders each paid the price (or yield) they bid, and thus the various winning bidders did not all pay the same price.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions"
+    ],
+    "entities": [
+      "Treasury bills"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e8b7977-638c-46d0-a20d-8f80c7f987fe",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Both discriminatory and uniform price or \"Dutch\" auctions have been used for IPOs in many countries, although only uniform price auctions have been used so far in the US.",
+    "subject": "discriminatory and uniform price or \"Dutch\" auctions",
+    "predicate_type": "implements",
+    "object_text": "IPOs in many countries",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Both discriminatory and uniform price or \"Dutch\" auctions have been used for IPOs in many countries, although only uniform price auctions have been used so far in the US.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [
+      "Dutch auctions"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a3336686-1a4c-4af0-b4e2-65b469c619c9",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Only uniform price auctions have been used so far in the US.",
+    "subject": "uniform price auctions",
+    "predicate_type": "implements",
+    "object_text": "IPOs in the US",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Only uniform price auctions have been used so far in the US.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [
+      "uniform price auctions"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "da5a3ec7-238e-4a48-af6c-bf3bbb5726da",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Large IPO auctions include Japan Tobacco, Singapore Telecom, BAA Plc and Google (ordered by size of proceeds).",
+    "subject": "Large IPO auctions",
+    "predicate_type": "relates_to",
+    "object_text": "Japan Tobacco, Singapore Telecom, BAA Plc and Google",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Large IPO auctions include Japan Tobacco, Singapore Telecom, BAA Plc and Google (ordered by size of proceeds).",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [
+      "Japan Tobacco",
+      "Singapore Telecom",
+      "BAA Plc",
+      "Google"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "57c5616f-90e0-4b54-a928-2467616f7b3e",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A variation of the Dutch auction has been used to take a number of U.S. companies public including Morningstar, Interactive Brokers Group, Overstock.com, Ravenswood Winery, Clean Energy Fuels, and Boston Beer Company.",
+    "subject": "variation of the Dutch auction",
+    "predicate_type": "implements",
+    "object_text": "take a number of U.S. companies public including Morningstar, Interactive Brokers Group, Overstock.com, Ravenswood Winery, Clean Energy Fuels, and Boston Beer Company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A variation of the Dutch auction has been used to take a number of U.S. companies public including Morningstar, Interactive Brokers Group, Overstock.com, Ravenswood Winery, Clean Energy Fuels, and Boston Beer Company.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions"
+    ],
+    "entities": [
+      "Dutch auction",
+      "Morningstar",
+      "Interactive Brokers Group",
+      "Overstock.com",
+      "Ravenswood Winery",
+      "Clean Energy Fuels",
+      "Boston Beer Company"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f5e42a24-c308-47a2-914a-8e0b850bae1a",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "In 2004, Google used the Dutch auction system for its initial public offering.",
+    "subject": "Google",
+    "predicate_type": "implements",
+    "object_text": "the Dutch auction system for its initial public offering",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In 2004, Google used the Dutch auction system for its initial public offering.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [
+      "Google",
+      "Dutch auction system"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1425d39c-df2e-45cb-ad56-92b3e17d3b5e",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Traditional U.S. investment banks have shown resistance to the idea of using an auction process to engage in public securities offerings.",
+    "subject": "Traditional U.S. investment banks",
+    "predicate_type": "relates_to",
+    "object_text": "resistance to the idea of using an auction process to engage in public securities offerings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Traditional U.S. investment banks have shown resistance to the idea of using an auction process to engage in public securities offerings.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [
+      "investment banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3452ce9a-da6e-46ab-a781-5263f2b7b9c3",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The auction method allows for equal access to the allocation of shares and eliminates the favorable treatment accorded important clients by the underwriters in conventional IPOs.",
+    "subject": "auction method",
+    "predicate_type": "permits",
+    "object_text": "equal access to the allocation of shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The auction method allows for equal access to the allocation of shares and eliminates the favorable treatment accorded important clients by the underwriters in conventional IPOs.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "37ed1c95-48d9-4978-b20c-b4e2fb344859",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The auction method eliminates the favorable treatment accorded important clients by the underwriters in conventional IPOs.",
+    "subject": "auction method",
+    "predicate_type": "prohibits",
+    "object_text": "the favorable treatment accorded important clients by the underwriters in conventional IPOs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The auction method eliminates the favorable treatment accorded important clients by the underwriters in conventional IPOs.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cafb9cf7-38e7-458b-ab18-21e47ce84c95",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "In the face of this resistance, the Dutch auction is still a little used method in U.S. public offerings, although there have been hundreds of auction IPOs in other countries.",
+    "subject": "Dutch auction",
+    "predicate_type": "relates_to",
+    "object_text": "a little used method in U.S. public offerings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the face of this resistance, the Dutch auction is still a little used method in U.S. public offerings, although there have been hundreds of auction IPOs in other countries.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [
+      "Dutch auction"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8306b95a-4f15-411d-a6a2-da64176d4516",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "There have been hundreds of auction IPOs in other countries.",
+    "subject": "auction IPOs",
+    "predicate_type": "relates_to",
+    "object_text": "hundreds in other countries",
+    "object_value": 100.0,
+    "object_unit": null,
+    "source_text": "There have been hundreds of auction IPOs in other countries.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7821d476-eb7e-4d2f-a2c6-2f76a163f31e",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "If the objective is to reduce risk, a traditional IPO may be more effective because the underwriter manages the process, rather than leaving the outcome in part to random chance in terms of who chooses to bid or what strategy each bidder chooses to follow.",
+    "subject": "traditional IPO",
+    "predicate_type": "relates_to",
+    "object_text": "may be more effective because the underwriter manages the process, rather than leaving the outcome in part to random chance in terms of who chooses to bid or what strategy each bidder chooses to follow",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If the objective is to reduce risk, a traditional IPO may be more effective because the underwriter manages the process, rather than leaving the outcome in part to random chance in terms of who chooses to bid or what strategy each bidder chooses to follow.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "IPOs",
+      "risk management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d11084c5-a107-42b6-a460-a7e87a4bfb00",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "From the viewpoint of the investor, the Dutch auction allows everyone equal access.",
+    "subject": "Dutch auction",
+    "predicate_type": "permits",
+    "object_text": "everyone equal access",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "From the viewpoint of the investor, the Dutch auction allows everyone equal access.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions"
+    ],
+    "entities": [
+      "Dutch auction"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ed340fef-ef88-4a33-b5d7-ec491939b501",
+    "chunk_id": "c828c53b-bcef-4cd4-9870-7aad6463ed07",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Moreover, some forms of the Dutch auction allow the underwriter to be more active in coordinating bids and even communicating general auction trends to some bidders",
+    "subject": "some forms of the Dutch auction",
+    "predicate_type": "permits",
+    "object_text": "the underwriter to be more active in coordinating bids and even communicating general auction trends to some bidders",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Moreover, some forms of the Dutch auction allow the underwriter to be more active in coordinating bids and even communicating general auction trends to some bidders",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions"
+    ],
+    "entities": [
+      "Dutch auction"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7c52bac0-eac9-42ea-bbe7-5bf4b1900c28",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The most favored clients of the underwriters are the most favored clients of the underwriters.",
+    "subject": "most favored clients",
+    "predicate_type": "defines",
+    "object_text": "most favored clients of the underwriters",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The most favored clients of the underwriters are the most favored clients of the underwriters.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d0830b92-5f96-4c8c-a12f-f7482030e3cb",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The Facebook IPO occurred in 2012.",
+    "subject": "Facebook IPO",
+    "predicate_type": "relates_to",
+    "object_text": "2012",
+    "object_value": 2012.0,
+    "object_unit": null,
+    "source_text": "The Facebook IPO occurred in 2012.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "Facebook"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9c360406-dc64-47c2-9eea-0e639ccc860f",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Underwriters take many factors into consideration when pricing an IPO.",
+    "subject": "Underwriters",
+    "predicate_type": "relates_to",
+    "object_text": "many factors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Underwriters take many factors into consideration when pricing an IPO.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "15e6f471-01ed-476e-8415-f8e64ce09a6e",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Underwriters attempt to reach an offering price that is low enough to stimulate interest in the stock but high enough to raise an adequate amount of capital for the company.",
+    "subject": "Underwriters",
+    "predicate_type": "relates_to",
+    "object_text": "attempt to reach an offering price that is low enough to stimulate interest in the stock but high enough to raise an adequate amount of capital for the company",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Underwriters attempt to reach an offering price that is low enough to stimulate interest in the stock but high enough to raise an adequate amount of capital for the company.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b1b627be-b663-43fb-b811-9d10871f6bfa",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Underwriters use a variety of key performance indicators and non-GAAP measures when pricing an IPO.",
+    "subject": "Underwriters",
+    "predicate_type": "relates_to",
+    "object_text": "a variety of key performance indicators and non-GAAP measures",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Underwriters use a variety of key performance indicators and non-GAAP measures when pricing an IPO.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "56842a57-fac5-4ac2-9bc7-b764d7710d25",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The process of determining an optimal price usually involves the underwriters arranging share purchase commitments from leading institutional investors.",
+    "subject": "process of determining an optimal price",
+    "predicate_type": "relates_to",
+    "object_text": "underwriters arranging share purchase commitments from leading institutional investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The process of determining an optimal price usually involves the underwriters arranging share purchase commitments from leading institutional investors.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "988deaee-0cc2-44c3-ba35-4445c1d39d6a",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Some researchers believe that the underpricing of IPOs is less a deliberate act on the part of issuers and/or underwriters, and more the result of an over-reaction on the part of investors.",
+    "subject": "underpricing of IPOs",
+    "predicate_type": "causes",
+    "object_text": "over-reaction on the part of investors",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some researchers believe that the underpricing of IPOs is less a deliberate act on the part of issuers and/or underwriters, and more the result of an over-reaction on the part of investors.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "29823f21-14bc-48a3-8817-f44026927dc2",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "One potential method for determining to underprice is through the use of IPO underpricing algorithms.",
+    "subject": "One potential method for determining to underprice",
+    "predicate_type": "implements",
+    "object_text": "use of IPO underpricing algorithms",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One potential method for determining to underprice is through the use of IPO underpricing algorithms.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "603ca246-4d8d-4692-9859-2146ef055379",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Firms with higher revenues from licensing-based technology commercialization exhibit greater IPO underpricing.",
+    "subject": "Firms with higher revenues from licensing-based technology commercialization",
+    "predicate_type": "relates_to",
+    "object_text": "greater IPO underpricing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Firms with higher revenues from licensing-based technology commercialization exhibit greater IPO underpricing.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a8bc1b78-c7f2-4c32-9eb9-b1f66119667e",
+    "chunk_id": "6259a13b-f7c0-4036-a262-e00d453dc2a0",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A firm's stock of patents mitigates the effect of higher revenues from licensing-based technology commercialization on IPO underpricing.",
+    "subject": "firm's stock of patents",
+    "predicate_type": "relates_to",
+    "object_text": "mitigates the effect of higher revenues from licensing-based technology commercialization on IPO underpricing",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A firm's stock of patents mitigates the effect of higher revenues from licensing-based technology commercialization on IPO underpricing.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f40bcfc7-778a-43f7-8bab-8b5e697d1634",
+    "chunk_id": "8e1585a6-2b09-4fa6-ac9b-fa6768e4a7d6",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The issuer, issuer's counsel (attorneys), underwriter's counsel (attorneys), the lead underwriter(s), and the issuer's accountants/auditors make final edits and proofreading at the printer.",
+    "subject": "issuer, issuer's counsel (attorneys), underwriter's counsel (attorneys), the lead underwriter(s), and the issuer's accountants/auditors",
+    "predicate_type": "implements",
+    "object_text": "make final edits and proofreading at the printer",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The issuer, issuer's counsel (attorneys), underwriter's counsel (attorneys), the lead underwriter(s), and the issuer's accountants/auditors make final edits and proofreading at the printer.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "ipo"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "99cda88c-8ba9-4c11-b5d7-7b3072aaa8e9",
+    "chunk_id": "8e1585a6-2b09-4fa6-ac9b-fa6768e4a7d6",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The financial printer files the final prospectus with the Securities and Exchange Commission.",
+    "subject": "financial printer",
+    "predicate_type": "implements",
+    "object_text": "files the final prospectus with the Securities and Exchange Commission",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The financial printer files the final prospectus with the Securities and Exchange Commission.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "ipo"
+    ],
+    "entities": [
+      "Securities and Exchange Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "54e833cd-3d1f-4b23-ba8a-9cb171a3845f",
+    "chunk_id": "8e1585a6-2b09-4fa6-ac9b-fa6768e4a7d6",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Before legal actions initiated by New York Attorney General Eliot Spitzer, some large investment firms had initiated favorable research coverage of companies in an effort to aid corporate finance departments and retail divisions engaged in the marketing of new issues.",
+    "subject": "some large investment firms",
+    "predicate_type": "implements",
+    "object_text": "had initiated favorable research coverage of companies in an effort to aid corporate finance departments and retail divisions engaged in the marketing of new issues",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Before legal actions initiated by New York Attorney General Eliot Spitzer, some large investment firms had initiated favorable research coverage of companies in an effort to aid corporate finance departments and retail divisions engaged in the marketing of new issues.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "ipo",
+      "research"
+    ],
+    "entities": [
+      "New York Attorney General Eliot Spitzer"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d9c8ec82-7fd8-4c24-8f54-f71d6948c68e",
+    "chunk_id": "8e1585a6-2b09-4fa6-ac9b-fa6768e4a7d6",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The central issue in that enforcement agreement had been judged in court previously.",
+    "subject": "central issue in that enforcement agreement",
+    "predicate_type": "relates_to",
+    "object_text": "had been judged in court previously",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The central issue in that enforcement agreement had been judged in court previously.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "enforcement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bf330e4e-ca9a-4c6f-9c77-8db1d94a4c97",
+    "chunk_id": "8e1585a6-2b09-4fa6-ac9b-fa6768e4a7d6",
+    "document_id": "Initial_public_offering",
+    "claim_text": "It involved the conflict of interest between the investment banking and analysis departments of ten of the largest investment firms in the United States.",
+    "subject": "central issue",
+    "predicate_type": "relates_to",
+    "object_text": "the conflict of interest between the investment banking and analysis departments of ten of the largest investment firms in the United States",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It involved the conflict of interest between the investment banking and analysis departments of ten of the largest investment firms in the United States.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "conflict_of_interest",
+      "investment_banking"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ca3b00a-c006-4941-8060-b97b88527617",
+    "chunk_id": "8e1585a6-2b09-4fa6-ac9b-fa6768e4a7d6",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The investment firms involved in the settlement had all engaged in actions and practices that had allowed the inappropriate influence of their research analysts by their investment bankers seeking lucrative fees.",
+    "subject": "investment firms involved in the settlement",
+    "predicate_type": "relates_to",
+    "object_text": "had all engaged in actions and practices that had allowed the inappropriate influence of their research analysts by their investment bankers seeking lucrative fees",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The investment firms involved in the settlement had all engaged in actions and practices that had allowed the inappropriate influence of their research analysts by their investment bankers seeking lucrative fees.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "research",
+      "investment_banking"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b899dbc1-a3f9-42b7-9b95-aa49a6f8ca24",
+    "chunk_id": "8e1585a6-2b09-4fa6-ac9b-fa6768e4a7d6",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A typical violation addressed by the settlement was the case of CSFB and Salomon Smith Barney, which were alleged to have engaged in the inappropriate spinning of \"hot\" IPOs and issued fraudulent research reports in violation of various sections within the Securities Exchange Act of 1934.",
+    "subject": "CSFB and Salomon Smith Barney",
+    "predicate_type": "relates_to",
+    "object_text": "were alleged to have engaged in the inappropriate spinning of \"hot\" IPOs and issued fraudulent research reports in violation of various sections within the Securities Exchange Act of 1934",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A typical violation addressed by the settlement was the case of CSFB and Salomon Smith Barney, which were alleged to have engaged in the inappropriate spinning of \"hot\" IPOs and issued fraudulent research reports in violation of various sections within the Securities Exchange Act of 1934.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "ipo",
+      "fraud",
+      "research"
+    ],
+    "entities": [
+      "CSFB",
+      "Salomon Smith Barney"
+    ],
+    "regulations": [
+      "Securities Exchange Act of 1934"
+    ],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1a8b4983-f32e-4c04-877b-aa656e36b533",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "IPOs generally involve one or more investment banks known as \"underwriters\".",
+    "subject": "IPOs",
+    "predicate_type": "relates_to",
+    "object_text": "one or more investment banks known as \"underwriters\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "IPOs generally involve one or more investment banks known as \"underwriters\".",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "investment banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aaf9ca38-5809-40f8-bde4-f8cac5d9c6d2",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The company offering its shares is called the \"issuer\".",
+    "subject": "company offering its shares",
+    "predicate_type": "defines",
+    "object_text": "\"issuer\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The company offering its shares is called the \"issuer\".",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ba7f614-5239-4181-a802-eb486ffc23fc",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The company offering its shares, called the \"issuer\", enters into a contract with a lead underwriter to sell its shares to the public.",
+    "subject": "issuer",
+    "predicate_type": "relates_to",
+    "object_text": "contract with a lead underwriter to sell its shares to the public",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The company offering its shares, called the \"issuer\", enters into a contract with a lead underwriter to sell its shares to the public.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "lead underwriter"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd07c2c9-b0c7-4470-b97f-9c5a564dd5d0",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The underwriter then approaches investors with offers to sell those shares.",
+    "subject": "underwriter",
+    "predicate_type": "relates_to",
+    "object_text": "approaches investors with offers to sell those shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The underwriter then approaches investors with offers to sell those shares.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "investors"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "91c1de13-b05c-4700-ad5a-e2af622550c9",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A large IPO is usually underwritten by a \"syndicate\" of investment banks, the largest of which take the position of \"lead underwriter\".",
+    "subject": "large IPO",
+    "predicate_type": "relates_to",
+    "object_text": "underwritten by a \"syndicate\" of investment banks, the largest of which take the position of \"lead underwriter\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A large IPO is usually underwritten by a \"syndicate\" of investment banks, the largest of which take the position of \"lead underwriter\".",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "syndicate",
+      "investment banks",
+      "lead underwriter"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "812b50ef-f88e-4a82-ba97-290ede1ecb08",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Upon selling the shares, the underwriters retain a portion of the proceeds as their fee.",
+    "subject": "underwriters",
+    "predicate_type": "relates_to",
+    "object_text": "retain a portion of the proceeds as their fee",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Upon selling the shares, the underwriters retain a portion of the proceeds as their fee.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [
+      "shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a33c95ec-3f83-46bd-9241-cf4bbe2d6240",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "This fee is called an underwriting spread.",
+    "subject": "fee",
+    "predicate_type": "defines",
+    "object_text": "an underwriting spread",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This fee is called an underwriting spread.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1c122381-3ee6-41d3-8b61-91424d2e2b9d",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The spread is calculated as a discount from the price of the shares sold (called the gross spread).",
+    "subject": "spread",
+    "predicate_type": "relates_to",
+    "object_text": "calculated as a discount from the price of the shares sold (called the gross spread)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The spread is calculated as a discount from the price of the shares sold (called the gross spread).",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [
+      "shares"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "803055d5-9a34-4532-84e1-882dc746877b",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Components of an underwriting spread in an initial public offering (IPO) typically include the following (on a per-share basis): manager's fee, underwriting fee\u2014earned by members of the syndicate, and the concession\u2014earned by the broker-dealer selling the shares.",
+    "subject": "underwriting spread in an initial public offering (IPO)",
+    "predicate_type": "relates_to",
+    "object_text": "manager's fee, underwriting fee\u2014earned by members of the syndicate, and the concession\u2014earned by the broker-dealer selling the shares",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Components of an underwriting spread in an initial public offering (IPO) typically include the following (on a per-share basis): manager's fee, underwriting fee\u2014earned by members of the syndicate, and the concession\u2014earned by the broker-dealer selling the shares.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [
+      "manager's fee",
+      "underwriting fee",
+      "syndicate",
+      "concession",
+      "broker-dealer"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "460eef1b-2d29-47ae-a0cf-9dd08b139a89",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The manager would be entitled to the entire underwriting spread.",
+    "subject": "manager",
+    "predicate_type": "relates_to",
+    "object_text": "entitled to the entire underwriting spread",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The manager would be entitled to the entire underwriting spread.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [
+      "underwriting spread"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1225bfdb-f6ef-44cc-b87d-a18bbdc2f60d",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A member of the syndicate is entitled to the underwriting fee and the concession.",
+    "subject": "member of the syndicate",
+    "predicate_type": "relates_to",
+    "object_text": "entitled to the underwriting fee and the concession",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A member of the syndicate is entitled to the underwriting fee and the concession.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [
+      "underwriting fee",
+      "concession"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "58eac433-0d9c-456c-a4cc-a4aebd8593d6",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A broker-dealer who is not a member of the syndicate but sells shares would receive only the concession, while the member of the syndicate who provided the shares to that broker-dealer would retain the underwriting fee.",
+    "subject": "broker-dealer who is not a member of the syndicate but sells shares",
+    "predicate_type": "relates_to",
+    "object_text": "receive only the concession",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A broker-dealer who is not a member of the syndicate but sells shares would receive only the concession, while the member of the syndicate who provided the shares to that broker-dealer would retain the underwriting fee.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [
+      "concession",
+      "syndicate",
+      "shares",
+      "underwriting fee"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c2e0514b-335c-47ce-9856-14516ab27baf",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Usually, the managing/lead underwriter, also known as the bookrunner, typically the underwriter selling the largest proportions of the IPO, takes the highest portion of the gross spread, up to 8% in some cases.",
+    "subject": "managing/lead underwriter",
+    "predicate_type": "relates_to",
+    "object_text": "takes the highest portion of the gross spread, up to 8% in some cases",
+    "object_value": 8.0,
+    "object_unit": "%",
+    "source_text": "Usually, the managing/lead underwriter, also known as the bookrunner, typically the underwriter selling the largest proportions of the IPO, takes the highest portion of the gross spread, up to 8% in some cases.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [
+      "gross spread",
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "partial",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "327574a9-c17e-4692-aaa5-ffed726f85a4",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Multinational IPOs may have many syndicates to deal with differing legal requirements in both the issuer's domestic market and other regions.",
+    "subject": "Multinational IPOs",
+    "predicate_type": "relates_to",
+    "object_text": "may have many syndicates to deal with differing legal requirements in both the issuer's domestic market and other regions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Multinational IPOs may have many syndicates to deal with differing legal requirements in both the issuer's domestic market and other regions.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "syndicates"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67df6c6f-f435-4c22-a557-7440faa2a6a9",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Usually, the lead underwriter in the head selling group is also the lead bank in the other selling groups.",
+    "subject": "lead underwriter in the head selling group",
+    "predicate_type": "relates_to",
+    "object_text": "also the lead bank in the other selling groups",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Usually, the lead underwriter in the head selling group is also the lead bank in the other selling groups.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "underwriting"
+    ],
+    "entities": [
+      "lead bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "326870bb-3a3a-4ec6-9d2f-b32c4553e8cb",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Because of the wide array of legal requirements and because it is an expensive process, IPOs also typically involve one or more law firms with major practices in securities law, such as the Magic Circle firms of London and the white-shoe firms of New York City.",
+    "subject": "IPOs",
+    "predicate_type": "relates_to",
+    "object_text": "typically involve one or more law firms with major practices in securities law, such as the Magic Circle firms of London and the white-shoe firms of New York City",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Because of the wide array of legal requirements and because it is an expensive process, IPOs also typically involve one or more law firms with major practices in securities law, such as the Magic Circle firms of London and the white-shoe firms of New York City.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "law firms"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "26a77588-f32d-4ad5-be3b-78328d613acc",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Financial historians Richard Sylla and Robert E. Wright have shown that before 1860 most early U.S. corporations sold shares in themselves directly to the public without the aid of intermediaries like investment banks.",
+    "subject": "most early U.S. corporations",
+    "predicate_type": "relates_to",
+    "object_text": "sold shares in themselves directly to the public without the aid of intermediaries like investment banks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Financial historians Richard Sylla and Robert E. Wright have shown that before 1860 most early U.S. corporations sold shares in themselves directly to the public without the aid of intermediaries like investment banks.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "shares",
+      "investment banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "33db5b28-d477-41e4-bb8b-6b2c24ab1a41",
+    "chunk_id": "38365b51-63cf-4fe9-8762-681fc3ab69eb",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The direct public offering (DPO), as they term it, was",
+    "subject": "direct public offering (DPO)",
+    "predicate_type": "defines",
+    "object_text": "was",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The direct public offering (DPO), as they term it, was",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3cb95784-9e07-4655-a751-c5e210f5cda7",
+    "chunk_id": "27a5268e-d1a6-4675-80a3-c2f9c67005b9",
+    "document_id": "Initial_public_offering",
+    "claim_text": "From the viewpoint of the investor, the Dutch auction allows everyone equal access.",
+    "subject": "Dutch auction",
+    "predicate_type": "permits",
+    "object_text": "everyone equal access",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "From the viewpoint of the investor, the Dutch auction allows everyone equal access.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "investments"
+    ],
+    "entities": [
+      "Dutch auction"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "40ad4a1b-7d74-43b9-89ed-3b8a90af0972",
+    "chunk_id": "27a5268e-d1a6-4675-80a3-c2f9c67005b9",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Some forms of the Dutch auction allow the underwriter to be more active in coordinating bids and even communicating general auction trends to some bidders during the bidding period.",
+    "subject": "Dutch auction",
+    "predicate_type": "permits",
+    "object_text": "the underwriter to be more active in coordinating bids and even communicating general auction trends to some bidders during the bidding period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some forms of the Dutch auction allow the underwriter to be more active in coordinating bids and even communicating general auction trends to some bidders during the bidding period.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "investments"
+    ],
+    "entities": [
+      "Dutch auction"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "91266cd0-ca04-4f78-a0a2-b5b479be322a",
+    "chunk_id": "27a5268e-d1a6-4675-80a3-c2f9c67005b9",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Some have also argued that a uniform price auction is more effective at price discovery, although the theory behind this is based on the assumption of independent private values (that the value of IPO shares to each bidder is entirely independent of their value to others, even though the shares will shortly be traded on the aftermarket).",
+    "subject": "uniform price auction",
+    "predicate_type": "relates_to",
+    "object_text": "more effective at price discovery",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some have also argued that a uniform price auction is more effective at price discovery, although the theory behind this is based on the assumption of independent private values (that the value of IPO shares to each bidder is entirely independent of their value to others, even though the shares will shortly be traded on the aftermarket).",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "price_discovery"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "88895b6d-4d8a-46e4-a563-3c01a77376da",
+    "chunk_id": "27a5268e-d1a6-4675-80a3-c2f9c67005b9",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Theory that incorporates assumptions more appropriate to IPOs does not find that sealed bid auctions are an effective form of price discovery, although possibly some modified form of auction might give a better result.",
+    "subject": "sealed bid auctions",
+    "predicate_type": "relates_to",
+    "object_text": "not an effective form of price discovery",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Theory that incorporates assumptions more appropriate to IPOs does not find that sealed bid auctions are an effective form of price discovery, although possibly some modified form of auction might give a better result.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "price_discovery"
+    ],
+    "entities": [
+      "IPOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e67f3bbd-c09a-4247-9158-37917d379e2a",
+    "chunk_id": "27a5268e-d1a6-4675-80a3-c2f9c67005b9",
+    "document_id": "Initial_public_offering",
+    "claim_text": "In addition to the extensive international evidence that auctions have not been popular for IPOs, there is no U.S. evidence to indicate that the Dutch auction fares any better than the traditional IPO in an unwelcoming market environment.",
+    "subject": "Dutch auction",
+    "predicate_type": "relates_to",
+    "object_text": "does not fare any better than the traditional IPO in an unwelcoming market environment",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In addition to the extensive international evidence that auctions have not been popular for IPOs, there is no U.S. evidence to indicate that the Dutch auction fares any better than the traditional IPO in an unwelcoming market environment.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [
+      "Dutch auction",
+      "IPOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3ddc9d93-c34a-49db-a5af-8a8e83bea9f1",
+    "chunk_id": "27a5268e-d1a6-4675-80a3-c2f9c67005b9",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A Dutch auction IPO by WhiteGlove Health, Inc., announced in May 2011 was postponed in September of that year, after several failed attempts to price.",
+    "subject": "Dutch auction IPO by WhiteGlove Health, Inc.",
+    "predicate_type": "causes",
+    "object_text": "postponed in September of that year, after several failed attempts to price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A Dutch auction IPO by WhiteGlove Health, Inc., announced in May 2011 was postponed in September of that year, after several failed attempts to price.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "auctions",
+      "IPOs"
+    ],
+    "entities": [
+      "WhiteGlove Health, Inc.",
+      "Dutch auction IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "26cb52f3-37f8-4368-9993-82e5242db868",
+    "chunk_id": "27a5268e-d1a6-4675-80a3-c2f9c67005b9",
+    "document_id": "Initial_public_offering",
+    "claim_text": "An article in the Wall Street Journal cited the reasons as \"broader stock-market volatility and uncertainty about the global economy have made investors wary of investing in new stocks\".",
+    "subject": "article in the Wall Street Journal",
+    "predicate_type": "relates_to",
+    "object_text": "\"broader stock-market volatility and uncertainty about the global economy have made investors wary of investing in new stocks\"",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "An article in the Wall Street Journal cited the reasons as \"broader stock-market volatility and uncertainty about the global economy have made investors wary of investing in new stocks\".",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "stock_market",
+      "volatility",
+      "economy",
+      "investments"
+    ],
+    "entities": [
+      "Wall Street Journal"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3478ff76-bf58-446c-b982-af94679092c4",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A company planning an IPO typically appoints a lead manager, known as a bookrunner, to help it arrive at an appropriate price at which the shares should be offered.",
+    "subject": "company planning an IPO",
+    "predicate_type": "requires",
+    "object_text": "appointing a lead manager, known as a bookrunner, to help it arrive at an appropriate price at which the shares should be offered",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A company planning an IPO typically appoints a lead manager, known as a bookrunner, to help it arrive at an appropriate price at which the shares should be offered.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ec77d858-73d4-48ce-ace7-6b1c23fc1fc7",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "There are two primary ways in which the price of an IPO can be determined.",
+    "subject": "price of an IPO",
+    "predicate_type": "relates_to",
+    "object_text": "two primary ways in which it can be determined",
+    "object_value": 2.0,
+    "object_unit": null,
+    "source_text": "There are two primary ways in which the price of an IPO can be determined.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f70162a3-6e3b-41c6-9bfb-6bef0acbbc0a",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The company, with the help of its lead managers, fixes a price (fixed price method).",
+    "subject": "company",
+    "predicate_type": "implements",
+    "object_text": "fixes a price (fixed price method)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The company, with the help of its lead managers, fixes a price (fixed price method).",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1c675132-ca48-445b-b7be-0c176362e711",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The price can be determined through analysis of confidential investor demand data compiled by the bookrunner (book building).",
+    "subject": "price",
+    "predicate_type": "implements",
+    "object_text": "can be determined through analysis of confidential investor demand data compiled by the bookrunner (book building)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The price can be determined through analysis of confidential investor demand data compiled by the bookrunner (book building).",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9aa59cad-78dd-42af-a0a5-4a3c1ca51023",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Historically, many IPOs have been underpriced.",
+    "subject": "IPOs",
+    "predicate_type": "relates_to",
+    "object_text": "have been underpriced",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Historically, many IPOs have been underpriced.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "IPOs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1e89a5f4-ccfe-4c97-820e-05adbdfea0de",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The effect of underpricing an IPO is to generate additional interest in the stock and a rapid rise in share price when it first becomes publicly traded (known as an IPO pop).",
+    "subject": "underpricing an IPO",
+    "predicate_type": "causes",
+    "object_text": "generate additional interest in the stock and a rapid rise in share price when it first becomes publicly traded (known as an IPO pop)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The effect of underpricing an IPO is to generate additional interest in the stock and a rapid rise in share price when it first becomes publicly traded (known as an IPO pop).",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "014dd3d0-13ab-44fa-b104-02ee96727c8b",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Flipping, or quickly selling shares for a profit, can lead to significant gains for investors who were allocated shares of the IPO at the offering price.",
+    "subject": "Flipping, or quickly selling shares for a profit",
+    "predicate_type": "causes",
+    "object_text": "significant gains for investors who were allocated shares of the IPO at the offering price",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Flipping, or quickly selling shares for a profit, can lead to significant gains for investors who were allocated shares of the IPO at the offering price.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "434cac91-7f32-4c83-bab7-2752c007369a",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Underpricing an IPO results in lost potential capital for the issuer.",
+    "subject": "underpricing an IPO",
+    "predicate_type": "causes",
+    "object_text": "lost potential capital for the issuer",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Underpricing an IPO results in lost potential capital for the issuer.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aa2029a8-6887-4fe0-bffc-5267f729da06",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "theglobe.com IPO was priced at $9 per share.",
+    "subject": "theglobe.com IPO",
+    "predicate_type": "relates_to",
+    "object_text": "priced at $9 per share",
+    "object_value": 9.0,
+    "object_unit": "$",
+    "source_text": "theglobe.com IPO was priced at $9 per share.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "theglobe.com",
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "12985194-2a66-4a9a-8a8b-98745f6e3a00",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The share price quickly increased 1,000% on the opening day of trading, to a high of $97.",
+    "subject": "share price",
+    "predicate_type": "relates_to",
+    "object_text": "quickly increased 1,000% on the opening day of trading, to a high of $97",
+    "object_value": 1000.0,
+    "object_unit": "%",
+    "source_text": "The share price quickly increased 1,000% on the opening day of trading, to a high of $97.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c7cc7760-3fdc-4d39-a88c-89ef485d5f8b",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Selling pressure from institutional flipping eventually drove the stock back down, and it closed the day at $63.",
+    "subject": "Selling pressure from institutional flipping",
+    "predicate_type": "causes",
+    "object_text": "drove the stock back down, and it closed the day at $63",
+    "object_value": 63.0,
+    "object_unit": "$",
+    "source_text": "Selling pressure from institutional flipping eventually drove the stock back down, and it closed the day at $63.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "45174af2-db24-47e9-bada-665f2c185b70",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Although the company did raise about $30 million from the offering, it is estimated that with the level of demand for the offering and the volume of trading that took place they might have left upwards of $200 million on the table.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "did raise about $30 million from the offering",
+    "object_value": 30.0,
+    "object_unit": "million $",
+    "source_text": "Although the company did raise about $30 million from the offering, it is estimated that with the level of demand for the offering and the volume of trading that took place they might have left upwards of $200 million on the table.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f9e525f8-0703-432c-9f84-0cac6a5ba2a3",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "with the level of demand for the offering and the volume of trading that took place they might have left upwards of $200 million on the table.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "might have left upwards of $200 million on the table",
+    "object_value": 200.0,
+    "object_unit": "million $",
+    "source_text": "with the level of demand for the offering and the volume of trading that took place they might have left upwards of $200 million on the table.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "112a36a0-d224-473f-ac34-abbf32248780",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "If a stock is offered to the public at a higher price than the market will pay, the underwriters may have trouble meeting their commitments to sell shares.",
+    "subject": "underwriters",
+    "predicate_type": "relates_to",
+    "object_text": "may have trouble meeting their commitments to sell shares if a stock is offered to the public at a higher price than the market will pay",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a stock is offered to the public at a higher price than the market will pay, the underwriters may have trouble meeting their commitments to sell shares.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5ab7f53b-54e4-430e-8709-2d09e75f3b88",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Even if they sell all of the issued shares, the stock may fall in value on the first day of trading.",
+    "subject": "stock",
+    "predicate_type": "relates_to",
+    "object_text": "may fall in value on the first day of trading",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Even if they sell all of the issued shares, the stock may fall in value on the first day of trading.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "60aa4655-87a0-40c9-864b-5998e341a531",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "If so, the stock may lose its marketability and hence even more of its value.",
+    "subject": "stock",
+    "predicate_type": "causes",
+    "object_text": "may lose its marketability and hence even more of its value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If so, the stock may lose its marketability and hence even more of its value.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ea68117a-ce87-472a-8e38-38314032a173",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "This could result in losses for investors, many of whom being the most favored clients of the underwriters.",
+    "subject": "This",
+    "predicate_type": "causes",
+    "object_text": "losses for investors, many of whom being the most favored clients of the underwriters",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This could result in losses for investors, many of whom being the most favored clients of the underwriters.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3691a4d5-6332-454f-b080-44e98878b518",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Perhaps the best-known example of this is the Facebook IPO in 2012.",
+    "subject": "Facebook IPO",
+    "predicate_type": "relates_to",
+    "object_text": "best-known example of this in 2012",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Perhaps the best-known example of this is the Facebook IPO in 2012.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "Facebook",
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2f6e4a48-be24-4911-90bd-c9b706a29aba",
+    "chunk_id": "a33e597a-ae17-4d0c-bf21-49be4b46108d",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Underwriters, therefore, take many factors into consideration when pricing an IPO, and attempt to reach an offering price that is low enough to stimulate interest in the stock but high enough",
+    "subject": "Underwriters",
+    "predicate_type": "relates_to",
+    "object_text": "take many factors into consideration when pricing an IPO, and attempt to reach an offering price that is low enough to stimulate interest in the stock but high enough",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Underwriters, therefore, take many factors into consideration when pricing an IPO, and attempt to reach an offering price that is low enough to stimulate interest in the stock but high enough",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62fb1c98-9e00-4860-b644-7318329d2726",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The sale (allocation and pricing) of shares in an IPO may take several forms.",
+    "subject": "sale of shares in an IPO",
+    "predicate_type": "relates_to",
+    "object_text": "may take several forms",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The sale (allocation and pricing) of shares in an IPO may take several forms.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fe8ec1b2-44d4-4cec-9973-38d3159b2f3a",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Common methods include Best efforts contract, Firm commitment contract, All-or-none contract, and Bought deal.",
+    "subject": "methods of sale of shares in an IPO",
+    "predicate_type": "classifies",
+    "object_text": "Best efforts contract, Firm commitment contract, All-or-none contract, and Bought deal",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Common methods include Best efforts contract, Firm commitment contract, All-or-none contract, and Bought deal.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [
+      "IPO"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "df745cea-2abc-4fc6-9982-f6b1da96b5ca",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Public offerings are sold to both institutional investors and retail clients of the underwriters.",
+    "subject": "Public offerings",
+    "predicate_type": "relates_to",
+    "object_text": "sold to both institutional investors and retail clients of the underwriters",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Public offerings are sold to both institutional investors and retail clients of the underwriters.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "532516ca-345b-4349-b60e-d5328c7aac58",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "A licensed securities salesperson selling shares of a public offering to their clients is paid a portion of the selling concession rather than by their client.",
+    "subject": "licensed securities salesperson",
+    "predicate_type": "relates_to",
+    "object_text": "paid a portion of the selling concession rather than by their client",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A licensed securities salesperson selling shares of a public offering to their clients is paid a portion of the selling concession rather than by their client.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "compensation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "081e573e-402d-494e-a243-7fd627c9c4f6",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The issuer usually allows the underwriters an option to increase the size of the offering by up to 15% under a specific circumstance known as the greenshoe or overallotment option.",
+    "subject": "issuer",
+    "predicate_type": "permits",
+    "object_text": "underwriters an option to increase the size of the offering by up to 15% under a specific circumstance known as the greenshoe or overallotment option",
+    "object_value": 15.0,
+    "object_unit": "%",
+    "source_text": "The issuer usually allows the underwriters an option to increase the size of the offering by up to 15% under a specific circumstance known as the greenshoe or overallotment option.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "greenshoe option"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0f15a394-a983-4f9a-969a-e1e755daaf14",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "This option is always exercised when the offering is considered a \"hot\" issue, by virtue of being oversubscribed.",
+    "subject": "greenshoe or overallotment option",
+    "predicate_type": "requires",
+    "object_text": "always exercised when the offering is considered a \"hot\" issue, by virtue of being oversubscribed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This option is always exercised when the offering is considered a \"hot\" issue, by virtue of being oversubscribed.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "greenshoe option"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6ab5760a-ac81-4c23-af19-a0d69ccc5b26",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "In the US, clients are given a preliminary prospectus, known as a red herring prospectus, during the initial quiet period.",
+    "subject": "clients",
+    "predicate_type": "relates_to",
+    "object_text": "given a preliminary prospectus, known as a red herring prospectus, during the initial quiet period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the US, clients are given a preliminary prospectus, known as a red herring prospectus, during the initial quiet period.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "red herring prospectus"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62234583-46b1-498a-805c-18dcc7141a88",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The red herring prospectus is so named because of a bold red warning statement printed on its front cover.",
+    "subject": "red herring prospectus",
+    "predicate_type": "defines",
+    "object_text": "so named because of a bold red warning statement printed on its front cover",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The red herring prospectus is so named because of a bold red warning statement printed on its front cover.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "red herring prospectus"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "621362b8-d208-4383-ba34-cc2aee7c5259",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The warning states that the offering information is incomplete, and may be changed.",
+    "subject": "warning on red herring prospectus",
+    "predicate_type": "relates_to",
+    "object_text": "states that the offering information is incomplete, and may be changed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The warning states that the offering information is incomplete, and may be changed.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "red herring prospectus"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dd946039-073b-45d7-a199-06c5418a0f5c",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "During the quiet period, the shares cannot be offered for sale.",
+    "subject": "shares",
+    "predicate_type": "prohibits",
+    "object_text": "cannot be offered for sale during the quiet period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "During the quiet period, the shares cannot be offered for sale.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "quiet period"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a7eabd4f-7ec4-45e4-aa72-e9147d946c23",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Brokers can, however, take indications of interest from their clients during the quiet period.",
+    "subject": "brokers",
+    "predicate_type": "permits",
+    "object_text": "take indications of interest from their clients during the quiet period",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Brokers can, however, take indications of interest from their clients during the quiet period.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "quiet period"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "62a263be-54fb-4112-a713-9d5cf4eaef51",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "At the time of the stock launch, after the Registration Statement has become effective, indications of interest can be converted to buy orders, at the discretion of the buyer.",
+    "subject": "indications of interest",
+    "predicate_type": "permits",
+    "object_text": "can be converted to buy orders, at the discretion of the buyer",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "At the time of the stock launch, after the Registration Statement has become effective, indications of interest can be converted to buy orders, at the discretion of the buyer.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "registration statement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "35c05636-6090-4158-b3e5-6e184de0f148",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "Sales can only be made through a final prospectus cleared by the Securities and Exchange Commission.",
+    "subject": "Sales",
+    "predicate_type": "requires",
+    "object_text": "only be made through a final prospectus cleared by the Securities and Exchange Commission",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Sales can only be made through a final prospectus cleared by the Securities and Exchange Commission.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "prospectus"
+    ],
+    "entities": [
+      "Securities and Exchange Commission"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3c63125f-4158-4856-98b6-60c547b461e5",
+    "chunk_id": "76c1b2e5-212c-41e5-b2b1-ee8648719814",
+    "document_id": "Initial_public_offering",
+    "claim_text": "The final step in preparing and filing the final IPO prospectus is for the issuer to retain one of the major financial \"printers\", who print (and today, also electronically file with the SEC) the registration statement on Form S-1.",
+    "subject": "issuer",
+    "predicate_type": "requires",
+    "object_text": "retain one of the major financial \"printers\", who print (and today, also electronically file with the SEC) the registration statement on Form S-1",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The final step in preparing and filing the final IPO prospectus is for the issuer to retain one of the major financial \"printers\", who print (and today, also electronically file with the SEC) the registration statement on Form S-1.",
+    "source_document": "Initial public offering",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "initial public offering",
+      "prospectus",
+      "registration statement"
+    ],
+    "entities": [
+      "SEC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  }
+]

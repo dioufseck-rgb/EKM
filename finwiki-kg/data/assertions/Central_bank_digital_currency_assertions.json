@@ -1,0 +1,4860 @@
+[
+  {
+    "assertion_id": "b9b2b7ab-1e24-452f-a9f6-0a7fefa3ab8c",
+    "chunk_id": "36ad5ead-5789-4467-8dab-9f8f7fb1c5a4",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Dissidents and activists could see their wallets emptied or taken offline.",
+    "subject": "dissidents and activists",
+    "predicate_type": "causes",
+    "object_text": "their wallets emptied or taken offline",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dissidents and activists could see their wallets emptied or taken offline.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "privacy",
+      "digital currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "684c5b12-059b-43b5-a703-c3eddf41605f",
+    "chunk_id": "36ad5ead-5789-4467-8dab-9f8f7fb1c5a4",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital currencies could also empower the state to make it impossible to donate to a vocal NGO",
+    "subject": "digital currencies",
+    "predicate_type": "causes",
+    "object_text": "empower the state to make it impossible to donate to a vocal NGO",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital currencies could also empower the state to make it impossible to donate to a vocal NGO",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "privacy",
+      "digital currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "2a1c1d23-7939-4727-b146-7ba4f2e83aaa",
+    "chunk_id": "36ad5ead-5789-4467-8dab-9f8f7fb1c5a4",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital currency could prohibit a purchase alcohol on a weekday.",
+    "subject": "digital currency",
+    "predicate_type": "prohibits",
+    "object_text": "purchase alcohol on a weekday",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital currency could prohibit a purchase alcohol on a weekday.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "digital currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "38329cc4-1098-4f2c-9130-f5a69540eb43",
+    "chunk_id": "36ad5ead-5789-4467-8dab-9f8f7fb1c5a4",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital currency is also programmable.",
+    "subject": "digital currency",
+    "predicate_type": "defines",
+    "object_text": "programmable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital currency is also programmable.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "digital currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "88566a77-10fd-4b4d-8b14-b5fec39dc687",
+    "chunk_id": "36ad5ead-5789-4467-8dab-9f8f7fb1c5a4",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The government could theoretically give out money that expires within a certain period of time or money that could only be used on certain items, which could be used to induce behaviour that the government is seeking.",
+    "subject": "government",
+    "predicate_type": "causes",
+    "object_text": "give out money that expires within a certain period of time or money that could only be used on certain items, which could be used to induce behaviour that the government is seeking",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The government could theoretically give out money that expires within a certain period of time or money that could only be used on certain items, which could be used to induce behaviour that the government is seeking.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "digital currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "3f8a4306-010a-4601-8b03-a77aab896479",
+    "chunk_id": "36ad5ead-5789-4467-8dab-9f8f7fb1c5a4",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "CBDCs inherently expand government control, conflict with American privacy norms, and, in his view, regulated stablecoins can provide similar digital benefits with stronger privacy protections, leading him to oppose adopting a CBDC.",
+    "subject": "CBDCs",
+    "predicate_type": "causes",
+    "object_text": "inherently expand government control",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CBDCs inherently expand government control, conflict with American privacy norms, and, in his view, regulated stablecoins can provide similar digital benefits with stronger privacy protections, leading him to oppose adopting a CBDC.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "digital currency",
+      "privacy"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "773dd234-6782-4c27-bfe8-995c04ffcf98",
+    "chunk_id": "36ad5ead-5789-4467-8dab-9f8f7fb1c5a4",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Regulated stablecoins can provide similar digital benefits with stronger privacy protections.",
+    "subject": "regulated stablecoins",
+    "predicate_type": "causes",
+    "object_text": "provide similar digital benefits with stronger privacy protections",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Regulated stablecoins can provide similar digital benefits with stronger privacy protections.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "digital currency",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "99a89a0b-b2df-437a-ab99-dd9326b4516c",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A CBDC is a digital counterpart to fiat money, issued by central banks, unless it is dividend-yielding.",
+    "subject": "CBDC",
+    "predicate_type": "defines",
+    "object_text": "digital counterpart to fiat money, issued by central banks, unless it is dividend-yielding",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A CBDC is a digital counterpart to fiat money, issued by central banks, unless it is dividend-yielding.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "cd269e74-74b9-4752-bad3-fa88c3bbdb22",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "If a CBDC is dividend-yielding, then it is an ownership stake in the central bank and a new form of legal tender.",
+    "subject": "CBDC",
+    "predicate_type": "defines",
+    "object_text": "an ownership stake in the central bank and a new form of legal tender",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a CBDC is dividend-yielding, then it is an ownership stake in the central bank and a new form of legal tender.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0bf693be-a155-4843-99c6-42eb81c063ca",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Like paper banknotes, a CBDC is a means of payment, a unit of account, and a store of value.",
+    "subject": "CBDC",
+    "predicate_type": "defines",
+    "object_text": "a means of payment, a unit of account, and a store of value",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Like paper banknotes, a CBDC is a means of payment, a unit of account, and a store of value.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "bd829bc7-b8c6-4f3e-b7f5-8ff6a958c34e",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Like paper currency, each unit of CBDC is uniquely identifiable to prevent counterfeiting.",
+    "subject": "unit of CBDC",
+    "predicate_type": "relates_to",
+    "object_text": "uniquely identifiable to prevent counterfeiting",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Like paper currency, each unit of CBDC is uniquely identifiable to prevent counterfeiting.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency",
+      "counterfeiting"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "508153d4-09aa-4903-918e-acedfed56899",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital fiat currency is part of the base money supply, together with other forms of the currency.",
+    "subject": "Digital fiat currency",
+    "predicate_type": "relates_to",
+    "object_text": "part of the base money supply, together with other forms of the currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital fiat currency is part of the base money supply, together with other forms of the currency.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency",
+      "money supply"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "9b9a1429-f9bf-44a9-a831-834cd8608043",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "DFC is a liability of the central bank just as physical currency is.",
+    "subject": "DFC",
+    "predicate_type": "relates_to",
+    "object_text": "a liability of the central bank just as physical currency is",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "DFC is a liability of the central bank just as physical currency is.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency",
+      "liabilities"
+    ],
+    "entities": [
+      "DFC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "817e5d94-cdac-4a97-8724-e21fa62fca94",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "It is a digital bearer instrument that can be stored, transferred and transmitted by all kinds of digital payment systems and services.",
+    "subject": "digital fiat currency",
+    "predicate_type": "relates_to",
+    "object_text": "a digital bearer instrument that can be stored, transferred and transmitted by all kinds of digital payment systems and services",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is a digital bearer instrument that can be stored, transferred and transmitted by all kinds of digital payment systems and services.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency",
+      "payment systems"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "f46c4c38-0dc4-4d5c-93d6-ae1e1b3de2ba",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The validity of the digital fiat currency is independent of the digital payment systems storing and transferring the digital fiat currency.",
+    "subject": "validity of the digital fiat currency",
+    "predicate_type": "relates_to",
+    "object_text": "independent of the digital payment systems storing and transferring the digital fiat currency",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The validity of the digital fiat currency is independent of the digital payment systems storing and transferring the digital fiat currency.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency",
+      "payment systems"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "a95e9760-89b8-4a8b-81d1-90792227961f",
+    "chunk_id": "454dc912-2ddd-4520-9024-d14ae5ed7d75",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Proposals for CBDC implementation often involve the provision of universal bank accounts at the central banks for all citizens.",
+    "subject": "Proposals for CBDC implementation",
+    "predicate_type": "relates_to",
+    "object_text": "often involve the provision of universal bank accounts at the central banks for all citizens",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Proposals for CBDC implementation often involve the provision of universal bank accounts at the central banks for all citizens.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency",
+      "bank accounts"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d4e1b80e-b22f-4e5b-a3cb-2a5c07f9794c",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Governments and central banks are studying CBDCs and their implications for financial inclusion, economic growth, technology innovation, and the efficiency of bank transactions.",
+    "subject": "Governments and central banks",
+    "predicate_type": "relates_to",
+    "object_text": "CBDCs and their implications for financial inclusion, economic growth, technology innovation, and the efficiency of bank transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Governments and central banks are studying CBDCs and their implications for financial inclusion, economic growth, technology innovation, and the efficiency of bank transactions.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "financial inclusion",
+      "economic growth",
+      "technology innovation",
+      "bank transactions"
+    ],
+    "entities": [
+      "CBDCs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "60aeda13-70eb-49dd-83de-fd03ee39e79b",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "CBDCs have also been discussed as a mechanism to preserve public access to central bank money in an increasingly digital economy and to maintain trust in the monetary system.",
+    "subject": "CBDCs",
+    "predicate_type": "relates_to",
+    "object_text": "a mechanism to preserve public access to central bank money in an increasingly digital economy and to maintain trust in the monetary system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CBDCs have also been discussed as a mechanism to preserve public access to central bank money in an increasingly digital economy and to maintain trust in the monetary system.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "digital economy",
+      "monetary system"
+    ],
+    "entities": [
+      "CBDCs"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3d75565c-ad8f-4ae1-a043-abd1cd133c5a",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Instead of relying on intermediaries such as banks and clearing houses, money transfers and payments could be made in real time, directly from the payer to the payee.",
+    "subject": "money transfers and payments",
+    "predicate_type": "relates_to",
+    "object_text": "made in real time, directly from the payer to the payee instead of relying on intermediaries such as banks and clearing houses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Instead of relying on intermediaries such as banks and clearing houses, money transfers and payments could be made in real time, directly from the payer to the payee.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment systems"
+    ],
+    "entities": [
+      "banks",
+      "clearing houses"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5e31bab1-eeff-4569-83dd-a224402aea64",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Being real time has some advantages.",
+    "subject": "Being real time",
+    "predicate_type": "relates_to",
+    "object_text": "has some advantages",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Being real time has some advantages.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1eb66014-e32f-4b36-8016-6985ea266df8",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Payment for goods and services often needs to be done in a timely manner and when payment verification is slow, merchants usually accept the risk of some payments not succeeding in exchange for faster service to customers.",
+    "subject": "merchants",
+    "predicate_type": "relates_to",
+    "object_text": "usually accept the risk of some payments not succeeding in exchange for faster service to customers when payment verification is slow",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Payment for goods and services often needs to be done in a timely manner and when payment verification is slow, merchants usually accept the risk of some payments not succeeding in exchange for faster service to customers.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment verification"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "265987a0-2901-436d-8f48-27bc17506130",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "When these risks are eliminated with instant payment verifications, merchants no longer need to use intermediaries to handle the risk or to absorb the risk cost themselves.",
+    "subject": "merchants",
+    "predicate_type": "relates_to",
+    "object_text": "no longer need to use intermediaries to handle the risk or to absorb the risk cost themselves when these risks are eliminated with instant payment verifications",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "When these risks are eliminated with instant payment verifications, merchants no longer need to use intermediaries to handle the risk or to absorb the risk cost themselves.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment verification"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0a75c23-0209-41c2-83ad-21d1d2764f51",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Merchants will not need to separately keep track of transactions that are slow (where the customer claims to have paid but the money has not arrived yet), therefore eliminate the waiting queue, which could simplify the transaction process from payment to rendition of goods/services.",
+    "subject": "Merchants",
+    "predicate_type": "relates_to",
+    "object_text": "will not need to separately keep track of transactions that are slow (where the customer claims to have paid but the money has not arrived yet), therefore eliminate the waiting queue, which could simplify the transaction process from payment to rendition of goods/services",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Merchants will not need to separately keep track of transactions that are slow (where the customer claims to have paid but the money has not arrived yet), therefore eliminate the waiting queue, which could simplify the transaction process from payment to rendition of goods/services.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment verification"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "67c6c4ca-d9e9-4a1e-aabb-cc2d70b9766d",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Current payment systems like Visa, Mastercard, American Express etc. have a fee attached to each transaction and lowering or eliminating these fees could lead to widespread price drops and increased adoption of digital payments.",
+    "subject": "Current payment systems like Visa, Mastercard, American Express etc.",
+    "predicate_type": "relates_to",
+    "object_text": "have a fee attached to each transaction and lowering or eliminating these fees could lead to widespread price drops and increased adoption of digital payments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Current payment systems like Visa, Mastercard, American Express etc. have a fee attached to each transaction and lowering or eliminating these fees could lead to widespread price drops and increased adoption of digital payments.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "payment systems",
+      "digital payments"
+    ],
+    "entities": [
+      "Visa",
+      "Mastercard",
+      "American Express"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f883cb8b-ed9b-429d-b0dd-aea8d1327d35",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Safe money accounts at the central banks could constitute a strong instrument of financial inclusion, allowing any legal resident or citizen to be provided with a free or low-cost basic bank account.",
+    "subject": "Safe money accounts at the central banks",
+    "predicate_type": "relates_to",
+    "object_text": "could constitute a strong instrument of financial inclusion, allowing any legal resident or citizen to be provided with a free or low-cost basic bank account",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Safe money accounts at the central banks could constitute a strong instrument of financial inclusion, allowing any legal resident or citizen to be provided with a free or low-cost basic bank account.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial inclusion"
+    ],
+    "entities": [
+      "central banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ee7b7e7b-cf29-4493-bc9e-e78f94224b82",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A CBDC makes it feasible for a central bank to keep track of the exact location of every unit of the currency (assuming the more probable centralized, database form)",
+    "subject": "A CBDC",
+    "predicate_type": "permits",
+    "object_text": "a central bank to keep track of the exact location of every unit of the currency (assuming the more probable centralized, database form)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A CBDC makes it feasible for a central bank to keep track of the exact location of every unit of the currency (assuming the more probable centralized, database form)",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC"
+    ],
+    "entities": [
+      "central bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "00310940-bde4-41f2-9d1e-29591f72e53d",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "It makes tax avoidance and tax evasion much more difficult, since it would become impossible to use methods such as offshore banking and unreported employment to hide financial activity from the central bank or government.",
+    "subject": "It",
+    "predicate_type": "relates_to",
+    "object_text": "makes tax avoidance and tax evasion much more difficult, since it would become impossible to use methods such as offshore banking and unreported employment to hide financial activity from the central bank or government",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It makes tax avoidance and tax evasion much more difficult, since it would become impossible to use methods such as offshore banking and unreported employment to hide financial activity from the central bank or government.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax avoidance",
+      "tax evasion"
+    ],
+    "entities": [
+      "central bank",
+      "government"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "28d670a4-b61e-4356-81f4-95bdb473fb9f",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "In contrast, cryptocurrencies risk undermining effort to crack down on corporate tax avoidance.",
+    "subject": "cryptocurrencies",
+    "predicate_type": "causes",
+    "object_text": "undermining effort to crack down on corporate tax avoidance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In contrast, cryptocurrencies risk undermining effort to crack down on corporate tax avoidance.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "tax avoidance"
+    ],
+    "entities": [
+      "cryptocurrencies"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ee0f1ca4-23c2-44d7-9e35-5671a31f6ca2",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "It makes it much easier to spot criminal activity (by observing financial activity), and thus put an end to it.",
+    "subject": "It",
+    "predicate_type": "relates_to",
+    "object_text": "makes it much easier to spot criminal activity (by observing financial activity), and thus put an end to it",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It makes it much easier to spot criminal activity (by observing financial activity), and thus put an end to it.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "criminal activity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3f2f0a3e-cb55-4c2e-9879-76904b98840c",
+    "chunk_id": "12ade298-f7b1-4ee7-ac19-fc84bad0a3f8",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Furthermore, in cases where criminal activity has already occurred, tracking makes it much harder to successfully launder money, and it",
+    "subject": "tracking",
+    "predicate_type": "relates_to",
+    "object_text": "makes it much harder to successfully launder money, in cases where criminal activity has already occurred",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Furthermore, in cases where criminal activity has already occurred, tracking makes it much harder to successfully launder money, and it",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "criminal activity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3bde9a68-1894-4266-bf72-ee5308b6533e",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "It makes it much easier to spot criminal activity by observing financial activity.",
+    "subject": "CBDC",
+    "predicate_type": "causes",
+    "object_text": "easier to spot criminal activity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It makes it much easier to spot criminal activity by observing financial activity.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "crime",
+      "CBDC"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "5623eac8-d7e8-4e85-bab1-5d7a1ea64c50",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Tracking makes it much harder to successfully launder money.",
+    "subject": "CBDC",
+    "predicate_type": "causes",
+    "object_text": "harder to successfully launder money",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Tracking makes it much harder to successfully launder money.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "money laundering",
+      "crime",
+      "CBDC"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "ba43d298-0138-4519-a0ec-4c607015c7c5",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "It would often be straightforward to instantly reverse a transaction and return money to the victim of the crime.",
+    "subject": "CBDC",
+    "predicate_type": "permits",
+    "object_text": "straightforward to instantly reverse a transaction and return money to the victim of the crime",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It would often be straightforward to instantly reverse a transaction and return money to the victim of the crime.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "crime",
+      "CBDC"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "769f90d2-996a-4d10-863e-70cdc7a6bded",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A digital record exists to prove that money changed hands between two parties which avoids problems inherent to cash such as short-changing, cash theft and conflicting testimonies.",
+    "subject": "CBDC",
+    "predicate_type": "implements",
+    "object_text": "digital record to prove that money changed hands between two parties which avoids problems inherent to cash such as short-changing, cash theft and conflicting testimonies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A digital record exists to prove that money changed hands between two parties which avoids problems inherent to cash such as short-changing, cash theft and conflicting testimonies.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "cash"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "c3fd9d7b-d1a6-4c62-9ffe-5688f693051e",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital currencies issued by central banks would provide a modern alternative to physical cash.",
+    "subject": "digital currencies issued by central banks",
+    "predicate_type": "implements",
+    "object_text": "modern alternative to physical cash",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital currencies issued by central banks would provide a modern alternative to physical cash.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "cash"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "228b23a7-75fa-4b2d-b045-2a370cac87c5",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A secure and standard interoperable digital payment instrument issued and governed by a Central Bank and used as the national digital payment instruments boosts confidence in privately controlled money systems and increases trust in the entire national payment system while also boosting competition in payment systems.",
+    "subject": "secure and standard interoperable digital payment instrument issued and governed by a Central Bank and used as the national digital payment instruments",
+    "predicate_type": "causes",
+    "object_text": "boosts confidence in privately controlled money systems and increases trust in the entire national payment system while also boosting competition in payment systems",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A secure and standard interoperable digital payment instrument issued and governed by a Central Bank and used as the national digital payment instruments boosts confidence in privately controlled money systems and increases trust in the entire national payment system while also boosting competition in payment systems.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "payment systems"
+    ],
+    "entities": [
+      "Central Bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "ed2f325a-5d3b-423b-aec3-edf1558b97b6",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Public digital currency issuance would avoid a predictable reduction of seigniorage income for governments in the event of a disappearance of physical cash.",
+    "subject": "Public digital currency issuance",
+    "predicate_type": "causes",
+    "object_text": "avoid a predictable reduction of seigniorage income for governments in the event of a disappearance of physical cash",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Public digital currency issuance would avoid a predictable reduction of seigniorage income for governments in the event of a disappearance of physical cash.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "seigniorage",
+      "cash"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "f6e740cb-0db8-4551-8ea9-97f10bbecafb",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The provision of free bank accounts at the central bank offering complete safety of money deposits could strengthen competition between banks to attract bank deposits, for example by offering once again remunerated sight deposits.",
+    "subject": "provision of free bank accounts at the central bank offering complete safety of money deposits",
+    "predicate_type": "causes",
+    "object_text": "strengthen competition between banks to attract bank deposits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The provision of free bank accounts at the central bank offering complete safety of money deposits could strengthen competition between banks to attract bank deposits, for example by offering once again remunerated sight deposits.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "banking competition"
+    ],
+    "entities": [
+      "central bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "eec13861-3a3d-433f-b693-e6d23c8b505d",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The issuance of central bank base money through transfers to the public could constitute a new channel for monetary policy transmission which would allow more direct control of the money supply than indirect tools such as quantitative easing and interest rates, and possibly lead the way towards a full reserve banking system.",
+    "subject": "issuance of central bank base money through transfers to the public",
+    "predicate_type": "implements",
+    "object_text": "new channel for monetary policy transmission which would allow more direct control of the money supply than indirect tools such as quantitative easing and interest rates, and possibly lead the way towards a full reserve banking system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The issuance of central bank base money through transfers to the public could constitute a new channel for monetary policy transmission which would allow more direct control of the money supply than indirect tools such as quantitative easing and interest rates, and possibly lead the way towards a full reserve banking system.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "monetary policy"
+    ],
+    "entities": [
+      "central bank"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "25f5b560-bf9e-4f1a-adc3-737710923f05",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "In the end, 90% of vouchers were spent in shops.",
+    "subject": "vouchers",
+    "predicate_type": "relates_to",
+    "object_text": "90% were spent in shops",
+    "object_value": 90.0,
+    "object_unit": "%",
+    "source_text": "In the end, 90% of vouchers were spent in shops.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC"
+    ],
+    "entities": [
+      "digital Yuan"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ca22eef4-9075-4420-897f-2c90729ee66e",
+    "chunk_id": "b7a1ba10-cc50-4765-b89a-0bdddd8a613d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "CBDC would provide an alternative to fractional reserve banking for daily uses, for those who want to avoid all risk of bank runs, despite the relative safety provided by deposit insurance.",
+    "subject": "CBDC",
+    "predicate_type": "implements",
+    "object_text": "alternative to fractional reserve banking for daily uses, for those who want to avoid all risk of bank runs, despite the relative safety provided by deposit insurance",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CBDC would provide an alternative to fractional reserve banking for daily uses, for those who want to avoid all risk of bank runs, despite the relative safety provided by deposit insurance.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "banking"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "implicit",
+      "source": "inferred"
+    }
+  },
+  {
+    "assertion_id": "4503f424-67bd-4c24-92ba-7bea801f6d5b",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Six central banks have launched a CBDC: the Central Bank of The Bahamas (Sand Dollar), the Eastern Caribbean Central Bank (DCash), the Central Bank of Nigeria (e-Naira), the Bank of Jamaica (JamDex), People's Bank of China (Digital renminbi), the Reserve Bank of India (Digital Rupee), and Bank of Russia (Digital Ruble).",
+    "subject": "Six central banks",
+    "predicate_type": "implements",
+    "object_text": "launched a CBDC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Six central banks have launched a CBDC: the Central Bank of The Bahamas (Sand Dollar), the Eastern Caribbean Central Bank (DCash), the Central Bank of Nigeria (e-Naira), the Bank of Jamaica (JamDex), People's Bank of China (Digital renminbi), the Reserve Bank of India (Digital Rupee), and Bank of Russia (Digital Ruble).",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "Central Bank of The Bahamas",
+      "Sand Dollar",
+      "Eastern Caribbean Central Bank",
+      "DCash",
+      "Central Bank of Nigeria",
+      "e-Naira",
+      "Bank of Jamaica",
+      "JamDex",
+      "People's Bank of China",
+      "Digital renminbi",
+      "Reserve Bank of India",
+      "Digital Rupee",
+      "Bank of Russia",
+      "Digital Ruble"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4ce7af78-3c03-47c4-8577-bb446ecb5e6c",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The Central Bank of Brazil has been rolling out tests of a digital Brazilian currency (Drex) since March 2023.",
+    "subject": "Central Bank of Brazil",
+    "predicate_type": "implements",
+    "object_text": "rolling out tests of a digital Brazilian currency (Drex)",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Central Bank of Brazil has been rolling out tests of a digital Brazilian currency (Drex) since March 2023.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "Central Bank of Brazil",
+      "Drex"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "2c0e7394-a59f-44dd-98fe-0c79a8b7976d",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The ECB/Eurozone decided in October 2023 to move forward to the preparation phase for the potential issuance of a digital euro after a two-year study phase.",
+    "subject": "ECB/Eurozone",
+    "predicate_type": "implements",
+    "object_text": "move forward to the preparation phase for the potential issuance of a digital euro after a two-year study phase",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The ECB/Eurozone decided in October 2023 to move forward to the preparation phase for the potential issuance of a digital euro after a two-year study phase.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "ECB",
+      "Eurozone",
+      "digital euro"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fa253459-770e-4f25-98a6-c5bf576de996",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "In the USA, the Republican Party is generally against CBDCs.",
+    "subject": "Republican Party",
+    "predicate_type": "relates_to",
+    "object_text": "generally against CBDCs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the USA, the Republican Party is generally against CBDCs.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "CBDCs",
+      "Republican Party"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0f4d7109-a6fe-4325-a810-7510562dee37",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The Swedish Rikstag has been unsympathetic to the Riksbank's enthusiasm for a CBDC.",
+    "subject": "Swedish Rikstag",
+    "predicate_type": "relates_to",
+    "object_text": "unsympathetic to the Riksbank's enthusiasm for a CBDC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Swedish Rikstag has been unsympathetic to the Riksbank's enthusiasm for a CBDC.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "Swedish Rikstag",
+      "Riksbank",
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "80c4f3e9-4d43-4b1b-a61d-0bd60cfbfdeb",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The Polish National Bank is opposed to a CBDC.",
+    "subject": "Polish National Bank",
+    "predicate_type": "relates_to",
+    "object_text": "opposed to a CBDC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Polish National Bank is opposed to a CBDC.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [
+      "Polish National Bank",
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dbed236b-96fc-49bd-b2dd-159bf026cdb3",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Some states have also issued, or have considered issuing, cryptocurrencies: these include Venezuela (Petro) and the Marshall Islands (Sovereign).",
+    "subject": "Some states",
+    "predicate_type": "implements",
+    "object_text": "issued, or have considered issuing, cryptocurrencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some states have also issued, or have considered issuing, cryptocurrencies: these include Venezuela (Petro) and the Marshall Islands (Sovereign).",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cryptocurrencies"
+    ],
+    "entities": [
+      "Venezuela",
+      "Petro",
+      "Marshall Islands",
+      "Sovereign"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5b067728-89c3-41e1-b33a-bb4479c4e505",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "These cryptocurrencies are often considered with the intent of increasing a state's independence from global financial systems, such as by reducing dependence on a foreign currency or by evading international sanctions.",
+    "subject": "These cryptocurrencies",
+    "predicate_type": "relates_to",
+    "object_text": "often considered with the intent of increasing a state's independence from global financial systems, such as by reducing dependence on a foreign currency or by evading international sanctions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "These cryptocurrencies are often considered with the intent of increasing a state's independence from global financial systems, such as by reducing dependence on a foreign currency or by evading international sanctions.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "cryptocurrencies",
+      "financial systems"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8b80aa59-856b-43da-9dab-018810bf13d1",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Contrasting attitudes towards digital currencies were demonstrated by developments in the UK and Switzerland in February 2023.",
+    "subject": "developments in the UK and Switzerland",
+    "predicate_type": "relates_to",
+    "object_text": "demonstrated contrasting attitudes towards digital currencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Contrasting attitudes towards digital currencies were demonstrated by developments in the UK and Switzerland in February 2023.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "digital currencies"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a576e22b-c336-465c-855d-cf9b9145d027",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The UK Treasury and the Bank of England said a state-backed digital pound was likely to be launched some time after 2025.",
+    "subject": "UK Treasury and the Bank of England",
+    "predicate_type": "relates_to",
+    "object_text": "a state-backed digital pound was likely to be launched some time after 2025",
+    "object_value": 2025,
+    "object_unit": null,
+    "source_text": "The UK Treasury and the Bank of England said a state-backed digital pound was likely to be launched some time after 2025.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "digital currencies"
+    ],
+    "entities": [
+      "UK Treasury",
+      "Bank of England"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d6808387-c12a-491f-9cf5-be22eb6c5f37",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Two weeks later, a Swiss lobby group triggered a national vote on maintaining a \"sufficient quantity\" of cash in circulation over fears that electronic payments make it easier for the state to monitor its citizens' actions.",
+    "subject": "a Swiss lobby group",
+    "predicate_type": "relates_to",
+    "object_text": "triggered a national vote on maintaining a \"sufficient quantity\" of cash in circulation over fears that electronic payments make it easier for the state to monitor its citizens' actions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Two weeks later, a Swiss lobby group triggered a national vote on maintaining a \"sufficient quantity\" of cash in circulation over fears that electronic payments make it easier for the state to monitor its citizens' actions.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "electronic payments"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "693ec88c-1f42-489f-8552-4f3cc21ee415",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A major issue with central bank digital currencies is deciding whether the currency should be easily traceable.",
+    "subject": "central bank digital currencies",
+    "predicate_type": "relates_to",
+    "object_text": "deciding whether the currency should be easily traceable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A major issue with central bank digital currencies is deciding whether the currency should be easily traceable.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3550b683-973b-4f65-a9b3-5d6f57cbd7f1",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "If it's traceable, the government has more control than it currently does.",
+    "subject": "government",
+    "predicate_type": "relates_to",
+    "object_text": "has more control than it currently does",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If it's traceable, the government has more control than it currently does.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "56798520-4692-43e0-8def-1532ac107bcf",
+    "chunk_id": "403c0844-0658-45e9-8e88-9486dd97c103",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Additionally, there's a technical aspect to consider: whether CBDCs should be based on tokens or accounts and how much anonymity users should have.",
+    "subject": "CBDCs",
+    "predicate_type": "relates_to",
+    "object_text": "whether CBDCs should be based on tokens or accounts and how much anonymity users should have",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Additionally, there's a technical aspect to consider: whether CBDCs should be based on tokens or accounts and how much anonymity users should have.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "central bank digital currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0774809e-208b-4299-83f5-98b3d72a634c",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "CBDCs remain a controversial topic.",
+    "subject": "CBDCs",
+    "predicate_type": "relates_to",
+    "object_text": "a controversial topic",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CBDCs remain a controversial topic.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "30a88ea6-1224-4d52-ac7d-29158f646457",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "There are risks associated with the implementation of CBDCs.",
+    "subject": "implementation of CBDCs",
+    "predicate_type": "relates_to",
+    "object_text": "risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "There are risks associated with the implementation of CBDCs.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0af876f4-670d-4efd-8468-a058e51eb8e6",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "One concern is that depositors would shift out of the banking system with the ability to provide digital currency directly to its citizens.",
+    "subject": "depositors",
+    "predicate_type": "causes",
+    "object_text": "shift out of the banking system",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "One concern is that depositors would shift out of the banking system with the ability to provide digital currency directly to its citizens.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "banking"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6109df5e-8b55-47d0-9067-8aa1c004e02e",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Customers may deem the safety, liquidity, solvency, and publicity of CBDCs to be more attractive.",
+    "subject": "customers",
+    "predicate_type": "relates_to",
+    "object_text": "may deem the safety, liquidity, solvency, and publicity of CBDCs to be more attractive",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Customers may deem the safety, liquidity, solvency, and publicity of CBDCs to be more attractive.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "01a412ac-3364-40fa-abe6-8d48430fd1d9",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "This could precipitate potential bank runs and thus make banks' funding positions weaker.",
+    "subject": "customers deeming the safety, liquidity, solvency, and publicity of CBDCs to be more attractive",
+    "predicate_type": "causes",
+    "object_text": "precipitate potential bank runs and thus make banks' funding positions weaker",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This could precipitate potential bank runs and thus make banks' funding positions weaker.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.6,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "banking"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8303573e-70ba-4aca-8ed6-efa8b6497cf5",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The Bank of England found that if the introduction of CBDC follows a set of core principles, the risk of a system-wide run from bank deposits to CBDC is addressed.",
+    "subject": "Bank of England",
+    "predicate_type": "relates_to",
+    "object_text": "if the introduction of CBDC follows a set of core principles, the risk of a system-wide run from bank deposits to CBDC is addressed",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The Bank of England found that if the introduction of CBDC follows a set of core principles, the risk of a system-wide run from bank deposits to CBDC is addressed.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "banking"
+    ],
+    "entities": [
+      "Bank of England",
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d8d17d5b-60bf-4d34-89bf-13b1879b9920",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A central bank could also limit the demand of CBDCs by setting a ceiling on the amount of holdings.",
+    "subject": "central bank",
+    "predicate_type": "permits",
+    "object_text": "limit the demand of CBDCs by setting a ceiling on the amount of holdings",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A central bank could also limit the demand of CBDCs by setting a ceiling on the amount of holdings.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "55eb8675-fb99-4532-8737-862ea97b7a4d",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Most central bank digital currencies are centralized, rather than decentralized like most cryptocurrencies.",
+    "subject": "central bank digital currencies",
+    "predicate_type": "classifies",
+    "object_text": "centralized, rather than decentralized like most cryptocurrencies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Most central bank digital currencies are centralized, rather than decentralized like most cryptocurrencies.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "cryptocurrency"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "44eaaf54-f90f-4743-8380-3e358cfd9900",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The controllers of the issuance of CBDCs can add or remove money from anyone's account with a flip of a switch.",
+    "subject": "controllers of the issuance of CBDCs",
+    "predicate_type": "permits",
+    "object_text": "add or remove money from anyone's account with a flip of a switch",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The controllers of the issuance of CBDCs can add or remove money from anyone's account with a flip of a switch.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f4901030-c99d-445d-8146-ada188ed298e",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A well-run foreign digital currency could become a replacement for a local currency for the same reasons as those described in dollarization.",
+    "subject": "well-run foreign digital currency",
+    "predicate_type": "causes",
+    "object_text": "become a replacement for a local currency for the same reasons as those described in dollarization",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A well-run foreign digital currency could become a replacement for a local currency for the same reasons as those described in dollarization.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "dollarization"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "32e5a047-5f8d-47bb-a8ed-c4794ec16038",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The announcement of Facebook's Libra contributed to the increased attention to CBDCs by central bankers, as well as China's progress with DCEP to that of several Asian economies.",
+    "subject": "announcement of Facebook's Libra",
+    "predicate_type": "causes",
+    "object_text": "increased attention to CBDCs by central bankers, as well as China's progress with DCEP to that of several Asian economies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The announcement of Facebook's Libra contributed to the increased attention to CBDCs by central bankers, as well as China's progress with DCEP to that of several Asian economies.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC"
+    ],
+    "entities": [
+      "Facebook",
+      "Libra",
+      "China",
+      "DCEP"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c39fa51b-e330-4174-924a-534b5d3d44e4",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Governments have direct visibility of financial transactions.",
+    "subject": "governments",
+    "predicate_type": "relates_to",
+    "object_text": "direct visibility of financial transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Governments have direct visibility of financial transactions.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "10979b70-9a85-4622-9f10-44193092cf38",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital currency would give a country broad new powers when it comes to surveillance and controlling its population.",
+    "subject": "digital currency",
+    "predicate_type": "causes",
+    "object_text": "give a country broad new powers when it comes to surveillance and controlling its population",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital currency would give a country broad new powers when it comes to surveillance and controlling its population.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d5d0615f-83db-4163-bd99-810c453ca509",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Data from tracing money routes could lead to losing financial privacy if the CBDC implementation does not have adequate privacy protections.",
+    "subject": "data from tracing money routes",
+    "predicate_type": "causes",
+    "object_text": "losing financial privacy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Data from tracing money routes could lead to losing financial privacy if the CBDC implementation does not have adequate privacy protections.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8941b5b7-7081-45d1-aa88-6a87c7e23097",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Losing financial privacy could lead to encouraging of self-censorship, deterioration of freedom of expression and association, and ultimately to stalling social developments.",
+    "subject": "losing financial privacy",
+    "predicate_type": "causes",
+    "object_text": "encouraging of self-censorship, deterioration of freedom of expression and association, and ultimately to stalling social developments",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Losing financial privacy could lead to encouraging of self-censorship, deterioration of freedom of expression and association, and ultimately to stalling social developments.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.6,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "00063d51-79c7-450c-8d49-6eeb30a75278",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Cybersecurity is an important risk to any payment infrastructure.",
+    "subject": "cybersecurity",
+    "predicate_type": "relates_to",
+    "object_text": "an important risk to any payment infrastructure",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Cybersecurity is an important risk to any payment infrastructure.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "cybersecurity"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "aa94a0ea-2a40-4f3d-afc8-10a0a21a1ac2",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "CBDCs offer resiliency by providing a new payment method.",
+    "subject": "CBDCs",
+    "predicate_type": "relates_to",
+    "object_text": "offer resiliency by providing a new payment method",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CBDCs offer resiliency by providing a new payment method.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "cybersecurity"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8d50be44-e3bd-4882-8e4b-213bb33a69c3",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "CBDCs would also represent a critical infrastructure, potentially making them a high-value target for cyber attacks.",
+    "subject": "CBDCs",
+    "predicate_type": "relates_to",
+    "object_text": "represent a critical infrastructure, potentially making them a high-value target for cyber attacks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CBDCs would also represent a critical infrastructure, potentially making them a high-value target for cyber attacks.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "cybersecurity"
+    ],
+    "entities": [
+      "CBDC"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "057fb032-b7af-40c8-a768-45a42dd9e8b3",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital currency will simply become an extension of the surveillance state.",
+    "subject": "digital currency",
+    "predicate_type": "relates_to",
+    "object_text": "simply become an extension of the surveillance state",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital currency will simply become an extension of the surveillance state.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "05742fcb-4152-4946-805f-1803418a9250",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "It could see citizens fined in a split second for behaviors deemed undesirable.",
+    "subject": "digital currency",
+    "predicate_type": "permits",
+    "object_text": "see citizens fined in a split second for behaviors deemed undesirable",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It could see citizens fined in a split second for behaviors deemed undesirable.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eed3c374-f319-4465-9df7-db00d90ff48c",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Dissidents and activists could see their wallets emptied or taken offline.",
+    "subject": "dissidents and activists",
+    "predicate_type": "relates_to",
+    "object_text": "could see their wallets emptied or taken offline",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Dissidents and activists could see their wallets emptied or taken offline.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4584893e-3eec-4b02-9cc1-b38ef2161bcc",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital currencies could also empower the state to make it impossible to donate to a vocal NGO.",
+    "subject": "digital currencies",
+    "predicate_type": "permits",
+    "object_text": "empower the state to make it impossible to donate to a vocal NGO",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital currencies could also empower the state to make it impossible to donate to a vocal NGO.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a402f7fc-a43f-4898-88a6-d8cfac4016eb",
+    "chunk_id": "8767fc66-6f37-4d85-9689-18fae074ba4d",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Digital currency could prohibit a purchase alcohol on a weekday.",
+    "subject": "digital currency",
+    "predicate_type": "prohibits",
+    "object_text": "purchase alcohol on a weekday",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Digital currency could prohibit a purchase alcohol on a weekday.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "policy",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "privacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "96f42b23-0a0c-4a33-807e-59814e4cd2ab",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A central bank digital currency would likely be implemented using a database run by the central bank, government, or approved private-sector entities.",
+    "subject": "central bank digital currency",
+    "predicate_type": "implements",
+    "object_text": "a database run by the central bank, government, or approved private-sector entities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A central bank digital currency would likely be implemented using a database run by the central bank, government, or approved private-sector entities.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "implementation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "934ac7f2-cc9f-4b58-a023-dfda63a392ce",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The database would keep a record (with appropriate privacy and cryptographic protections) of the amount of money held by every entity, such as people and corporations.",
+    "subject": "database",
+    "predicate_type": "implements",
+    "object_text": "record (with appropriate privacy and cryptographic protections) of the amount of money held by every entity, such as people and corporations",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The database would keep a record (with appropriate privacy and cryptographic protections) of the amount of money held by every entity, such as people and corporations.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "data privacy",
+      "cryptography"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c338be5d-7544-4963-bc1d-e72bb76bb511",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "CBDCs may share some properties with virtual currency and cryptocurrency, such as programmability.",
+    "subject": "CBDCs",
+    "predicate_type": "relates_to",
+    "object_text": "virtual currency and cryptocurrency, such as programmability",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "CBDCs may share some properties with virtual currency and cryptocurrency, such as programmability.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "virtual currency",
+      "cryptocurrency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "90a5881c-330b-43ac-bf86-fcd183df69b1",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A central bank digital currency would be centrally controlled.",
+    "subject": "central bank digital currency",
+    "predicate_type": "constrains",
+    "object_text": "centrally controlled",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A central bank digital currency would be centrally controlled.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "central control"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "241aaa46-9926-4a1b-a917-7c77fac6ca36",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "A blockchain or other distributed ledger would likely not be required or useful.",
+    "subject": "blockchain or other distributed ledger",
+    "predicate_type": "prohibits",
+    "object_text": "required or useful",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A blockchain or other distributed ledger would likely not be required or useful.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "blockchain",
+      "distributed ledger"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1282e176-de07-42ac-8e96-e40917e68732",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The two primary categories of CBDCs are retail and wholesale.",
+    "subject": "CBDCs",
+    "predicate_type": "classifies",
+    "object_text": "retail and wholesale",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The two primary categories of CBDCs are retail and wholesale.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "classification"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3c9089dc-fea1-4da0-95a6-942f4c26ca98",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Retail CBDCs are designed for households and businesses to make payments for everyday transactions, whereas wholesale CBDCs are designed for financial institutions and operate similarly to central bank reserves.",
+    "subject": "Retail CBDCs",
+    "predicate_type": "defines",
+    "object_text": "designed for households and businesses to make payments for everyday transactions",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Retail CBDCs are designed for households and businesses to make payments for everyday transactions, whereas wholesale CBDCs are designed for financial institutions and operate similarly to central bank reserves.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "retail CBDC"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "06c1cfc1-849c-4093-9486-c6aa0fb26bb3",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "wholesale CBDCs are designed for financial institutions and operate similarly to central bank reserves.",
+    "subject": "wholesale CBDCs",
+    "predicate_type": "defines",
+    "object_text": "designed for financial institutions and operate similarly to central bank reserves",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "wholesale CBDCs are designed for financial institutions and operate similarly to central bank reserves.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "wholesale CBDC"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "903e7afe-ce2a-40b5-a092-afed79194af6",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Retail CBDC is the digitization of sovereign currency, which applies to physical banknotes, coin, and existing wholesale CBDC reserves that are used in the reverse repo and repo market.",
+    "subject": "Retail CBDC",
+    "predicate_type": "defines",
+    "object_text": "the digitization of sovereign currency, which applies to physical banknotes, coin, and existing wholesale CBDC reserves that are used in the reverse repo and repo market",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Retail CBDC is the digitization of sovereign currency, which applies to physical banknotes, coin, and existing wholesale CBDC reserves that are used in the reverse repo and repo market.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "retail CBDC",
+      "sovereign currency"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6d4250f0-5b12-4a2a-9fab-ba5ebc3cbe94",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "In the intermediated model, the central bank issues the CBDC and manages core infrastructures, while financial intermediaries offer customer services.",
+    "subject": "intermediated model",
+    "predicate_type": "implements",
+    "object_text": "the central bank issues the CBDC and manages core infrastructures, while financial intermediaries offer customer services",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "In the intermediated model, the central bank issues the CBDC and manages core infrastructures, while financial intermediaries offer customer services.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "intermediated model"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "10468afd-70ea-4675-a9da-5e14463be2b3",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "The ECB and the Federal Reserve have proposed intermediated CBDCs.",
+    "subject": "ECB and the Federal Reserve",
+    "predicate_type": "relates_to",
+    "object_text": "proposed intermediated CBDCs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The ECB and the Federal Reserve have proposed intermediated CBDCs.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "intermediated CBDC"
+    ],
+    "entities": [
+      "ECB",
+      "Federal Reserve"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "814c123c-3981-4ec2-8bda-125aac3515e3",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "As it currently stands, 9 countries and the 8 islands making up the Eastern Caribbean Currency Union have launched CBDCs; 38 countries and Hong Kong have CBDC pilot programmes; and 67 countries and 2 currency unions are researching CBDCs.",
+    "subject": "9 countries and the 8 islands making up the Eastern Caribbean Currency Union",
+    "predicate_type": "implements",
+    "object_text": "launched CBDCs",
+    "object_value": 9.0,
+    "object_unit": "countries",
+    "source_text": "As it currently stands, 9 countries and the 8 islands making up the Eastern Caribbean Currency Union have launched CBDCs; 38 countries and Hong Kong have CBDC pilot programmes; and 67 countries and 2 currency unions are researching CBDCs.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "implementation"
+    ],
+    "entities": [
+      "Eastern Caribbean Currency Union"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f1babda3-b146-44fa-9aeb-dc013fbc09f6",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "38 countries and Hong Kong have CBDC pilot programmes",
+    "subject": "38 countries and Hong Kong",
+    "predicate_type": "implements",
+    "object_text": "CBDC pilot programmes",
+    "object_value": 38.0,
+    "object_unit": "countries",
+    "source_text": "38 countries and Hong Kong have CBDC pilot programmes",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "pilot programs"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "eaa365a8-74ce-497b-b17a-326c15763623",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "67 countries and 2 currency unions are researching CBDCs.",
+    "subject": "67 countries and 2 currency unions",
+    "predicate_type": "relates_to",
+    "object_text": "researching CBDCs",
+    "object_value": 67.0,
+    "object_unit": "countries",
+    "source_text": "67 countries and 2 currency unions are researching CBDCs.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "research"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "c7104a1d-dbc9-46d2-9d40-671c6b4d5e3b",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Some states have introduced legislation to ban state payments using CBDCs with Florida being the first state to pass such a law citing privacy concerns.",
+    "subject": "Some states",
+    "predicate_type": "prohibits",
+    "object_text": "state payments using CBDCs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Some states have introduced legislation to ban state payments using CBDCs with Florida being the first state to pass such a law citing privacy concerns.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a8b65734-d7db-4ae6-86c3-59198593d521",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Florida was the first state to pass such a law citing privacy concerns.",
+    "subject": "Florida",
+    "predicate_type": "prohibits",
+    "object_text": "state payments using CBDCs",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Florida was the first state to pass such a law citing privacy concerns.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "regulation",
+      "privacy"
+    ],
+    "entities": [
+      "Florida"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "regulatory",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "021e0953-c3e6-4ed4-9b4c-898e4a385505",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "By March 2024, the central banks of 134 countries accounting for 98% of the world's GDP were said to be in various stages of evaluating the launch of a national digital currency.",
+    "subject": "central banks of 134 countries accounting for 98% of the world's GDP",
+    "predicate_type": "relates_to",
+    "object_text": "in various stages of evaluating the launch of a national digital currency",
+    "object_value": 134.0,
+    "object_unit": "countries",
+    "source_text": "By March 2024, the central banks of 134 countries accounting for 98% of the world's GDP were said to be in various stages of evaluating the launch of a national digital currency.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "evaluation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": false,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "656dc9d5-a440-4e5b-8078-9e4e0e7274f6",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "China's digital RMB was the first digital currency to be issued by a major economy.",
+    "subject": "China's digital RMB",
+    "predicate_type": "implements",
+    "object_text": "the first digital currency to be issued by a major economy",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "China's digital RMB was the first digital currency to be issued by a major economy.",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "digital RMB"
+    ],
+    "entities": [
+      "China"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5d4521d8-6632-4325-8d5f-32e56ad0ef25",
+    "chunk_id": "530cb57f-ac43-42ed-bd88-9627d82e93b5",
+    "document_id": "Central_bank_digital_currency",
+    "claim_text": "Six central banks have launched a CBDC: the Central Bank of The Bahamas (Sand Dollar), the Eastern Caribbean Central Bank (DCash), the Central Bank of Nigeria (e-Naira), the Bank of Jamaica (JamDex), People's Bank of China (Digital renminbi), the Reserve Bank of India (Digital Rupee), and Bank of",
+    "subject": "Central Bank of The Bahamas (Sand Dollar)",
+    "predicate_type": "implements",
+    "object_text": "launched a CBDC",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Six central banks have launched a CBDC: the Central Bank of The Bahamas (Sand Dollar), the Eastern Caribbean Central Bank (DCash), the Central Bank of Nigeria (e-Naira), the Bank of Jamaica (JamDex), People's Bank of China (Digital renminbi), the Reserve Bank of India (Digital Rupee), and Bank of",
+    "source_document": "Central bank digital currency",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "CBDC",
+      "implementation"
+    ],
+    "entities": [
+      "Central Bank of The Bahamas"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  }
+]

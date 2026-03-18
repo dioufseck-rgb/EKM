@@ -1,0 +1,2209 @@
+[
+  {
+    "assertion_id": "1af7f160-f4f8-48d6-beb2-96a52cc16628",
+    "chunk_id": "fb79c9b8-d521-4ed5-8bfe-5aada56e3f30",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "It required advanced banks to estimate the risk of their positions and allocate capital accordingly.",
+    "subject": "It",
+    "predicate_type": "requires",
+    "object_text": "advanced banks to estimate the risk of their positions and allocate capital accordingly",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It required advanced banks to estimate the risk of their positions and allocate capital accordingly.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "capital_allocation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9678cf44-b656-4584-8e8f-0ba27491e573",
+    "chunk_id": "fb79c9b8-d521-4ed5-8bfe-5aada56e3f30",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "The poor performance of many banks during the Subprime mortgage crisis led to calls to reimpose leverage limits.",
+    "subject": "The poor performance of many banks during the Subprime mortgage crisis",
+    "predicate_type": "causes",
+    "object_text": "calls to reimpose leverage limits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The poor performance of many banks during the Subprime mortgage crisis led to calls to reimpose leverage limits.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial_crisis",
+      "leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "48b36571-75bd-4963-9eb9-75b7c1064fda",
+    "chunk_id": "fb79c9b8-d521-4ed5-8bfe-5aada56e3f30",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Most people meant accounting leverage limits by leverage limits, if they understood the distinction at all.",
+    "subject": "Most people",
+    "predicate_type": "defines",
+    "object_text": "accounting leverage limits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Most people meant accounting leverage limits by leverage limits, if they understood the distinction at all.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d1c591d9-2bb0-41da-a6bc-a8d6f6d6d22c",
+    "chunk_id": "fb79c9b8-d521-4ed5-8bfe-5aada56e3f30",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "It seems likely that some hybrid of accounting and notional leverage will be used.",
+    "subject": "some hybrid of accounting and notional leverage",
+    "predicate_type": "relates_to",
+    "object_text": "will be used",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It seems likely that some hybrid of accounting and notional leverage will be used.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "guidance",
+    "epistemic_status": "authoritative",
+    "confidence": 0.6,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "accounting",
+      "leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "accounting",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "d29a4928-4136-4f85-ac74-3ae419f06f38",
+    "chunk_id": "fb79c9b8-d521-4ed5-8bfe-5aada56e3f30",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "The leverage limits will be imposed in addition to, not instead of, Basel II economic leverage limits.",
+    "subject": "The leverage limits",
+    "predicate_type": "relates_to",
+    "object_text": "will be imposed in addition to, not instead of, Basel II economic leverage limits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The leverage limits will be imposed in addition to, not instead of, Basel II economic leverage limits.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "basel"
+    ],
+    "entities": [],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ae94ec51-0e7a-43f7-b789-5e2656961654",
+    "chunk_id": "e7d682ea-f4d0-43f5-a388-401f1dd574c8",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "If both long and short positions are held by a pairs-trading stock strategy the matching and off-setting economic leverage may lower overall risk levels.",
+    "subject": "matching and off-setting economic leverage",
+    "predicate_type": "causes",
+    "object_text": "may lower overall risk levels",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If both long and short positions are held by a pairs-trading stock strategy the matching and off-setting economic leverage may lower overall risk levels.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "leverage"
+    ],
+    "entities": [
+      "pairs-trading stock strategy"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5a31c97e-4d2c-4038-960c-ba0b9f50e1de",
+    "chunk_id": "e7d682ea-f4d0-43f5-a388-401f1dd574c8",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Adding leverage to a given asset always adds risk.",
+    "subject": "Adding leverage to a given asset",
+    "predicate_type": "causes",
+    "object_text": "always adds risk",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Adding leverage to a given asset always adds risk.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fd78d3dd-b914-43b7-bce6-027ed4f932a7",
+    "chunk_id": "e7d682ea-f4d0-43f5-a388-401f1dd574c8",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "It is not the case that a levered company or investment is always riskier than an unlevered one.",
+    "subject": "a levered company or investment",
+    "predicate_type": "relates_to",
+    "object_text": "is not always riskier than an unlevered one",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It is not the case that a levered company or investment is always riskier than an unlevered one.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "9b7d08f0-19e7-4fdb-9ba7-a9cf5ba45868",
+    "chunk_id": "e7d682ea-f4d0-43f5-a388-401f1dd574c8",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Many highly levered hedge funds have less return volatility than unlevered bond funds.",
+    "subject": "highly levered hedge funds",
+    "predicate_type": "relates_to",
+    "object_text": "have less return volatility than unlevered bond funds",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Many highly levered hedge funds have less return volatility than unlevered bond funds.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "leverage",
+      "volatility"
+    ],
+    "entities": [
+      "hedge funds",
+      "bond funds"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "79bcaf3b-5929-4d6d-95e7-47e6d3cf0e8a",
+    "chunk_id": "e7d682ea-f4d0-43f5-a388-401f1dd574c8",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Normally heavily indebted low-risk public utilities are usually less risky stocks than unlevered high-risk technology companies.",
+    "subject": "heavily indebted low-risk public utilities",
+    "predicate_type": "relates_to",
+    "object_text": "are usually less risky stocks than unlevered high-risk technology companies",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Normally heavily indebted low-risk public utilities are usually less risky stocks than unlevered high-risk technology companies.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "leverage"
+    ],
+    "entities": [
+      "public utilities",
+      "technology companies"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a9dd0901-ab2e-4281-9af7-6f332ad5215f",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Before the 1980s, quantitative limits on bank leverage were rare.",
+    "subject": "quantitative limits on bank leverage",
+    "predicate_type": "relates_to",
+    "object_text": "rare",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Before the 1980s, quantitative limits on bank leverage were rare.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "regulation"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b8db6d91-4aba-456d-a07e-f06d1a7ee8ed",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Banks in most countries had a reserve requirement, a fraction of deposits that was required to be held in liquid form, generally precious metals or government notes or deposits.",
+    "subject": "banks",
+    "predicate_type": "requires",
+    "object_text": "a reserve requirement, a fraction of deposits that was required to be held in liquid form, generally precious metals or government notes or deposits",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks in most countries had a reserve requirement, a fraction of deposits that was required to be held in liquid form, generally precious metals or government notes or deposits.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reserve_requirement"
+    ],
+    "entities": [
+      "banks"
+    ],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "e6adff91-2ee9-4233-8014-a3bb296035fb",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "This does not limit leverage.",
+    "subject": "reserve requirement",
+    "predicate_type": "prohibits",
+    "object_text": "limit leverage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This does not limit leverage.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "regulation"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bcea37aa-3bc9-4f97-98f0-aba2b32b1930",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "A capital requirement is a fraction of assets that is required to be funded in the form of equity or equity-like securities.",
+    "subject": "capital requirement",
+    "predicate_type": "defines",
+    "object_text": "a fraction of assets that is required to be funded in the form of equity or equity-like securities",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A capital requirement is a fraction of assets that is required to be funded in the form of equity or equity-like securities.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "68c0ec05-c06b-4775-ac40-8ecaf615b219",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "A reserve requirement is a fraction of certain liabilities that must be held as a certain kind of asset.",
+    "subject": "reserve requirement",
+    "predicate_type": "defines",
+    "object_text": "a fraction of certain liabilities that must be held as a certain kind of asset",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A reserve requirement is a fraction of certain liabilities that must be held as a certain kind of asset.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "reserve_requirement"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b7a4486b-d135-49f2-9b6b-0d0e7ef59ac8",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "A capital requirement is a fraction of assets that must be held as a certain kind of liability or equity.",
+    "subject": "capital requirement",
+    "predicate_type": "defines",
+    "object_text": "a fraction of assets that must be held as a certain kind of liability or equity",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A capital requirement is a fraction of assets that must be held as a certain kind of liability or equity.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.95,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "3aba4327-cd58-41a2-a039-5a15c39eae13",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Before the 1980s, regulators typically imposed judgmental capital requirements.",
+    "subject": "regulators",
+    "predicate_type": "requires",
+    "object_text": "judgmental capital requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Before the 1980s, regulators typically imposed judgmental capital requirements.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "78b62e8e-ddcb-4414-8038-adf170140470",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "National regulators began imposing formal capital requirements in the 1980s.",
+    "subject": "National regulators",
+    "predicate_type": "requires",
+    "object_text": "formal capital requirements",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "National regulators began imposing formal capital requirements in the 1980s.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "18922766-fe40-4987-8e39-13eae46e002d",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "By 1988 most large multinational banks were held to the Basel I standard.",
+    "subject": "large multinational banks",
+    "predicate_type": "governs",
+    "object_text": "Basel I standard",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "By 1988 most large multinational banks were held to the Basel I standard.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "1aa76344-4c7e-492f-9605-04b58bd0fd84",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Basel I categorized assets into five risk buckets, and mandated minimum capital requirements for each.",
+    "subject": "Basel I",
+    "predicate_type": "classifies",
+    "object_text": "assets into five risk buckets",
+    "object_value": 5.0,
+    "object_unit": null,
+    "source_text": "Basel I categorized assets into five risk buckets, and mandated minimum capital requirements for each.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "860b7c33-67f3-44e5-b906-f23b8cbf3f21",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Basel I mandated minimum capital requirements for each risk bucket.",
+    "subject": "Basel I",
+    "predicate_type": "requires",
+    "object_text": "minimum capital requirements for each risk bucket",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel I mandated minimum capital requirements for each risk bucket.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "0f3128d9-4d59-43dc-9600-2d2387d4460a",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "This limits accounting leverage.",
+    "subject": "Basel I",
+    "predicate_type": "constrains",
+    "object_text": "accounting leverage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This limits accounting leverage.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "accounting",
+      "basel"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "a0f4b512-db1b-4c86-b78a-3a9bd4d6cb86",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "If a bank is required to hold 8% capital against an asset, that is the same as an accounting leverage limit of 1/.08 or 12.5 to 1.",
+    "subject": "bank",
+    "predicate_type": "constrains",
+    "object_text": "accounting leverage limit of 1/.08 or 12.5 to 1",
+    "object_value": 12.5,
+    "object_unit": null,
+    "source_text": "If a bank is required to hold 8% capital against an asset, that is the same as an accounting leverage limit of 1/.08 or 12.5 to 1.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "accounting"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "7d42d836-3e9d-458b-beb1-7a7a2d89b3e8",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Basel I is generally credited with improving bank risk management.",
+    "subject": "Basel I",
+    "predicate_type": "causes",
+    "object_text": "improving bank risk management",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel I is generally credited with improving bank risk management.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "basel"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "5db55efe-0e71-4041-9819-933ed811d4e7",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Basel I did not require capital for all off-balance sheet risks.",
+    "subject": "Basel I",
+    "predicate_type": "prohibits",
+    "object_text": "require capital for all off-balance sheet risks",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel I did not require capital for all off-balance sheet risks.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "72518447-fc21-47f0-8a42-c3cd1b6b6601",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Basel I encouraged banks to pick the riskiest assets in each bucket.",
+    "subject": "Basel I",
+    "predicate_type": "causes",
+    "object_text": "banks to pick the riskiest assets in each bucket",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel I encouraged banks to pick the riskiest assets in each bucket.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "basel"
+    ],
+    "entities": [
+      "Basel I"
+    ],
+    "regulations": [
+      "Basel I"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "bac3ea16-489a-4fb3-a1e9-f0f8136e2b50",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Work on Basel II began in the early 1990s and it was implemented in stages beginning in 2005.",
+    "subject": "Work on Basel II",
+    "predicate_type": "relates_to",
+    "object_text": "began in the early 1990s and it was implemented in stages beginning in 2005",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Work on Basel II began in the early 1990s and it was implemented in stages beginning in 2005.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "437c01a5-5fee-4dff-9c73-27ca745a132d",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Basel II attempted to limit economic leverage rather than accounting leverage.",
+    "subject": "Basel II",
+    "predicate_type": "constrains",
+    "object_text": "economic leverage rather than accounting leverage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel II attempted to limit economic leverage rather than accounting leverage.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "leverage",
+      "accounting",
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "b0c9301c-f70e-481a-9912-fb0f4d952893",
+    "chunk_id": "a647aff1-d8ed-4a54-8d19-8cb41dd971c5",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Basel II required advanced banks to estimate the risk of their positions and allocate capital accordingly.",
+    "subject": "Basel II",
+    "predicate_type": "requires",
+    "object_text": "advanced banks to estimate the risk of their positions and allocate capital accordingly",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Basel II required advanced banks to estimate the risk of their positions and allocate capital accordingly.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "regulatory",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk_management",
+      "capital_adequacy",
+      "basel"
+    ],
+    "entities": [
+      "Basel II"
+    ],
+    "regulations": [
+      "Basel II"
+    ],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "universal",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6ad3a027-7307-4ecc-9662-5942f83bf47c",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "While leverage magnifies profits when the returns from the asset more than offset the costs of borrowing, leverage may also magnify losses.",
+    "subject": "leverage",
+    "predicate_type": "causes",
+    "object_text": "magnification of losses",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "While leverage magnifies profits when the returns from the asset more than offset the costs of borrowing, leverage may also magnify losses.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "financial leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "dc8c685b-9f46-48df-bad3-90901c47c2ac",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "A corporation that borrows too much money might face bankruptcy or default during a business downturn, while a less-leveraged corporation might survive.",
+    "subject": "corporation",
+    "predicate_type": "causes",
+    "object_text": "bankruptcy or default during a business downturn",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "A corporation that borrows too much money might face bankruptcy or default during a business downturn, while a less-leveraged corporation might survive.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "bankruptcy",
+      "financial leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "4a5c37aa-be6b-4b5b-aecf-07d873508c13",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "An investor who buys a stock on 50% margin will lose 40% if the stock declines 20%.",
+    "subject": "investor",
+    "predicate_type": "causes",
+    "object_text": "loss of 40% if the stock declines 20%",
+    "object_value": 40.0,
+    "object_unit": "%",
+    "source_text": "An investor who buys a stock on 50% margin will lose 40% if the stock declines 20%.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "margin",
+      "financial leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8e2450c0-988c-438f-b2bf-50136911148c",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Risk may depend on the volatility in value of collateral assets.",
+    "subject": "risk",
+    "predicate_type": "relates_to",
+    "object_text": "volatility in value of collateral assets",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Risk may depend on the volatility in value of collateral assets.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "collateral"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "30b69176-7fc1-45f0-b734-39d0e6f9f842",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Brokers may demand additional funds when the value of securities held declines.",
+    "subject": "brokers",
+    "predicate_type": "permits",
+    "object_text": "demand additional funds when the value of securities held declines",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Brokers may demand additional funds when the value of securities held declines.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "margin",
+      "securities"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "securities",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "76e352d7-0104-41d6-9152-c3c6c7307a32",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Banks may decline to renew mortgages when the value of real estate declines below the debt's principal.",
+    "subject": "banks",
+    "predicate_type": "permits",
+    "object_text": "decline to renew mortgages when the value of real estate declines below the debt's principal",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Banks may decline to renew mortgages when the value of real estate declines below the debt's principal.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "mortgages",
+      "real estate"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "banking",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "6eecfdac-a118-4572-a793-7edda7ff362b",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "Even if cash flows and profits are sufficient to maintain the ongoing borrowing costs, loans may be called-in.",
+    "subject": "loans",
+    "predicate_type": "relates_to",
+    "object_text": "may be called-in",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "Even if cash flows and profits are sufficient to maintain the ongoing borrowing costs, loans may be called-in.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "loans",
+      "cash flow"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ca0a01c0-0d6a-43cc-bcd4-56a75e754573",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "This may happen exactly at a time when there is little market liquidity, i.e. a paucity of buyers, and sales by others are depressing prices.",
+    "subject": "calling in loans",
+    "predicate_type": "relates_to",
+    "object_text": "may happen exactly at a time when there is little market liquidity, i.e. a paucity of buyers, and sales by others are depressing prices",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This may happen exactly at a time when there is little market liquidity, i.e. a paucity of buyers, and sales by others are depressing prices.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "market liquidity",
+      "loans"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "ab82a39a-ffe1-47b8-b1f4-1f0c03e7a8f6",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "It means that as market price falls, leverage goes up in relation to the revised equity value, multiplying losses as prices continue to go down.",
+    "subject": "leverage",
+    "predicate_type": "causes",
+    "object_text": "goes up in relation to the revised equity value, multiplying losses as prices continue to go down",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "It means that as market price falls, leverage goes up in relation to the revised equity value, multiplying losses as prices continue to go down.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial leverage",
+      "market risk"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "conditional_override",
+      "completeness": "explicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "f614f63f-b901-4f52-9893-7695ec6a0d5b",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "This can lead to rapid ruin, for even if the underlying asset value decline is mild or temporary the debt-financing may be only short-term, and thus due for immediate repayment.",
+    "subject": "leverage",
+    "predicate_type": "causes",
+    "object_text": "rapid ruin",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "This can lead to rapid ruin, for even if the underlying asset value decline is mild or temporary the debt-financing may be only short-term, and thus due for immediate repayment.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial leverage",
+      "debt financing"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "645639d5-1ac6-44bc-8eb3-2b8b0c44caa2",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "The risk can be mitigated by negotiating the terms of leverage, by maintaining unused capacity for additional borrowing, and by leveraging only liquid assets which may rapidly be converted to cash.",
+    "subject": "risk",
+    "predicate_type": "permits",
+    "object_text": "mitigation by negotiating the terms of leverage, by maintaining unused capacity for additional borrowing, and by leveraging only liquid assets which may rapidly be converted to cash",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "The risk can be mitigated by negotiating the terms of leverage, by maintaining unused capacity for additional borrowing, and by leveraging only liquid assets which may rapidly be converted to cash.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "financial leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "73a2df18-8e51-4ec3-94c0-541877213c18",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "If a company borrows money to modernize, add to its product line or expand internationally, the extra trading profit from the additional diversification might more than offset the additional risk from leverage.",
+    "subject": "company",
+    "predicate_type": "relates_to",
+    "object_text": "extra trading profit from the additional diversification might more than offset the additional risk from leverage",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If a company borrows money to modernize, add to its product line or expand internationally, the extra trading profit from the additional diversification might more than offset the additional risk from leverage.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "financial leverage",
+      "diversification"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "fca4570b-c6ca-45c9-aae9-4ddfbafd3978",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "If an investor uses a fraction of his or her portfolio to margin stock index futures (high risk) and puts the rest in a low-risk money-market fund, he or she might have the same volatility and expected return as an investor in an unlevered low-risk equity-index fund.",
+    "subject": "investor",
+    "predicate_type": "relates_to",
+    "object_text": "might have the same volatility and expected return as an investor in an unlevered low-risk equity-index fund",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If an investor uses a fraction of his or her portfolio to margin stock index futures (high risk) and puts the rest in a low-risk money-market fund, he or she might have the same volatility and expected return as an investor in an unlevered low-risk equity-index fund.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "portfolio management",
+      "risk management"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "03d27946-159b-4ed5-bb1b-a9d4aa35f38a",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "If both long and short positions are held by a pairs-trading stock strategy the matching and off-setting economic leverage may lower overall risk levels.",
+    "subject": "pairs-trading stock strategy",
+    "predicate_type": "causes",
+    "object_text": "matching and off-setting economic leverage may lower overall risk levels",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "If both long and short positions are held by a pairs-trading stock strategy the matching and off-setting economic leverage may lower overall risk levels.",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "financial leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "default",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  },
+  {
+    "assertion_id": "8a3e4bb3-495f-4060-b997-2d64c166cfd9",
+    "chunk_id": "081e9c91-6665-412c-a405-4f300061bd60",
+    "document_id": "Leverage_(finance)",
+    "claim_text": "So while adding leverage to a given asset always adds risk, it is not the case that a levered company or investment is always riskier",
+    "subject": "leveraged company or investment",
+    "predicate_type": "relates_to",
+    "object_text": "is not always riskier",
+    "object_value": null,
+    "object_unit": null,
+    "source_text": "So while adding leverage to a given asset always adds risk, it is not the case that a levered company or investment is always riskier",
+    "source_document": "Leverage (finance)",
+    "source_url": "",
+    "authority_level": "reference",
+    "epistemic_status": "authoritative",
+    "confidence": 0.8,
+    "extraction_method": "llm",
+    "review_status": "pending",
+    "topics": [
+      "risk management",
+      "financial leverage"
+    ],
+    "entities": [],
+    "regulations": [],
+    "keywords": [],
+    "domain": "finance",
+    "scope": {
+      "temporal": {
+        "is_default": true,
+        "season": null,
+        "months": []
+      },
+      "geographic": {
+        "is_global": true,
+        "countries": []
+      },
+      "organizational": {
+        "is_universal": true,
+        "roles": []
+      },
+      "conditional": {
+        "conditions": [],
+        "thresholds": {}
+      },
+      "coverage": "exception",
+      "completeness": "implicit",
+      "source": "stated"
+    }
+  }
+]
