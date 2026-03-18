@@ -151,8 +151,11 @@ def extract_filing(row: Dict[str, Any]) -> Dict[str, Any] | None:
     )
     tenk = filing.obj()
 
-    item1_text  = str(getattr(tenk, "item1",  "") or "")
-    item1a_text = str(getattr(tenk, "item1a", "") or "")
+    # edgartools v5: item1 → business, item1a → risk_factors
+    item1_text  = str(getattr(tenk, "business",      None)
+                   or getattr(tenk, "item1",         None) or "")
+    item1a_text = str(getattr(tenk, "risk_factors",  None)
+                   or getattr(tenk, "item1a",        None) or "")
 
     if not item1_text and not item1a_text:
         return None
