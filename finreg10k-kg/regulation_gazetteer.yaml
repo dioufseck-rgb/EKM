@@ -1,0 +1,116 @@
+# regulation_gazetteer.yaml — Financial regulation entity gazetteer
+#
+# Used by Stage 8 (graph construction) to identify Regulation nodes.
+# Merged from FinWiki baseline + FinReg10K additions (spec Section 5).
+#
+# Format: flat list of canonical regulation names and commonly-used abbreviations.
+# Matching is case-insensitive in the pipeline.
+
+# ── Basel / Capital Framework ─────────────────────────────────────────────────
+- "Basel III"
+- "Basel II"
+- "Basel I"
+- "Basel IV"
+- "CRR"                         # Capital Requirements Regulation (EU)
+- "CRD IV"                      # Capital Requirements Directive IV
+- "FRTB"                        # Fundamental Review of the Trading Book
+
+# ── US Federal Banking Regulation ─────────────────────────────────────────────
+- "Dodd-Frank"
+- "Dodd-Frank Wall Street Reform and Consumer Protection Act"
+- "Volcker Rule"
+- "Sarbanes-Oxley"
+- "Sarbanes-Oxley Act"
+- "SOX"
+- "Bank Secrecy Act"
+- "BSA"
+- "Community Reinvestment Act"
+- "CRA"
+- "Glass-Steagall"
+- "Glass-Steagall Act"
+
+# ── US Regulatory Agencies ────────────────────────────────────────────────────
+- "Consumer Financial Protection Bureau"
+- "CFPB"
+- "Office of the Comptroller of the Currency"
+- "OCC"
+- "Federal Reserve"
+- "Federal Deposit Insurance Corporation"
+- "FDIC"
+- "Securities and Exchange Commission"
+- "SEC"
+- "Commodity Futures Trading Commission"
+- "CFTC"
+- "Financial Industry Regulatory Authority"
+- "FINRA"
+- "Office of Foreign Assets Control"
+- "OFAC"
+- "Financial Crimes Enforcement Network"
+- "FinCEN"
+
+# ── Stress Testing / Capital Planning ─────────────────────────────────────────
+- "DFAST"                        # Dodd-Frank Act Stress Testing
+- "CCAR"                         # Comprehensive Capital Analysis and Review
+- "CECL"                         # Current Expected Credit Loss standard
+
+# ── AML / Sanctions ───────────────────────────────────────────────────────────
+- "Anti-Money Laundering"
+- "AML"
+- "Know Your Customer"
+- "KYC"
+- "Customer Due Diligence"
+- "CDD"
+- "USA PATRIOT Act"
+- "FATF"                         # Financial Action Task Force
+- "Financial Action Task Force"
+
+# ── Securities Regulation ─────────────────────────────────────────────────────
+- "MiFID"
+- "MiFID II"
+- "Markets in Financial Instruments Directive"
+- "EMIR"                         # European Market Infrastructure Regulation
+- "AIFMD"
+- "Alternative Investment Fund Managers Directive"
+- "UCITS"
+- "Securities Act of 1933"
+- "Securities Exchange Act of 1934"
+- "Investment Advisers Act"
+- "Investment Company Act"
+- "Foreign Account Tax Compliance Act"
+- "FATCA"
+
+# ── Insurance Regulation ──────────────────────────────────────────────────────
+- "Solvency II"
+- "Solvency II Directive"
+- "IAIS"                         # International Association of Insurance Supervisors
+- "NAIC"                         # National Association of Insurance Commissioners
+
+# ── International / BIS Standards ────────────────────────────────────────────
+- "BCBS"                         # Basel Committee on Banking Supervision
+- "FSB"                          # Financial Stability Board
+- "Financial Stability Board"
+- "IOSCO"
+- "CPMI"
+- "International Monetary Fund"
+- "IMF"
+- "IFRS"                         # International Financial Reporting Standards
+- "International Financial Reporting Standards"
+- "GAAP"
+- "Generally Accepted Accounting Principles"
+
+# ── Payment / Data Standards ──────────────────────────────────────────────────
+- "PCI DSS"
+- "Payment Card Industry Data Security Standard"
+- "SWIFT"
+- "Society for Worldwide Interbank Financial Telecommunication"
+- "GDPR"
+- "General Data Protection Regulation"
+- "CCPA"                         # California Consumer Privacy Act
+- "PSD2"                         # Payment Services Directive 2
+
+# ── Liquidity / Risk Standards ────────────────────────────────────────────────
+- "LCR"                          # Liquidity Coverage Ratio
+- "NSFR"                         # Net Stable Funding Ratio
+- "VaR"                          # Value at Risk
+- "LIBOR"
+- "SOFR"                         # Secured Overnight Financing Rate

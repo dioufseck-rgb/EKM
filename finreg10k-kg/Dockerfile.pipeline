@@ -1,0 +1,24 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc libpq-dev curl && rm -rf /var/lib/apt/lists/*
+
+# Copy FinReg10K-specific scripts
+COPY stage0_acquire.py    ./
+COPY stage1_preprocess.py ./
+COPY run_pipeline.py      ./
+COPY run_evaluation.py    ./
+COPY regulation_gazetteer.yaml ./
+
+# Install all dependencies
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Create data directories
+RUN mkdir -p data/raw data/chunks data/assertions data/grammar \
+             data/relations data/embeddings data/checkpoints data/eval \
+             finreg10k_raw finreg10k_chunks
+
+CMD ["python", "run_pipeline.py"]

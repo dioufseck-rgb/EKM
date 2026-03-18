@@ -1,0 +1,22 @@
+# FinReg10K dependencies
+#
+# Stage 0 — corpus acquisition
+edgartools>=2.0.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# FinWiki pipeline dependencies (stages 2-8)
+# (mirrored from finwiki-kg/docker/Dockerfile.pipeline)
+google-genai>=0.8.0
+psycopg2-binary>=2.9.9
+qdrant-client>=1.9.0
+neo4j>=5.0.0
+python-dotenv>=1.0.0
+numpy>=1.26.0
+scipy>=1.12.0
+aiohttp>=3.9.0
+tenacity>=8.2.0
+wikipedia-api>=0.6.0
+
+# Evaluation harness
+requests>=2.31.0
