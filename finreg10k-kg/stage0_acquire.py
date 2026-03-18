@@ -67,7 +67,7 @@ def build_index() -> pd.DataFrame:
         sys.exit(1)
 
     # SEC requires a User-Agent identity: https://www.sec.gov/os/accessing-edgar-data
-    identity = os.environ.get("EDGAR_IDENTITY", "FinReg10K Research finreg10k@research.edu")
+    identity = os.environ.get("EDGAR_IDENTITY", "FinReg10K Research dioufseck@gmail.com")
     edgar.set_identity(identity)
 
     records: List[Dict[str, Any]] = []
